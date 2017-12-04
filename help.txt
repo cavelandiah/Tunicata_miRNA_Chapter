@@ -1,0 +1,11 @@
+Hola Profe, 
+
+Muchas gracias, he estado mirando la bibliografía y el texto que me llamó la atención por las referencias relacionadas con ncRNAs y a la vez biología del desarrollo ya que los posibles, pero no definitivos, temas eran: Small ncRNAs repertorio associated with immunity on Tunicates o ncRNA evolutionary patterns in Tunicata. Con respecto a ncRNAs esta referencia sirvió como punto de partida:
+
+-Genomics, Evolution and Development of Amphioxus and Tunicates: The Goldilocks Principle (holland2014.pdf)
+
+De donde obtuve otras referencias de interés (se encuentran en la carpeta References), muchas de ellas relacionadas con nRNAs en tunicados. Unas que me llamaron la atención están relacionadas con la conservación de ncRNAs como elementos en -cis, como:
+
+-Study of Cis-regulatory Elements in the Ascidian Ciona intestinalis. (CG-14-56.pdf)
+-Deeply conserved chordate noncoding sequences preserve genome synteny but do not drive gene duplicate retention (Genome Res.-2009-Hufton-2036-51.pdf)
+-Highly conserved elements discovered in vertebrates are present in non-syntenic loci of tunicates, act as enhancers and can be transcribed during development.(gkt030.pdf)

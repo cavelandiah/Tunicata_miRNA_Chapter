@@ -1,0 +1,48 @@
+This is BibTeX, Version 0.99d (TeX Live 2016)
+Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
+The top-level auxiliary file: miRNAsTreeCluster.aux
+The style file: plain.bst
+Database file #1: tuni.bib.bib
+Warning--I didn't find a database entry for "Needleman:70"
+You've used 9 entries,
+            2118 wiz_defined-function locations,
+            567 strings with 7048 characters,
+and the built_in function-call counts, 4747 in all, are:
+= -- 410
+> -- 411
+< -- 1
++ -- 163
+- -- 154
+* -- 445
+:= -- 840
+add.period$ -- 27
+call.type$ -- 9
+change.case$ -- 104
+chr.to.int$ -- 0
+cite$ -- 9
+duplicate$ -- 117
+empty$ -- 236
+format.name$ -- 154
+if$ -- 910
+int.to.chr$ -- 0
+int.to.str$ -- 9
+missing$ -- 9
+newline$ -- 48
+num.names$ -- 18
+pop$ -- 95
+preamble$ -- 1
+purify$ -- 95
+quote$ -- 0
+skip$ -- 83
+stack$ -- 0
+substring$ -- 199
+swap$ -- 24
+text.length$ -- 1
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 36
+warning$ -- 0
+while$ -- 28
+width$ -- 10
+write$ -- 101
+(There was 1 warning)
