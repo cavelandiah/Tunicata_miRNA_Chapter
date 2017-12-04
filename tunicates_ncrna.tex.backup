@@ -337,7 +337,7 @@ Morphological comparisons among extant animals have long been used to infer thei
 \label{sec:4}
 
 \subsection{Yellow Crescent RNA}
-%Change References
+
 Yellow crescent RNA, i.e. YC RNA, concerns an about 1.2 kb long polyadenylated 
 RNA, which can be present throughout the embryonic development of ascidians 
 (12*). Its name refers to the fact that in situ hybridization confirmed that YC 
@@ -355,11 +355,11 @@ polypeptide of 49 amino acids, this protein is relatively small and does not
 show any significant homology to any known proteins. As the YC RNA shows various 
 features indicating that it actually functions as an RNA rather than as a 
 protein coding molecule, it is considered to be a noncoding RNA that may play an 
-important role in growth and development (12*).
+important role in growth and development (12*). %Change bibliography 
 
 
 \subsection{MicroRNA-offset RNAs}
-%change references
+
 MicroRNA-offset RNAs, i.e. moRNAs, concern about $20$ nucleotides long RNAs 
 that lie adjacent to pre-miRNAs. They can originate from both ends of these 
 pre-miRNAs, although prevalently they are derived from the 5’ arm (3*). 
@@ -394,7 +394,7 @@ processes (3*). Although these studies do provide good indications, the
 potential functional roles that moRNAs can play, remain still largely unknown. 
 
 \subsection{Long Noncoding RNA RMST}
-%Change references
+
 Long noncoding RNAs, i.e. lncRNAs, are abundantly found within mammalian 
 transcriptomes. One of the known groups of lncRNAs, includes the 
 rhabdomyosarcoma 2-associated transcript (RMST), which is indispensable for 
@@ -420,28 +420,6 @@ found in the genomes of the ascidians \textit{C. intestinalis}, \textit{C.
 savignyi} and \textit{B. schlosseri} and the Florida lancelet \textit{B. 
 floridae}, illustrating that RMST lncRNA are thus conserved across chordates, 
 making them one of the best conserved lncRNAs known to date (16*).
-
-\subsection{Splices-leader RNA}
-%Change references
-mRNA 5’leader trans-splicing is a mode of gene expression in which the 5’ end 
-of a pre-mRNA is discarded and replaced by the 5’ segment of a spliced leader 
-(SL) RNA (Vandenberghe, 2001). Spliced-Leader RNAs, i.e. SL RNAs, hereby 
-consist of a 5’ exon and a 3’ intron with a conserved consensus 5’ splice donor 
-site at the exon-intron boundary (4*). SL RNA trans splicing has not only been 
-described for euglenoids, kinetoplastids, cnidarians, nematodes, and 
-Platyhelminthes (4*), but also for deuterostomes like the simple chordate 
-\textit{C. intestinalis} (15*) and the appendicularian \textit{O. dioica} (4*). 
-Hereby \textit{O. dioica} was shown to not only trans-splice SL RNAs to mRNAs, 
-as does \textit{C. intestinalis}, but also to use trans splicing in resolving 
-polycistronic transcripts (4*). During trans splicing, the capped SL RNA exon 
-moiety is covalently linked to the 5’ ends of mRNAs, forming a leader sequence 
-ranging from 16 nt in \textit{C. intestinalis} to 41 nt in trypanosomatids 
-(4*). The role of SL trans-splicing is still unknown in many cases. SL 
-trans-splicing may potentially having functions varying from the mediation of 
-mRNA stability or translatability (7*) and the resolution of polycistronic 
-pre-mRNAs (1*, 2*), to the production of functional mRNAs from RNA polymerase I 
-transcripts (6*).
-
 
 \subsection{YC RNA}
 \subsubsection{Swalla1995.pdf}
