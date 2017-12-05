@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2015.5.24)  4 DEC 2017 23:54
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2015.5.24)  5 DEC 2017 14:34
 entering extended mode
  \write18 enabled.
  file:line:error style messages enabled.
@@ -1271,31 +1271,21 @@ e
 LaTeX Warning: Reference `fig:matrixmirnas' on page 6 undefined on input line 2
 02.
 
-Package epstopdf Info: Source file: <./matrix.eps>
-(epstopdf)                    date: 2017-12-04 23:17:43
-(epstopdf)                    size: 5457346 bytes
-(epstopdf)             Output file: <./matrix-eps-converted-to.pdf>
-(epstopdf)                    date: 2017-12-04 23:20:54
-(epstopdf)                    size: 123844 bytes
-(epstopdf)             Command: <epstopdf --outfile=./matrix-eps-converted-to.p
-df ./matrix.eps>
-(epstopdf)             \includegraphics on input line 231.
-Package epstopdf Info: Output file is already uptodate.
-<./matrix-eps-converted-to.pdf, id=96, 1713.40125pt x 1526.70375pt>
-File: ./matrix-eps-converted-to.pdf Graphic file (type pdf)
+<./miRNA_matrix.pdf, id=96, 2260.74617pt x 1882.5286pt>
+File: ./miRNA_matrix.pdf Graphic file (type pdf)
 
-<use ./matrix-eps-converted-to.pdf>
-Package pdftex.def Info: ./matrix-eps-converted-to.pdf used on input line 231.
-(pdftex.def)             Requested size: 528.93675pt x 471.29315pt.
+<use ./miRNA_matrix.pdf>
+Package pdftex.def Info: ./miRNA_matrix.pdf used on input line 231.
+(pdftex.def)             Requested size: 528.93675pt x 440.44098pt.
 
-<./Images/finalTree.png, id=97, 903.375pt x 632.3625pt>
-File: ./Images/finalTree.png Graphic file (type png)
+<./Images/last_tree.png, id=97, 896.34875pt x 611.28375pt>
+File: ./Images/last_tree.png Graphic file (type png)
 
-<use ./Images/finalTree.png>
-Package pdftex.def Info: ./Images/finalTree.png used on input line 248.
-(pdftex.def)             Requested size: 528.93675pt x 370.27312pt.
- [6] [7 <./matrix-eps-converted-to.pdf>]
-(./miRNAsTreeCluster.bbl [8 <./Images/finalTree.png>])
+<use ./Images/last_tree.png>
+Package pdftex.def Info: ./Images/last_tree.png used on input line 248.
+(pdftex.def)             Requested size: 528.93675pt x 360.72891pt.
+ [6] [7 <./miRNA_matrix.pdf>]
+(./miRNAsTreeCluster.bbl [8 <./Images/last_tree.png>])
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 259.
  [9]
 Package atveryend Info: Empty hook `AfterLastShipout' on input line 259.
@@ -1313,7 +1303,7 @@ Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 259.
  ) 
 Here is how much of TeX's memory you used:
  7750 strings out of 493089
- 116824 string characters out of 6134842
+ 116788 string characters out of 6134842
  229613 words of memory out of 5000000
  11090 multiletter control sequences out of 15000+600000
  12107 words of font info for 44 fonts, out of 8000000 for 9000
@@ -1335,10 +1325,10 @@ e/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/local/texlive/
 2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb></usr/local/texlive/2
 015/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt10.pfb></usr/local/texlive/20
 15/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt9.pfb>
-Output written on miRNAsTreeCluster.pdf (9 pages, 1179999 bytes).
+Output written on miRNAsTreeCluster.pdf (9 pages, 1488454 bytes).
 PDF statistics:
- 199 PDF objects out of 1000 (max. 8388607)
- 152 compressed objects within 2 object streams
+ 2876 PDF objects out of 2984 (max. 8388607)
+ 1926 compressed objects within 20 object streams
  34 named destinations out of 1000 (max. 500000)
  61 words of extra memory for PDF output out of 10000 (max. 10000000)
 
