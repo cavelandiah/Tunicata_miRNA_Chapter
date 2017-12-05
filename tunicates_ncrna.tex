@@ -24,7 +24,7 @@
                              % when including figure files
 \usepackage{multicol}        % used for the two-column index
 \usepackage[bottom]{footmisc}% places footnotes at page bottom
-
+\usepackage{subcaption} %% ADDED
 %%% Personal packages
 %\usepackage[utf8]{inputenc}
 
@@ -157,6 +157,71 @@ notion that animal miRNAs are less conserved between taxa than plant ones.}
 
 
 \subsection{miRNA in clusters}
+
+\begin{figure}[ht!]
+\centering
+    \begin{subfigure}[t]{1.0\textwidth}
+        \centering
+        \includegraphics[height=9 cm]{./Images/Cluster_images/let-7_101_128}
+        \caption{let-7}
+    \end{subfigure}
+    \\
+    \begin{subfigure}[t]{0.45\textwidth}
+        \centering
+        \includegraphics[height=1.2 cm]{./Images/Cluster_images/mir-1_119_33}
+        \caption{mir-1/mir-133}
+     \end{subfigure}
+        ~
+     \\
+    \begin{subfigure}[t]{0.45\textwidth}
+        \centering
+        \includegraphics[height=1.2 
+cm]{./Images/Cluster_images/mir-181_105_2502}
+        \caption{mir-181}
+       \end{subfigure}
+        ~
+         \begin{subfigure}[t]{0.45\textwidth}
+        \centering
+        \includegraphics[height=1.2 cm]{./Images/Cluster_images/mir-183_132_240}
+        \caption{mir-183}
+    \end{subfigure}
+    \\
+    \begin{subfigure}[t]{0.45\textwidth}
+        \centering
+        \includegraphics[height=1.2 cm]{./Images/Cluster_images/mir-216_126_467}
+        \caption{mir-216/mir-217}
+       \end{subfigure}
+     \\
+    \begin{subfigure}[t]{0.45\textwidth}
+        \centering
+        \includegraphics[height=1.2 cm]{./Images/Cluster_images/mir-34_11A_435}
+        \caption{mir-34}
+       \end{subfigure}
+        ~
+         \begin{subfigure}[t]{0.45\textwidth}
+        \centering
+        \includegraphics[height=1.2 cm]{./Images/Cluster_images/mir-92_281_4336}
+        \caption{mir-92}
+    \end{subfigure}
+    \\
+    \begin{subfigure}[t]{1\textwidth}
+        \centering
+        \includegraphics[height=1.2 cm]{./Images/Cluster_images/mir-96_138_240}
+        \caption{mir-96}
+    \end{subfigure}
+    \caption{Multiple alignments of miRNA's clusters. \textbf{Prot}: 
+Protostomata, \textbf{Brfl}: \textit{B. floridae}, 
+\textbf{Oidi}: \textit{O. dioica}, \textbf{Dvex}: \textit{D. vexillum}, 
+\textbf{Ciin}: \textit{C. intestinalis}, \textbf{Cisa}: \textit{C. savignyi}, 
+\textbf{Ciro}: \textit{C. robusta}, \textbf{Sath}: \textit{S. thompsoni}, 
+\textbf{Mata}: \textit{M. oculata}, \textbf{Mlta}: \textit{M. occulta}, 
+\textbf{Mlis}: \textit{M. occidentalis}, \textbf{Bosc}: \textit{B. schlosseri}, 
+\textbf{Haro}: \textit{H. roretzi}, \textbf{Pema}: \textit{P. marinus}, 
+\textbf{Dare}: \textit{D. rerio}, \textbf{Lach}: \textit{L. chalumnae}, 
+\textbf{Xetr}: \textit{X. tropicalis} and \textbf{Anca}: \textit{A. 
+carolinensis}.}
+\end{figure}
+
 \subsubsection{Yanetal2014.pdf}
 
 \cite{Yang2014}
@@ -223,9 +288,62 @@ author = {Griffiths-Jones, Sam and Hui, Jerome H L and Marco, Antonio and Ronsha
 
 \subsection{To complete the tree of loss and gain of families}
 
-Our miRNA families updated with the new two annotated miRNAs Salpa and Halocyntia
+\begin{figure}[ht!]
+\centering 
+\includegraphics[width=\textwidth]{./Images/miRNA_matrix}
+\caption{Absence/Presence Matrix of miRNAs families along Bilaterian species. 
+\textbf{Prot}: Protostomata, \textbf{Brfl}: \textit{B. floridae}, 
+\textbf{Oidi}: \textit{O. dioica}, \textbf{Dvex}: \textit{D. vexillum}, 
+\textbf{Ciin}: \textit{C. intestinalis}, \textbf{Cisa}: \textit{C. savignyi}, 
+\textbf{Ciro}: \textit{C. robusta}, \textbf{Sath}: \textit{S. thompsoni}, 
+\textbf{Mata}: \textit{M. oculata}, \textbf{Mlta}: \textit{M. occulta}, 
+\textbf{Mlis}: \textit{M. occidentalis}, \textbf{Bosc}: \textit{B. schlosseri}, 
+\textbf{Haro}: \textit{H. roretzi}, \textbf{Pema}: \textit{P. marinus}, 
+\textbf{Dare}: \textit{D. rerio}, \textbf{Lach}: \textit{L. chalumnae}, 
+\textbf{Xetr}: \textit{X. tropicalis} and \textbf{Anca}: \textit{A. 
+carolinensis}. }
+\label{fig:matrimirnas}
+\end{figure}
 
-\cite{velandia:2016} \textit{A comparative analysis of miRNAs families in tunicates is summarized in Fig. 5 c and d. We find several patterns of recognizable trends as we analyze the conservation, loss and gain of miRNA families in tunicates compared to selected bilaterians. For instance, based in our analysis of conserved miRNA families across the bilaterians, we estimate that ancestor of the Bilateria likely contained approximately 33 miRNA families. In contrast, the ancestor of the Chordata presumably contained members of 37 miRNA families. In the cephalochordate B. floridae, we find the occurrence of a unique repertoire of 82 miRNA families that evolved as a consequence of many gains (+50), but also some losses (−5) [8]. In the ancestor of Olfactores we presume the presence of 72 miRNA families, of which tunicates did not show losses, with the notable exception of O. dioica that has undergone substantial losses (−60). Within the ascidians, only B. schlosseri and C. savignyi show dramatic losses of miRNA families, −32 and −17 respectively. D. vexillum has lost 8 miRNA families. D. vexillum shows 16 families that are absent in other tunicates i.e. mir-430, mir-9, mir-130, mir-190, mir-139, mir-460, mir-315, mir-305, mir-458, mir-185, mir-233, mir-569, mir-944, mir-567, mir-2985 and mir-4068 (Fig. 5d). Comparisons of the miRNAs repertoires between the colonial tunicates (D. vexillum and B. schlosseri) on the one hand, and solitary tunicates (O. dioica, C. intestinalis and C. savignyi) on the other hand, show 10 microRNA families, i.e. mir-133, mir-186, mir-6, mir-279, mir-340, mir-11, mir-60, mir-592, mir-883 and mir-549 that are specific to colonial tunicates, while only 2 families, i.e. mir-31 and mir-1473, are specific to olitary tunicates. It is worthwhile exploring how colonial specific miRNAs may have been co-opted in ascidians to function in somatic stem cell function, regeneration, budding, or other asexual developmental processes, as miRNAs are know to be important players in stem cell function, and developmental processes of differentiation in vertebrates}
+Our miRNA families updated with the new two annotated miRNAs Salpa and 
+Halocyntia
+
+\begin{figure}[ht!]
+\centering
+\includegraphics[width=\textwidth]{./Images/last_tree.png}
+\caption{Dollo parsymony of miRNAs families distribution in some 
+chordates genomes}.
+\label{fig:dollotree}
+\end{figure}
+
+\cite{velandia:2016} \textit{A comparative analysis of miRNAs families in 
+tunicates is summarized in Fig. 5 c and d. We find several patterns of 
+recognizable trends as we analyze the conservation, loss and gain of miRNA 
+families in tunicates compared to selected bilaterians. For instance, based in 
+our analysis of conserved miRNA families across the bilaterians, we estimate 
+that ancestor of the Bilateria likely contained approximately 33 miRNA families. 
+In contrast, the ancestor of the Chordata presumably contained members of 37 
+miRNA families. In the cephalochordate B. floridae, we find the occurrence of a 
+unique repertoire of 82 miRNA families that evolved as a consequence of many 
+gains (+50), but also some losses (−5) [8]. In the ancestor of Olfactores we 
+presume the presence of 72 miRNA families, of which tunicates did not show 
+losses, with the notable exception of O. dioica that has undergone substantial 
+losses (−60). Within the ascidians, only B. schlosseri and C. savignyi show 
+dramatic losses of miRNA families, −32 and −17 respectively. D. vexillum has 
+lost 8 miRNA families. D. vexillum shows 16 families that are absent in other 
+tunicates i.e. mir-430, mir-9, mir-130, mir-190, mir-139, mir-460, mir-315, 
+mir-305, mir-458, mir-185, mir-233, mir-569, mir-944, mir-567, mir-2985 and 
+mir-4068 (Fig. 5d). Comparisons of the miRNAs repertoires between the colonial 
+tunicates (D. vexillum and B. schlosseri) on the one hand, and solitary 
+tunicates (O. dioica, C. intestinalis and C. savignyi) on the other hand, show 
+10 microRNA families, i.e. mir-133, mir-186, mir-6, mir-279, mir-340, mir-11, 
+mir-60, mir-592, mir-883 and mir-549 that are specific to colonial tunicates, 
+while only 2 families, i.e. mir-31 and mir-1473, are specific to olitary 
+tunicates. It is worthwhile exploring how colonial specific miRNAs may have been 
+co-opted in ascidians to function in somatic stem cell function, regeneration, 
+budding, or other asexual developmental processes, as miRNAs are know to be 
+important players in stem cell function, and developmental processes of 
+differentiation in vertebrates}
 
 
 
@@ -527,23 +645,23 @@ progenitors through regulation of the cytoskeleton and cell cycle.}
 %Change References
 Yellow crescent RNA, i.e. YC RNA, concerns an about 1.2 kb long polyadenylated 
 RNA, which can be present throughout the embryonic development of ascidians 
-\cite{swalla1995}. Its name refers to the fact that in situ hybridization 
+\cite{Swalla1995}. Its name refers to the fact that in situ hybridization 
 confirmed that YC RNA is localized in the yellow crescent region of one-cell 
 zygotes. The YC transcripts are actually already found in the cortex of 
 unfertilized eggs, segregating with the myoplasm to the yellow crescent after 
-fertilization \cite{swalla1995}. Subsequently most YC transcripts enter the 
+fertilization \cite{Swalla1995}. Subsequently most YC transcripts enter the 
 primary muscle cell lineage after cleavage and are also present in the 
-secondary muscle cell lineage \cite{swalla1995}. YC RNA was first 
-discovered in the club tunicate Styela clava \cite{swalla1995}. As the presence 
+secondary muscle cell lineage \cite{Swalla1995}. YC RNA was first 
+discovered in the club tunicate Styela clava \cite{Swalla1995}. As the presence 
 of the 1.2-kb RNA in oocytes and early cleaving embryos indicates that it is a 
 maternal transcript, YC RNA is considered to be a maternal RNA 
-\cite{swalla1995}. It is associated with the cytoskeleton and segregates to 
+\cite{Swalla1995}. It is associated with the cytoskeleton and segregates to 
 the muscle cells during ascidian embryogenesis. Although the YC ORF encodes for 
 a putative polypeptide of $49$ amino acids, this protein is relatively small 
 and does not show any significant homology to any known proteins. As the YC RNA 
 shows various features indicating that it actually functions as an RNA rather 
 than as a protein coding molecule, it is considered to be a noncoding RNA that 
-may play an important role in growth and development \cite{swalla1995}.
+may play an important role in growth and development \cite{Swalla1995}.
 
 
 \subsection{MicroRNA-offset RNAs}

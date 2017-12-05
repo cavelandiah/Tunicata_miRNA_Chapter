@@ -1,36 +1,6 @@
 This is BibTeX, Version 0.99d (TeX Live 2016)
 Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
 The top-level auxiliary file: tunicates_ncrna.aux
-Case mismatch error between cite keys swalla1995 and Swalla1995
----line 100 of file tunicates_ncrna.aux
- : \citation{swalla1995
- :                     }
-I'm skipping whatever remains of this command
-Case mismatch error between cite keys swalla1995 and Swalla1995
----line 101 of file tunicates_ncrna.aux
- : \citation{swalla1995
- :                     }
-I'm skipping whatever remains of this command
-Case mismatch error between cite keys swalla1995 and Swalla1995
----line 102 of file tunicates_ncrna.aux
- : \citation{swalla1995
- :                     }
-I'm skipping whatever remains of this command
-Case mismatch error between cite keys swalla1995 and Swalla1995
----line 103 of file tunicates_ncrna.aux
- : \citation{swalla1995
- :                     }
-I'm skipping whatever remains of this command
-Case mismatch error between cite keys swalla1995 and Swalla1995
----line 104 of file tunicates_ncrna.aux
- : \citation{swalla1995
- :                     }
-I'm skipping whatever remains of this command
-Case mismatch error between cite keys swalla1995 and Swalla1995
----line 105 of file tunicates_ncrna.aux
- : \citation{swalla1995
- :                     }
-I'm skipping whatever remains of this command
 The style file: plain.bst
 Database file #1: tuni.bib.bib
 Database file #2: Arjan/biblio_arjan.bib.bib
@@ -43,7 +13,7 @@ Repeated entry---line 128 of file Arjan/biblio_arjan.bib.bib
  :                 ,
 I'm skipping whatever remains of this entry
 Repeated entry---line 144 of file Arjan/biblio_arjan.bib.bib
- : @article{swalla1995
+ : @article{Swalla1995
  :                    ,
 I'm skipping whatever remains of this entry
 Warning--I didn't find a database entry for ""
@@ -88,4 +58,4 @@ warning$ -- 0
 while$ -- 174
 width$ -- 51
 write$ -- 537
-(There were 9 error messages)
+(There were 3 error messages)
