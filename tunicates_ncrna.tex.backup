@@ -46,7 +46,7 @@
 \author{Author A and Author B}
 % Use \authorrunning{Short Title} for an abbreviated version of
 % your contribution title if the original one is too long
-\institute{Author Name \at Name, Address of Institute, \email{writeemail@com}
+\institute{Author Name \at Name, Address of Institute, \email{writeemail@unal.edu.co}
 \and   Author Name \at Name, Address of Institute \email{writeemail@com}}
 %
 % Use the package "url.sty" to avoid
@@ -337,89 +337,122 @@ Morphological comparisons among extant animals have long been used to infer thei
 \label{sec:4}
 
 \subsection{Yellow Crescent RNA}
-
+%Change References
 Yellow crescent RNA, i.e. YC RNA, concerns an about 1.2 kb long polyadenylated 
 RNA, which can be present throughout the embryonic development of ascidians 
-(12*). Its name refers to the fact that in situ hybridization confirmed that YC 
-RNA is localized in the yellow crescent region of one-cell zygotes. The YC 
-transcripts are actually already found in the cortex of unfertilized eggs, 
-segregating with the myoplasm to the yellow crescent after fertilization (12*). 
-Subsequently most YC transcripts enter the primary muscle cell lineage after 
-cleavage and are also present in the secondary muscle cell lineage (12*). 
-	YC RNA was first discovered in the club tunicate Styela clava (12*). As 
-the presence of the 1.2-kb RNA in oocytes and early cleaving embryos indicates 
-that it is a maternal transcript, YC RNA is considered to be a maternal RNA 
-(12*). It is associated with the cytoskeleton and segregates to the muscle cells 
-during ascidian embryogenesis. Although the YC ORF encodes for a putative 
-polypeptide of 49 amino acids, this protein is relatively small and does not 
-show any significant homology to any known proteins. As the YC RNA shows various 
-features indicating that it actually functions as an RNA rather than as a 
-protein coding molecule, it is considered to be a noncoding RNA that may play an 
-important role in growth and development (12*). %Change bibliography 
+\cite{swalla1995}. Its name refers to the fact that in situ hybridization 
+confirmed that YC RNA is localized in the yellow crescent region of one-cell 
+zygotes. The YC transcripts are actually already found in the cortex of 
+unfertilized eggs, segregating with the myoplasm to the yellow crescent after 
+fertilization \cite{swalla1995}. Subsequently most YC transcripts enter the 
+primary muscle cell lineage after cleavage and are also present in the 
+secondary muscle cell lineage \cite{swalla1995}. YC RNA was first 
+discovered in the club tunicate Styela clava \cite{swalla1995}. As the presence 
+of the 1.2-kb RNA in oocytes and early cleaving embryos indicates that it is a 
+maternal transcript, YC RNA is considered to be a maternal RNA 
+\cite{swalla1995}. It is associated with the cytoskeleton and segregates to 
+the muscle cells during ascidian embryogenesis. Although the YC ORF encodes for 
+a putative polypeptide of $49$ amino acids, this protein is relatively small 
+and does not show any significant homology to any known proteins. As the YC RNA 
+shows various features indicating that it actually functions as an RNA rather 
+than as a protein coding molecule, it is considered to be a noncoding RNA that 
+may play an important role in growth and development \cite{swalla1995}.
 
 
 \subsection{MicroRNA-offset RNAs}
-
+%change references
 MicroRNA-offset RNAs, i.e. moRNAs, concern about $20$ nucleotides long RNAs 
 that lie adjacent to pre-miRNAs. They can originate from both ends of these 
-pre-miRNAs, although prevalently they are derived from the 5’ arm (3*). 
-During a study focused on identifying miRNAs in the simple chordate 
-\textit{Ciona intestinalis} moRNAs were first discovered (10*). Unexpectedly, 
-half of the \textit{C. intestinalis} miRNA loci that were detected in this 
-study turned out to encode for previously uncharacterized small RNAs, in 
-addition to conventional miRNA and miRNA* products. This new class of RNAs was 
-hereafter referred to as ‘moRNAs’, for miRNA-offset RNAs. It became clear that 
-these moRNAs are probably produced by RNAse II-like processing and are observed, 
-like miRNAs, at specific developmental stages (10*).
- These results and subsequent studies gave rise to the hypothesis that moRNAs 
+pre-miRNAs, although prevalently they are derived from the 5’ arm 
+\cite{bortoluzzi2011}. During a study focused on identifying miRNAs in the 
+simple chordate \textit{C. intestinalis} moRNAs were first discovered 
+\cite{Shi2009}. Unexpectedly, half of the \textit{C. intestinalis} miRNA loci 
+that were detected in this study turned out to encode for 
+previously uncharacterized small RNAs, in addition to conventional miRNA and 
+miRNA* products. This new class of RNAs was hereafter referred to as `moRNAs', 
+for miRNA-offset RNAs. It became clear that these moRNAs are probably produced 
+by RNAse II-like processing and are observed, like miRNAs, at specific 
+developmental stages \cite{Shi2009}.
+These results and subsequent studies gave rise to the hypothesis that moRNAs 
 concern  a new class of functional regulators whose qualitative alteration 
-and/or expression dysregulation might even impact human diseases (3*). Evidence 
-supporting this hypothesis is still fragmentary however. After the discovery in 
-\textit{Ciona}, moRNAs were also found in human cells by deep sequencing 
-analysis. Hereby it was reported that moRNAs from 78 genomic loci were weakly 
-expressed in the prefrontal cortex (5*). Additional indications that moRNA have 
-a distinct function include the fact that some moRNAs are as conserved as miRNAs 
+and/or expression dysregulation might even impact human diseases 
+\cite{bortoluzzi2011}. Evidence supporting this hypothesis is still fragmentary 
+however. After the discovery in \textit{Ciona}, moRNAs were also found in human 
+cells by deep sequencing analysis. Hereby it was reported that moRNAs from $78$ 
+genomic loci were weakly expressed in the prefrontal cortex 
+\cite{Langenberger2009}. Additional indications that moRNA have a distinct 
+function include the fact that some moRNAs are as conserved as miRNAs 
 and are in fact conserved across species to an extent that correlated with 
-expression level (10*). The expression level of certain moRNAs can even be 
-greater than for their corresponding miRNA (14*). Finally, it can be argued (3*) 
-that it is likely that moRNAs might represent a functional class of 
-miRNA-related agents as moRNAs are prevalently produced by the 5’ arm of the 
-precursor, independent of which arm produces the most expressed mature miRNA 
-(5*, 14*). 
+expression level \cite{Shi2009}. The expression level of certain moRNAs can even 
+be greater than for their corresponding miRNA \cite{Umbach2010}. Finally, 
+it can be argued \cite{bortoluzzi2011} that it is likely that moRNAs might 
+represent a functional class of miRNA-related agents as moRNAs are prevalently 
+produced by the 5’ arm of the precursor, independent of which arm produces the 
+most expressed mature miRNA \cite{Langenberger2009, Umbach2010}. 
 What functions moRNAs may have, varies. For example, moRNA expression was 
-recorded in solid tumours, together with other small RNAs (8*). In addition the 
-fact that an 18-fold enrichment of moRNAs was observed in the nucleus (13*0) 
-indicates that at least some moRNAs may have functions related to nuclear 
-processes (3*). Although these studies do provide good indications, the 
-potential functional roles that moRNAs can play, remain still largely unknown. 
+recorded in solid tumours, together with other small RNAs \cite{Meiri2010}. 
+In addition the 
+fact that an 18-fold enrichment of moRNAs was observed in the nucleus 
+\cite{Taft2010} indicates that at least some moRNAs may have functions related 
+to nuclear processes \cite{bortoluzzi2011}. Although these studies do provide 
+good indications, the potential functional roles that moRNAs can play, remain 
+still largely unknown. 
 
 \subsection{Long Noncoding RNA RMST}
-
+%Change references
 Long noncoding RNAs, i.e. lncRNAs, are abundantly found within mammalian 
 transcriptomes. One of the known groups of lncRNAs, includes the 
 rhabdomyosarcoma 2-associated transcript (RMST), which is indispensable for 
-neurogenesis (9*). 
+neurogenesis \cite{Bogu2013}. 
 Human RMST was shown as being responsible for the modulation of neurogenesis as 
 its expression is regulated by the transcriptional repressor REST while it 
-increases during neuronal differentiation (9*). Hereby it was found that RMST is 
-actually necessary for the binding of SOX2 to promoter regions of neurogenic 
-transcription factors. SOX2, a transcription factor known to regulate neural 
-fate, in combination with RMST were actually found to coregulate a large pool of 
-downstream genes implicated in neurogenesis, i.e. more than 1,000 genes were 
-differentially expressed upon RMST knockdown (9* ). These results illustrated 
-the role of RMST as a transcriptional coregulator of SOX2 and a key player in 
-the regulation of neural stem cell fate (9* ).
-A further confirmation of the importance of RMST came with the discovery of a 
-homologue of this lncRNA in the simple chordate \textit{Didemnum vexillum}, 
-i.e. the carpet sea-squirt (16*). While homologues of ``human'' lncRNAs are 
+increases during neuronal differentiation \cite{Bogu2013}. Hereby it was 
+found that RMST is actually necessary for the binding of SOX2 to promoter 
+regions of neurogenic transcription factors. SOX2, a transcription factor known 
+to regulate neural fate, in combination with RMST were actually found to 
+coregulate a large pool of downstream genes implicated in neurogenesis, i.e. 
+more than $1\,000$ genes were differentially expressed upon RMST knockdown 
+\cite{Bogu2013}. These results illustrated the role of RMST as a 
+transcriptional coregulator of SOX2 and a key player in the regulation of 
+neural stem cell fate \cite{Bogu2013}. A further confirmation of the importance 
+of RMST came with the discovery of a homologue of this lncRNA in the simple 
+chordate \textit{D. vexillum}, i.e. the carpet sea-squirt 
+\cite{Velandia-Huerto2016}. While homologues of ``human'' lncRNAs are 
 rarely found across all chordates due to their low levels of sequence 
-conservation, a plausible homolog of RMST 9, the conserved region 9 of the 
+conservation, a plausible homolog of RMST $9$, the conserved region $9$ of the 
 Rhabdomyosarcoma 2 associated transcript known for its interaction with SOX2, 
 was found in \textit{D. vexillum}. Subsequently putative homologs were also 
 found in the genomes of the ascidians \textit{C. intestinalis}, \textit{C. 
 savignyi} and \textit{B. schlosseri} and the Florida lancelet \textit{B. 
 floridae}, illustrating that RMST lncRNA are thus conserved across chordates, 
-making them one of the best conserved lncRNAs known to date (16*).
+making them one of the best conserved lncRNAs known to date 
+\cite{Velandia-Huerto2016}.
+
+\subsection{Splices-leader RNA}
+%Change references
+mRNA 5’leader trans-splicing is a mode of gene expression in which the 5’ end 
+of a pre-mRNA is discarded and replaced by the 5’ segment of a spliced leader 
+(SL) RNA \cite{Vandenberghe2001}. Spliced-Leader RNAs, i.e. SL RNAs, hereby 
+consist of a 5’ exon and a 3’ intron with a conserved consensus 5’ splice donor 
+site at the exon-intron boundary \cite{Ganot2004}. SL RNA trans splicing has not 
+only been 
+described for euglenoids, kinetoplastids, cnidarians, nematodes, and 
+Platyhelminthes \cite{Ganot2004}, but also for deuterostomes like the simple 
+chordate 
+\textit{C. intestinalis} (15*) and the appendicularian \textit{O. dioica} 
+\cite{Ganot2004}. 
+Hereby \textit{O. dioica} was shown to not only trans-splice SL RNAs to mRNAs, 
+as does \textit{C. intestinalis}, but also to use trans splicing in resolving 
+polycistronic transcripts \cite{Ganot2004}. During trans splicing, the capped SL 
+RNA exon 
+moiety is covalently linked to the 5’ ends of mRNAs, forming a leader sequence 
+ranging from $16$ nt in \textit{C. intestinalis} to $41$ nt in trypanosomatids 
+\cite{Ganot2004}. The role of SL trans-splicing is still unknown in many cases. 
+SL trans-splicing may potentially having functions varying from the mediation 
+of mRNA stability or translatability (7*) and the resolution of polycistronic 
+pre-mRNAs (1*, 2*), to the production of functional mRNAs from RNA polymerase I 
+transcripts (6*).
+
 
 \subsection{YC RNA}
 \subsubsection{Swalla1995.pdf}
@@ -524,16 +557,14 @@ a 10,000g cytoplasmic fraction was bound to membranes in a microsomal (endoplasm
 reticulum)containing
 fraction in the gastrula. In contrast, less than 1\% was membrane
 associated in the blastula. The SRP was also found in a ribosomepolysome
-fraction in 12,
-36,
-and 48hr
-embryos, but not in eggs. Finally, a small but significant portion of the SRP was found
+fraction in 12, 36, and 48hr embryos, but not in eggs. Finally, a small but significant portion of the SRP was found
 associated with monosomes in cleavage stage embryos. The possible role the SRP could play
 in the elongation arrest of stored maternal messages for secreted proteins is discussed.}
 
+
 % BibTeX users please use
 \bibliographystyle{plain}
-\bibliography{tuni.bib}
+\bibliography{tuni.bib,Arjan/biblio_arjan.bib}
 %%%%%%
 
 \end{document}
