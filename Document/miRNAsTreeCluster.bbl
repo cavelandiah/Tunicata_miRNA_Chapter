@@ -1,0 +1,72 @@
+\begin{thebibliography}{1}
+
+\bibitem{Brozovic2017}
+Matija Brozovic, Christelle Dantec, Justine Dardaillon, Delphine Dauga,
+  Emmanuel Faure, Mathieu Gineste, Alexandra Louis, Magali Naville, Kazuhiro~R.
+  Nitta, Jacques Piette, Wendy Reeves, Céline Scornavacca, Paul Simion, Renaud
+  Vincentelli, Maelle Bellec, Sameh~Ben Aicha, Marie Fagotto, Marion
+  Guéroult-Bellone, Maximilian Haeussler, Edwin Jacox, Elijah~K. Lowe, Mickael
+  Mendez, Alexis Roberge, Alberto Stolfi, Rui Yokomori, C.~Titus Brown,
+  Christian Cambillau, Lionel Christiaen, Frédéric Delsuc, Emmanuel Douzery,
+  Rémi Dumollard, Takehiro Kusakabe, Kenta Nakai, Hiroki Nishida, Yutaka
+  Satou, Billie Swalla, Michael Veeman, Jean-Nicolas Volff, and Patrick
+  Lemaire.
+\newblock Aniseed 2017: extending the integrated ascidian database to the
+  exploration and evolutionary comparison of genome-scale datasets.
+\newblock {\em Nucleic Acids Research}, page gkx1108, 2017.
+
+\bibitem{Csuos2010}
+Miklós Csűös.
+\newblock Count: evolutionary analysis of phylogenetic profiles with parsimony
+  and likelihood.
+\newblock {\em Bioinformatics}, 26(15):1910--1912, 2010.
+
+\bibitem{Hertel2015}
+Jana Hertel and Peter Stadler.
+\newblock {The Expansion of Animal MicroRNA Families Revisited}.
+\newblock {\em Life}, 5(1):905--920, 2015.
+
+\bibitem{Jue2016}
+Nathaniel~K. Jue, Paola~G. Batta-Lona, Sarah Trusiak, Craig Obergfell, Ann
+  Bucklin, Michael~J. O'neill, and Rachel~J. O'neill.
+\newblock {Rapid evolutionary rates and unique genomic signatures discovered in
+  the first reference genome for the southern ocean salp, salpa thompsoni
+  (Urochordata, Thaliacea)}.
+\newblock {\em Genome Biology and Evolution}, 8(10):3171--3186, 2016.
+
+\bibitem{Kozomara2014}
+Ana Kozomara and Sam Griffiths-Jones.
+\newblock mirbase: annotating high confidence micrornas using deep sequencing
+  data.
+\newblock {\em Nucleic Acids Research}, 42(D1):D68--D73, 2014.
+
+\bibitem{Simion2016}
+P.~Simion, C.~Scornavacca, J.~Coulcher, S.~Darras, C.~Dantec, J.~Piette,
+  P.~Lemaire, E.J.P. Douzery, and F.~Delsuc.
+\newblock Tunicate phylofenomics: Building a large molecular dataset to
+  reconstruct evolutionary relationships among fast-evolving tunicates.
+\newblock In {\em Molecules as documents of evolutionary history: 50 years
+  after}, Roscoff Marine Station, May 2016.
+
+\bibitem{Stolfi2014}
+Alberto Stolfi, Elijah~K Lowe, Claudia Racioppi, Filomena Ristoratore, C~Titus
+  Brown, Billie~J Swalla, and Lionel Christiaen.
+\newblock Divergent mechanisms regulate conserved cardiopharyngeal development
+  and gene expression in distantly related ascidians.
+\newblock {\em eLife}, 3:e03728, sep 2014.
+
+\bibitem{velandia:2016}
+C.~A. Velandia-Huerto, A.~A. Gittenberger, F.~D. Brown, P.~F. Stadler, and
+  C.~I. Bermudez-Santana.
+\newblock {{A}utomated detection of nc{R}{N}{A}s in the draft genome sequence
+  of a colonial tunicate: the carpet sea squirt {D}idemnum vexillum}.
+\newblock {\em BMC Genomics}, 17:691, Aug 2016.
+
+\bibitem{Wang2017}
+Kai Wang, Christelle Dantec, Patrick Lemaire, Takeshi~A. Onuma, and Hiroki
+  Nishida.
+\newblock {Genome-wide survey of miRNAs and their evolutionary history in the
+  ascidian, Halocynthia roretzi}.
+\newblock {\em BMC Genomics}, 18(1):314, 2017.
+
+\end{thebibliography}
