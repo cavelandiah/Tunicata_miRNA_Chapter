@@ -1,5 +1,10 @@
 \begin{thebibliography}{10}
 
+\bibitem{Agabian1990}
+Nina Agabian.
+\newblock Trans splicing of nuclear pre-mrnas.
+\newblock {\em Cell}, 61(7):1157 -- 1160, 1990.
+
 \bibitem{Bartel2004}
 David~P. Bartel.
 \newblock {MicroRNAs: Genomics, Biogenesis, Mechanism, and Function}.
@@ -9,6 +14,18 @@ David~P. Bartel.
 Arash Bashirullah, Ramona~L Cooperstock, and Howard~D Lipshitz.
 \newblock {RNA} localization.
 \newblock {\em Annu. Rev. Biochem}, 67:335--394, 1998.
+
+\bibitem{Blumenthal1995}
+Thomas Blumenthal.
+\newblock Trans-splicing and polycistronic transcription in caenohabditis
+  elegans.
+\newblock {\em Trends in Genetics}, 11(4):132 -- 136, 1995.
+
+\bibitem{bortoluzzi2011}
+Stefania Bortoluzzi, Marta Biasiolo, and Andrea Bisognin.
+\newblock Microrna-offset rnas (mornas): by-product spectators or functional
+  players?
+\newblock {\em Trends in Molecular Medicine}, 17(9):473--474, 2011.
 
 \bibitem{Bortoluzzi2011a}
 Stefania Bortoluzzi, Marta Biasiolo, and Andrea Bisognin.
@@ -122,11 +139,24 @@ Rie Kusakabe, Saori Tani, Koki Nishitsuji, Miyuki Shindo, Kohji Okamura, Yuki
   miR-1/miR-133, expressed specifically in Ciona muscle tissues}.
 \newblock {\em Gene Expression Patterns}, 13(1-2):43--50, 2013.
 
+\bibitem{Langenberger2009}
+David Langenberger, Clara Bermudez-Santana, Jana Hertel, Steve Hoffmann,
+  Philipp Khaitovich, and Peter~F. Stadler.
+\newblock Evidence for human microrna-offset rnas in small rna sequencing data.
+\newblock {\em Bioinformatics}, 25(18):2298--2301, 2009.
+
 \bibitem{LEBLANC1989}
 J~M LEBLANC and A~A INFANTE.
 \newblock {Association of 7-Sl Rna and an Srp-Like Particle With Polysomes and
   Endoplasmic-Reticulum in the Developing Sea-Urchin Embryo}.
 \newblock {\em Developmental Biology}, 132(1):139--152, 1989.
+
+\bibitem{ShuLee1997}
+Mary Gwo-Shu Lee and Lex H. T.~Van der Ploeg.
+\newblock Transcription of protein-coding genes in trypanosomes by rna
+  polymerase i.
+\newblock {\em Annual Review of Microbiology}, 51(1):463--489, 1997.
+\newblock PMID: 9343357.
 
 \bibitem{Lee1993}
 R~C Lee, R~L Feinbaum, and V~Ambros.
@@ -139,10 +169,29 @@ Matthieu Legendre, Andr{\'{e}} Lambert, and Daniel Gautheret.
 \newblock {Profile-based detection of microRNA precursors in animal genomes}.
 \newblock {\em Bioinformatics}, 21(7):841--845, 2005.
 
+\bibitem{Maroney1995}
+P~A Maroney, J~A Denker, E~Darzynkiewicz, R~Laneve, and T~W Nilsen.
+\newblock Most mrnas in the nematode ascaris lumbricoides are trans-spliced: a
+  role for spliced leader addition in translational efficiency.
+\newblock {\em RNA}, 1(7):714--723, 1995.
+
+\bibitem{Meiri2010}
+Eti Meiri, Asaf Levy, Hila Benjamin, Miriam Ben-David, Lahav Cohen, Avital Dov,
+  Nir Dromi, Eran Elyakim, Noga Yerushalmi, Orit Zion, Gila Lithwick-Yanai, and
+  Einat Sitbon.
+\newblock Discovery of micrornas and other small rnas in solid tumors.
+\newblock {\em Nucleic Acids Research}, 38(18):6234--6246, 2010.
+
 \bibitem{Missal2005}
 Kristin Missal, Dominic Rose, and Peter~F. Stadler.
 \newblock {Non-coding RNAs in Ciona intestinalis}.
 \newblock {\em Bioinformatics}, 21(SUPPL. 2):77--78, 2005.
+
+\bibitem{Bogu2013}
+Shi-Yan Ng, Gireesh~K. Bogu, Boon~Seng Soh, and Lawrence~W. Stanton.
+\newblock The long noncoding rna rmst interacts with sox2 to regulate
+  neurogenesis.
+\newblock {\em Molecular Cell}, 51(3):349--359, 2013.
 
 \bibitem{Ng2013}
 Shi~Yan Ng, Gireesh~K. Bogu, BoonSeng Soh, and Lawrence~W. Stanton.
@@ -193,11 +242,28 @@ B~J Swalla and W~R Jeffery.
 \newblock {A maternal RNA localized in the yellow crescent is segregated to the
   larval muscle cells during ascidian development.}, 1995.
 
+\bibitem{Taft2010}
+Ryan~J Taft, Ken~C Pang, Timothy~R Mercer, Marcel Dinger, and John~S Mattick.
+\newblock Non-coding rnas: regulators of disease.
+\newblock {\em The Journal of Pathology}, 220(2):126--139, 2010.
+
 \bibitem{Terai2012}
 Goro Terai, Hiroaki Okida, Kiyoshi Asai, and Toutai Mituyama.
 \newblock {Prediction of Conserved Precursors of miRNAs and Their Mature Forms
   by Integrating Position-Specific Structural Features}.
 \newblock {\em PLoS ONE}, 7(9):1--11, 2012.
+
+\bibitem{Umbach2010}
+Jennifer~L. Umbach and Bryan~R. Cullen.
+\newblock In-depth analysis of kaposi's sarcoma-associated herpesvirus microrna
+  expression provides insights into the mammalian microrna-processing
+  machinery.
+\newblock {\em Journal of Virology}, 84(2):695--703, 2010.
+
+\bibitem{Vandenberghe2001}
+Amanda~E. Vandenberghe, Thomas~H. Meedel, and Kenneth~E.M. Hastings.
+\newblock mrna 5′-leader trans-splicing in the chordates.
+\newblock {\em Genes \& Development}, 15(3):294--303, 2001.
 
 \bibitem{velandia:2016}
 C.~A. Velandia-Huerto, A.~A. Gittenberger, F.~D. Brown, P.~F. Stadler, and
@@ -205,6 +271,13 @@ C.~A. Velandia-Huerto, A.~A. Gittenberger, F.~D. Brown, P.~F. Stadler, and
 \newblock {{A}utomated detection of nc{R}{N}{A}s in the draft genome sequence
   of a colonial tunicate: the carpet sea squirt {D}idemnum vexillum}.
 \newblock {\em BMC Genomics}, 17:691, Aug 2016.
+
+\bibitem{Velandia-Huerto2016}
+Cristian~A. Velandia-Huerto, Adriaan~A. Gittenberger, Federico~D. Brown,
+  Peter~F. Stadler, and Clara~I. Berm{\'u}dez-Santana.
+\newblock Automated detection of ncrnas in the draft genome sequence of a
+  colonial tunicate: the carpet sea squirt didemnum vexillum.
+\newblock {\em BMC Genomics}, 17(1):691, Aug 2016.
 
 \bibitem{Wang2017}
 Kai Wang, Christelle Dantec, Patrick Lemaire, Takeshi~A. Onuma, and Hiroki

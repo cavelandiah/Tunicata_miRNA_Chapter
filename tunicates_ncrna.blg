@@ -1,48 +1,91 @@
 This is BibTeX, Version 0.99d (TeX Live 2016)
 Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
 The top-level auxiliary file: tunicates_ncrna.aux
+Case mismatch error between cite keys swalla1995 and Swalla1995
+---line 100 of file tunicates_ncrna.aux
+ : \citation{swalla1995
+ :                     }
+I'm skipping whatever remains of this command
+Case mismatch error between cite keys swalla1995 and Swalla1995
+---line 101 of file tunicates_ncrna.aux
+ : \citation{swalla1995
+ :                     }
+I'm skipping whatever remains of this command
+Case mismatch error between cite keys swalla1995 and Swalla1995
+---line 102 of file tunicates_ncrna.aux
+ : \citation{swalla1995
+ :                     }
+I'm skipping whatever remains of this command
+Case mismatch error between cite keys swalla1995 and Swalla1995
+---line 103 of file tunicates_ncrna.aux
+ : \citation{swalla1995
+ :                     }
+I'm skipping whatever remains of this command
+Case mismatch error between cite keys swalla1995 and Swalla1995
+---line 104 of file tunicates_ncrna.aux
+ : \citation{swalla1995
+ :                     }
+I'm skipping whatever remains of this command
+Case mismatch error between cite keys swalla1995 and Swalla1995
+---line 105 of file tunicates_ncrna.aux
+ : \citation{swalla1995
+ :                     }
+I'm skipping whatever remains of this command
 The style file: plain.bst
 Database file #1: tuni.bib.bib
+Database file #2: Arjan/biblio_arjan.bib.bib
+Repeated entry---line 40 of file Arjan/biblio_arjan.bib.bib
+ : @article{Ganot2004
+ :                   ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 128 of file Arjan/biblio_arjan.bib.bib
+ : @article{Shi2009
+ :                 ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 144 of file Arjan/biblio_arjan.bib.bib
+ : @article{swalla1995
+ :                    ,
+I'm skipping whatever remains of this entry
 Warning--I didn't find a database entry for ""
-You've used 37 entries,
+You've used 49 entries,
             2118 wiz_defined-function locations,
-            768 strings with 12221 characters,
-and the built_in function-call counts, 14557 in all, are:
-= -- 1387
-> -- 938
+            842 strings with 14627 characters,
+and the built_in function-call counts, 19272 in all, are:
+= -- 1829
+> -- 1217
 < -- 0
-+ -- 369
-- -- 332
-* -- 1276
-:= -- 2521
-add.period$ -- 109
-call.type$ -- 37
-change.case$ -- 277
++ -- 480
+- -- 430
+* -- 1693
+:= -- 3328
+add.period$ -- 146
+call.type$ -- 49
+change.case$ -- 362
 chr.to.int$ -- 0
-cite$ -- 37
-duplicate$ -- 398
-empty$ -- 948
-format.name$ -- 332
-if$ -- 2847
+cite$ -- 49
+duplicate$ -- 530
+empty$ -- 1278
+format.name$ -- 430
+if$ -- 3796
 int.to.chr$ -- 0
-int.to.str$ -- 37
-missing$ -- 35
-newline$ -- 186
-num.names$ -- 74
-pop$ -- 217
+int.to.str$ -- 49
+missing$ -- 47
+newline$ -- 247
+num.names$ -- 98
+pop$ -- 277
 preamble$ -- 1
-purify$ -- 240
+purify$ -- 313
 quote$ -- 0
-skip$ -- 267
+skip$ -- 353
 stack$ -- 0
-substring$ -- 928
-swap$ -- 37
+substring$ -- 1263
+swap$ -- 49
 text.length$ -- 0
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 148
+type$ -- 196
 warning$ -- 0
-while$ -- 137
-width$ -- 39
-write$ -- 403
-(There was 1 warning)
+while$ -- 174
+width$ -- 51
+write$ -- 537
+(There were 9 error messages)
