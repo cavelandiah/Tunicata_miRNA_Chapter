@@ -10,12 +10,14 @@
 \usepackage{amsmath}
 \usepackage{booktabs}
 \usepackage{longtable}
+\usepackage{subcaption}
+
 
 \newcommand{\CAVH}[1]{\begingroup\color{red}#1\endgroup}
 
 %opening
 \title{Non-protein-coding RNAs as a regulators of development in tunicates}
-\author{}
+\author{cavh}
 
 \begin{document}
 
@@ -64,12 +66,12 @@ V & \textit{L. chalumnae} & JH126646.1 & $1529355$ & $1882777$ & $353422$ & $7$ 
 \label{tab:detailBigClusters}
 \end{longtable}
   
- \begin{figure}[ht]
- \centering
- \includegraphics[scale=1]{./cluster_number}
- \includegraphics[scale=1]{./density} 
- \caption{Analysis of the distribution, size and number's of cluster along chordate species.}
- \label{fig:sizeCluster}
+\begin{figure}[ht]
+\centering
+\includegraphics[scale=1]{./cluster_number.pdf} \\ 
+\includegraphics[scale=0.7]{./density.pdf} 
+\caption{Analysis of the distribution, size and number's of cluster along chordate species.}
+\label{fig:sizeCluster}
 \end{figure}
 
 Comparison between miRNA clusters have been calculated in order to access to the 
@@ -80,28 +82,69 @@ MIR1122, mir-130, mir-132, mir-133, mir-135, mir-146, mir-15, mir-17, mir-181,
 mir-183, MIR1846, mir-186, mir-19, mir-193, mir-216, mir-219, mir-23, mir-24, 
 mir-242, mir-25, mir-27, mir-286, mir-29, mir-2985-2, mir-30, mir-34, mir-395, 
 mir-454, mir-489, MIR535, mir-8, mir-9. Details about the nature of this 
-elements are described on Table XX.
+elements are described on Figure \ref{fig:clusterDetail} \CAVH{Working...}.
 
-Full MSA \\
-4416	"--"""-	4416	""" \\
-1009	"--"\#--	1009	""\# \\
-106	"--"\#--	106	""\# \\
-1068	"--"\#--	1068	""\# \\
-1172	--K""--	1172	K"" \\
-1043	--"""--	1043	"" \\
-1288	---""-"	1288	"" \\
-1335	---""--	1335	"" \\
-1564	---""--	1564	"" \\
-173	---""--	173	"" \\
-22	---""--	22	"" \\
-128	-!-"!--	128	!"! \\
-720	---"!--	720	"! \\
-1442	-!-"\#-!	1442	!"\#! \\
-435	-!-"!-\#	435	!"!\# \\
-454	-!-"!-"	454	!"!" \\
-425	-!-"!--	425	!"! \\
-
-
+\begin{figure}[ht!]
+\centering
+    \begin{subfigure}[t]{1\textwidth}
+        \centering
+        \includegraphics[height=9 cm]{Cluster_images/let-7_101_128}
+        \caption{let-7}
+    \end{subfigure}
+    \\
+    \begin{subfigure}[t]{0.45\textwidth}
+        \centering
+        \includegraphics[height=1.2 cm]{Cluster_images/mir-1_119_33}
+        \caption{mir-1/mir-133}
+     \end{subfigure}
+        ~
+     \\
+    \begin{subfigure}[t]{0.45\textwidth}
+        \centering
+        \includegraphics[height=1.2 cm]{Cluster_images/mir-181_105_2502}
+        \caption{mir-181}
+       \end{subfigure}
+        ~
+         \begin{subfigure}[t]{0.45\textwidth}
+        \centering
+        \includegraphics[height=1.2 cm]{Cluster_images/mir-183_132_240}
+        \caption{mir-183}
+    \end{subfigure}
+    \\
+    \begin{subfigure}[t]{0.45\textwidth}
+        \centering
+        \includegraphics[height=1.2 cm]{Cluster_images/mir-216_126_467}
+        \caption{mir-216/mir-217}
+       \end{subfigure}
+     \\
+    \begin{subfigure}[t]{0.45\textwidth}
+        \centering
+        \includegraphics[height=1.2 cm]{Cluster_images/mir-34_11A_435}
+        \caption{mir-34}
+       \end{subfigure}
+        ~
+         \begin{subfigure}[t]{0.45\textwidth}
+        \centering
+        \includegraphics[height=1.2 cm]{Cluster_images/mir-92_281_4336}
+        \caption{mir-92}
+    \end{subfigure}
+    \\
+    \begin{subfigure}[t]{1\textwidth}
+        \centering
+        \includegraphics[height=1.2 cm]{Cluster_images/mir-96_138_240}
+        \caption{mir-96}
+    \end{subfigure}
+    \caption{Multiple alignments of miRNA's clusters. \textbf{Prot}: Protostomata, \textbf{Brfl}: \textit{B. floridae}, 
+\textbf{Oidi}: \textit{O. dioica}, \textbf{Dvex}: \textit{D. vexillum}, 
+\textbf{Ciin}: \textit{C. intestinalis}, \textbf{Cisa}: \textit{C. savignyi}, 
+\textbf{Ciro}: \textit{C. robusta}, \textbf{Sath}: \textit{S. thompsoni}, 
+\textbf{Mata}: \textit{M. oculata}, \textbf{Mlta}: \textit{M. occulta}, 
+\textbf{Mlis}: \textit{M. occidentalis}, \textbf{Bosc}: \textit{B. schlosseri}, 
+\textbf{Haro}: \textit{H. roretzi}, \textbf{Pema}: \textit{P. marinus}, 
+\textbf{Dare}: \textit{D. rerio}, \textbf{Lach}: \textit{L. chalumnae}, 
+\textbf{Xetr}: \textit{X. tropicalis} and \textbf{Anca}: \textit{A. 
+carolinensis}.}
+\end{figure}
 
 \subsection*{To complete the tree of loss and gain of families}
 \subsubsection*{Methods}
@@ -155,36 +198,62 @@ program \cite{Csuos2010} in order to reconstruct the corresponding miRNAs family
 history by the implemented Dollo parsymony.
 
 \subsection*{Results}
-The updated matrix of miRNAs reported $208$ families, as shown in Figure 
-\ref{fig:matrixmirnas}. Along the complete distribution of miRNAs families is 
-important to note the presence of let-7 family in all species but at the same 
-time, the $10$ most conserved miRNAs families are present in at least $72$\% of 
-the species, in this case for: mir-34, -31, -190, -216, -153, -1, -8, -7 and 
--124. From this particular list of miRNAs, in overall \textit{O. dioica} and 
-\textit{H. roretzi} has been lost about $50$\% and $60$\% of the latter 
-conserved families, respectively. At the same time, the state of annotations 
-from this conserved families on Protostomata, Cephalochordata and Craniata are 
-without evident lost and only mir-34 could not be identified on \textsl{P. 
-marinus}. The general trend in Craniata shows an increment of conserved 
-families, sometimes with the possibility of trace the presence from \textit{P. 
-marinus} and identifying $14$ conserved candidates along all the clade 
-(mir-128, -138, -143, -145, -15, -181, -199, -204, -221, -24, -26, -27, -451 
-and -456). Specifically, exists $23$ miRNAs that have been identified only on 
-tunicates and not in the other studied species, but from those candidates only 
-$7$ (mir-1497, -281, -1473, -200, -92, -1502 and -4079) are previously reported 
-as tunicate specific, the other ones have been reported also in vertebrates 
-(mir-1277, -297, -3533, -466, -467, -568, -374, -450, -876, -8915, -3149, -355, 
--340, -553) and in insects (mir-3 and mir-11). 
+The updated matrix of miRNAs reported $691$ families, including the miRBase 
+annotations and the homology predictions validated by secondary structure 
+alignments as shown in Figure \ref{fig:matrixmirnas}. For tunicates miRNAs, the
+majority have been detected/annotated in \textit{C. intestinalis} (now referred 
+as \textit{C. robusta}) where exists miRBase annotations for specie-specific 
+miRNAs families and also were annotated a set of miRNAs validated by secondary 
+structure comparisons against metazoan-specific covariance models \CAVH{Cite 
+Cristian Master Thesis}. Along this distribution of miRNAs families, $2$ 
+families are conserved along all the species, even in Protostomata clade and 
+vertebrates. Also, additional $8$ families complement the $10$ most conserved 
+set of miRNAs that have been detected by this strategy, as follows: mir-124, 
+mir-8, mir-153, mir-1, mir-216, mir-190, mir-133 and mir-31. 
+From the most conserved miRNAs families \textit{O. dioica} and 
+\textit{S. thompsoni} has been lost about $40$\% and $50$\% of those 
+conserved families, respectively. 
 
-It is evident the increasing number of 
-miRNAs families on Craniata clade, in comparison to other Chordate species. Some 
-blocks of miRNAs families could be located only on this clade... exists a really 
-well conserved block from all species.  
+
+At the same time, the state of those conserved elements in Protostomata, 
+Cephalochordata and Vertebrata show evident lost about $\sim 10$\% of the 
+families.
+The general trend in Craniata shows an increment of conserved 
+families, sometimes with the possibility of trace the presence from \textit{P. 
+marinus} and identifying $16$ conserved candidates along all the clade 
+that are not reported in another clades (mir-15, -181, -23, -199, 
+-24, -204, -128, -221, -205, -192, -132, -138, -145, -143, -451 and 
+-456). Specifically, exists $44$ miRNAs that have been identified at least 
+on $2$ species of tunicates but not in Cephalochordata or 
+Vertebrata \footnote{mir-368, mir-450, mir-3, mir-340, mir-335, 
+mir-297,mir-466, 
+mir-287, mir-11, mir-374, mir-664, mir-467, mir-568, mir-876, mir-1497, 
+ mir-281, 
+mir-553, mir-200, 
+mir-1473, mir-1469, mir-92_2, mir-1502, mir-4079, mir-3149, mir-1277, mir-8915, 
+mir-3533, cin-mir-4034, cin-mir-4047, cin-mir-4049, cin-mir-4052, cin-mir-4053, 
+ cin-mir-4054, 
+cin-mir-4065, cin-mir-4072, cin-mir-4086, cin-mir-4093, 
+cin-mir-4101,cin-mir-4123,cin-mir-4171,cin-mir-4220,cin-mir-4000c,cin-mir-4010} 
+, but from those candidates only $7$ (mir-1497, -281, -1473, -200, -92, -1502 
+and -4079) are previously reported as tunicate specific, the other ones have 
+been reported also in vertebrates (mir-1277, -297, -3533, -466, -467, -568, 
+-374, -450, -876, -8915, -3149, -355, -340, -553) and in insects (mir-3 and 
+mir-11). 
+
+\CAVH{Working...need to confirm
+this distribution of species because Simion P et al replied: Dear Cristian, 
+This work is unfortunately still completely unpublished, so if you want to cite 
+it, you will probably have to write something like ``Simion et al., work in 
+progress'. I am sorry to not be able to help you more with this citation. We 
+have however another phylogenomic paper on tunicates that is on the verge of 
+being published, so maybe you will soon be able to cite that one instead of the 
+poster." some ideas to cite another resource? Maybe from Federico Chapter?}
 
 \begin{figure}[htp]
- \centering
- \includegraphics[]{./matrix_miRNAs}
- \caption{Absence/Presence Matrix of miRNAs families along Bilaterian species. 
+\centering 
+\includegraphics[draft=true,width=\textwidth]{./miRNA_matrix}
+\caption{Absence/Presence Matrix of miRNAs families along Bilaterian species. 
 \textbf{Prot}: Protostomata, \textbf{Brfl}: \textit{B. floridae}, 
 \textbf{Oidi}: \textit{O. dioica}, \textbf{Dvex}: \textit{D. vexillum}, 
 \textbf{Ciin}: \textit{C. intestinalis}, \textbf{Cisa}: \textit{C. savignyi}, 
@@ -195,14 +264,28 @@ well conserved block from all species.
 \textbf{Dare}: \textit{D. rerio}, \textbf{Lach}: \textit{L. chalumnae}, 
 \textbf{Xetr}: \textit{X. tropicalis} and \textbf{Anca}: \textit{A. 
 carolinensis}. }
- \label{fig:matrixmirnas}
+\label{fig:matrimirnas}
 \end{figure}
 
 \begin{figure}[ht]
- \centering
- \includegraphics[scale=0.6]{./finalTree.png}
- \caption{Dollo parsymony of miRNAs families distribution}
- \label{fig:dollotree}
+\centering
+\includegraphics[width=\textwidth]{./Images/last_tree.png}
+\caption{Dollo parsymony of miRNAs families distribution in some 
+chordates genomes}.
+\label{fig:dollotree}
+\end{figure}
+
+\begin{figure}[ht]
+\centering
+\includegraphics[scale=0.5]{./Images/vennmiRNAs.pdf}
+\caption{Comparsion between miRNAs families along Bilaterian species. Same 
+labels from Figure \ref{fig:matrimirnas} were used. In this case 
+\textsl{vertebrates} group the following species: \textbf{Pema}: \textit{P. 
+marinus}, \textbf{Dare}: \textit{D. rerio}, \textbf{Lach}: \textit{L. 
+chalumnae}, 
+\textbf{Xetr}: \textit{X. tropicalis} and \textbf{Anca}: \textit{A. 
+carolinensis}}.
+\label{fig:venn}
 \end{figure}
 
 
@@ -212,3 +295,9 @@ carolinensis}. }
 \bibliography{tuni.bib}
 
 \end{document}
+
+
+%%% Local Variables:
+%%% mode: latex
+%%% TeX-PDF-mode: t
+%%% End:
