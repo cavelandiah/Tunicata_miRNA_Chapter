@@ -220,35 +220,29 @@ Cephalochordata and Vertebrata show evident lost about $\sim 10$\% of the
 families.
 The general trend in Craniata shows an increment of conserved 
 families, sometimes with the possibility of trace the presence from \textit{P. 
-marinus} and identifying $16$ conserved candidates along all the clade 
-that are not reported in another clades (mir-15, -181, -23, -199, 
+marinus} and identifying $16$ conserved candidates along all species in the 
+clade that are not reported in another clades (mir-15, -181, -23, -199, 
 -24, -204, -128, -221, -205, -192, -132, -138, -145, -143, -451 and 
 -456). Specifically, exists $44$ miRNAs that have been identified at least 
 on $2$ species of tunicates but not in Cephalochordata or 
 Vertebrata \footnote{mir-368, mir-450, mir-3, mir-340, mir-335, 
-mir-297,mir-466, 
-mir-287, mir-11, mir-374, mir-664, mir-467, mir-568, mir-876, mir-1497, 
- mir-281, 
-mir-553, mir-200, 
-mir-1473, mir-1469, mir-92_2, mir-1502, mir-4079, mir-3149, mir-1277, mir-8915, 
-mir-3533, cin-mir-4034, cin-mir-4047, cin-mir-4049, cin-mir-4052, cin-mir-4053, 
- cin-mir-4054, 
+mir-297,mir-466, mir-287, mir-11, mir-374, mir-664, mir-467, mir-568, mir-876, 
+mir-1497, mir-281, mir-553, mir-200, mir-1473, mir-1469, mir-92\_2, mir-1502, 
+mir-4079, mir-3149, mir-1277, mir-8915, mir-3533, cin-mir-4034, cin-mir-4047, 
+cin-mir-4049, cin-mir-4052, cin-mir-4053, cin-mir-4054, 
 cin-mir-4065, cin-mir-4072, cin-mir-4086, cin-mir-4093, 
-cin-mir-4101,cin-mir-4123,cin-mir-4171,cin-mir-4220,cin-mir-4000c,cin-mir-4010} 
-, but from those candidates only $7$ (mir-1497, -281, -1473, -200, -92, -1502 
-and -4079) are previously reported as tunicate specific, the other ones have 
-been reported also in vertebrates (mir-1277, -297, -3533, -466, -467, -568, 
--374, -450, -876, -8915, -3149, -355, -340, -553) and in insects (mir-3 and 
-mir-11). 
-
-\CAVH{Working...need to confirm
-this distribution of species because Simion P et al replied: Dear Cristian, 
-This work is unfortunately still completely unpublished, so if you want to cite 
-it, you will probably have to write something like ``Simion et al., work in 
-progress'. I am sorry to not be able to help you more with this citation. We 
-have however another phylogenomic paper on tunicates that is on the verge of 
-being published, so maybe you will soon be able to cite that one instead of the 
-poster." some ideas to cite another resource? Maybe from Federico Chapter?}
+cin-mir-4101, cin-mir-4123, cin-mir-4171, cin-mir-4220, 
+cin-mir-4000c, cin-mir-4010, cin-mir-4029}, but from those candidates only $7$ 
+(mir-1497, -281, -1473, -200, -92, -1502 and -4079) are previously reported as 
+tunicate specific, the other ones have been reported also in vertebrates 
+(mir-1277, -297, -3533, -466, -467, -568, -374, -450, -876, -8915, -3149, -355, 
+-340, -553) and in insects (mir-3 and mir-11). In complement Figure 
+\ref{fig:venn}, compares the shared families of miRNAs in all the studied 
+chordate species. Is important to annotate that the candidates from \textit{P. 
+marinus}, \textit{D. rerio}, \textit{L. chalumnae} and \textit{A. carolinensis} 
+have been grouped with the Vertebrates label. In this case, in overall is 
+possible to found $47$ miRNAs families that are at least in one specie in 
+Vertebrata clade and is not shared with the other chordates. 
 
 \begin{figure}[htp]
 \centering 
