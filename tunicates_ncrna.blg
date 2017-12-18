@@ -1,61 +1,68 @@
-This is BibTeX, Version 0.99d (TeX Live 2016)
+This is BibTeX, Version 0.99d (TeX Live 2015)
 Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
 The top-level auxiliary file: tunicates_ncrna.aux
 The style file: plain.bst
-Database file #1: tuni.bib.bib
-Database file #2: Arjan/biblio_arjan.bib.bib
-Repeated entry---line 40 of file Arjan/biblio_arjan.bib.bib
- : @article{Ganot2004
- :                   ,
-I'm skipping whatever remains of this entry
-Repeated entry---line 128 of file Arjan/biblio_arjan.bib.bib
- : @article{Shi2009
- :                 ,
-I'm skipping whatever remains of this entry
-Repeated entry---line 144 of file Arjan/biblio_arjan.bib.bib
- : @article{Swalla1995
- :                    ,
-I'm skipping whatever remains of this entry
-Warning--I didn't find a database entry for ""
-You've used 49 entries,
+Database file #1: tuni_updated.bib
+Warning--I didn't find a database entry for "Ameres:13"
+Warning--I didn't find a database entry for "Cerutti:06"
+Warning--I didn't find a database entry for "Shabalina:08"
+Warning--I didn't find a database entry for "Price:11"
+Warning--I didn't find a database entry for "Tanzer:04a"
+Warning--I didn't find a database entry for "Hertel:12a"
+Warning--I didn't find a database entry for "Fu:08"
+Warning--I didn't find a database entry for "Bentwich:05"
+Warning--I didn't find a database entry for "Berezikov:06"
+Warning--I didn't find a database entry for "Lu:08"
+Warning--I didn't find a database entry for "CampoPaysaa:11"
+Warning--I didn't find a database entry for "Marco:13"
+Warning--I didn't find a database entry for "Liang:09"
+Warning--I didn't find a database entry for "Meunier:12"
+Warning--I didn't find a database entry for "Lee:07a"
+Warning--I didn't find a database entry for "Niwa:07"
+Warning--I didn't find a database entry for "Prochnik:07"
+Warning--I didn't find a database entry for "Peterson:09"
+Warning--I didn't find a database entry for "Berezikov:11"
+Warning--I didn't find a database entry for "Tanzer:10a"
+Warning--I didn't find a database entry for "Dai:09"
+You've used 60 entries,
             2118 wiz_defined-function locations,
-            842 strings with 14627 characters,
-and the built_in function-call counts, 19272 in all, are:
-= -- 1829
-> -- 1217
+            950 strings with 17291 characters,
+and the built_in function-call counts, 23988 in all, are:
+= -- 2252
+> -- 1559
 < -- 0
-+ -- 480
-- -- 430
-* -- 1693
-:= -- 3328
-add.period$ -- 146
-call.type$ -- 49
-change.case$ -- 362
++ -- 620
+- -- 554
+* -- 2095
+:= -- 4161
+add.period$ -- 179
+call.type$ -- 60
+change.case$ -- 457
 chr.to.int$ -- 0
-cite$ -- 49
-duplicate$ -- 530
-empty$ -- 1278
-format.name$ -- 430
-if$ -- 3796
+cite$ -- 60
+duplicate$ -- 651
+empty$ -- 1564
+format.name$ -- 554
+if$ -- 4731
 int.to.chr$ -- 0
-int.to.str$ -- 49
-missing$ -- 47
-newline$ -- 247
-num.names$ -- 98
-pop$ -- 277
+int.to.str$ -- 60
+missing$ -- 58
+newline$ -- 302
+num.names$ -- 120
+pop$ -- 350
 preamble$ -- 1
-purify$ -- 313
+purify$ -- 397
 quote$ -- 0
-skip$ -- 353
+skip$ -- 431
 stack$ -- 0
-substring$ -- 1263
-swap$ -- 49
+substring$ -- 1548
+swap$ -- 60
 text.length$ -- 0
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 196
+type$ -- 240
 warning$ -- 0
-while$ -- 174
-width$ -- 51
-write$ -- 537
-(There were 3 error messages)
+while$ -- 204
+width$ -- 62
+write$ -- 658
+(There were 21 warnings)

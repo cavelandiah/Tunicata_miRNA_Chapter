@@ -3,67 +3,47 @@
 \contentsline {author}{Author A and Author B}{3}
 \contentsline {section}{\numberline {1}Introduction}{3}
 \contentsline {section}{\numberline {2}miRNA families origin and evolutionary perspective}{4}
-\contentsline {subsection}{\numberline {2.1}miRNA identification and validation}{4}
-\contentsline {subsubsection}{\numberline {2.1.1}Pasquinatelli2000.pdf}{4}
-\contentsline {subsubsection}{\numberline {2.1.2}Legendere2004.pdf}{4}
-\contentsline {subsubsection}{\numberline {2.1.3}Satdler2005.pdf}{5}
-\contentsline {subsubsection}{\numberline {2.1.4}Stadler2007.pdf}{5}
-\contentsline {subsubsection}{\numberline {2.1.5}Norden-Krichmaretal2007.pdf}{6}
-\contentsline {subsubsection}{\numberline {2.1.6}Fuetal2008.pdf}{6}
-\contentsline {subsubsection}{\numberline {2.1.7}Hendrixetal2010.pdf}{7}
-\contentsline {subsubsection}{\numberline {2.1.8}Keshavanetal2010.pdf}{7}
-\contentsline {subsubsection}{\numberline {2.1.9}Friedlander-2012.pdf}{7}
-\contentsline {subsubsection}{\numberline {2.1.10}Teraietal2012.PDF}{8}
-\contentsline {subsubsection}{\numberline {2.1.11}Kusakabeetal2013.pdf}{8}
-\contentsline {subsubsection}{\numberline {2.1.12}Jueetal2016.pdf}{9}
-\contentsline {subsubsection}{\numberline {2.1.13}Wangetal2017.pdf}{10}
-\contentsline {subsection}{\numberline {2.2}miRNA in clusters}{10}
-\contentsline {subsubsection}{\numberline {2.2.1}Yanetal2014.pdf}{10}
-\contentsline {subsubsection}{\numberline {2.2.2}Wangetal2017.pdf}{10}
-\contentsline {subsubsection}{\numberline {2.2.3}deSouzaGomezetal2012.pdf}{11}
-\contentsline {subsubsection}{\numberline {2.2.4}Stadler2007.PDF}{11}
-\contentsline {subsection}{\numberline {2.3}miRNA in an perspective evolution}{12}
-\contentsline {subsubsection}{\numberline {2.3.1}Introduction}{12}
-\contentsline {subsubsection}{\numberline {2.3.2}Pignatelli2016.pdf}{12}
-\contentsline {subsubsection}{\numberline {2.3.3}Dai2009.pdf}{13}
-\contentsline {subsubsection}{\numberline {2.3.4}Candini2012.pdf}{13}
-\contentsline {subsubsection}{\numberline {2.3.5}Stadler2006.pdf}{13}
-\contentsline {subsubsection}{\numberline {2.3.6}SamGriffit2007.pdf}{14}
-\contentsline {subsubsection}{\numberline {2.3.7}Hertel2015.pdf}{14}
-\contentsline {subsubsection}{\numberline {2.3.8}Yanetal2014.pdf}{14}
-\contentsline {subsection}{\numberline {2.4}To complete the tree of loss and gain of families}{15}
-\contentsline {subsubsection}{\numberline {2.4.1}Jueetal2016.pdf}{15}
-\contentsline {subsubsection}{\numberline {2.4.2}Wangetal2017.pdf}{16}
-\contentsline {section}{\numberline {3}miRNAs and its rol in development}{17}
-\contentsline {subsection}{\numberline {3.1}miRNAs discovery and development}{17}
-\contentsline {subsubsection}{\numberline {3.1.1}Bartel2004.pdf}{17}
-\contentsline {subsubsection}{\numberline {3.1.2}Lee1993.pdf}{17}
-\contentsline {subsection}{\numberline {3.2}miRNAs perspective evolution in development}{17}
-\contentsline {subsubsection}{\numberline {3.2.1}holland2014.pdf}{17}
-\contentsline {subsubsection}{\numberline {3.2.2}Sun2013.pdf}{18}
-\contentsline {subsubsection}{\numberline {3.2.3}Kloosterman2006.pdf}{18}
-\contentsline {subsubsection}{\numberline {3.2.4}Iyengar2014.pdf}{19}
-\contentsline {subsection}{\numberline {3.3}Specific examples}{19}
-\contentsline {subsubsection}{\numberline {3.3.1}Chenetal2014.PDF}{19}
-\contentsline {subsubsection}{\numberline {3.3.2}Fuetal2008.pdf}{20}
-\contentsline {subsubsection}{\numberline {3.3.3}Hendrixetal2010.pdf}{20}
-\contentsline {subsubsection}{\numberline {3.3.4}Kusakabeetal2013.pdf}{21}
-\contentsline {subsubsection}{\numberline {3.3.5}Pasquinellietal2000.pdf}{21}
-\contentsline {subsubsection}{\numberline {3.3.6}Tangetal2013.pdf}{22}
-\contentsline {subsubsection}{\numberline {3.3.7}Spina2017.pdf}{22}
-\contentsline {section}{\numberline {4}Other ncRNAs associated to development}{23}
-\contentsline {subsection}{\numberline {4.1}Yellow Crescent RNA}{23}
-\contentsline {subsection}{\numberline {4.2}MicroRNA-offset RNAs}{23}
-\contentsline {subsection}{\numberline {4.3}Long Noncoding RNA RMST}{24}
-\contentsline {subsection}{\numberline {4.4}Splices-leader RNA}{24}
-\contentsline {subsection}{\numberline {4.5}YC RNA}{25}
-\contentsline {subsubsection}{\numberline {4.5.1}Swalla1995.pdf}{25}
-\contentsline {subsection}{\numberline {4.6}moRNAs}{26}
-\contentsline {subsubsection}{\numberline {4.6.1}Bortolluzzietal2011.pdf}{26}
-\contentsline {subsubsection}{\numberline {4.6.2}Shietal2009.pdf}{26}
-\contentsline {subsection}{\numberline {4.7}RMST9}{26}
-\contentsline {subsubsection}{\numberline {4.7.1}ShiYan2013.pdf}{27}
-\contentsline {subsection}{\numberline {4.8}SL RNA}{27}
-\contentsline {subsubsection}{\numberline {4.8.1}Philippe2004SLRNA.pdf}{27}
-\contentsline {subsubsection}{\numberline {4.8.2}LeBlanc1989.pdf}{28}
-\contentsline {section}{References}{28}
+\contentsline {subsection}{\numberline {2.1}Origins and Evolution of MicroRNAs}{4}
+\contentsline {subsection}{\numberline {2.2}miRNA identification and validation}{5}
+\contentsline {subsubsection}{\numberline {2.2.1}Validation and detection of miRNA families in Cionas in this decade}{7}
+\contentsline {subsubsection}{\numberline {2.2.2}The new era to get deep insights into the repertory of miRNA in other urochordates}{8}
+\contentsline {subsection}{\numberline {2.3}miRNA in clusters}{9}
+\contentsline {subsubsection}{\numberline {2.3.1}Yanetal2014.pdf}{9}
+\contentsline {subsubsection}{\numberline {2.3.2}Wangetal2017.pdf}{9}
+\contentsline {subsubsection}{\numberline {2.3.3}deSouzaGomezetal2012.pdf}{10}
+\contentsline {subsubsection}{\numberline {2.3.4}Stadler2007.PDF}{10}
+\contentsline {subsection}{\numberline {2.4}miRNA in an perspective evolution}{11}
+\contentsline {subsubsection}{\numberline {2.4.1}Introduction}{11}
+\contentsline {subsubsection}{\numberline {2.4.2}Pignatelli2016.pdf}{11}
+\contentsline {subsubsection}{\numberline {2.4.3}Dai2009.pdf}{12}
+\contentsline {subsubsection}{\numberline {2.4.4}Candini2012.pdf}{12}
+\contentsline {subsubsection}{\numberline {2.4.5}Stadler2006.pdf}{12}
+\contentsline {subsubsection}{\numberline {2.4.6}SamGriffit2007.pdf}{13}
+\contentsline {subsubsection}{\numberline {2.4.7}Hertel2015.pdf}{13}
+\contentsline {subsubsection}{\numberline {2.4.8}Yanetal2014.pdf}{13}
+\contentsline {subsection}{\numberline {2.5}To complete the tree of loss and gain of families}{14}
+\contentsline {subsubsection}{\numberline {2.5.1}Jueetal2016.pdf}{14}
+\contentsline {subsubsection}{\numberline {2.5.2}Wangetal2017.pdf}{15}
+\contentsline {section}{\numberline {3}miRNAs and its rol in development}{16}
+\contentsline {subsection}{\numberline {3.1}miRNAs discovery and development}{16}
+\contentsline {subsubsection}{\numberline {3.1.1}Bartel2004.pdf}{16}
+\contentsline {subsubsection}{\numberline {3.1.2}Lee1993.pdf}{16}
+\contentsline {subsection}{\numberline {3.2}miRNAs perspective evolution in development}{16}
+\contentsline {subsubsection}{\numberline {3.2.1}holland2014.pdf}{16}
+\contentsline {subsubsection}{\numberline {3.2.2}Sun2013.pdf}{17}
+\contentsline {subsubsection}{\numberline {3.2.3}Kloosterman2006.pdf}{17}
+\contentsline {subsubsection}{\numberline {3.2.4}Iyengar2014.pdf}{18}
+\contentsline {subsection}{\numberline {3.3}Specific examples}{18}
+\contentsline {subsubsection}{\numberline {3.3.1}Chenetal2014.PDF}{18}
+\contentsline {subsubsection}{\numberline {3.3.2}Fuetal2008.pdf}{19}
+\contentsline {subsubsection}{\numberline {3.3.3}Hendrixetal2010.pdf}{19}
+\contentsline {subsubsection}{\numberline {3.3.4}Kusakabeetal2013.pdf}{20}
+\contentsline {subsubsection}{\numberline {3.3.5}Pasquinellietal2000.pdf}{20}
+\contentsline {subsubsection}{\numberline {3.3.6}Tangetal2013.pdf}{21}
+\contentsline {subsubsection}{\numberline {3.3.7}Spina2017.pdf}{21}
+\contentsline {section}{\numberline {4}Other ncRNAs associated to development}{22}
+\contentsline {subsection}{\numberline {4.1}Yellow Crescent RNA}{22}
+\contentsline {subsection}{\numberline {4.2}MicroRNA-offset RNAs}{22}
+\contentsline {subsection}{\numberline {4.3}Long Noncoding RNA RMST}{23}
+\contentsline {subsection}{\numberline {4.4}Splices-leader RNA}{23}
+\contentsline {section}{References}{24}

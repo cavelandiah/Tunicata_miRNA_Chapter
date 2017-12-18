@@ -5,10 +5,22 @@ Nina Agabian.
 \newblock Trans splicing of nuclear pre-mrnas.
 \newblock {\em Cell}, 61(7):1157 -- 1160, 1990.
 
+\bibitem{Ambrose:03a}
+V.~Ambros, B.~Bartel, D.~P. Bartel, C.~B. Burge, J.~C. Carrington, X.~Chen,
+  G.~Dreyfuss, S.~R. Eddy, S.~Griffiths-Jones, M.~Marshall, M.~Matzke,
+  G.~Ruvkun, and T.~Tuschl.
+\newblock A uniform system for microrna annotation.
+\newblock {\em RNA}, 9:277--279, 2003.
+
 \bibitem{Bartel2004}
 David~P. Bartel.
 \newblock {MicroRNAs: Genomics, Biogenesis, Mechanism, and Function}.
 \newblock {\em Cell}, 116(2):281--297, 2004.
+
+\bibitem{Bartel:13}
+David~P. Bartel.
+\newblock Micro{RNA} target recognition and regulatory functions.
+\newblock {\em Cell}, 136:215--233, 2009.
 
 \bibitem{Bashirullah1998}
 Arash Bashirullah, Ramona~L Cooperstock, and Howard~D Lipshitz.
@@ -25,12 +37,6 @@ Thomas Blumenthal.
 Stefania Bortoluzzi, Marta Biasiolo, and Andrea Bisognin.
 \newblock Microrna-offset rnas (mornas): by-product spectators or functional
   players?
-\newblock {\em Trends in Molecular Medicine}, 17(9):473--474, 2011.
-
-\bibitem{Bortoluzzi2011a}
-Stefania Bortoluzzi, Marta Biasiolo, and Andrea Bisognin.
-\newblock {MicroRNA-offset RNAs (moRNAs): By-product spectators or functional
-  players?}
 \newblock {\em Trends in Molecular Medicine}, 17(9):473--474, 2011.
 
 \bibitem{Candiani2012}
@@ -59,6 +65,13 @@ Matheus {De Souza Gomes}, Mark T~A Donoghue, Mohankumar Muniyappa,
   MicroRNA gene cluster miR-71/2 in protostomes}.
 \newblock {\em Journal of Molecular Evolution}, 76(6):353--358, 2013.
 
+\bibitem{Friedlaender:12}
+Marc~R. Friedl{\"a}nder, Sebastian~D. Mackowiak, Na~Li, Wei Chen, and Nikolaus
+  Rajewsky.
+\newblock {miRDeep2} accurately identifies known and hundreds of novel microrna
+  genes in seven animal clades.
+\newblock {\em Nucleic Acids Res.}, 40:37--52, 2012.
+
 \bibitem{Friedlander2012}
 Marc~R. Friedl{\"{a}}nder, Sebastian~D. MacKowiak, Na~Li, Wei Chen, and
   Nikolaus Rajewsky.
@@ -74,20 +87,40 @@ Xianghui Fu, Marcin Adamski, and Eric~M. Thompson.
 
 \bibitem{Ganot2004}
 Philippe Ganot, Torben Kalles{\o}e, Richard Reinhardt, Daniel Chourrout, and
-  Eric~M Thompson.
-\newblock {with a Compact Genome †}.
-\newblock {\em Society}, 24(17):7795--7805, 2004.
+  Eric~M. Thompson.
+\newblock Spliced-leader rna trans splicing in a chordate, oikopleura dioica,
+  with a compact genome.
+\newblock {\em Molecular and Cellular Biology}, 24(17):7795--7805, 2004.
 
 \bibitem{Griffiths-Jones2011}
 Sam Griffiths-Jones, Jerome H~L Hui, Antonio Marco, and Matthew Ronshaugen.
 \newblock {MicroRNA evolution by arm switching}.
 \newblock {\em EMBO reports}, 12(2):172--177, 2011.
 
+\bibitem{Heimberg:10}
+A~M Heimberg, R~Cowper-{Sal$\cdot$lari}, M~S{\'e}mon, P~C Donoghue, and Kevin~J
+  Peterson.
+\newblock {MicroRNAs} reveal the interrelationships of hagfish, lampreys, and
+  gnathostomes and the nature of the ancestral vertebrate.
+\newblock {\em Proc. Natl. Acad. Sci. USA}, 107:19379--19383, 2010.
+
+\bibitem{Heimberg:08}
+A.~M. Heimberg, L.~F. Sempere, V.~N. Moy, P.~C.~J. Donoghue, and K.J. Peterson.
+\newblock {MicroRNA}s and the advent of vertebrate morphological complexity.
+\newblock {\em Proc. Natl. Acad. Sci. USA}, 105:2946--2950, 2007.
+
 \bibitem{Hendrix2010}
 D~Hendrix, M~Levine, and W~Shi.
 \newblock {miRTRAP, a computational method for the systematic identification of
   miRNAs from high throughput sequencing data}.
 \newblock {\em Genome Biol}, 11(4):R39, 2010.
+
+\bibitem{Hertel:06a}
+Jana Hertel, Manuela Lindemeyer, Kristin Missal, Claudia Fried, Andrea Tanzer,
+  Christoph Flamm, Ivo~L. Hofacker, Peter~F. Stadler, and {The Students of
+  Bioinformatics Computer Labs 2004 and 2005}.
+\newblock The expansion of the metazoan micro{RNA} repertoire.
+\newblock {\em BMC Genomics}, 7:15 [epub], 2006.
 
 \bibitem{Hertel2015}
 Jana Hertel and Peter Stadler.
@@ -99,6 +132,11 @@ Jana Hertel and Peter~F. Stadler.
 \newblock {Hairpins in a Haystack: Recognizing microRNA precursors in
   comparative genomics data}.
 \newblock {\em Bioinformatics}, 22(14):197--202, 2006.
+
+\bibitem{Hertel:15a}
+Jana Hertel and Peter~F. Stadler.
+\newblock The expansion of animal micro{RNA} families revisited.
+\newblock {\em Life}, 5:905--920, 2015.
 
 \bibitem{Holland2015}
 Linda~Z. Holland.
@@ -145,11 +183,18 @@ David Langenberger, Clara Bermudez-Santana, Jana Hertel, Steve Hoffmann,
 \newblock Evidence for human microrna-offset rnas in small rna sequencing data.
 \newblock {\em Bioinformatics}, 25(18):2298--2301, 2009.
 
-\bibitem{LEBLANC1989}
-J~M LEBLANC and A~A INFANTE.
-\newblock {Association of 7-Sl Rna and an Srp-Like Particle With Polysomes and
-  Endoplasmic-Reticulum in the Developing Sea-Urchin Embryo}.
-\newblock {\em Developmental Biology}, 132(1):139--152, 1989.
+\bibitem{Langenberger:10a}
+David Langenberger, Clara Bermudez-Santana, Peter~F. Stadler, and Steve
+  Hoffmann.
+\newblock Identification and classification of small {RNAs} in transcriptome
+  sequence data.
+\newblock {\em Pac.\ Symp.\ Biocomput.}, 15:80--87, 2010.
+
+\bibitem{Langenberger:13a}
+David Langenberger, M.~Volkan {\c{C}}akir, Steve Hoffmann, and Peter~F.
+  Stadler.
+\newblock Dicer-processed small {RNAs}: Rules and exceptions.
+\newblock {\em J. Exp. Zool: Mol. Dev. Evol.}, 320:35--46, 2012.
 
 \bibitem{ShuLee1997}
 Mary Gwo-Shu Lee and Lex H. T.~Van der Ploeg.
@@ -162,12 +207,22 @@ Mary Gwo-Shu Lee and Lex H. T.~Van der Ploeg.
 R~C Lee, R~L Feinbaum, and V~Ambros.
 \newblock {the C. elegans$\backslash$rheterochronic gene lin-4 encodes small
   RNAs with antisense$\backslash$rcomplementarity to lin-14.}
-\newblock {\em Cell}, 75: 843–85:843--854, 1993.
+\newblock {\em Cell}, 75: 843--85:843--854, 1993.
 
 \bibitem{Legendre2005}
 Matthieu Legendre, Andr{\'{e}} Lambert, and Daniel Gautheret.
 \newblock {Profile-based detection of microRNA precursors in animal genomes}.
 \newblock {\em Bioinformatics}, 21(7):841--845, 2005.
+
+\bibitem{Lin:06}
+Shi-Lung Lin, Joseph~D. Miller, and Shao-Yao~Ying Ying.
+\newblock Intronic {MicroRNA} (mirna).
+\newblock {\em J Biomed Biotechnol.}, 2006:26818, 2006.
+
+\bibitem{Lund:04}
+E~Lund, S~G{\"u}ttinger, A~Calado, J~E Dahlberg, and U~Kutay.
+\newblock Nuclear export of {microRNA} precursors.
+\newblock {\em Science}, 303:95--98, 2004.
 
 \bibitem{Maroney1995}
 P~A Maroney, J~A Denker, E~Darzynkiewicz, R~Laneve, and T~W Nilsen.
@@ -187,16 +242,15 @@ Kristin Missal, Dominic Rose, and Peter~F. Stadler.
 \newblock {Non-coding RNAs in Ciona intestinalis}.
 \newblock {\em Bioinformatics}, 21(SUPPL. 2):77--78, 2005.
 
+\bibitem{Nawrocki:13}
+Eric~P Nawrocki and Sean~R Eddy.
+\newblock Infernal 1.1: 100-fold faster {RNA} homology searches.
+\newblock {\em Bioinformatics}, 29:2933--2935, 2013.
+
 \bibitem{Bogu2013}
 Shi-Yan Ng, Gireesh~K. Bogu, Boon~Seng Soh, and Lawrence~W. Stanton.
 \newblock The long noncoding rna rmst interacts with sox2 to regulate
   neurogenesis.
-\newblock {\em Molecular Cell}, 51(3):349--359, 2013.
-
-\bibitem{Ng2013}
-Shi~Yan Ng, Gireesh~K. Bogu, BoonSeng Soh, and Lawrence~W. Stanton.
-\newblock {The long noncoding RNA RMST interacts with SOX2 to regulate
-  neurogenesis}.
 \newblock {\em Molecular Cell}, 51(3):349--359, 2013.
 
 \bibitem{Norden-Krichmar2007}
@@ -205,6 +259,13 @@ Trina~M Norden-Krichmar, Janette Holtz, Amy~E Pasquinelli, and Terry
 \newblock {Computational prediction and experimental validation of Ciona
   intestinalis microRNA genes.}
 \newblock {\em BMC genomics}, 8(1):445, 2007.
+
+\bibitem{Pasquinelli2003}
+A.~E. Pasquinelli, A.~McCoy, E.~Jimenez, E.~Salo, G.~Ruvkun, M.~Q. Martindale,
+  and J.~Baguna.
+\newblock {{E}xpression of the 22 nucleotide let-7 heterochronic {R}{N}{A}
+  throughout the {M}etazoa: a role in life history evolution?}
+\newblock {\em Evol. Dev.}, 5(4):372--378, 2003.
 
 \bibitem{Pasquinelli2000}
 a~E Pasquinelli, B~J Reinhart, F~Slack, M~Q Martindale, M~I Kuroda, B~Maller,
@@ -220,9 +281,15 @@ Miguel Pignatelli, Albert~J. Vilella, Matthieu Muffato, Leo Gordon, Simon
 \newblock {NcRNA orthologies in the vertebrate lineage}.
 \newblock {\em Database}, 2016(September 2017):1--20, 2016.
 
+\bibitem{Sempere:06}
+L~F Sempere, C~N Cole, M~A McPeek, and K~J Peterson.
+\newblock The phylogenetic distribution of metazoan micro{RNA}s: insights into
+  evolutionary complexity and constraint.
+\newblock {\em J Exp Zoolog B Mol Dev Evol.}, 306B:575--588, 2006.
+
 \bibitem{Shi2009}
 Weiyang Shi, David Hendrix, Mike Levine, and Benjamin Haley.
-\newblock {A distinct class of small RNAs arises from pre-miRNA–proximal
+\newblock {A distinct class of small RNAs arises from pre-miRNA--proximal
   regions in a simple chordate}.
 \newblock {\em Nature Structural {\&} Molecular Biology}, 16(2):183--189, 2009.
 
@@ -265,13 +332,6 @@ Amanda~E. Vandenberghe, Thomas~H. Meedel, and Kenneth~E.M. Hastings.
 \newblock mrna 5′-leader trans-splicing in the chordates.
 \newblock {\em Genes \& Development}, 15(3):294--303, 2001.
 
-\bibitem{velandia:2016}
-C.~A. Velandia-Huerto, A.~A. Gittenberger, F.~D. Brown, P.~F. Stadler, and
-  C.~I. Bermudez-Santana.
-\newblock {{A}utomated detection of nc{R}{N}{A}s in the draft genome sequence
-  of a colonial tunicate: the carpet sea squirt {D}idemnum vexillum}.
-\newblock {\em BMC Genomics}, 17:691, Aug 2016.
-
 \bibitem{Velandia-Huerto2016}
 Cristian~A. Velandia-Huerto, Adriaan~A. Gittenberger, Federico~D. Brown,
   Peter~F. Stadler, and Clara~I. Berm{\'u}dez-Santana.
@@ -285,6 +345,12 @@ Kai Wang, Christelle Dantec, Patrick Lemaire, Takeshi~A. Onuma, and Hiroki
 \newblock {Genome-wide survey of miRNAs and their evolutionary history in the
   ascidian, Halocynthia roretzi}.
 \newblock {\em BMC Genomics}, 18(1):314, 2017.
+
+\bibitem{Wheeler:09}
+B~M Wheeler, A~M Heimberg, V~N Moy, E~A Sperling, T~W Holstein, S~Heber, and
+  K~J Peterson.
+\newblock The deep evolution of metazoan micro{RNA}s.
+\newblock {\em Evol. Dev.}, 11:50--68, 2009.
 
 \bibitem{Will2007}
 Sebastian Will, Kristin Reiche, Ivo~L. Hofacker, Peter~F. Stadler, and Rolf
