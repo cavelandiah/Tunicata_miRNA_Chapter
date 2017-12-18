@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2015.5.24)  18 DEC 2017 12:02
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2015.5.24)  18 DEC 2017 12:11
 entering extended mode
  \write18 enabled.
  file:line:error style messages enabled.
@@ -682,12 +682,19 @@ File: ./Images/miRNA_matrix.pdf Graphic file (type pdf)
 Package pdftex.def Info: ./Images/miRNA_matrix.pdf used on input line 324.
 (pdftex.def)             Requested size: 332.89723pt x 277.1966pt.
 
-<./Images/last_tree.png, id=59, 896.34875pt x 611.28375pt>
-File: ./Images/last_tree.png Graphic file (type png)
+<./Images/finalTree.png, id=59, 903.375pt x 632.3625pt>
+File: ./Images/finalTree.png Graphic file (type png)
 
-<use ./Images/last_tree.png>
-Package pdftex.def Info: ./Images/last_tree.png used on input line 344.
-(pdftex.def)             Requested size: 332.89723pt x 227.02023pt.
+<use ./Images/finalTree.png>
+Package pdftex.def Info: ./Images/finalTree.png used on input line 344.
+(pdftex.def)             Requested size: 332.89723pt x 233.0345pt.
+
+<./Images/vennmiRNAs.pdf, id=60, 578.16pt x 722.7pt>
+File: ./Images/vennmiRNAs.pdf Graphic file (type pdf)
+
+<use ./Images/vennmiRNAs.pdf>
+Package pdftex.def Info: ./Images/vennmiRNAs.pdf used on input line 352.
+(pdftex.def)             Requested size: 332.89723pt x 416.1227pt.
 Missing character: There is no â in font ptmri7t!
 Missing character: There is no ˆ in font ptmri7t!
 Missing character: There is no ’ in font ptmri7t!
@@ -702,14 +709,14 @@ Missing character: There is no ˆ in font ptmri7t!
 Missing character: There is no ’ in font ptmri7t!
 Missing character: There is no Â in font ptmri7t!
 Missing character: There is no ± in font ptmri7t!
-LaTeX Font Info:    Try loading font information for OML+ptm on input line 381.
+LaTeX Font Info:    Try loading font information for OML+ptm on input line 393.
 
 
 (/usr/local/texlive/2015/texmf-dist/tex/latex/psnfss/omlptm.fd
 File: omlptm.fd 
 )
 LaTeX Font Info:    Font shape `OML/ptm/m/it' in size <10> not available
-(Font)              Font shape `OML/cmm/m/it' tried instead on input line 381.
+(Font)              Font shape `OML/cmm/m/it' tried instead on input line 393.
  [14] [15]
 [16] [17] [18] [19] [20]
 Missing character: There is no Î in font ptmri7t!
@@ -765,18 +772,18 @@ ngle page
 pdfTeX warning: /Library/TeX/texbin/pdflatex (file ./Images/Cluster_images/mir-
 96_138_240.pdf): PDF inclusion: multiple pdfs with page group included in a sin
 gle page
->] [29 <./Images/miRNA_matrix.pdf>] [30 <./Images/last_tree.png>]
-(./tunicates_ncrna.aux)
+>] [29 <./Images/miRNA_matrix.pdf>] [30 <./Images/finalTree.png>] [31 <./Images
+/vennmiRNAs.pdf>] (./tunicates_ncrna.aux)
 
 LaTeX Warning: There were undefined references.
 
  ) 
 Here is how much of TeX's memory you used:
- 3922 strings out of 493089
- 60879 string characters out of 6134842
- 136626 words of memory out of 5000000
- 7314 multiletter control sequences out of 15000+600000
- 36800 words of font info for 76 fonts, out of 8000000 for 9000
+ 3931 strings out of 493089
+ 61051 string characters out of 6134842
+ 137635 words of memory out of 5000000
+ 7320 multiletter control sequences out of 15000+600000
+ 38442 words of font info for 78 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  42i,8n,40p,2571b,394s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/local/texlive/2015/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/local/t
@@ -787,11 +794,12 @@ ve/2015/texmf-dist/fonts/type1/urw/courier/ucrr8a.pfb></usr/local/texlive/2015/
 texmf-dist/fonts/type1/urw/times/utmb8a.pfb></usr/local/texlive/2015/texmf-dist
 /fonts/type1/urw/times/utmbi8a.pfb></usr/local/texlive/2015/texmf-dist/fonts/ty
 pe1/urw/times/utmr8a.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/urw/ti
-mes/utmri8a.pfb>
-Output written on tunicates_ncrna.pdf (30 pages, 1458137 bytes).
+mes/utmr8a.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/urw/times/utmri8
+a.pfb>
+Output written on tunicates_ncrna.pdf (31 pages, 1491395 bytes).
 PDF statistics:
- 2839 PDF objects out of 2984 (max. 8388607)
- 1881 compressed objects within 19 object streams
+ 2859 PDF objects out of 2984 (max. 8388607)
+ 1897 compressed objects within 19 object streams
  0 named destinations out of 1000 (max. 500000)
- 51 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 56 words of extra memory for PDF output out of 10000 (max. 10000000)
 
