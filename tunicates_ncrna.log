@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2015.5.24)  18 DEC 2017 12:32
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2015.5.24)  11 JAN 2018 00:24
 entering extended mode
  \write18 enabled.
  file:line:error style messages enabled.
@@ -554,20 +554,16 @@ LaTeX Warning: Citation `Fu:08' on page 5 undefined on input line 160.
 
 LaTeX Warning: Citation `Dai:09' on page 5 undefined on input line 160.
 
-[5] [6]
-Missing character: There is no â in font ptmr7t!
-Missing character: There is no € in font ptmr7t!
-Missing character: There is no “ in font ptmr7t!
- [7] [8]
+[5] [6] [7] [8]
 <./Images/Cluster_images/let-7_101_128.pdf, id=34, 853.93283pt x 515.47795pt>
 File: ./Images/Cluster_images/let-7_101_128.pdf Graphic file (type pdf)
 
 <use ./Images/Cluster_images/let-7_101_128.pdf>
 Package pdftex.def Info: ./Images/Cluster_images/let-7_101_128.pdf used on inpu
-t line 205.
+t line 210.
 (pdftex.def)             Requested size: 424.21605pt x 256.0748pt.
 
-Overfull \hbox (91.31882pt too wide) in paragraph at lines 205--206
+Overfull \hbox (91.31882pt too wide) in paragraph at lines 210--211
  [][] 
  []
 
@@ -576,10 +572,10 @@ File: ./Images/Cluster_images/mir-1_119_33.pdf Graphic file (type pdf)
 
 <use ./Images/Cluster_images/mir-1_119_33.pdf>
 Package pdftex.def Info: ./Images/Cluster_images/mir-1_119_33.pdf used on input
- line 211.
+ line 216.
 (pdftex.def)             Requested size: 161.02806pt x 34.14322pt.
 
-Overfull \hbox (11.22533pt too wide) in paragraph at lines 211--212
+Overfull \hbox (11.22533pt too wide) in paragraph at lines 216--217
  [][] 
  []
 
@@ -588,10 +584,10 @@ Overfull \hbox (11.22533pt too wide) in paragraph at lines 211--212
 File: ./Images/Cluster_images/mir-181_105_2502.pdf Graphic file (type pdf)
 <use ./Images/Cluster_images/mir-181_105_2502.pdf>
 Package pdftex.def Info: ./Images/Cluster_images/mir-181_105_2502.pdf used on i
-nput line 218.
+nput line 223.
 (pdftex.def)             Requested size: 226.37637pt x 34.14322pt.
 
-Overfull \hbox (76.57364pt too wide) in paragraph at lines 218--219
+Overfull \hbox (76.57364pt too wide) in paragraph at lines 223--224
  [][] 
  []
 
@@ -600,10 +596,10 @@ File: ./Images/Cluster_images/mir-183_132_240.pdf Graphic file (type pdf)
 
 <use ./Images/Cluster_images/mir-183_132_240.pdf>
 Package pdftex.def Info: ./Images/Cluster_images/mir-183_132_240.pdf used on in
-put line 224.
+put line 229.
 (pdftex.def)             Requested size: 215.87859pt x 34.14322pt.
 
-Overfull \hbox (66.07585pt too wide) in paragraph at lines 224--225
+Overfull \hbox (66.07585pt too wide) in paragraph at lines 229--230
  [][] 
  []
 
@@ -613,10 +609,10 @@ File: ./Images/Cluster_images/mir-216_126_467.pdf Graphic file (type pdf)
 
 <use ./Images/Cluster_images/mir-216_126_467.pdf>
 Package pdftex.def Info: ./Images/Cluster_images/mir-216_126_467.pdf used on in
-put line 230.
+put line 235.
 (pdftex.def)             Requested size: 239.45732pt x 34.14322pt.
 
-Overfull \hbox (89.65459pt too wide) in paragraph at lines 230--231
+Overfull \hbox (89.65459pt too wide) in paragraph at lines 235--236
  [][] 
  []
 
@@ -625,10 +621,10 @@ File: ./Images/Cluster_images/mir-34_11A_435.pdf Graphic file (type pdf)
 
 <use ./Images/Cluster_images/mir-34_11A_435.pdf>
 Package pdftex.def Info: ./Images/Cluster_images/mir-34_11A_435.pdf used on inp
-ut line 236.
+ut line 241.
 (pdftex.def)             Requested size: 201.63683pt x 34.14322pt.
 
-Overfull \hbox (51.83409pt too wide) in paragraph at lines 236--237
+Overfull \hbox (51.83409pt too wide) in paragraph at lines 241--242
  [][] 
  []
 
@@ -637,10 +633,10 @@ File: ./Images/Cluster_images/mir-92_281_4336.pdf Graphic file (type pdf)
 
 <use ./Images/Cluster_images/mir-92_281_4336.pdf>
 Package pdftex.def Info: ./Images/Cluster_images/mir-92_281_4336.pdf used on in
-put line 242.
+put line 247.
 (pdftex.def)             Requested size: 201.25594pt x 34.14322pt.
 
-Overfull \hbox (51.4532pt too wide) in paragraph at lines 242--243
+Overfull \hbox (51.4532pt too wide) in paragraph at lines 247--248
  [][] 
  []
 
@@ -649,69 +645,69 @@ File: ./Images/Cluster_images/mir-96_138_240.pdf Graphic file (type pdf)
 
 <use ./Images/Cluster_images/mir-96_138_240.pdf>
 Package pdftex.def Info: ./Images/Cluster_images/mir-96_138_240.pdf used on inp
-ut line 248.
+ut line 253.
 (pdftex.def)             Requested size: 215.87859pt x 34.14322pt.
 
 
-LaTeX Warning: Float too large for page by 44.34326pt on input line 262.
+LaTeX Warning: Float too large for page by 44.34326pt on input line 267.
 
 [9]
 Missing character: There is no Â in font ptmri7t!
 Missing character: There is no   in font ptmri7t!
 
-Overfull \hbox (26.97902pt too wide) in paragraph at lines 286--288
+Overfull \hbox (26.97902pt too wide) in paragraph at lines 291--293
 \OT1/ptm/m/it/10 cessed into ~20-24nt molecules that can reg-u-late the gene ex
 -pres-sion post-transcriptionally.
  []
 
 [10] [11] [12]
-LaTeX Font Info:    Try loading font information for OMS+ptm on input line 325.
+LaTeX Font Info:    Try loading font information for OMS+ptm on input line 330.
 
  (/usr/local/texlive/2015/texmf-dist/tex/latex/psnfss/omsptm.fd
 File: omsptm.fd 
 )
 LaTeX Font Info:    Font shape `OMS/ptm/m/it' in size <10> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 325.
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 330.
 LaTeX Font Info:    Font shape `OMS/ptm/m/n' in size <10> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 325.
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 330.
 
 [13] <./Images/miRNA_matrix.pdf, id=58, 2260.74617pt x 1882.5286pt>
 File: ./Images/miRNA_matrix.pdf Graphic file (type pdf)
 
 <use ./Images/miRNA_matrix.pdf>
-Package pdftex.def Info: ./Images/miRNA_matrix.pdf used on input line 331.
+Package pdftex.def Info: ./Images/miRNA_matrix.pdf used on input line 336.
 (pdftex.def)             Requested size: 332.89723pt x 277.1966pt.
 
 <./Images/last_tree.png, id=59, 896.34875pt x 611.28375pt>
 File: ./Images/last_tree.png Graphic file (type png)
 
 <use ./Images/last_tree.png>
-Package pdftex.def Info: ./Images/last_tree.png used on input line 353.
+Package pdftex.def Info: ./Images/last_tree.png used on input line 358.
 (pdftex.def)             Requested size: 213.39566pt x 145.5265pt.
 
 <./Images/cluster_number.pdf, id=60, 428.60126pt x 149.55875pt>
 File: ./Images/cluster_number.pdf Graphic file (type pdf)
 
 <use ./Images/cluster_number.pdf>
-Package pdftex.def Info: ./Images/cluster_number.pdf used on input line 363.
+Package pdftex.def Info: ./Images/cluster_number.pdf used on input line 368.
 (pdftex.def)             Requested size: 210.55022pt x 73.47156pt.
 
 <./Images/density.pdf, id=61, 335.2525pt x 263.98625pt>
 File: ./Images/density.pdf Graphic file (type pdf)
 
 <use ./Images/density.pdf>
-Package pdftex.def Info: ./Images/density.pdf used on input line 363.
+Package pdftex.def Info: ./Images/density.pdf used on input line 368.
 (pdftex.def)             Requested size: 210.55022pt x 165.79259pt.
 
 
 Class SVMult Warning: \sidecaption: No sufficient room for the legend; 
-using normal \caption on input line 363.
+using normal \caption on input line 368.
 
 <./Images/vennmiRNAs.pdf, id=62, 578.16pt x 722.7pt>
 File: ./Images/vennmiRNAs.pdf Graphic file (type pdf)
 
 <use ./Images/vennmiRNAs.pdf>
-Package pdftex.def Info: ./Images/vennmiRNAs.pdf used on input line 371.
+Package pdftex.def Info: ./Images/vennmiRNAs.pdf used on input line 376.
 (pdftex.def)             Requested size: 213.39566pt x 266.74419pt.
 Missing character: There is no â in font ptmri7t!
 Missing character: There is no ˆ in font ptmri7t!
@@ -727,14 +723,14 @@ Missing character: There is no ˆ in font ptmri7t!
 Missing character: There is no ’ in font ptmri7t!
 Missing character: There is no Â in font ptmri7t!
 Missing character: There is no ± in font ptmri7t!
-LaTeX Font Info:    Try loading font information for OML+ptm on input line 411.
+LaTeX Font Info:    Try loading font information for OML+ptm on input line 416.
 
 
 (/usr/local/texlive/2015/texmf-dist/tex/latex/psnfss/omlptm.fd
 File: omlptm.fd 
 )
 LaTeX Font Info:    Font shape `OML/ptm/m/it' in size <10> not available
-(Font)              Font shape `OML/cmm/m/it' tried instead on input line 411.
+(Font)              Font shape `OML/cmm/m/it' tried instead on input line 416.
  [14] [15]
 [16] [17] [18] [19] [20]
 Missing character: There is no Î in font ptmri7t!
@@ -800,7 +796,7 @@ LaTeX Warning: There were undefined references.
 Here is how much of TeX's memory you used:
  3942 strings out of 493089
  61323 string characters out of 6134842
- 137644 words of memory out of 5000000
+ 137643 words of memory out of 5000000
  7329 multiletter control sequences out of 15000+600000
  38442 words of font info for 78 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
@@ -815,7 +811,7 @@ texmf-dist/fonts/type1/urw/times/utmb8a.pfb></usr/local/texlive/2015/texmf-dist
 pe1/urw/times/utmr8a.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/urw/ti
 mes/utmr8a.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/urw/times/utmri8
 a.pfb>
-Output written on tunicates_ncrna.pdf (31 pages, 1500935 bytes).
+Output written on tunicates_ncrna.pdf (31 pages, 1501262 bytes).
 PDF statistics:
  2873 PDF objects out of 2984 (max. 8388607)
  1906 compressed objects within 20 object streams
