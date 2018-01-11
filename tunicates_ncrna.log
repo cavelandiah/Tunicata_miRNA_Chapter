@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2015.5.24)  11 JAN 2018 00:24
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2015.5.24)  11 JAN 2018 01:00
 entering extended mode
  \write18 enabled.
  file:line:error style messages enabled.
@@ -721,6 +721,7 @@ Missing character: There is no ’ in font ptmri7t!
 Missing character: There is no â in font ptmri7t!
 Missing character: There is no ˆ in font ptmri7t!
 Missing character: There is no ’ in font ptmri7t!
+ [14]
 Missing character: There is no Â in font ptmri7t!
 Missing character: There is no ± in font ptmri7t!
 LaTeX Font Info:    Try loading font information for OML+ptm on input line 416.
@@ -731,8 +732,8 @@ File: omlptm.fd
 )
 LaTeX Font Info:    Font shape `OML/ptm/m/it' in size <10> not available
 (Font)              Font shape `OML/cmm/m/it' tried instead on input line 416.
- [14] [15]
-[16] [17] [18] [19] [20]
+ [15] [16]
+[17] [18] [19] [20]
 Missing character: There is no Î in font ptmri7t!
 Missing character: There is no ² in font ptmri7t!
 Missing character: There is no Î in font ptmri7t!
@@ -740,13 +741,13 @@ Missing character: There is no ² in font ptmri7t!
  [21] [22] [23] (./tunicates_ncrna.bbl [24]
 LaTeX Font Info:    Font shape `OML/ptm/m/n' in size <8.5> not available
 (Font)              Font shape `OML/cmm/m/it' tried instead on input line 163.
-
+ [25]
 Underfull \hbox (badness 1888) in paragraph at lines 181--185
 []\OT1/ptm/m/n/8.5 David Lan-gen-berger, Clara Bermudez-Santana, Jana Her-tel, 
 Steve Hoff-mann, Philipp
  []
 
-[25] [26]
+[26]
 Missing character: There is no â in font ptmr7t!
 Missing character: There is no € in font ptmr7t!
 Missing character: There is no ² in font ptmr7t!
@@ -794,11 +795,11 @@ LaTeX Warning: There were undefined references.
 
  ) 
 Here is how much of TeX's memory you used:
- 3942 strings out of 493089
- 61323 string characters out of 6134842
- 137643 words of memory out of 5000000
- 7329 multiletter control sequences out of 15000+600000
- 38442 words of font info for 78 fonts, out of 8000000 for 9000
+ 3946 strings out of 493089
+ 61369 string characters out of 6134842
+ 136643 words of memory out of 5000000
+ 7331 multiletter control sequences out of 15000+600000
+ 41612 words of font info for 82 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  42i,8n,40p,2571b,394s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/local/texlive/2015/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/local/t
@@ -811,7 +812,7 @@ texmf-dist/fonts/type1/urw/times/utmb8a.pfb></usr/local/texlive/2015/texmf-dist
 pe1/urw/times/utmr8a.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/urw/ti
 mes/utmr8a.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/urw/times/utmri8
 a.pfb>
-Output written on tunicates_ncrna.pdf (31 pages, 1501262 bytes).
+Output written on tunicates_ncrna.pdf (31 pages, 1501462 bytes).
 PDF statistics:
  2873 PDF objects out of 2984 (max. 8388607)
  1906 compressed objects within 20 object streams
