@@ -42,8 +42,4 @@
 \contentsline {subsubsection}{\numberline {3.3.6}Tangetal2013.pdf}{21}
 \contentsline {subsubsection}{\numberline {3.3.7}Spina2017.pdf}{21}
 \contentsline {section}{\numberline {4}Other ncRNAs associated to development}{22}
-\contentsline {subsection}{\numberline {4.1}Yellow Crescent RNA}{22}
-\contentsline {subsection}{\numberline {4.2}MicroRNA-offset RNAs}{22}
-\contentsline {subsection}{\numberline {4.3}Long Noncoding RNA RMST}{23}
-\contentsline {subsection}{\numberline {4.4}Splices-leader RNA}{24}
 \contentsline {section}{References}{24}

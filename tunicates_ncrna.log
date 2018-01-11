@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2015.5.24)  11 JAN 2018 01:00
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2015.5.24)  11 JAN 2018 01:28
 entering extended mode
  \write18 enabled.
  file:line:error style messages enabled.
@@ -797,7 +797,7 @@ LaTeX Warning: There were undefined references.
 Here is how much of TeX's memory you used:
  3946 strings out of 493089
  61369 string characters out of 6134842
- 136643 words of memory out of 5000000
+ 137643 words of memory out of 5000000
  7331 multiletter control sequences out of 15000+600000
  41612 words of font info for 82 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
@@ -812,7 +812,7 @@ texmf-dist/fonts/type1/urw/times/utmb8a.pfb></usr/local/texlive/2015/texmf-dist
 pe1/urw/times/utmr8a.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/urw/ti
 mes/utmr8a.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/urw/times/utmri8
 a.pfb>
-Output written on tunicates_ncrna.pdf (31 pages, 1501462 bytes).
+Output written on tunicates_ncrna.pdf (31 pages, 1501317 bytes).
 PDF statistics:
  2873 PDF objects out of 2984 (max. 8388607)
  1906 compressed objects within 20 object streams
