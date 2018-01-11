@@ -17,7 +17,7 @@
 
 %opening
 \title{Non-protein-coding RNAs as a regulators of development in tunicates}
-\author{cavh}
+\author{Cristian Velandia}
 
 \begin{document}
 
@@ -46,9 +46,7 @@ In this case, all the sequences that contains at least one $M_{i}$ miRNA family 
 With $\mathcal{B}$ an implementation of multiple alignments, implemented by Reztlaff (2017) was applied in order to detect the conserved blocks in all pairwise alignments. In this way the implementation allowed the detection of those conserved blocks of $M_{i} \subseteq \mathcal{B}$.
 
 \subsubsection*{Results}
- Applying the last strategy to detect miRNA's clusters granted the option to study the conserved elements along chordate's genomes. As shown in Figure \ref{fig:sizeCluster}, directly with the location form those miRNA elements have been possible to identify the number and the length of those identified regions along all the studied genomes. In this case, the cluster that contains the greatest number of miRNAs elements ($60$) is located on \textit{D. rerio} genome: \texttt{Chromosome $4$:$28738556$-$28754891$}, for tunicates on \textit{C. intestinalis}: \texttt{Chromosome $7$:$4153284$-$4156782$} with $23$ elements, and in \textit{B. floridae}: \texttt{Bf\_V2\_118: $216744$-$220351$} only $5$ miRNAs have been detected. According to this data, complemented by the information from Figure \ref{fig:sizeCluster}, the estimation along all chordate groups shown that in cluster's detected on tunicates is possible to identify clusters that contain more miRNA's elements per Mb, in comparison to Cephalochordata and Vertebrata. %Aplicar t-student o kruskal.w para stat test.
- In complement, Table \ref{tab:detailBigClusters} describe the families miRNAs 
-located inside the largest clusters fore each specie.
+Applying the last strategy to detect miRNA's clusters granted the option to study the conserved elements along chordate's genomes. As shown in Figure \ref{fig:sizeCluster}, directly with the location form those miRNA elements have been possible to identify the number and the length of those identified regions along all the studied genomes. In this case, the cluster that contains the greatest number of miRNAs elements ($60$) is located on \textit{D. rerio} genome: \texttt{Chromosome $4$:$28738556$-$28754891$}, for tunicates on \textit{C. intestinalis}: \texttt{Chromosome $7$:$4153284$-$4156782$} with $23$ elements, and in \textit{B. floridae}: \texttt{Bf\_V2\_118: $216744$-$220351$} only $5$ miRNAs have been detected (for further details Table \ref{tab:detailBigClusters} describe the miRNAs families located inside the largest clusters for each specie). Additionally, is more frequent to found clusters that contain $2$ miRNAs families, but is also important to know that the relation between the number of miRNAs inside a cluster and the cluster's length is higher on tunicates and cephalochordates in comparison to vertebrates, it means that inside the identified clusters along vertebrates the miRNAs elements are more distant between them. 
 
 \begin{longtable}{p{1 cm}p{2.3 cm}p{2 cm}p{2 cm}p{2 cm}p{1.5 cm}p{1.8 cm}p{3 cm}}
 \textbf{Clade}&\textbf{Specie} & \textbf{Chr} & \textbf{Start} & \textbf{End} & \textbf{Size(Mb)} & \textbf{No. miRNAs} & \textbf{Elements} \\
@@ -75,14 +73,12 @@ V & \textit{L. chalumnae} & JH126646.1 & $1529355$ & $1882777$ & $353422$ & $7$ 
 \end{figure}
 
 Comparison between miRNA clusters have been calculated in order to access to the 
-most conserved set of miRNA families inside in a cluster. Conserved blocks have 
-been detected on all species and the following miRNAs are inside a 
-cluster and also sharing conserved blocks with another species: let-7, mir-1, 
+most conserved set of miRNA families inside chordate's clusters. As a result, the following miRNAs families were identified being part of specific clusters regions: let-7, mir-1, 
 MIR1122, mir-130, mir-132, mir-133, mir-135, mir-146, mir-15, mir-17, mir-181, 
 mir-183, MIR1846, mir-186, mir-19, mir-193, mir-216, mir-219, mir-23, mir-24, 
 mir-242, mir-25, mir-27, mir-286, mir-29, mir-2985-2, mir-30, mir-34, mir-395, 
-mir-454, mir-489, MIR535, mir-8, mir-9. Details about the nature of this 
-elements are described on Figure \ref{fig:clusterDetail} \CAVH{Working...}.
+mir-454, mir-489, MIR535, mir-8, mir-9 (Figure \ref{fig:clusterDetail}).
+The distribution of miRNAs families on let-7 cluster are spanning all the chordates clade, it is evident that in vertebrate species (\textit{D. rerio} and \textit{L. chalumnae}) exists more than one let-7 cluster, expanding the loci definition that is not restricted only for one element but for a cluster of elements that reports different length distributions. Is important to note that let-7 is clustered sometimes with another let-7 element or with another miRNA's families. The distribution reported on amphioxus is composed by 2 let-7 and 2 mir-10, this cluster architecture almost conserved on vertebrates that apparently inverted the order and split the relation between let-7 and mir-10, creating two different cluster order groups: 1let-7 + 2 mir-10  and 2 let-7 + other families. In this way, tunicates reported the latter group, not including mir-10 on the cluster but including mir-233 or even mir-1473.
 
 \begin{figure}[ht!]
 \centering
@@ -213,7 +209,6 @@ mir-8, mir-153, mir-1, mir-216, mir-190, mir-133 and mir-31.
 From the most conserved miRNAs families \textit{O. dioica} and 
 \textit{S. thompsoni} has been lost about $40$\% and $50$\% of those 
 conserved families, respectively. 
-
 
 At the same time, the state of those conserved elements in Protostomata, 
 Cephalochordata and Vertebrata show evident lost about $\sim 10$\% of the 
