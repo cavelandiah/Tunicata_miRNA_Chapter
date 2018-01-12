@@ -3,23 +3,31 @@
 \bibitem{Brozovic2017}
 Matija Brozovic, Christelle Dantec, Justine Dardaillon, Delphine Dauga,
   Emmanuel Faure, Mathieu Gineste, Alexandra Louis, Magali Naville, Kazuhiro~R.
-  Nitta, Jacques Piette, Wendy Reeves, Céline Scornavacca, Paul Simion, Renaud
-  Vincentelli, Maelle Bellec, Sameh~Ben Aicha, Marie Fagotto, Marion
-  Guéroult-Bellone, Maximilian Haeussler, Edwin Jacox, Elijah~K. Lowe, Mickael
-  Mendez, Alexis Roberge, Alberto Stolfi, Rui Yokomori, C.~Titus Brown,
-  Christian Cambillau, Lionel Christiaen, Frédéric Delsuc, Emmanuel Douzery,
-  Rémi Dumollard, Takehiro Kusakabe, Kenta Nakai, Hiroki Nishida, Yutaka
-  Satou, Billie Swalla, Michael Veeman, Jean-Nicolas Volff, and Patrick
+  Nitta, Jacques Piette, Wendy Reeves, C{\'e}line Scornavacca, Paul Simion,
+  Renaud Vincentelli, Maelle Bellec, Sameh~Ben Aicha, Marie Fagotto, Marion
+  Gu{\'e}roult-Bellone, Maximilian Haeussler, Edwin Jacox, Elijah~K. Lowe,
+  Mickael Mendez, Alexis Roberge, Alberto Stolfi, Rui Yokomori, C.~Titus Brown,
+  Christian Cambillau, Lionel Christiaen, Fr{\'e}d{\'e}ric Delsuc, Emmanuel
+  Douzery, R{\'e}mi Dumollard, Takehiro Kusakabe, Kenta Nakai, Hiroki Nishida,
+  Yutaka Satou, Billie Swalla, Michael Veeman, Jean-Nicolas Volff, and Patrick
   Lemaire.
 \newblock Aniseed 2017: extending the integrated ascidian database to the
   exploration and evolutionary comparison of genome-scale datasets.
 \newblock {\em Nucleic Acids Research}, page gkx1108, 2017.
 
 \bibitem{Csuos2010}
-Miklós Csűös.
+Mikl{\'o}s Cs{\H u}{\"o}s.
 \newblock Count: evolutionary analysis of phylogenetic profiles with parsimony
   and likelihood.
 \newblock {\em Bioinformatics}, 26(15):1910--1912, 2010.
+
+\bibitem{Delsuc236448}
+Frederic Delsuc, Herve Philippe, Georgia Tsagkogeorga, Paul Simion, Marie-Ka
+  Tilak, Xavier Turon, Susanna Lopez-Legentil, Jacques Piette, Patrick Lemaire,
+  and Emmanuel J.~P. Douzery.
+\newblock A phylogenomic framework and timescale for comparative genomics and
+  evolutionary developmental biology of tunicates.
+\newblock {\em bioRxiv}, 2017.
 
 \bibitem{Hertel2015}
 Jana Hertel and Peter Stadler.
@@ -39,14 +47,6 @@ Ana Kozomara and Sam Griffiths-Jones.
 \newblock mirbase: annotating high confidence micrornas using deep sequencing
   data.
 \newblock {\em Nucleic Acids Research}, 42(D1):D68--D73, 2014.
-
-\bibitem{Simion2016}
-P.~Simion, C.~Scornavacca, J.~Coulcher, S.~Darras, C.~Dantec, J.~Piette,
-  P.~Lemaire, E.J.P. Douzery, and F.~Delsuc.
-\newblock Tunicate phylofenomics: Building a large molecular dataset to
-  reconstruct evolutionary relationships among fast-evolving tunicates.
-\newblock In {\em Molecules as documents of evolutionary history: 50 years
-  after}, Roscoff Marine Station, May 2016.
 
 \bibitem{Stolfi2014}
 Alberto Stolfi, Elijah~K Lowe, Claudia Racioppi, Filomena Ristoratore, C~Titus
