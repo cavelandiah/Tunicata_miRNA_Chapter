@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2015.5.24)  11 JAN 2018 01:28
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2015.5.24)  21 JAN 2018 01:49
 entering extended mode
  \write18 enabled.
  file:line:error style messages enabled.
@@ -257,81 +257,67 @@ Package footmisc Info: Declaring symbol style lamport* on input line 903.
 Package footmisc Info: Declaring symbol style lamport*-robust on input line 924
 .
 )
-(/usr/local/texlive/2015/texmf-dist/tex/latex/caption/subcaption.sty
-Package: subcaption 2013/02/03 v1.1-62 Sub-captions (AR)
-
-(/usr/local/texlive/2015/texmf-dist/tex/latex/caption/caption.sty
-Package: caption 2013/05/02 v3.3-89 Customizing captions (AR)
-
-(/usr/local/texlive/2015/texmf-dist/tex/latex/caption/caption3.sty
-Package: caption3 2013/05/02 v1.6-88 caption3 kernel (AR)
-Package caption3 Info: TeX engine: e-TeX on input line 57.
-\captionmargin=\dimen143
-\captionmargin@=\dimen144
-\captionwidth=\dimen145
-\caption@tempdima=\dimen146
-\caption@indent=\dimen147
-\caption@parindent=\dimen148
-\caption@hangindent=\dimen149
-Package caption Info: Unknown document class (or package),
-(caption)             standard defaults will be used.
-)
-
-Package caption Warning: Unsupported document class (or package) detected,
-(caption)                usage of the caption package is not recommended.
-See the caption package documentation for explanation.
-
-Package caption Info: \@makecaption = \long macro:#1#2->\captionstyle \ifx \@ca
-ptype \fig@type \vskip \figcapgap \fi \setbox \@tempboxa \hbox {{\floatlegendst
-yle #1\floatcounterend }\capstrut #2}\ifdim \wd \@tempboxa >\hsize {\floatlegen
-dstyle #1\floatcounterend }\capstrut #2\par \else \hbox to\hsize {\leftlegendgl
-ue \unhbox \@tempboxa \hfil }\fi \ifx \@captype \fig@type \else \vskip \tabcapg
-ap \fi .
-\c@ContinuedFloat=\count121
-)
-\c@subfigure=\count122
-\c@subtable=\count123
+(/usr/local/texlive/2015/texmf-dist/tex/latex/tools/longtable.sty
+Package: longtable 2014/10/28 v4.11 Multi-page Table package (DPC)
+\LTleft=\skip46
+\LTright=\skip47
+\LTpre=\skip48
+\LTpost=\skip49
+\LTchunksize=\count121
+\LTcapwidth=\dimen143
+\LT@head=\box55
+\LT@firsthead=\box56
+\LT@foot=\box57
+\LT@lastfoot=\box58
+\LT@cols=\count122
+\LT@rows=\count123
+\c@LT@tables=\count124
+\c@LT@chunks=\count125
+\LT@p@ftn=\toks20
 )
 \@indexfile=\write4
 \openout4 = `tunicates_ncrna.idx'.
 
 
 Writing index file tunicates_ncrna.idx
-(./tunicates_ncrna.aux)
+(./tunicates_ncrna.aux
+
+LaTeX Warning: Label `fig:mir-1' multiply defined.
+
+)
 \openout1 = `tunicates_ncrna.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 40.
-LaTeX Font Info:    ... okay on input line 40.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 40.
-LaTeX Font Info:    ... okay on input line 40.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 40.
-LaTeX Font Info:    ... okay on input line 40.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 40.
-LaTeX Font Info:    ... okay on input line 40.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 40.
-LaTeX Font Info:    ... okay on input line 40.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 40.
-LaTeX Font Info:    ... okay on input line 40.
-LaTeX Font Info:    Try loading font information for OT1+ptm on input line 40.
-
-(/usr/local/texlive/2015/texmf-dist/tex/latex/psnfss/ot1ptm.fd
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 41.
+LaTeX Font Info:    ... okay on input line 41.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 41.
+LaTeX Font Info:    ... okay on input line 41.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 41.
+LaTeX Font Info:    ... okay on input line 41.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 41.
+LaTeX Font Info:    ... okay on input line 41.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 41.
+LaTeX Font Info:    ... okay on input line 41.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 41.
+LaTeX Font Info:    ... okay on input line 41.
+LaTeX Font Info:    Try loading font information for OT1+ptm on input line 41.
+ (/usr/local/texlive/2015/texmf-dist/tex/latex/psnfss/ot1ptm.fd
 File: ot1ptm.fd 2001/06/04 font definitions for OT1/ptm.
 )
 (/usr/local/texlive/2015/texmf-dist/tex/context/base/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count124
-\scratchdimen=\dimen150
-\scratchbox=\box55
-\nofMPsegments=\count125
-\nofMParguments=\count126
-\everyMPshowfont=\toks20
-\MPscratchCnt=\count127
-\MPscratchDim=\dimen151
-\MPnumerator=\count128
-\makeMPintoPDFobject=\count129
-\everyMPtoPDFconversion=\toks21
+\scratchcounter=\count126
+\scratchdimen=\dimen144
+\scratchbox=\box59
+\nofMPsegments=\count127
+\nofMParguments=\count128
+\everyMPshowfont=\toks21
+\MPscratchCnt=\count129
+\MPscratchDim=\dimen145
+\MPnumerator=\count130
+\makeMPintoPDFobject=\count131
+\everyMPtoPDFconversion=\toks22
 )
-\big@size=\dimen152
+\big@size=\dimen146
  (/usr/local/texlive/2015/texmf-dist/tex/generic/oberdiek/pdftexcmds.sty
 Package: pdftexcmds 2011/11/29 v0.20 Utility functions of pdfTeX for LuaTeX (HO
 )
@@ -380,36 +366,11 @@ G,.JBIG2,.JB2,.eps]
 File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
 e
 ))
-Package caption Info: Begin \AtBeginDocument code.
-Package caption Info: Incompatible package detected (regarding \@caption).
-(caption)             \@caption = \long macro:#1[#2]#3->\par \addcontentsline {
-\csname ext@#1\endcsname }{#1}{\protect \numberline {\csname the#1\endcsname }{
-\ignorespaces #2}}\begingroup \@parboxrestore \if@minipage \@setminipage \fi \@
-makecaption {\csname fnum@#1\endcsname }{\ignorespaces #3}\par \endgroup .
-
-
-Package caption Warning: \caption will not be redefined since it's already
-(caption)                redefined by a document class or package which is
-(caption)                unknown to the caption package.
-See the caption package documentation for explanation.
-
-
-./tunicates_ncrna.tex:40: Package caption Error: The `subcaption' package does 
-not work correctly
-(caption)                in compatibility mode.
-
-See the caption package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.40 \begin{document}
-                     
-? 
-Package caption Info: End \AtBeginDocument code.
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <16> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 41.
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 42.
 
-Package mathptmx Warning: There are no bold math fonts on input line 41.
+
+Package mathptmx Warning: There are no bold math fonts on input line 42.
 
 (./tunicates_ncrna.toc
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <10> not available
@@ -455,259 +416,803 @@ LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <6> not available
 
 ]
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <14> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 56.
-LaTeX Font Info:    Calculating math sizes for size <8.5> on input line 56.
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 57.
+LaTeX Font Info:    Calculating math sizes for size <8.5> on input line 57.
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <8.5> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 56.
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 57.
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <6.29004> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 56.
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 57.
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <5.10005> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 56.
-LaTeX Font Info:    Try loading font information for OT1+pcr on input line 62.
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 57.
+LaTeX Font Info:    Try loading font information for OT1+pcr on input line 63.
 
 (/usr/local/texlive/2015/texmf-dist/tex/latex/psnfss/ot1pcr.fd
 File: ot1pcr.fd 2001/06/04 font definitions for OT1/pcr.
 )
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <12> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 66.
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 67.
  [3]
 LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <12> not available
-(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 76.
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 77.
 
 
-LaTeX Warning: Citation `Ameres:13' on page 4 undefined on input line 81.
+LaTeX Warning: Citation `Ameres:13' on page 4 undefined on input line 82.
 
 
-LaTeX Warning: Citation `Cerutti:06' on page 4 undefined on input line 83.
+LaTeX Warning: Citation `Cerutti:06' on page 4 undefined on input line 84.
 
 
-LaTeX Warning: Citation `Shabalina:08' on page 4 undefined on input line 83.
+LaTeX Warning: Citation `Shabalina:08' on page 4 undefined on input line 84.
 
 
-Overfull \hbox (23.81934pt too wide) in paragraph at lines 86--102
+Overfull \hbox (23.81934pt too wide) in paragraph at lines 87--103
 []\OT1/ptm/m/n/10 Throughout an-i-mals, canon-i-cal miR-NAs are the pro-cessed 
 through a well-characterized
  []
 
 
-LaTeX Warning: Citation `Price:11' on page 4 undefined on input line 109.
+LaTeX Warning: Citation `Price:11' on page 4 undefined on input line 110.
 
 
-LaTeX Warning: Citation `Tanzer:04a' on page 4 undefined on input line 118.
+LaTeX Warning: Citation `Tanzer:04a' on page 4 undefined on input line 119.
 
 
-LaTeX Warning: Citation `Hertel:12a' on page 4 undefined on input line 118.
+LaTeX Warning: Citation `Hertel:12a' on page 4 undefined on input line 119.
 
 
-LaTeX Warning: Citation `Fu:08' on page 4 undefined on input line 126.
+LaTeX Warning: Citation `Fu:08' on page 4 undefined on input line 127.
 
 [4]
 
-LaTeX Warning: Citation `Bentwich:05' on page 5 undefined on input line 130.
+LaTeX Warning: Citation `Bentwich:05' on page 5 undefined on input line 131.
 
 
-LaTeX Warning: Citation `Berezikov:06' on page 5 undefined on input line 130.
+LaTeX Warning: Citation `Berezikov:06' on page 5 undefined on input line 131.
 
 
-LaTeX Warning: Citation `Lu:08' on page 5 undefined on input line 133.
+LaTeX Warning: Citation `Lu:08' on page 5 undefined on input line 134.
 
 
-LaTeX Warning: Citation `Tanzer:04a' on page 5 undefined on input line 136.
+LaTeX Warning: Citation `Tanzer:04a' on page 5 undefined on input line 137.
 
 
-LaTeX Warning: Citation `CampoPaysaa:11' on page 5 undefined on input line 136.
+LaTeX Warning: Citation `CampoPaysaa:11' on page 5 undefined on input line 137.
 
 
 
-LaTeX Warning: Citation `Marco:13' on page 5 undefined on input line 136.
+LaTeX Warning: Citation `Marco:13' on page 5 undefined on input line 137.
 
 
-LaTeX Warning: Citation `Liang:09' on page 5 undefined on input line 142.
+LaTeX Warning: Citation `Liang:09' on page 5 undefined on input line 143.
 
 
-LaTeX Warning: Citation `Meunier:12' on page 5 undefined on input line 142.
+LaTeX Warning: Citation `Meunier:12' on page 5 undefined on input line 143.
 
 
-LaTeX Warning: Citation `Lee:07a' on page 5 undefined on input line 145.
+LaTeX Warning: Citation `Lee:07a' on page 5 undefined on input line 146.
 
 
-LaTeX Warning: Citation `Niwa:07' on page 5 undefined on input line 153.
+LaTeX Warning: Citation `Niwa:07' on page 5 undefined on input line 154.
 
 
-LaTeX Warning: Citation `Prochnik:07' on page 5 undefined on input line 153.
+LaTeX Warning: Citation `Prochnik:07' on page 5 undefined on input line 154.
 
 
-LaTeX Warning: Citation `Lee:07a' on page 5 undefined on input line 153.
+LaTeX Warning: Citation `Lee:07a' on page 5 undefined on input line 154.
 
 
-LaTeX Warning: Citation `Peterson:09' on page 5 undefined on input line 153.
+LaTeX Warning: Citation `Peterson:09' on page 5 undefined on input line 154.
 
 
-LaTeX Warning: Citation `Berezikov:11' on page 5 undefined on input line 153.
+LaTeX Warning: Citation `Berezikov:11' on page 5 undefined on input line 154.
 
 
-LaTeX Warning: Citation `Tanzer:10a' on page 5 undefined on input line 155.
+LaTeX Warning: Citation `Tanzer:10a' on page 5 undefined on input line 156.
 
 
-LaTeX Warning: Citation `Fu:08' on page 5 undefined on input line 160.
+LaTeX Warning: Citation `Fu:08' on page 5 undefined on input line 161.
 
 
-LaTeX Warning: Citation `Dai:09' on page 5 undefined on input line 160.
+LaTeX Warning: Citation `Dai:09' on page 5 undefined on input line 161.
 
 [5] [6] [7] [8]
-<./Images/Cluster_images/let-7_101_128.pdf, id=34, 853.93283pt x 515.47795pt>
+Underfull \hbox (badness 10000) in paragraph at lines 212--212
+[]|\OT1/ptm/b/n/10 Size
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 215--216
+[]|\OT1/ptm/m/n/10 bfl-mir-4869,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 215--216
+\OT1/ptm/m/n/10 bfl-mir-4857,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 215--216
+\OT1/ptm/m/n/10 bfl-mir-4862,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 215--216
+\OT1/ptm/m/n/10 bfl-mir-4856b,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 216--217
+[]|\OT1/ptm/m/n/10 odi-mir-1497e,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 216--217
+\OT1/ptm/m/n/10 odi-mir-1497d-2,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 216--217
+\OT1/ptm/m/n/10 odi-mir-1497d-1,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 216--217
+\OT1/ptm/m/n/10 odi-mir-1497c,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 216--217
+\OT1/ptm/m/n/10 odi-mir-1497b,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 218--219
+[]|\OT1/ptm/m/n/10 cin-mir-4006d,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 218--219
+\OT1/ptm/m/n/10 cin-mir-4006c,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 218--219
+\OT1/ptm/m/n/10 cin-mir-4001b-2,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 218--219
+\OT1/ptm/m/n/10 cin-mir-4000i,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 218--219
+\OT1/ptm/m/n/10 cin-mir-4006g,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 218--219
+\OT1/ptm/m/n/10 cin-mir-4001e,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 218--219
+\OT1/ptm/m/n/10 cin-mir-4001d,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 218--219
+\OT1/ptm/m/n/10 cin-mir-4000g,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 218--219
+\OT1/ptm/m/n/10 cin-mir-4006f,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 218--219
+\OT1/ptm/m/n/10 cin-mir-4006b,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 218--219
+\OT1/ptm/m/n/10 cin-mir-4001b-1,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 218--219
+\OT1/ptm/m/n/10 cin-mir-4000c,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 218--219
+\OT1/ptm/m/n/10 cin-mir-4006e,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 218--219
+\OT1/ptm/m/n/10 cin-mir-4000b-2,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 218--219
+\OT1/ptm/m/n/10 cin-mir-4001a-1,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 218--219
+\OT1/ptm/m/n/10 cin-mir-4000b-1,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 218--219
+\OT1/ptm/m/n/10 cin-mir-4002,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 218--219
+\OT1/ptm/m/n/10 cin-mir-4000d,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 218--219
+\OT1/ptm/m/n/10 cin-mir-4001h,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 218--219
+\OT1/ptm/m/n/10 cin-mir-4000a-2,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 218--219
+\OT1/ptm/m/n/10 cin-mir-4006a-2,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 218--219
+\OT1/ptm/m/n/10 cin-mir-4006a-3,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 219--220
+[]|\OT1/ptm/m/n/10 csa-mir-216b,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 219--220
+\OT1/ptm/m/n/10 csa-mir-216a,
+ []
+
+
+Underfull \hbox (badness 3189) in paragraph at lines 220--221
+[]|\OT1/ptm/m/n/10 csa-mir-92b, csa-
+ []
+
+
+Underfull \hbox (badness 2512) in paragraph at lines 220--221
+\OT1/ptm/m/n/10 mir-92c, csa-mir-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 221--222
+[]|\OT1/ptm/m/n/8.5 dre-mir-430a-18,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 221--222
+\OT1/ptm/m/n/8.5 dre-mir-430c-18,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 221--222
+\OT1/ptm/m/n/8.5 dre-mir-430b-4,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 221--222
+\OT1/ptm/m/n/8.5 dre-mir-430a-15,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 221--222
+\OT1/ptm/m/n/8.5 dre-mir-430c-18,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 221--222
+\OT1/ptm/m/n/8.5 dre-mir-430b-5,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 221--222
+\OT1/ptm/m/n/8.5 dre-mir-430a-10,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 221--222
+\OT1/ptm/m/n/8.5 dre-mir-430c-18,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 221--222
+\OT1/ptm/m/n/8.5 dre-mir-430b-5,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 221--222
+\OT1/ptm/m/n/8.5 dre-mir-430a-15,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 221--222
+\OT1/ptm/m/n/8.5 dre-mir-430c-18,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 221--222
+\OT1/ptm/m/n/8.5 dre-mir-430b-3,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 221--222
+\OT1/ptm/m/n/8.5 dre-mir-430a-10,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 221--222
+\OT1/ptm/m/n/8.5 dre-mir-430c-18,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 221--222
+\OT1/ptm/m/n/8.5 dre-mir-430b-8,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 221--222
+\OT1/ptm/m/n/8.5 dre-mir-430a-15,
+ []
+
+
+Underfull \hbox (badness 1337) in paragraph at lines 221--222
+\OT1/ptm/m/n/8.5 mir-430b-5, dre-mir-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 221--222
+\OT1/ptm/m/n/8.5 430a-17, miR-430,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 221--222
+\OT1/ptm/m/n/8.5 dre-mir-430b-20,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 221--222
+\OT1/ptm/m/n/8.5 dre-mir-430a-10,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 221--222
+\OT1/ptm/m/n/8.5 dre-mir-430c-18,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 221--222
+\OT1/ptm/m/n/8.5 dre-mir-430b-5,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 221--222
+\OT1/ptm/m/n/8.5 dre-mir-430i-3,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 221--222
+\OT1/ptm/m/n/8.5 dre-mir-430c-18,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 221--222
+\OT1/ptm/m/n/8.5 dre-mir-430b-3,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 221--222
+\OT1/ptm/m/n/8.5 dre-mir-430a-10,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 221--222
+\OT1/ptm/m/n/8.5 dre-mir-430c-18,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 221--222
+\OT1/ptm/m/n/8.5 dre-mir-430b-8,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 221--222
+\OT1/ptm/m/n/8.5 dre-mir-430a-11,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 221--222
+\OT1/ptm/m/n/8.5 dre-mir-430c-18,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 221--222
+\OT1/ptm/m/n/8.5 dre-mir-430b-5,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 221--222
+\OT1/ptm/m/n/8.5 dre-mir-430i-3,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 221--222
+\OT1/ptm/m/n/8.5 dre-mir-430c-18,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 221--222
+\OT1/ptm/m/n/8.5 dre-mir-430b-19,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 221--222
+\OT1/ptm/m/n/8.5 dre-mir-430a-10,
+ []
+
+
+Underfull \hbox (badness 1337) in paragraph at lines 221--222
+\OT1/ptm/m/n/8.5 mir-430b-5, dre-mir-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 221--222
+\OT1/ptm/m/n/8.5 430a-17, miR-430,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 221--222
+\OT1/ptm/m/n/8.5 dre-mir-430b-20,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 221--222
+\OT1/ptm/m/n/8.5 dre-mir-430a-10,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 221--222
+\OT1/ptm/m/n/8.5 dre-mir-430c-18,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 221--222
+\OT1/ptm/m/n/8.5 dre-mir-430b-5,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 221--222
+\OT1/ptm/m/n/8.5 dre-mir-430i-3,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 221--222
+\OT1/ptm/m/n/8.5 dre-mir-430c-18,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 221--222
+\OT1/ptm/m/n/8.5 dre-mir-430b-19,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 221--222
+\OT1/ptm/m/n/8.5 dre-mir-430a-10,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 221--222
+\OT1/ptm/m/n/8.5 dre-mir-430c-18,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 221--222
+\OT1/ptm/m/n/8.5 dre-mir-430b-5,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 221--222
+\OT1/ptm/m/n/8.5 dre-mir-430a-15,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 221--222
+\OT1/ptm/m/n/8.5 dre-mir-430c-18,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 221--222
+\OT1/ptm/m/n/8.5 dre-mir-430b-3,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 221--222
+\OT1/ptm/m/n/8.5 dre-mir-430a-10,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 221--222
+\OT1/ptm/m/n/8.5 dre-mir-430c-18,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 221--222
+\OT1/ptm/m/n/8.5 dre-mir-430b-8,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 221--222
+\OT1/ptm/m/n/8.5 dre-mir-430a-15,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 221--222
+\OT1/ptm/m/n/8.5 dre-mir-430c-18,
+ []
+
+
+Overfull \hbox (52.29807pt too wide) in alignment at lines 206--224
+ [] [] [] [] [] [] [] 
+ []
+
+[9] [10] [11]
+./tunicates_ncrna.tex:231: Undefined control sequence.
+l.231 \CAVH
+           {My main concerns here that the cluster cluster let-7/miR-125/miR...
+
+? 
+
+LaTeX Warning: Reference `let7-mir125-mir1473' on page 12 undefined on input li
+ne 231.
+
+
+LaTeX Warning: Reference `evolutionlet7' on page 12 undefined on input line 231
+.
+
+
+LaTeX Warning: Reference `mir-183' on page 12 undefined on input line 235.
+
+
+LaTeX Warning: Reference `let7paralogs' on page 12 undefined on input line 235.
+
+
+./tunicates_ncrna.tex:235: Undefined control sequence.
+l.235 ...nas is shown in \ref{let7paralogs}. \CAVH
+                                                  {Unfortunately is not seen...
+
+? 
+[12]
+
+LaTeX Warning: Reference `mir-1/mir-133' on page 13 undefined on input line 237
+.
+
+
+LaTeX Warning: Reference `mir4091' on page 13 undefined on input line 237.
+
+
+LaTeX Warning: Reference `7qf' on page 13 undefined on input line 237.
+
+
+LaTeX Warning: Reference `7qs' on page 13 undefined on input line 237.
+
+
+LaTeX Warning: Reference `7qother' on page 13 undefined on input line 237.
+
+
+LaTeX Warning: Reference `1q-10q' on page 13 undefined on input line 237.
+
+
+LaTeX Warning: Reference `3p-7q' on page 13 undefined on input line 237.
+
+
+LaTeX Warning: Reference `3p' on page 13 undefined on input line 237.
+
+./tunicates_ncrna.tex:237: Undefined control sequence.
+l.237 ...em validated by \cite{Hendrix2010}. \CAVH
+                                                  {Please check the Table \r...
+
+? 
+
+LaTeX Warning: Reference `mir92' on page 13 undefined on input line 239.
+
+
+LaTeX Warning: Reference `mir124' on page 13 undefined on input line 239.
+
+
+LaTeX Warning: Reference `mir200' on page 13 undefined on input line 239.
+
+<./Images/Cluster_images/let-7_101_128.pdf, id=46, 882.92966pt x 596.7238pt>
 File: ./Images/Cluster_images/let-7_101_128.pdf Graphic file (type pdf)
 
 <use ./Images/Cluster_images/let-7_101_128.pdf>
 Package pdftex.def Info: ./Images/Cluster_images/let-7_101_128.pdf used on inpu
-t line 210.
-(pdftex.def)             Requested size: 424.21605pt x 256.0748pt.
-
-Overfull \hbox (91.31882pt too wide) in paragraph at lines 210--211
- [][] 
- []
-
-<./Images/Cluster_images/mir-1_119_33.pdf, id=35, 412.45845pt x 87.45699pt>
-File: ./Images/Cluster_images/mir-1_119_33.pdf Graphic file (type pdf)
-
-<use ./Images/Cluster_images/mir-1_119_33.pdf>
-Package pdftex.def Info: ./Images/Cluster_images/mir-1_119_33.pdf used on input
- line 216.
-(pdftex.def)             Requested size: 161.02806pt x 34.14322pt.
-
-Overfull \hbox (11.22533pt too wide) in paragraph at lines 216--217
- [][] 
- []
+t line 247.
+(pdftex.def)             Requested size: 332.89723pt x 224.99097pt.
 
 
-<./Images/Cluster_images/mir-181_105_2502.pdf, id=36, 415.04655pt x 62.59799pt>
+Class SVMult Warning: \sidecaption: No sufficient room for the legend; 
+using normal \caption on input line 247.
+
+
+<./Images/Cluster_images/mir-133_113_33.pdf, id=47, 433.14748pt x 153.76546pt>
+File: ./Images/Cluster_images/mir-133_113_33.pdf Graphic file (type pdf)
+
+<use ./Images/Cluster_images/mir-133_113_33.pdf>
+Package pdftex.def Info: ./Images/Cluster_images/mir-133_113_33.pdf used on inp
+ut line 255.
+(pdftex.def)             Requested size: 332.89723pt x 118.18155pt.
+
+
+Class SVMult Warning: \sidecaption: No sufficient room for the legend; 
+using normal \caption on input line 255.
+
+
+<./Images/Cluster_images/mir-181_105_2502.pdf, id=48, 443.52245pt x 122.31023pt
+>
 File: ./Images/Cluster_images/mir-181_105_2502.pdf Graphic file (type pdf)
-<use ./Images/Cluster_images/mir-181_105_2502.pdf>
+ <use ./Images/Cluster_images/mir-181_105_2502.pdf>
 Package pdftex.def Info: ./Images/Cluster_images/mir-181_105_2502.pdf used on i
-nput line 223.
-(pdftex.def)             Requested size: 226.37637pt x 34.14322pt.
-
-Overfull \hbox (76.57364pt too wide) in paragraph at lines 223--224
- [][] 
- []
-
-<./Images/Cluster_images/mir-183_132_240.pdf, id=37, 414.11586pt x 65.4979pt>
-File: ./Images/Cluster_images/mir-183_132_240.pdf Graphic file (type pdf)
-
-<use ./Images/Cluster_images/mir-183_132_240.pdf>
-Package pdftex.def Info: ./Images/Cluster_images/mir-183_132_240.pdf used on in
-put line 229.
-(pdftex.def)             Requested size: 215.87859pt x 34.14322pt.
-
-Overfull \hbox (66.07585pt too wide) in paragraph at lines 229--230
- [][] 
- []
+nput line 263.
+(pdftex.def)             Requested size: 332.89723pt x 91.80707pt.
 
 
-<./Images/Cluster_images/mir-216_126_467.pdf, id=38, 432.00775pt x 61.59926pt>
-File: ./Images/Cluster_images/mir-216_126_467.pdf Graphic file (type pdf)
+Class SVMult Warning: \sidecaption: No sufficient room for the legend; 
+using normal \caption on input line 263.
 
-<use ./Images/Cluster_images/mir-216_126_467.pdf>
-Package pdftex.def Info: ./Images/Cluster_images/mir-216_126_467.pdf used on in
-put line 235.
-(pdftex.def)             Requested size: 239.45732pt x 34.14322pt.
+<./Images/Cluster_images/mir-217_13D_467.pdf, id=49, 530.7697pt x 164.1146pt>
+File: ./Images/Cluster_images/mir-217_13D_467.pdf Graphic file (type pdf)
 
-Overfull \hbox (89.65459pt too wide) in paragraph at lines 235--236
- [][] 
- []
+<use ./Images/Cluster_images/mir-217_13D_467.pdf>
+Package pdftex.def Info: ./Images/Cluster_images/mir-217_13D_467.pdf used on in
+put line 279.
+(pdftex.def)             Requested size: 332.89723pt x 102.93446pt.
 
-<./Images/Cluster_images/mir-34_11A_435.pdf, id=39, 472.19952pt x 79.961pt>
+
+Class SVMult Warning: \sidecaption: No sufficient room for the legend; 
+using normal \caption on input line 279.
+
+
+<./Images/Cluster_images/mir-34_11A_435.pdf, id=50, 499.87077pt x 159.93953pt>
 File: ./Images/Cluster_images/mir-34_11A_435.pdf Graphic file (type pdf)
 
 <use ./Images/Cluster_images/mir-34_11A_435.pdf>
 Package pdftex.def Info: ./Images/Cluster_images/mir-34_11A_435.pdf used on inp
-ut line 241.
-(pdftex.def)             Requested size: 201.63683pt x 34.14322pt.
+ut line 287.
+(pdftex.def)             Requested size: 332.89723pt x 106.5195pt.
 
-Overfull \hbox (51.83409pt too wide) in paragraph at lines 241--242
- [][] 
- []
 
-<./Images/Cluster_images/mir-92_281_4336.pdf, id=40, 550.4817pt x 93.38881pt>
+Class SVMult Warning: \sidecaption: No sufficient room for the legend; 
+using normal \caption on input line 287.
+
+
+<./Images/Cluster_images/mir-92_281_4336.pdf, id=51, 585.33891pt x 168.41333pt>
 File: ./Images/Cluster_images/mir-92_281_4336.pdf Graphic file (type pdf)
-
 <use ./Images/Cluster_images/mir-92_281_4336.pdf>
 Package pdftex.def Info: ./Images/Cluster_images/mir-92_281_4336.pdf used on in
-put line 247.
-(pdftex.def)             Requested size: 201.25594pt x 34.14322pt.
+put line 295.
+(pdftex.def)             Requested size: 332.89723pt x 95.7833pt.
 
-Overfull \hbox (51.4532pt too wide) in paragraph at lines 247--248
- [][] 
- []
 
-<./Images/Cluster_images/mir-96_138_240.pdf, id=41, 414.11586pt x 65.4979pt>
+Class SVMult Warning: \sidecaption: No sufficient room for the legend; 
+using normal \caption on input line 295.
+
+
+<./Images/Cluster_images/mir-96_138_240.pdf, id=52, 453.00755pt x 160.41444pt>
 File: ./Images/Cluster_images/mir-96_138_240.pdf Graphic file (type pdf)
 
 <use ./Images/Cluster_images/mir-96_138_240.pdf>
 Package pdftex.def Info: ./Images/Cluster_images/mir-96_138_240.pdf used on inp
-ut line 253.
-(pdftex.def)             Requested size: 215.87859pt x 34.14322pt.
+ut line 303.
+(pdftex.def)             Requested size: 332.89723pt x 117.88239pt.
 
 
-LaTeX Warning: Float too large for page by 44.34326pt on input line 267.
+Class SVMult Warning: \sidecaption: No sufficient room for the legend; 
+using normal \caption on input line 303.
 
-[9]
+[13]
+
+LaTeX Warning: Text page 14 contains only floats.
+
+[14 <./Images/Cluster_images/let-7_101_128.pdf> <./Images/Cluster_images/mir-13
+3_113_33.pdf
+
+pdfTeX warning: /Library/TeX/texbin/pdflatex (file ./Images/Cluster_images/mir-
+133_113_33.pdf): PDF inclusion: multiple pdfs with page group included in a sin
+gle page
+> <./Images/Cluster_images/mir-181_105_2502.pdf
+
+pdfTeX warning: /Library/TeX/texbin/pdflatex (file ./Images/Cluster_images/mir-
+181_105_2502.pdf): PDF inclusion: multiple pdfs with page group included in a s
+ingle page
+>] [15 <./Images/Cluster_images/mir-217_13D_467.pdf> <./Images/Cluster_images/m
+ir-34_11A_435.pdf
+
+pdfTeX warning: /Library/TeX/texbin/pdflatex (file ./Images/Cluster_images/mir-
+34_11A_435.pdf): PDF inclusion: multiple pdfs with page group included in a sin
+gle page
+> <./Images/Cluster_images/mir-92_281_4336.pdf
+
+pdfTeX warning: /Library/TeX/texbin/pdflatex (file ./Images/Cluster_images/mir-
+92_281_4336.pdf): PDF inclusion: multiple pdfs with page group included in a si
+ngle page
+>]
 Missing character: There is no Â in font ptmri7t!
 Missing character: There is no   in font ptmri7t!
 
-Overfull \hbox (26.97902pt too wide) in paragraph at lines 291--293
+Overfull \hbox (26.97902pt too wide) in paragraph at lines 342--344
 \OT1/ptm/m/it/10 cessed into ~20-24nt molecules that can reg-u-late the gene ex
 -pres-sion post-transcriptionally.
  []
 
-[10] [11] [12]
-LaTeX Font Info:    Try loading font information for OMS+ptm on input line 330.
+[16 <./Images/Cluster_images/mir-96_138_240.pdf>] [17] [18] [19]
+LaTeX Font Info:    Try loading font information for OMS+ptm on input line 381.
 
- (/usr/local/texlive/2015/texmf-dist/tex/latex/psnfss/omsptm.fd
+
+(/usr/local/texlive/2015/texmf-dist/tex/latex/psnfss/omsptm.fd
 File: omsptm.fd 
 )
 LaTeX Font Info:    Font shape `OMS/ptm/m/it' in size <10> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 330.
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 381.
 LaTeX Font Info:    Font shape `OMS/ptm/m/n' in size <10> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 330.
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 381.
 
-[13] <./Images/miRNA_matrix.pdf, id=58, 2260.74617pt x 1882.5286pt>
+<./Images/miRNA_matrix.pdf, id=309, 2260.74617pt x 1882.5286pt>
 File: ./Images/miRNA_matrix.pdf Graphic file (type pdf)
 
 <use ./Images/miRNA_matrix.pdf>
-Package pdftex.def Info: ./Images/miRNA_matrix.pdf used on input line 336.
+Package pdftex.def Info: ./Images/miRNA_matrix.pdf used on input line 387.
 (pdftex.def)             Requested size: 332.89723pt x 277.1966pt.
 
-<./Images/last_tree.png, id=59, 896.34875pt x 611.28375pt>
+<./Images/last_tree.png, id=310, 896.34875pt x 611.28375pt>
 File: ./Images/last_tree.png Graphic file (type png)
 
 <use ./Images/last_tree.png>
-Package pdftex.def Info: ./Images/last_tree.png used on input line 358.
+Package pdftex.def Info: ./Images/last_tree.png used on input line 409.
 (pdftex.def)             Requested size: 213.39566pt x 145.5265pt.
 
-<./Images/cluster_number.pdf, id=60, 428.60126pt x 149.55875pt>
+<./Images/cluster_number.pdf, id=311, 428.60126pt x 149.55875pt>
 File: ./Images/cluster_number.pdf Graphic file (type pdf)
 
 <use ./Images/cluster_number.pdf>
-Package pdftex.def Info: ./Images/cluster_number.pdf used on input line 368.
+Package pdftex.def Info: ./Images/cluster_number.pdf used on input line 419.
 (pdftex.def)             Requested size: 210.55022pt x 73.47156pt.
 
-<./Images/density.pdf, id=61, 335.2525pt x 263.98625pt>
+<./Images/density.pdf, id=312, 335.2525pt x 263.98625pt>
 File: ./Images/density.pdf Graphic file (type pdf)
 
 <use ./Images/density.pdf>
-Package pdftex.def Info: ./Images/density.pdf used on input line 368.
+Package pdftex.def Info: ./Images/density.pdf used on input line 419.
 (pdftex.def)             Requested size: 210.55022pt x 165.79259pt.
 
 
 Class SVMult Warning: \sidecaption: No sufficient room for the legend; 
-using normal \caption on input line 368.
+using normal \caption on input line 419.
 
-<./Images/vennmiRNAs.pdf, id=62, 578.16pt x 722.7pt>
+<./Images/vennmiRNAs.pdf, id=313, 578.16pt x 722.7pt>
 File: ./Images/vennmiRNAs.pdf Graphic file (type pdf)
 
 <use ./Images/vennmiRNAs.pdf>
-Package pdftex.def Info: ./Images/vennmiRNAs.pdf used on input line 376.
+Package pdftex.def Info: ./Images/vennmiRNAs.pdf used on input line 427.
 (pdftex.def)             Requested size: 213.39566pt x 266.74419pt.
 Missing character: There is no â in font ptmri7t!
 Missing character: There is no ˆ in font ptmri7t!
@@ -721,87 +1226,54 @@ Missing character: There is no ’ in font ptmri7t!
 Missing character: There is no â in font ptmri7t!
 Missing character: There is no ˆ in font ptmri7t!
 Missing character: There is no ’ in font ptmri7t!
- [14]
+ [20]
 Missing character: There is no Â in font ptmri7t!
 Missing character: There is no ± in font ptmri7t!
-LaTeX Font Info:    Try loading font information for OML+ptm on input line 416.
+LaTeX Font Info:    Try loading font information for OML+ptm on input line 467.
 
 
 (/usr/local/texlive/2015/texmf-dist/tex/latex/psnfss/omlptm.fd
 File: omlptm.fd 
 )
 LaTeX Font Info:    Font shape `OML/ptm/m/it' in size <10> not available
-(Font)              Font shape `OML/cmm/m/it' tried instead on input line 416.
- [15] [16]
-[17] [18] [19] [20]
+(Font)              Font shape `OML/cmm/m/it' tried instead on input line 467.
+ [21 <./Images/miRNA_matrix.pdf>] [22 <./Images/last_tree.png> <./Images/cluste
+r_number.pdf> <./Images/density.pdf>] [23 <./Images/vennmiRNAs.pdf>] [24] [25] 
+[26] [27]
+[28] [29]
 Missing character: There is no Î in font ptmri7t!
 Missing character: There is no ² in font ptmri7t!
 Missing character: There is no Î in font ptmri7t!
 Missing character: There is no ² in font ptmri7t!
- [21] [22] [23] (./tunicates_ncrna.bbl [24]
+ [30] [31] (./tunicates_ncrna.bbl [32] [33]
 LaTeX Font Info:    Font shape `OML/ptm/m/n' in size <8.5> not available
 (Font)              Font shape `OML/cmm/m/it' tried instead on input line 163.
- [25]
+
 Underfull \hbox (badness 1888) in paragraph at lines 181--185
 []\OT1/ptm/m/n/8.5 David Lan-gen-berger, Clara Bermudez-Santana, Jana Her-tel, 
 Steve Hoff-mann, Philipp
  []
 
-[26]
+[34]
 Missing character: There is no â in font ptmr7t!
 Missing character: There is no € in font ptmr7t!
 Missing character: There is no ² in font ptmr7t!
-) [27] [28 <./Images/Cluster_images/let-7_101_128.pdf> <./Images/Cluster_images
-/mir-1_119_33.pdf
-
-pdfTeX warning: /Library/TeX/texbin/pdflatex (file ./Images/Cluster_images/mir-
-1_119_33.pdf): PDF inclusion: multiple pdfs with page group included in a singl
-e page
-> <./Images/Cluster_images/mir-181_105_2502.pdf
-
-pdfTeX warning: /Library/TeX/texbin/pdflatex (file ./Images/Cluster_images/mir-
-181_105_2502.pdf): PDF inclusion: multiple pdfs with page group included in a s
-ingle page
-> <./Images/Cluster_images/mir-183_132_240.pdf
-
-pdfTeX warning: /Library/TeX/texbin/pdflatex (file ./Images/Cluster_images/mir-
-183_132_240.pdf): PDF inclusion: multiple pdfs with page group included in a si
-ngle page
-> <./Images/Cluster_images/mir-216_126_467.pdf
-
-pdfTeX warning: /Library/TeX/texbin/pdflatex (file ./Images/Cluster_images/mir-
-216_126_467.pdf): PDF inclusion: multiple pdfs with page group included in a si
-ngle page
-> <./Images/Cluster_images/mir-34_11A_435.pdf
-
-pdfTeX warning: /Library/TeX/texbin/pdflatex (file ./Images/Cluster_images/mir-
-34_11A_435.pdf): PDF inclusion: multiple pdfs with page group included in a sin
-gle page
-> <./Images/Cluster_images/mir-92_281_4336.pdf
-
-pdfTeX warning: /Library/TeX/texbin/pdflatex (file ./Images/Cluster_images/mir-
-92_281_4336.pdf): PDF inclusion: multiple pdfs with page group included in a si
-ngle page
-> <./Images/Cluster_images/mir-96_138_240.pdf
-
-pdfTeX warning: /Library/TeX/texbin/pdflatex (file ./Images/Cluster_images/mir-
-96_138_240.pdf): PDF inclusion: multiple pdfs with page group included in a sin
-gle page
->] [29 <./Images/miRNA_matrix.pdf>] [30 <./Images/last_tree.png> <./Images/clus
-ter_number.pdf> <./Images/density.pdf>] [31 <./Images/vennmiRNAs.pdf>]
-(./tunicates_ncrna.aux)
+) [35] (./tunicates_ncrna.aux)
 
 LaTeX Warning: There were undefined references.
 
+
+LaTeX Warning: There were multiply-defined labels.
+
  ) 
 Here is how much of TeX's memory you used:
- 3946 strings out of 493089
- 61369 string characters out of 6134842
- 137643 words of memory out of 5000000
- 7331 multiletter control sequences out of 15000+600000
+ 2959 strings out of 493089
+ 42646 string characters out of 6134842
+ 129050 words of memory out of 5000000
+ 6351 multiletter control sequences out of 15000+600000
  41612 words of font info for 82 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 42i,8n,40p,2571b,394s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 37i,8n,23p,2571b,282s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/local/texlive/2015/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/local/t
 exlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/local/te
 xlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr/local/texl
@@ -812,10 +1284,10 @@ texmf-dist/fonts/type1/urw/times/utmb8a.pfb></usr/local/texlive/2015/texmf-dist
 pe1/urw/times/utmr8a.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/urw/ti
 mes/utmr8a.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/urw/times/utmri8
 a.pfb>
-Output written on tunicates_ncrna.pdf (31 pages, 1501317 bytes).
+Output written on tunicates_ncrna.pdf (35 pages, 2462922 bytes).
 PDF statistics:
- 2873 PDF objects out of 2984 (max. 8388607)
- 1906 compressed objects within 20 object streams
+ 3108 PDF objects out of 3580 (max. 8388607)
+ 2038 compressed objects within 21 object streams
  0 named destinations out of 1000 (max. 500000)
- 66 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 61 words of extra memory for PDF output out of 10000 (max. 10000000)
 

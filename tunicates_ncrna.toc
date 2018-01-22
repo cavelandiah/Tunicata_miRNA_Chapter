@@ -8,38 +8,42 @@
 \contentsline {subsubsection}{\numberline {2.2.1}Validation and detection of miRNA families in Cionas in this decade}{7}
 \contentsline {subsubsection}{\numberline {2.2.2}The new era to get deep insights into the repertory of miRNA in other urochordates}{8}
 \contentsline {subsection}{\numberline {2.3}miRNA in clusters}{9}
-\contentsline {subsubsection}{\numberline {2.3.1}Yanetal2014.pdf}{9}
-\contentsline {subsubsection}{\numberline {2.3.2}Wangetal2017.pdf}{10}
-\contentsline {subsubsection}{\numberline {2.3.3}deSouzaGomezetal2012.pdf}{10}
-\contentsline {subsubsection}{\numberline {2.3.4}Stadler2007.PDF}{10}
-\contentsline {subsection}{\numberline {2.4}miRNA in an perspective evolution}{11}
-\contentsline {subsubsection}{\numberline {2.4.1}Introduction}{11}
-\contentsline {subsubsection}{\numberline {2.4.2}Pignatelli2016.pdf}{11}
-\contentsline {subsubsection}{\numberline {2.4.3}Dai2009.pdf}{12}
-\contentsline {subsubsection}{\numberline {2.4.4}Candini2012.pdf}{12}
-\contentsline {subsubsection}{\numberline {2.4.5}Stadler2006.pdf}{12}
-\contentsline {subsubsection}{\numberline {2.4.6}SamGriffit2007.pdf}{13}
-\contentsline {subsubsection}{\numberline {2.4.7}Hertel2015.pdf}{13}
-\contentsline {subsubsection}{\numberline {2.4.8}Yanetal2014.pdf}{14}
-\contentsline {subsection}{\numberline {2.5}To complete the tree of loss and gain of families}{14}
-\contentsline {subsubsection}{\numberline {2.5.1}Jueetal2016.pdf}{15}
-\contentsline {subsubsection}{\numberline {2.5.2}Wangetal2017.pdf}{15}
-\contentsline {section}{\numberline {3}miRNAs and its rol in development}{16}
-\contentsline {subsection}{\numberline {3.1}miRNAs discovery and development}{16}
-\contentsline {subsubsection}{\numberline {3.1.1}Bartel2004.pdf}{16}
-\contentsline {subsubsection}{\numberline {3.1.2}Lee1993.pdf}{16}
-\contentsline {subsection}{\numberline {3.2}miRNAs perspective evolution in development}{17}
-\contentsline {subsubsection}{\numberline {3.2.1}holland2014.pdf}{17}
-\contentsline {subsubsection}{\numberline {3.2.2}Sun2013.pdf}{17}
-\contentsline {subsubsection}{\numberline {3.2.3}Kloosterman2006.pdf}{17}
-\contentsline {subsubsection}{\numberline {3.2.4}Iyengar2014.pdf}{18}
-\contentsline {subsection}{\numberline {3.3}Specific examples}{18}
-\contentsline {subsubsection}{\numberline {3.3.1}Chenetal2014.PDF}{18}
-\contentsline {subsubsection}{\numberline {3.3.2}Fuetal2008.pdf}{19}
-\contentsline {subsubsection}{\numberline {3.3.3}Hendrixetal2010.pdf}{20}
-\contentsline {subsubsection}{\numberline {3.3.4}Kusakabeetal2013.pdf}{20}
-\contentsline {subsubsection}{\numberline {3.3.5}Pasquinellietal2000.pdf}{20}
-\contentsline {subsubsection}{\numberline {3.3.6}Tangetal2013.pdf}{21}
-\contentsline {subsubsection}{\numberline {3.3.7}Spina2017.pdf}{21}
-\contentsline {section}{\numberline {4}Other ncRNAs associated to development}{22}
-\contentsline {section}{References}{24}
+\contentsline {subsubsection}{\numberline {2.3.1}Yanetal2014.pdf}{13}
+\contentsline {subsubsection}{\numberline {2.3.2}Wangetal2017.pdf}{15}
+\contentsline {subsubsection}{\numberline {2.3.3}deSouzaGomezetal2012.pdf}{16}
+\contentsline {subsubsection}{\numberline {2.3.4}Stadler2007.PDF}{16}
+\contentsline {subsection}{\numberline {2.4}miRNA in an perspective evolution}{17}
+\contentsline {subsubsection}{\numberline {2.4.1}Introduction}{17}
+\contentsline {subsubsection}{\numberline {2.4.2}Pignatelli2016.pdf}{17}
+\contentsline {subsubsection}{\numberline {2.4.3}Dai2009.pdf}{18}
+\contentsline {subsubsection}{\numberline {2.4.4}Candini2012.pdf}{18}
+\contentsline {subsubsection}{\numberline {2.4.5}Stadler2006.pdf}{19}
+\contentsline {subsubsection}{\numberline {2.4.6}SamGriffit2007.pdf}{19}
+\contentsline {subsubsection}{\numberline {2.4.7}Hertel2015.pdf}{19}
+\contentsline {subsubsection}{\numberline {2.4.8}Yanetal2014.pdf}{20}
+\contentsline {subsection}{\numberline {2.5}To complete the tree of loss and gain of families}{20}
+\contentsline {subsubsection}{\numberline {2.5.1}Jueetal2016.pdf}{22}
+\contentsline {subsubsection}{\numberline {2.5.2}Wangetal2017.pdf}{24}
+\contentsline {section}{\numberline {3}miRNAs and its rol in development}{24}
+\contentsline {subsection}{\numberline {3.1}miRNAs discovery and development}{24}
+\contentsline {subsubsection}{\numberline {3.1.1}Bartel2004.pdf}{24}
+\contentsline {subsubsection}{\numberline {3.1.2}Lee1993.pdf}{24}
+\contentsline {subsection}{\numberline {3.2}miRNAs perspective evolution in development}{25}
+\contentsline {subsubsection}{\numberline {3.2.1}holland2014.pdf}{25}
+\contentsline {subsubsection}{\numberline {3.2.2}Sun2013.pdf}{25}
+\contentsline {subsubsection}{\numberline {3.2.3}Kloosterman2006.pdf}{26}
+\contentsline {subsubsection}{\numberline {3.2.4}Iyengar2014.pdf}{26}
+\contentsline {subsection}{\numberline {3.3}Specific examples}{27}
+\contentsline {subsubsection}{\numberline {3.3.1}Chenetal2014.PDF}{27}
+\contentsline {subsubsection}{\numberline {3.3.2}Fuetal2008.pdf}{27}
+\contentsline {subsubsection}{\numberline {3.3.3}Hendrixetal2010.pdf}{28}
+\contentsline {subsubsection}{\numberline {3.3.4}Kusakabeetal2013.pdf}{28}
+\contentsline {subsubsection}{\numberline {3.3.5}Pasquinellietal2000.pdf}{29}
+\contentsline {subsubsection}{\numberline {3.3.6}Tangetal2013.pdf}{29}
+\contentsline {subsubsection}{\numberline {3.3.7}Spina2017.pdf}{30}
+\contentsline {section}{\numberline {4}Other ncRNAs associated to development}{30}
+\contentsline {subsection}{\numberline {4.1}Yellow Crescent RNA}{30}
+\contentsline {subsection}{\numberline {4.2}MicroRNA-offset RNAs}{31}
+\contentsline {subsection}{\numberline {4.3}Long Noncoding RNA RMST}{31}
+\contentsline {subsection}{\numberline {4.4}Splices-leader RNA}{32}
+\contentsline {section}{References}{32}
