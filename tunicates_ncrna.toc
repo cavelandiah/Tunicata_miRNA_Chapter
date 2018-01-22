@@ -8,7 +8,7 @@
 \contentsline {subsubsection}{\numberline {2.2.1}Validation and detection of miRNA families in Cionas in this decade}{7}
 \contentsline {subsubsection}{\numberline {2.2.2}The new era to get deep insights into the repertory of miRNA in other urochordates}{8}
 \contentsline {subsection}{\numberline {2.3}miRNA in clusters}{9}
-\contentsline {subsubsection}{\numberline {2.3.1}Yanetal2014.pdf}{13}
+\contentsline {subsubsection}{\numberline {2.3.1}Yanetal2014.pdf}{14}
 \contentsline {subsubsection}{\numberline {2.3.2}Wangetal2017.pdf}{15}
 \contentsline {subsubsection}{\numberline {2.3.3}deSouzaGomezetal2012.pdf}{16}
 \contentsline {subsubsection}{\numberline {2.3.4}Stadler2007.PDF}{16}
@@ -17,12 +17,12 @@
 \contentsline {subsubsection}{\numberline {2.4.2}Pignatelli2016.pdf}{17}
 \contentsline {subsubsection}{\numberline {2.4.3}Dai2009.pdf}{18}
 \contentsline {subsubsection}{\numberline {2.4.4}Candini2012.pdf}{18}
-\contentsline {subsubsection}{\numberline {2.4.5}Stadler2006.pdf}{19}
+\contentsline {subsubsection}{\numberline {2.4.5}Stadler2006.pdf}{18}
 \contentsline {subsubsection}{\numberline {2.4.6}SamGriffit2007.pdf}{19}
 \contentsline {subsubsection}{\numberline {2.4.7}Hertel2015.pdf}{19}
 \contentsline {subsubsection}{\numberline {2.4.8}Yanetal2014.pdf}{20}
 \contentsline {subsection}{\numberline {2.5}To complete the tree of loss and gain of families}{20}
-\contentsline {subsubsection}{\numberline {2.5.1}Jueetal2016.pdf}{22}
+\contentsline {subsubsection}{\numberline {2.5.1}Jueetal2016.pdf}{21}
 \contentsline {subsubsection}{\numberline {2.5.2}Wangetal2017.pdf}{24}
 \contentsline {section}{\numberline {3}miRNAs and its rol in development}{24}
 \contentsline {subsection}{\numberline {3.1}miRNAs discovery and development}{24}
@@ -45,5 +45,5 @@
 \contentsline {subsection}{\numberline {4.1}Yellow Crescent RNA}{30}
 \contentsline {subsection}{\numberline {4.2}MicroRNA-offset RNAs}{31}
 \contentsline {subsection}{\numberline {4.3}Long Noncoding RNA RMST}{31}
-\contentsline {subsection}{\numberline {4.4}Splices-leader RNA}{32}
+\contentsline {subsection}{\numberline {4.4}Splices-leader RNA}{31}
 \contentsline {section}{References}{32}
