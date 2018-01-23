@@ -12,11 +12,6 @@ V.~Ambros, B.~Bartel, D.~P. Bartel, C.~B. Burge, J.~C. Carrington, X.~Chen,
 \newblock A uniform system for microrna annotation.
 \newblock {\em RNA}, 9:277--279, 2003.
 
-\bibitem{Bartel2004}
-David~P. Bartel.
-\newblock {MicroRNAs: Genomics, Biogenesis, Mechanism, and Function}.
-\newblock {\em Cell}, 116(2):281--297, 2004.
-
 \bibitem{Bartel:13}
 David~P. Bartel.
 \newblock Micro{RNA} target recognition and regulatory functions.
@@ -38,12 +33,6 @@ Stefania Bortoluzzi, Marta Biasiolo, and Andrea Bisognin.
 \newblock Microrna-offset rnas (mornas): by-product spectators or functional
   players?
 \newblock {\em Trends in Molecular Medicine}, 17(9):473--474, 2011.
-
-\bibitem{Chen2014}
-Jerry~S. Chen, Abygail~M. Gumbayan, Robert~W. Zeller, and Joseph~M. Mahaffy.
-\newblock {An Expanded Notch-Delta Model Exhibiting Long-Range Patterning and
-  Incorporating MicroRNA Regulation}.
-\newblock {\em PLoS Computational Biology}, 10(6), 2014.
 
 \bibitem{Friedlaender:12}
 Marc~R. Friedl{\"a}nder, Sebastian~D. Mackowiak, Na~Li, Wei Chen, and Nikolaus
@@ -107,18 +96,6 @@ Jana Hertel and Peter~F. Stadler.
 \newblock The expansion of animal micro{RNA} families revisited.
 \newblock {\em Life}, 5:905--920, 2015.
 
-\bibitem{Holland2015}
-Linda~Z. Holland.
-\newblock {Genomics, evolution and development of amphioxus and tunicates: The
-  Goldilocks principle}, 2015.
-
-\bibitem{Iyengar2014}
-Bharat~R. Iyengar, Ashwani Choudhary, Mayuresh~A. Sarangdhar, K.~V. Venkatesh,
-  Chetan~J. Gadgil, and Beena Pillai.
-\newblock {Non-coding RNA interact to regulate neuronal development and
-  function}.
-\newblock {\em Frontiers in Cellular Neuroscience}, 8(February):1--10, 2014.
-
 \bibitem{Jue2016}
 Nathaniel~K. Jue, Paola~G. Batta-Lona, Sarah Trusiak, Craig Obergfell, Ann
   Bucklin, Michael~J. O'neill, and Rachel~J. O'neill.
@@ -132,12 +109,6 @@ Raja Keshavan, Michael Virata, Anisha Keshavan, and Robert~W. Zeller.
 \newblock {Computational Identification of {\textless}i{\textgreater}Ciona
   intestinalis{\textless}/i{\textgreater} MicroRNAs}.
 \newblock {\em Zoological Science}, 27(2):162--170, 2010.
-
-\bibitem{Kloosterman2006}
-Wigard~P. Kloosterman and R.~H~A Plasterk.
-\newblock {The Diverse Functions of MicroRNAs in Animal Development and
-  Disease}.
-\newblock {\em Developmental Cell}, 11(4):441--450, 2006.
 
 \bibitem{Kusakabe2013}
 Rie Kusakabe, Saori Tani, Koki Nishitsuji, Miyuki Shindo, Kohji Okamura, Yuki
@@ -171,12 +142,6 @@ Mary Gwo-Shu Lee and Lex H. T.~Van der Ploeg.
   polymerase i.
 \newblock {\em Annual Review of Microbiology}, 51(1):463--489, 1997.
 \newblock PMID: 9343357.
-
-\bibitem{Lee1993}
-R~C Lee, R~L Feinbaum, and V~Ambros.
-\newblock {the C. elegans$\backslash$rheterochronic gene lin-4 encodes small
-  RNAs with antisense$\backslash$rcomplementarity to lin-14.}
-\newblock {\em Cell}, 75: 843--85:843--854, 1993.
 
 \bibitem{Legendre2005}
 Matthieu Legendre, Andr{\'{e}} Lambert, and Daniel Gautheret.
@@ -255,17 +220,6 @@ Weiyang Shi, David Hendrix, Mike Levine, and Benjamin Haley.
 \newblock {A distinct class of small RNAs arises from pre-miRNA--proximal
   regions in a simple chordate}.
 \newblock {\em Nature Structural {\&} Molecular Biology}, 16(2):183--189, 2009.
-
-\bibitem{Spina2017}
-E.~J. Spina, E.~Guzman, H.~Zhou, K.~S. Kosik, and W.~C. Smith.
-\newblock {{A} micro{R}{N}{A}-m{R}{N}{A} expression network during oral siphon
-  regeneration in {C}iona}.
-\newblock {\em Development}, 144(10):1787--1797, May 2017.
-
-\bibitem{Sun2013}
-Kailiang Sun and Eric~C. Lai.
-\newblock {Adult-specific functions of animal microRNAs}.
-\newblock {\em Nature Reviews Genetics}, 14(8):535--548, 2013.
 
 \bibitem{Swalla1995}
 B~J Swalla and W~R Jeffery.

@@ -24,45 +24,45 @@ Warning--I didn't find a database entry for "Peterson:09"
 Warning--I didn't find a database entry for "Berezikov:11"
 Warning--I didn't find a database entry for "Tanzer:10a"
 Warning--I didn't find a database entry for "Dai:09"
-You've used 53 entries,
+You've used 45 entries,
             2118 wiz_defined-function locations,
-            907 strings with 15784 characters,
-and the built_in function-call counts, 21079 in all, are:
-= -- 1973
-> -- 1364
+            859 strings with 14317 characters,
+and the built_in function-call counts, 18373 in all, are:
+= -- 1706
+> -- 1222
 < -- 0
-+ -- 543
-- -- 484
-* -- 1835
-:= -- 3657
-add.period$ -- 158
-call.type$ -- 53
-change.case$ -- 401
++ -- 487
+- -- 436
+* -- 1619
+:= -- 3196
+add.period$ -- 135
+call.type$ -- 45
+change.case$ -- 353
 chr.to.int$ -- 0
-cite$ -- 53
-duplicate$ -- 574
-empty$ -- 1383
-format.name$ -- 484
-if$ -- 4167
+cite$ -- 45
+duplicate$ -- 491
+empty$ -- 1183
+format.name$ -- 436
+if$ -- 3626
 int.to.chr$ -- 0
-int.to.str$ -- 53
-missing$ -- 51
-newline$ -- 267
-num.names$ -- 106
-pop$ -- 308
+int.to.str$ -- 45
+missing$ -- 44
+newline$ -- 228
+num.names$ -- 90
+pop$ -- 269
 preamble$ -- 1
-purify$ -- 348
+purify$ -- 308
 quote$ -- 0
-skip$ -- 380
+skip$ -- 320
 stack$ -- 0
-substring$ -- 1359
-swap$ -- 53
+substring$ -- 1172
+swap$ -- 45
 text.length$ -- 0
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 212
+type$ -- 180
 warning$ -- 0
-while$ -- 176
-width$ -- 55
-write$ -- 581
+while$ -- 148
+width$ -- 47
+write$ -- 496
 (There were 21 warnings)

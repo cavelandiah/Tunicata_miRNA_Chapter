@@ -29,6 +29,7 @@
 %\usepackage[utf8]{inputenc}
 \usepackage{longtable}
 \usepackage{color}
+\usepackage{multirow}
 % see the list of further useful packages
 % in the Reference Guide
 
@@ -443,6 +444,7 @@ evolution of this cluster conducted by \cite{Griffiths-Jones2011}. The authors
 suggested that mir-100, mir125 and let7 are clustered in most of the bilaterian 
 genomes including as 1473 as orthologue of mir-100. 
 
+\iffalse
 \textcolor{red}{My main concerns here that the cluster 
 let-7/miR-125/miR-100 observed in Drosophila and is included time ago for 
 \cite{Griffiths-Jones2011}. In his plot you see a cluster on the right side 
@@ -454,6 +456,16 @@ on it and not for Csa and Cin?. Please could you check this let7 cluster in
 the current plot?. Here I follow with Cristan description of this cluster. 
 Please check about the mir125 and do any reconciliation if is posible with the 
 plot of the paper of  \cite{Griffiths-Jones2011} in \ref{evolutionlet7}.}
+\fi
+
+%%CAVH response:
+% For the case of Ciona intestinalis, the genome where the miRNAs had been 
+%annotated on miRBAse is the JGI12, it is the genome from (Ensembl release 54) 
+%OLD version. All the pipeline was executed on Ensembl release 81 (Bioinf 
+%Colombia genome version).
+% Specifically for the let-7/miR-125/miR-10 I review my data and the let-7 in 
+%this genome where annotated as pseudogen because it did not report a greater 
+%bitscore than the gathering score. But at now, it is included.
 
 Current analysis of this cluster shows that the distribution of miRNAs families 
 on this let-7 cluster are distributed in all the studied chordate species. In 
@@ -462,24 +474,38 @@ more than one let-7 cluster, extending the loci definition which is not
 restricted only for one element but for a cluster of many locus with different 
 length distributions. It is important to see that let-7 is organized sometimes 
 with another let-7 locus or with another miRNA's loci families. The distribution 
-of this cluster reported on amphioxus is composed by 2 let-7 and 2 mir-10, this 
+of this cluster reported on amphioxus is composed by 2 let-7 and 3 mir-10 (1 
+bfl-mir-100, 1 bfl-mir-125a and 1 bfl-mir-125b), this 
 cluster architecture almost conserved on vertebrates that apparently inverted 
 the order and split the relation between let-7 and mir-10, creating two 
-different cluster order groups: 1let-7 + 2 mir-10 and 2 let-7 + other families. 
+different cluster order groups: let-7 + mir-10 and let-7 + other families. 
 In this way, tunicates reported the latter group, not including mir-10 on the 
-cluster but including mir-233 or even mir-1473. 
+cluster but including mir-233, mir-1473 or mir-125. 
 
 A second miRNA cluster consisting of the miR-182 and miR-183 was also detected 
 in \textit{C. intestinalis} in 2010 by \cite{Keshavan2010} which is in the 
 current predictions is reported another member locus the miR-96 organized in the 
-middle of those loci as is shown in the plot \ref{fig:mir-96}. Here the 
-authors also found five additional paralogs of let-7 within a 1-kb stretch 
-previously know as Scaffold\_138 which is right now described on the chromosome 
-4q. The current distribution for both Cionas is shown in \ref{let7paralogs}. 
+middle of those loci as is shown in the plot \ref{fig:mir-96}. 
+Here the authots also found five additional paralogs of let-7 within a 1-kb 
+stretch, but it is important to know that those elements had been identified on 
+chromosome 4q on Ensembl release 54 version, at the current version only two of 
+those elements have been identified by homology approaches (Figure 
+\ref{fig:let-7}).
 
-\textcolor{red}{Unfortunately is not seen in the Cristian detection method?, 
-could we plotted or is not making sense? Since let7 is a very important 
-regulator of development (MAPPING, problem with mapping...)}
+%Here the authors also found five additional paralogs of let-7 within a 1-kb 
+%stretch previously know as Scaffold\_138 which is right now described on the 
+%chromosome 4q. The current distribution for both Cionas is shown in 
+%\ref{let7paralogs}. 
+
+%\textcolor{red}{Unfortunately is not seen in the Cristian detection method?, 
+%could we plotted or is not making sense? Since let7 is a very important 
+%regulator of development (MAPPING, problem with mapping...)}
+%%CAVH response:
+%It does not generated results when I map the sequences against the current 
+%genome version. Also in Ensembl is reported in the current genome:
+%http://www.ensembl.org/Ciona_intestinalis/Location/View?r=4:2157322-2158920;db=
+%core
+%In this case, maybe is important to report this data as a complement...
 
 The cluster miR-1/miR-133, expressed specifically in Cionas muscle tissues was 
 also reported by \cite{Kusakabe2013}. The authors reported that one copy of this 
@@ -520,7 +546,11 @@ the structure is seen on Figures \ref{mir92}, \ref{mir124} and \ref{mir200}
 \sidecaption[t]
 %\centering
 \includegraphics[width=\textwidth]{./Images/Cluster_images/let-7_101_128}
-\caption{let-7}
+\caption{Multiple alignment of let-7 clusters. Specific names from annotations 
+and homology predictions are described at the legend. Names from miRBase 
+families are reported at the bottom of the aligned elements.} 
+%the relationships between names and families had been found from this file:
+%ftp://mirbase.org/pub/mirbase/CURRENT/miFam.dat.gz
 \label{fig:let-7}
 \end{figure}
 
@@ -585,6 +615,83 @@ the structure is seen on Figures \ref{mir92}, \ref{mir124} and \ref{mir200}
 %carolinensis}.}
 %\end{figure}
 
+\begin{center}
+\begin{longtable}{lclllp{2.5cm}p{2cm}p{2cm}}
+\tabularnewline
+\caption{Reported clusters on literature. Bold text represent those miRNAs 
+elements that are currently annotated and validated, but could not 
+possible to detect by homology strategies.}
+\label{tab:detailBigClusters}
+%\hline\noalign{\smallskip}
+\tabularnewline
+\cline{1-8}
+\textbf{Family} & \textbf{Specie} & \textbf{Chr} & \textbf{Start} & \textbf{End} 
+& \textbf{miRNAs} & \textbf{Comments} & \textbf{Source DB}\\
+\tabularnewline
+\cline{1-8}
+\multirow{2}{*}{let-7} & Ciin & 4q & $2082260$ & $2083286$ & 
+\textbf{cin-let-7a-1, cin-let-7f, cin-let-7b, cin-let-7c, cin-let-7a-2} & 
+Reported on miRBAse and annotated on Ensembl & miRBase \\
+ & Cisa & reftig\_41 & $1114139$ & $1117597$ & \textbf{csa-let-7c-1, 
+csa-let-7b, csa-let-7a, csa-let-7c-2} & Reported on miRBase and does not 
+detected by homology strategies. & miRBase \\
+mir-4091 & Ciin & 10q & $2152513$ & $2148201$ & \textbf{cin-mir-34}, 
+cin-mir-4091, cin-mir-4008a, cin-mir-4008c, cin-mir-4008b, cin-mir-4054 & NA & 
+miRBase and Homology \\
+\hline
+7qother & Ciin & 7q & $6155725$ & $6148927$ & cin-mir-4077b, cin-mir-4003b, 
+cin-mir-4005b, cin-mir-4077d, cin-mir-4003a-1, cin-mir-4003c, cin-mir-4077a, 
+cin-mir-4003a-4, cin-mir-4003d & NA & miRBase and Homology \\
+\hline
+7p & Ciin & 7q & $5401442$ & $5398857$ & cin-mir-4077b, cin-mir-4003b, 
+cin-mir-4005b, cin-mir-4077d, cin-mir-4003a-1, cin-mir-4003c, cin-mir-4077a, 
+cin-mir-4003a-4, cin-mir-4003d & NA & miRBase and Homology \\
+\hline
+3p & Ciin & 3q & $5401442$ & $5398857$ & cin-mir-4001f, cin-mir-4000e, 
+cin-mir-4001c, cin-mir-1502d, cin-mir-4018a, cin-mir-4019, cin-mir-1502b, 
+cin-mir-1502a, cin-mir-4007, cin-mir-4000f, cin-mir-4001i, cin-mir-4018b, 
+cin-mir-1502c & NA & miRBase and Homology \\ 
+\hline
+1q & Ciin & HT000037.1 & $0$ & $0$ & cin-mir-367, cin-mir-4009c, cin-mir-4009b, 
+cin-mir-367, cin-mir-4009c, cin-mir-4009a, cin-mir-4009b & NA & miRBase and 
+Homology \\
+\hline
+10q & Ciin & 10q & $2152513$ & $2148201$ & cin-mir-34, cin-mir-4091, 
+cin-mir-4008a, cin-mir-4008c, cin-mir-4008b, cin-mir-4054 & NA & miRBase and 
+Homology \\
+\hline
+\multirow{3}{*}{mir-92} & Ciin & 3q & $1864426$ & $1865219$ & cin-mir-92a, 
+cin-mir-92d, cin-mir-92c & NA & miRBase and Homology \\
+ & Cisa & reftig\_1 & $1335375$ & $1336487$ & csa-mir-92b, 
+csa-mir-92c, csa-mir-92a & NA & miRBase and Homology \\
+ & Oidi & COMPLETE & $1335375$ & $1336487$ & csa-mir-92b, 
+csa-mir-92c, csa-mir-92a & NA & miRBase and Homology \\
+\hline
+\multirow{2}{*}{mir-124} & Ciin & 7q & $6301475$ & $6301696$ & cin-mir-124-1, 
+cin-mir-124-2 & NA & miRBase and Homology \\
+& Cisa & reftig\_262 & $49392$ & $49620$ & csa-mir-124-1, 
+csa-mir-124-2 & NA & miRBase and Homology \\
+\hline
+\multirow{2}{*}{mir200} & Ciin & HT000325.1 & COMPLETE & COMPLETE & 
+cin-mir-200, cin-mir-3575, cin-mir-141, \textbf{cin-mir-5611} & NA & miRBase 
+and Homology \\
+& Cisa & reftig\_613 & $31353$ & $31949$ & csa-mir-200, 
+csa-mir-141 & NA & miRBase and Homology \\
+7qf & Ciin & 7q & $5413757$ & $5412283$ & cin-mir-4006d, cin-mir-4006c, 
+cin-mir-4001b-2, cin-mir-4000i, cin-mir-4006g, cin-mir-4001e, cin-mir-4001d, 
+cin-mir-4000g, cin-mir-4006f, cin-mir-4000h, cin-mir-4006b, cin-mir-4001b-1, 
+cin-mir-4006e, cin-mir-4001a-1, cin-mir-4001a-2, cin-mir-4002, cin-mir-4001h, 
+cin-mir-4000a-2, cin-mir-4006a-2, cin-mir-4006a-3, cin-mir-4006a-1, 
+cin-mir-4006e, cin-mir-4001a-1, cin-mir-4006b, cin-mir-4000c, cin-mir-4006e, 
+cin-mir-4000b-2, cin-mir-4001a-1, cin-mir-4000b-1, cin-mir-4001a-2, 
+cin-mir-4002, cin-mir-4000d, cin-mir-4001h, cin-mir-4006a-3, cin-mir-4006a-1, 
+cin-mir-4000a-1 & NA & 
+miRBase and Homology \\
+\cline{1-8}
+\end{longtable}
+\end{center}
+
+
 \iffalse
 \subsubsection{Yanetal2014.pdf}
 
@@ -599,7 +706,14 @@ draft genome sequence for a distantly related ascidian, Halocynthia roretzi, has
 H. roretzi have not been previously studied.
 Results: We report the prediction of 319 candidate H. roretzi miRNAs, obtained through three complementary
 methods. Experimental validation suggests that more than half of these candidate miRNAs are expressed during
-embryogenesis. The majority of predicted H. roretzi miRNAs appear specific to ascidians or tunicates, and only 32
+embryogenesis. The majority of predicted H. roretzi miRNAs appear specific to 
+asc
+
+When it’s yours please come and get it in my office.
+
+ 
+
+Best,idians or tunicates, and only 32
 candidates, belonging to 25 families, are widely conserved across metazoans.
 Conclusion: Our study presents a comprehensive identification of candidate H. roretzi miRNAs. This resource
 will facilitate the study of the mechanisms for miRNA-controlled gene regulatory networks during ascidian
@@ -762,12 +876,11 @@ notion that animal miRNAs are less conserved between taxa than plant ones.}
 
 \subsection{miRNAs discovery and development}
 %F
+\iffalse
 \subsubsection{Bartel2004.pdf}
-
 \cite{Bartel2004}
 \textit{MicroRNAs (miRNAs) are endogenous $22$ nt RNAs that can play important regulatory roles in animals and plants by targeting mRNAs for cleavage or translational repression. Although they escaped notice until relatively recently, miRNAs comprise one of the more abundant classes of gene regulatory molecules in multicellular organisms and likely influence the output of many protein-coding genes.}
 \subsubsection{Lee1993.pdf}
-
 \cite{Lee1993}
 \textit{diverse postembryonic developmental events in C.
 elegans. /in-4 acts by negatively regulating the level of
@@ -969,7 +1082,8 @@ the 22-nucleotide lin-4 RNA, and transition from late larval to adult cell fates
 requires the 21-nucleotide let-7 RNA. The lin-4 and let-7 RNA genes are not 
 homologous to each other, but are each complementary to sequences in the 3' 
 untranslated regions of a set of protein-coding target genes that are normally 
-negatively regulated by the RNAs. Here we have detected let-7 RNAs of 
+negatively regulated by the RNAs. Here we h%%CAVH response:ave detected let-7 
+RNAs of 
 approximately 21 nucleotides in samples from a wide range of animal species, 
 including vertebrate, ascidian, hemichordate, mollusc, annelid and arthropod, 
 but not in RNAs from several cnidarian and poriferan species, Saccharomyces 
@@ -978,7 +1092,7 @@ these species. We found that let-7 temporal regulation is also conserved: let-7
 RNA expression is first detected at late larval stages in C. elegans and 
 Drosophila, at 48 hours after fertilization in zebrafish, and in adult stages of 
 annelids and molluscs. The let-7 regulatory RNA may control late temporal 
-transitions during development across animal phylogeny.}
+transitions during development across anima%%CAVH response:l phylogeny.}
 
 \subsubsection{Tangetal2013.pdf}
 \textit{JoyceTang2013}
@@ -1026,6 +1140,7 @@ response, signaling pathway and extracellular protease categories could be
 related to specific microRNAs. Finally, predicted targets of the miR-9 cluster 
 suggest a role in regulating differentiation and proliferative state of neural 
 progenitors through regulation of the cytoskeleton and cell cycle.}
+\fi
 
 \section{Other ncRNAs associated to development}
 \label{sec:4}
