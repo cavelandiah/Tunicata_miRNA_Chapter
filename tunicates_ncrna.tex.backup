@@ -620,7 +620,8 @@ families are reported at the bottom of the aligned elements.}
 \tabularnewline
 \caption{Reported clusters on literature. Bold text represent those miRNAs 
 elements that are currently annotated and validated, but could not 
-possible to detect by homology strategies.}
+possible to detect by homology strategies.} %Here I reported my calculated 
+%coordinates, miRBase ones are mostly to far from Ensembl ones.}
 \label{tab:detailBigClusters}
 %\hline\noalign{\smallskip}
 \tabularnewline
@@ -635,57 +636,58 @@ Reported on miRBAse and annotated on Ensembl & miRBase \\
  & Cisa & reftig\_41 & $1114139$ & $1117597$ & \textbf{csa-let-7c-1, 
 csa-let-7b, csa-let-7a, csa-let-7c-2} & Reported on miRBase and does not 
 detected by homology strategies. & miRBase \\
-mir-4091 & Ciin & 10q & $2152513$ & $2148201$ & \textbf{cin-mir-34}, 
+mir-4091 & Ciin & 10q & $3226200$ & $3228884$ & \textbf{cin-mir-34}, 
 cin-mir-4091, cin-mir-4008a, cin-mir-4008c, cin-mir-4008b, cin-mir-4054 & NA & 
 miRBase and Homology \\
 \hline
-7qother & Ciin & 7q & $6155725$ & $6148927$ & cin-mir-4077b, cin-mir-4003b, 
+7qother & Ciin & 7q & $4828431$ & $4835967$ & cin-mir-4077b, cin-mir-4003b, 
 cin-mir-4005b, cin-mir-4077d, cin-mir-4003a-1, cin-mir-4003c, cin-mir-4077a, 
 cin-mir-4003a-4, cin-mir-4003d & NA & miRBase and Homology \\
 \hline
-7p & Ciin & 7q & $5401442$ & $5398857$ & cin-mir-4077b, cin-mir-4003b, 
-cin-mir-4005b, cin-mir-4077d, cin-mir-4003a-1, cin-mir-4003c, cin-mir-4077a, 
-cin-mir-4003a-4, cin-mir-4003d & NA & miRBase and Homology \\
-\hline
-3p & Ciin & 3q & $5401442$ & $5398857$ & cin-mir-4001f, cin-mir-4000e, 
+3p & Ciin & 3q & $567478$ & $571031$ & cin-mir-4001f, cin-mir-4000e, 
 cin-mir-4001c, cin-mir-1502d, cin-mir-4018a, cin-mir-4019, cin-mir-1502b, 
 cin-mir-1502a, cin-mir-4007, cin-mir-4000f, cin-mir-4001i, cin-mir-4018b, 
-cin-mir-1502c & NA & miRBase and Homology \\ 
+cin-mir-1502c & Inclusion of cin-mir-4019 and cin-mir-4007  & miRBase and 
+Homology \\ 
 \hline
-1q & Ciin & HT000037.1 & $0$ & $0$ & cin-mir-367, cin-mir-4009c, cin-mir-4009b, 
-cin-mir-367, cin-mir-4009c, cin-mir-4009a, cin-mir-4009b & NA & miRBase and 
-Homology \\
+1q & Ciin & HT000037.1 & $4884$ & $5250$ & \textbf{cin-mir-367}, 
+\textbf{cin-mir-4009c}, \textbf{cin-mir-4009b}, cin-mir-367, cin-mir-4009c, 
+cin-mir-4009a, cin-mir-4009b & Not bold names could be found in the current 
+genome at HT000037.1 scaffold & miRBase and Homology \\
 \hline
-10q & Ciin & 10q & $2152513$ & $2148201$ & cin-mir-34, cin-mir-4091, 
+10q & Ciin & 10q & $3226200$ & $3228884$ & \textbf{cin-mir-34}, cin-mir-4091, 
 cin-mir-4008a, cin-mir-4008c, cin-mir-4008b, cin-mir-4054 & NA & miRBase and 
 Homology \\
 \hline
-\multirow{3}{*}{mir-92} & Ciin & 3q & $1864426$ & $1865219$ & cin-mir-92a, 
-cin-mir-92d, cin-mir-92c & NA & miRBase and Homology \\
- & Cisa & reftig\_1 & $1335375$ & $1336487$ & csa-mir-92b, 
+\multirow{3}{*}{mir-92} & Ciin & 3q & $884615$ & $885508$ &
+cin-mir-92a, cin-mir-92d, cin-mir-92c & NA & miRBase and Homology \\
+ & Cisa & reftig\_1 & $1335375$	& $1336487$ & csa-mir-92b, 
 csa-mir-92c, csa-mir-92a & NA & miRBase and Homology \\
- & Oidi & COMPLETE & $1335375$ & $1336487$ & csa-mir-92b, 
-csa-mir-92c, csa-mir-92a & NA & miRBase and Homology \\
+ & Oidi & scaffold\_1 & $3086369$ & $3086586$ & odi-mir-92b, odi-mir-92a & NA 
+& Homology \\
 \hline
-\multirow{2}{*}{mir-124} & Ciin & 7q & $6301475$ & $6301696$ & cin-mir-124-1, 
+\multirow{2}{*}{mir-124} & Ciin & 7q & $4969691$ & $4969912$ & cin-mir-124-1, 
 cin-mir-124-2 & NA & miRBase and Homology \\
 & Cisa & reftig\_262 & $49392$ & $49620$ & csa-mir-124-1, 
 csa-mir-124-2 & NA & miRBase and Homology \\
 \hline
-\multirow{2}{*}{mir200} & Ciin & HT000325.1 & COMPLETE & COMPLETE & 
-cin-mir-200, cin-mir-3575, cin-mir-141, \textbf{cin-mir-5611} & NA & miRBase 
-and Homology \\
+\multirow{2}{*}{mir200} & Ciin & HT000325.1 & $8331$ & $8778$ & 
+cin-mir-200, \textbf{cin-mir-3575}, cin-mir-141, \textbf{cin-mir-5611} & NA & 
+miRBase and Homology \\
 & Cisa & reftig\_613 & $31353$ & $31949$ & csa-mir-200, 
 csa-mir-141 & NA & miRBase and Homology \\
-7qf & Ciin & 7q & $5413757$ & $5412283$ & cin-mir-4006d, cin-mir-4006c, 
+7qf & Ciin & 7q & $4153284$ & $4156782$ & cin-mir-4006d, cin-mir-4006c, 
 cin-mir-4001b-2, cin-mir-4000i, cin-mir-4006g, cin-mir-4001e, cin-mir-4001d, 
-cin-mir-4000g, cin-mir-4006f, cin-mir-4000h, cin-mir-4006b, cin-mir-4001b-1, 
-cin-mir-4006e, cin-mir-4001a-1, cin-mir-4001a-2, cin-mir-4002, cin-mir-4001h, 
+cin-mir-4000g, cin-mir-4006f, cin-mir-4000h*, cin-mir-4006b, cin-mir-4001b-1, 
+cin-mir-4006e, cin-mir-4001a-1, \textbf{cin-mir-4001a-2}, cin-mir-4002, 
+cin-mir-4001h, 
 cin-mir-4000a-2, cin-mir-4006a-2, cin-mir-4006a-3, cin-mir-4006a-1, 
-cin-mir-4006e, cin-mir-4001a-1, cin-mir-4006b, cin-mir-4000c, cin-mir-4006e, 
-cin-mir-4000b-2, cin-mir-4001a-1, cin-mir-4000b-1, cin-mir-4001a-2, 
-cin-mir-4002, cin-mir-4000d, cin-mir-4001h, cin-mir-4006a-3, cin-mir-4006a-1, 
-cin-mir-4000a-1 & NA & 
+\textbf{cin-mir-4006e}, \textbf{cin-mir-4001a-1}, \textbf{cin-mir-4006b}, 
+cin-mir-4000c, \textbf{cin-mir-4006e}, cin-mir-4000b-2*, 
+\textbf{cin-mir-4001a-1}, cin-mir-4000b-1*, \textbf{cin-mir-4001a-2}, 
+\textbf{cin-mir-4002}, cin-mir-4000d*, \textbf{cin-mir-4001h}, 
+\textbf{cin-mir-4006a-3}, \textbf{cin-mir-4006a-1}, \textbf{cin-mir-4000a-1} & 
+NA & 
 miRBase and Homology \\
 \cline{1-8}
 \end{longtable}

@@ -406,6 +406,7 @@ not associated with the expression of its adjacent ABCA3 gene by the same
 authors.  
 %%%
 
+\begin{center}
 \begin{longtable}{p{2.0 cm}p{2 cm}p{2 cm}p{2 cm}p{1.2 cm}p{1.0 cm}p{2.6 cm}}
 \caption{Details of biggest miRNA cluster for chordate species.}
 \label{tab:detailBigClusters}
@@ -425,6 +426,7 @@ authors.
 \textit{L. chalumnae} & JH126646.1 & $1529355$ & $1882777$ & $353422$ & $7$ & mir-233, mir-233, mir-233, mir-598, mir-672, MIR535, mir-233 \\
 \hline\noalign{\smallskip}
 \end{longtable}
+\end{center}
 %%
 
 In \textit{C. intestinalis} some miRNAs are also located in introns and a small 
@@ -488,8 +490,8 @@ current predictions is reported another member locus the miR-96 organized in the
 middle of those loci as is shown in the plot \ref{fig:mir-96}. 
 Here the authots also found five additional paralogs of let-7 within a 1-kb 
 stretch, but it is important to know that those elements had been identified on 
-chromosome 4q on Ensembl release 54 version, at the current version only two of 
-those elements have been identified by homology approaches (Figure 
+chromosome 4q on Ensembl release 54 version, at the current version only 
+two of those elements have been identified by homology approaches (Figure 
 \ref{fig:let-7}).
 
 %Here the authors also found five additional paralogs of let-7 within a 1-kb 
@@ -515,8 +517,8 @@ new cluster was proposed in \textit{C. intestinalis} by \cite{Terai2012} located
 on the cromosome 10q and composed by the mir-4054 locus and the mir-4091. In 
 the current distribution of this cluster a new annotated family the mir-4008 
 with three paralogous is located on the middle of those loci. This current 
-distribution in shown of \ref{mir4091} whose loci were  validated 
-by \cite{Norden-Krichmar2007}, \cite{Fu2008}, \cite{Hendrix2010}, and 
+distribution in shown of Table \ref{tab:otherClusters} whose loci were  
+validated by \cite{Norden-Krichmar2007}, \cite{Fu2008}, \cite{Hendrix2010}, and 
 \cite{Terai2012}. As was mentioned by \cite{Hendrix2010} is not very common to 
 find related miRNAs organized in clusters composed by closely related families 
 that differ in just a single nucleotide in the seed sequence as was found on the 
@@ -529,16 +531,19 @@ curated annotations indicate than in other regions of the chromosome 7q are also
 organized miRNAs in tandem copies of families. For instance the big cluster 
 presumably re-named from \cite{Hendrix2010} today is known to be built by the 
 families miR4000, miR-4001, miR4002, and miR4006 located on chromosome 7q 
-Figures \ref{7qf} and \ref{7qs}. Another cluster is also located on the same 
-chromosome composed by the families miR-4003, miR4005 and miR4077 in Figure 
-\ref{7qother}. Some other cluster are also found on the cromosome 1a, 10q and 
-3p. See this structure on Figures \ref{1q-10q}, \ref{3p-7q} and \ref{3p}, most 
-of them validated by \cite{Hendrix2010}. \textcolor{red}{Please check the Table 
-\ref{tab:detailBigClusters} which are and which are not to update}
+(Table \ref{tab:otherClusters}). Another cluster is also located on the same 
+chromosome composed by the families miR-4003, miR4005 and miR4077 in Table 
+\ref{tab:otherClusters}. Some other cluster are also found on the cromosome 1a, 
+10q and 3p. See this structure on Table \ref{tab:otherClusters}, most 
+of them validated by \cite{Hendrix2010}. 
+
+%\textcolor{red}{Please check the Table 
+%\ref{tab:detailBigClusters} which are and which are not to update} 
+%CAVH RESPONSE: ALREADY CHECKED AND UPDATED see table 2.
 
 Some other clusters shared between both Cionas are the cluster 92, 124 and 200  
 validated by \cite{Norden-Krichmar2007}, \cite{Fu2008}, \cite{Hendrix2010} which 
-the structure is seen on Figures \ref{mir92}, \ref{mir124} and \ref{mir200}    
+the structure is seen on Table \ref{tab:otherClusters}.    
 
 %%%%
 
@@ -616,78 +621,89 @@ families are reported at the bottom of the aligned elements.}
 %\end{figure}
 
 \begin{center}
-\begin{longtable}{lclllp{2.5cm}p{2cm}p{2cm}}
+\begin{longtable}{lclllp{2.5cm}p{3cm}p{2.5cm}p{1cm}}
 \tabularnewline
 \caption{Reported clusters on literature. Bold text represent those miRNAs 
 elements that are currently annotated and validated, but could not 
-possible to detect by homology strategies.}
-\label{tab:detailBigClusters}
+possible to detect by homology strategies.} %Here I reported my calculated 
+%coordinates, miRBase ones are mostly to far from Ensembl ones.}
+\label{tab:otherClusters}
 %\hline\noalign{\smallskip}
 \tabularnewline
-\cline{1-8}
+\cline{1-9}
 \textbf{Family} & \textbf{Specie} & \textbf{Chr} & \textbf{Start} & \textbf{End} 
-& \textbf{miRNAs} & \textbf{Comments} & \textbf{Source DB}\\
+& \textbf{miRNAs} & \textbf{Comments} & \textbf{Source DB} & 
+\textbf{Ref.}\\
 \tabularnewline
-\cline{1-8}
+\cline{1-9}
 \multirow{2}{*}{let-7} & Ciin & 4q & $2082260$ & $2083286$ & 
 \textbf{cin-let-7a-1, cin-let-7f, cin-let-7b, cin-let-7c, cin-let-7a-2} & 
-Reported on miRBAse and annotated on Ensembl & miRBase \\
+Reported on miRBAse and annotated on Ensembl & miRBase & \cite{Hendrix2010}, 
+\cite{Fu2008} \\
  & Cisa & reftig\_41 & $1114139$ & $1117597$ & \textbf{csa-let-7c-1, 
 csa-let-7b, csa-let-7a, csa-let-7c-2} & Reported on miRBase and does not 
-detected by homology strategies. & miRBase \\
-mir-4091 & Ciin & 10q & $2152513$ & $2148201$ & \textbf{cin-mir-34}, 
+detected by homology strategies. & miRBase & \cite{Fu2008} \\
+\hline
+mir-4091 & Ciin & 10q & $3226200$ & $3228884$ & \textbf{cin-mir-34}, 
 cin-mir-4091, cin-mir-4008a, cin-mir-4008c, cin-mir-4008b, cin-mir-4054 & NA & 
-miRBase and Homology \\
+miRBase and Homology & \cite{Norden-Krichmar2007}, \cite{Fu2008}, 
+\cite{Hendrix2010}, and \cite{Terai2012}\\
 \hline
-7qother & Ciin & 7q & $6155725$ & $6148927$ & cin-mir-4077b, cin-mir-4003b, 
+7qother & Ciin & 7q & $4828431$ & $4835967$ & cin-mir-4077b, cin-mir-4003b, 
 cin-mir-4005b, cin-mir-4077d, cin-mir-4003a-1, cin-mir-4003c, cin-mir-4077a, 
-cin-mir-4003a-4, cin-mir-4003d & NA & miRBase and Homology \\
+cin-mir-4003a-4, cin-mir-4003d & NA & miRBase and Homology & 
+\cite{Hendrix2010} \\
 \hline
-7p & Ciin & 7q & $5401442$ & $5398857$ & cin-mir-4077b, cin-mir-4003b, 
-cin-mir-4005b, cin-mir-4077d, cin-mir-4003a-1, cin-mir-4003c, cin-mir-4077a, 
-cin-mir-4003a-4, cin-mir-4003d & NA & miRBase and Homology \\
-\hline
-3p & Ciin & 3q & $5401442$ & $5398857$ & cin-mir-4001f, cin-mir-4000e, 
+3p & Ciin & 3q & $567478$ & $571031$ & cin-mir-4001f, cin-mir-4000e, 
 cin-mir-4001c, cin-mir-1502d, cin-mir-4018a, cin-mir-4019, cin-mir-1502b, 
 cin-mir-1502a, cin-mir-4007, cin-mir-4000f, cin-mir-4001i, cin-mir-4018b, 
-cin-mir-1502c & NA & miRBase and Homology \\ 
+cin-mir-1502c & Inclusion of cin-mir-4019 and cin-mir-4007  & miRBase and 
+Homology & \cite{Hendrix2010} \\ 
 \hline
-1q & Ciin & HT000037.1 & $0$ & $0$ & cin-mir-367, cin-mir-4009c, cin-mir-4009b, 
-cin-mir-367, cin-mir-4009c, cin-mir-4009a, cin-mir-4009b & NA & miRBase and 
-Homology \\
+1q & Ciin & HT000037.1 & $4884$ & $5250$ & \textbf{cin-mir-367}, 
+\textbf{cin-mir-4009c}, \textbf{cin-mir-4009b}, cin-mir-367, cin-mir-4009c, 
+cin-mir-4009a, cin-mir-4009b & Non-highlighted names could be found in the 
+current genome at HT000037.1 scaffold & miRBase and Homology & 
+\cite{Hendrix2010} \\
 \hline
-10q & Ciin & 10q & $2152513$ & $2148201$ & cin-mir-34, cin-mir-4091, 
+10q & Ciin & 10q & $3226200$ & $3228884$ & \textbf{cin-mir-34}, cin-mir-4091, 
 cin-mir-4008a, cin-mir-4008c, cin-mir-4008b, cin-mir-4054 & NA & miRBase and 
-Homology \\
+Homology & \cite{Hendrix2010} \\
 \hline
-\multirow{3}{*}{mir-92} & Ciin & 3q & $1864426$ & $1865219$ & cin-mir-92a, 
-cin-mir-92d, cin-mir-92c & NA & miRBase and Homology \\
- & Cisa & reftig\_1 & $1335375$ & $1336487$ & csa-mir-92b, 
-csa-mir-92c, csa-mir-92a & NA & miRBase and Homology \\
- & Oidi & COMPLETE & $1335375$ & $1336487$ & csa-mir-92b, 
-csa-mir-92c, csa-mir-92a & NA & miRBase and Homology \\
+\multirow{3}{*}{mir-92} & Ciin & 3q & $884615$ & $885508$ &
+cin-mir-92a, cin-mir-92d, cin-mir-92c & NA & miRBase and Homology & 
+\cite{Hendrix2010} \\
+ & Cisa & reftig\_1 & $1335375$	& $1336487$ & csa-mir-92b, 
+csa-mir-92c, csa-mir-92a & NA & miRBase and Homology & \cite{Fu2008} \\
+ & Oidi & scaffold\_1 & $3086369$ & $3086586$ & odi-mir-92b, odi-mir-92a & NA 
+& Homology & \cite{Fu2008} \\
 \hline
-\multirow{2}{*}{mir-124} & Ciin & 7q & $6301475$ & $6301696$ & cin-mir-124-1, 
-cin-mir-124-2 & NA & miRBase and Homology \\
+\multirow{2}{*}{mir-124} & Ciin & 7q & $4969691$ & $4969912$ & cin-mir-124-1, 
+cin-mir-124-2 & NA & miRBase and Homology & \cite{Hendrix2010}, \cite{Fu2008} \\
 & Cisa & reftig\_262 & $49392$ & $49620$ & csa-mir-124-1, 
-csa-mir-124-2 & NA & miRBase and Homology \\
+csa-mir-124-2 & NA & miRBase and Homology & \cite{Fu2008} \\
 \hline
-\multirow{2}{*}{mir200} & Ciin & HT000325.1 & COMPLETE & COMPLETE & 
-cin-mir-200, cin-mir-3575, cin-mir-141, \textbf{cin-mir-5611} & NA & miRBase 
-and Homology \\
+\multirow{2}{*}{mir200} & Ciin & HT000325.1 & $8331$ & $8778$ & 
+cin-mir-200, \textbf{cin-mir-3575}, cin-mir-141, \textbf{cin-mir-5611} & NA & 
+miRBase and Homology &  \cite{Norden-Krichmar2007}, \cite{Fu2008}, 
+\cite{Hendrix2010}, \cite{Friedlander2012} \\
 & Cisa & reftig\_613 & $31353$ & $31949$ & csa-mir-200, 
-csa-mir-141 & NA & miRBase and Homology \\
-7qf & Ciin & 7q & $5413757$ & $5412283$ & cin-mir-4006d, cin-mir-4006c, 
+csa-mir-141 & NA & miRBase and Homology & \cite{Fu2008} \\
+7qf & Ciin & 7q & $4153284$ & $4156782$ & cin-mir-4006d, cin-mir-4006c, 
 cin-mir-4001b-2, cin-mir-4000i, cin-mir-4006g, cin-mir-4001e, cin-mir-4001d, 
-cin-mir-4000g, cin-mir-4006f, cin-mir-4000h, cin-mir-4006b, cin-mir-4001b-1, 
-cin-mir-4006e, cin-mir-4001a-1, cin-mir-4001a-2, cin-mir-4002, cin-mir-4001h, 
+cin-mir-4000g, cin-mir-4006f, cin-mir-4000h*, cin-mir-4006b, cin-mir-4001b-1, 
+cin-mir-4006e, cin-mir-4001a-1, \textbf{cin-mir-4001a-2}, cin-mir-4002, 
+cin-mir-4001h, 
 cin-mir-4000a-2, cin-mir-4006a-2, cin-mir-4006a-3, cin-mir-4006a-1, 
-cin-mir-4006e, cin-mir-4001a-1, cin-mir-4006b, cin-mir-4000c, cin-mir-4006e, 
-cin-mir-4000b-2, cin-mir-4001a-1, cin-mir-4000b-1, cin-mir-4001a-2, 
-cin-mir-4002, cin-mir-4000d, cin-mir-4001h, cin-mir-4006a-3, cin-mir-4006a-1, 
-cin-mir-4000a-1 & NA & 
-miRBase and Homology \\
-\cline{1-8}
+\textbf{cin-mir-4006e}, \textbf{cin-mir-4001a-1}, \textbf{cin-mir-4006b}, 
+cin-mir-4000c, \textbf{cin-mir-4006e}, cin-mir-4000b-2*, 
+\textbf{cin-mir-4001a-1}, cin-mir-4000b-1*, \textbf{cin-mir-4001a-2}, 
+\textbf{cin-mir-4002}, cin-mir-4000d*, \textbf{cin-mir-4001h}, 
+\textbf{cin-mir-4006a-3}, \textbf{cin-mir-4006a-1}, \textbf{cin-mir-4000a-1} & 
+Elements marked with * are identified by homology strategies at the same 
+cluster, but in another order reported by miRBase. & 
+miRBase and Homology & \cite{Hendrix2010} \\
+\cline{1-9}
 \end{longtable}
 \end{center}
 
@@ -707,13 +723,7 @@ H. roretzi have not been previously studied.
 Results: We report the prediction of 319 candidate H. roretzi miRNAs, obtained through three complementary
 methods. Experimental validation suggests that more than half of these candidate miRNAs are expressed during
 embryogenesis. The majority of predicted H. roretzi miRNAs appear specific to 
-asc
-
-When it’s yours please come and get it in my office.
-
- 
-
-Best,idians or tunicates, and only 32
+ascidians or tunicates, and only 32
 candidates, belonging to 25 families, are widely conserved across metazoans.
 Conclusion: Our study presents a comprehensive identification of candidate H. roretzi miRNAs. This resource
 will facilitate the study of the mechanisms for miRNA-controlled gene regulatory networks during ascidian
