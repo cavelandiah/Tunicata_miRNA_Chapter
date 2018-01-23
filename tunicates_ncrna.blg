@@ -1,4 +1,4 @@
-This is BibTeX, Version 0.99d (TeX Live 2015)
+This is BibTeX, Version 0.99d (TeX Live 2016)
 Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
 The top-level auxiliary file: tunicates_ncrna.aux
 The style file: plain.bst
@@ -24,45 +24,45 @@ Warning--I didn't find a database entry for "Peterson:09"
 Warning--I didn't find a database entry for "Berezikov:11"
 Warning--I didn't find a database entry for "Tanzer:10a"
 Warning--I didn't find a database entry for "Dai:09"
-You've used 60 entries,
+You've used 53 entries,
             2118 wiz_defined-function locations,
-            950 strings with 17291 characters,
-and the built_in function-call counts, 23988 in all, are:
-= -- 2252
-> -- 1559
+            907 strings with 15784 characters,
+and the built_in function-call counts, 21079 in all, are:
+= -- 1973
+> -- 1364
 < -- 0
-+ -- 620
-- -- 554
-* -- 2095
-:= -- 4161
-add.period$ -- 179
-call.type$ -- 60
-change.case$ -- 457
++ -- 543
+- -- 484
+* -- 1835
+:= -- 3657
+add.period$ -- 158
+call.type$ -- 53
+change.case$ -- 401
 chr.to.int$ -- 0
-cite$ -- 60
-duplicate$ -- 651
-empty$ -- 1564
-format.name$ -- 554
-if$ -- 4731
+cite$ -- 53
+duplicate$ -- 574
+empty$ -- 1383
+format.name$ -- 484
+if$ -- 4167
 int.to.chr$ -- 0
-int.to.str$ -- 60
-missing$ -- 58
-newline$ -- 302
-num.names$ -- 120
-pop$ -- 350
+int.to.str$ -- 53
+missing$ -- 51
+newline$ -- 267
+num.names$ -- 106
+pop$ -- 308
 preamble$ -- 1
-purify$ -- 397
+purify$ -- 348
 quote$ -- 0
-skip$ -- 431
+skip$ -- 380
 stack$ -- 0
-substring$ -- 1548
-swap$ -- 60
+substring$ -- 1359
+swap$ -- 53
 text.length$ -- 0
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 240
+type$ -- 212
 warning$ -- 0
-while$ -- 204
-width$ -- 62
-write$ -- 658
+while$ -- 176
+width$ -- 55
+write$ -- 581
 (There were 21 warnings)

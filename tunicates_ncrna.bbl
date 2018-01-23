@@ -39,31 +39,11 @@ Stefania Bortoluzzi, Marta Biasiolo, and Andrea Bisognin.
   players?
 \newblock {\em Trends in Molecular Medicine}, 17(9):473--474, 2011.
 
-\bibitem{Candiani2012}
-Simona Candiani.
-\newblock {Focus on mirnas evolution: A perspective from amphioxus}.
-\newblock {\em Briefings in Functional Genomics}, 11(2):107--117, 2012.
-
 \bibitem{Chen2014}
 Jerry~S. Chen, Abygail~M. Gumbayan, Robert~W. Zeller, and Joseph~M. Mahaffy.
 \newblock {An Expanded Notch-Delta Model Exhibiting Long-Range Patterning and
   Incorporating MicroRNA Regulation}.
 \newblock {\em PLoS Computational Biology}, 10(6), 2014.
-
-\bibitem{Dai2009}
-Zhonghua Dai, Zuozhou Chen, Hua Ye, Longhai Zhou, Lixue Cao, Yiquan Wang, Sihua
-  Peng, and Liangbiao Chen.
-\newblock {Characterization of microRNAs in cephalochordates reveals a
-  correlation between microRNA repertoire homology and morphological similarity
-  in chordate evolution}.
-\newblock {\em Evolution and Development}, 11(1):41--49, 2009.
-
-\bibitem{DeSouzaGomes2013}
-Matheus {De Souza Gomes}, Mark T~A Donoghue, Mohankumar Muniyappa,
-  Roberta~Verciano Pereira, Renata Guerra-S??, and Charles Spillane.
-\newblock {Computational identification and evolutionary relationships of the
-  MicroRNA gene cluster miR-71/2 in protostomes}.
-\newblock {\em Journal of Molecular Evolution}, 76(6):353--358, 2013.
 
 \bibitem{Friedlaender:12}
 Marc~R. Friedl{\"a}nder, Sebastian~D. Mackowiak, Na~Li, Wei Chen, and Nikolaus
@@ -121,17 +101,6 @@ Jana Hertel, Manuela Lindemeyer, Kristin Missal, Claudia Fried, Andrea Tanzer,
   Bioinformatics Computer Labs 2004 and 2005}.
 \newblock The expansion of the metazoan micro{RNA} repertoire.
 \newblock {\em BMC Genomics}, 7:15 [epub], 2006.
-
-\bibitem{Hertel2015}
-Jana Hertel and Peter Stadler.
-\newblock {The Expansion of Animal MicroRNA Families Revisited}.
-\newblock {\em Life}, 5(1):905--920, 2015.
-
-\bibitem{Hertel2006}
-Jana Hertel and Peter~F. Stadler.
-\newblock {Hairpins in a Haystack: Recognizing microRNA precursors in
-  comparative genomics data}.
-\newblock {\em Bioinformatics}, 22(14):197--202, 2006.
 
 \bibitem{Hertel:15a}
 Jana Hertel and Peter~F. Stadler.
@@ -275,12 +244,6 @@ a~E Pasquinelli, B~J Reinhart, F~Slack, M~Q Martindale, M~I Kuroda, B~Maller,
   heterochronic regulatory RNA.}
 \newblock {\em Nature}, 408(6808):86--89, 2000.
 
-\bibitem{Pignatelli2016}
-Miguel Pignatelli, Albert~J. Vilella, Matthieu Muffato, Leo Gordon, Simon
-  White, Paul Flicek, and Javier Herrero.
-\newblock {NcRNA orthologies in the vertebrate lineage}.
-\newblock {\em Database}, 2016(September 2017):1--20, 2016.
-
 \bibitem{Sempere:06}
 L~F Sempere, C~N Cole, M~A McPeek, and K~J Peterson.
 \newblock The phylogenetic distribution of metazoan micro{RNA}s: insights into
@@ -358,11 +321,5 @@ Sebastian Will, Kristin Reiche, Ivo~L. Hofacker, Peter~F. Stadler, and Rolf
 \newblock {Inferring noncoding RNA families and classes by means of
   genome-scale structure-based clustering}.
 \newblock {\em PLoS Computational Biology}, 3(4):680--691, 2007.
-
-\bibitem{Yang2014}
-Zhen Yang, Xueshuai Wan, Zhuoya Gu, Haohai Zhang, Xiaobo Yang, Lian He, Ruoyu
-  Miao, Yang Zhong, and Haitao Zhao.
-\newblock {Evolution of the mir-181 microRNA family}.
-\newblock {\em Computers in Biology and Medicine}, 52:82--87, 2014.
 
 \end{thebibliography}
