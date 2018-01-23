@@ -28,7 +28,7 @@
 %%% Personal packages
 %\usepackage[utf8]{inputenc}
 \usepackage{longtable}
-
+\usepackage{color}
 % see the list of further useful packages
 % in the Reference Guide
 
@@ -44,7 +44,8 @@
 \title*{non-protein-coding RNAs as regulators of development in tunicates}
 % Use \titlerunning{Short Title} for an abbreviated version of
 % your contribution title if the original one is too long
-\author{Author A and Author B}
+\author{Cristian A. Velandia-Huerto, Arjan Gittenberger, Federico D. 
+Brown Almeida, Peter F. Stadler and Clara I. Berm\'{u}dez-Santana}
 % Use \authorrunning{Short Title} for an abbreviated version of
 % your contribution title if the original one is too long
 \institute{Author Name \at Name, Address of Institute, \email{writeemail@unal.edu.co}
@@ -56,20 +57,35 @@
 %
 \maketitle
 
-\abstract*{Each chapter should be preceded by an abstract (10--15 lines long) that summarizes the content. The abstract will appear \textit{online} at \url{www.SpringerLink.com} and be available with unrestricted access. This allows unregistered users to read the abstract as a teaser for the complete chapter. As a general rule the abstracts will not appear in the printed version of your book unless it is the style of your particular book or that of the series to which your book belongs.
-Please use the 'starred' version of the new Springer \texttt{abstract} command for typesetting the text of the online abstracts (cf. source file of this chapter template \texttt{abstract}) and include them with the source files of your manuscript. Use the plain \texttt{abstract} command if the abstract is also to appear in the printed version of the book.}
-
-\abstract{Each chapter should be preceded by an abstract (10--15 lines long) that summarizes the content. The abstract will appear \textit{online} at \url{www.SpringerLink.com} and be available with unrestricted access. This allows unregistered users to read the abstract as a teaser for the complete chapter. As a general rule the abstracts will not appear in the printed version of your book unless it is the style of your particular book or that of the series to which your book belongs.\newline\indent
-Please use the 'starred' version of the new Springer \texttt{abstract} command for typesetting the text of the online abstracts (cf. source file of this chapter template \texttt{abstract}) and include them with the source files of your manuscript. Use the plain \texttt{abstract} command if the abstract is also to appear in the printed version of the book.}
-
+\abstract*{Each chapter should be preceded by an abstract (10--15 lines long) 
+that summarizes the content. The abstract will appear \textit{online} at 
+\url{www.SpringerLink.com} and be available with unrestricted access. This 
+allows unregistered users to read the abstract as a teaser for the complete 
+chapter. As a general rule the abstracts will not appear in the printed version 
+of your book unless it is the style of your particular book or that of the 
+series to which your book belongs.
+Please use the 'starred' version of the new 
+Springer \texttt{abstract} command for typesetting the text of the online 
+abstracts (cf. source file of this chapter template \texttt{abstract}) and 
+include them with the source files of your manuscript. Use the plain 
+\texttt{abstract} command if the abstract is also to appear in the printed 
+version of the book.}
 
 
 \section{Introduction}
 \label{sec:1}
 
-noncoding RNAs roles in tunicates development date earliest in the 90`s from the works of Swalla \& Jeffry in which RNAs localized in the yellow crescent or myoplasm, a cytoskeletal domain in oocytes of the ascidian \textit{Styela clava} were discovered \cite{Swalla1995}. This  yellow crescent or YC RNA identified to be present throughout embryonic development was the first example involved in envisioning the future of a growing family of ncRNAs that would play important roles in growth and development in tunicates\cite{Swalla1995}.
+noncoding RNAs roles in tunicates development date earliest in the 90`s from 
+the works of Swalla \& Jeffry in which RNAs localized in the yellow crescent or 
+myoplasm, a cytoskeletal domain in oocytes of the ascidian \textit{Styela clava} 
+were discovered \cite{Swalla1995}. This  yellow crescent or YC RNA identified to 
+be present throughout embryonic development was the first example involved in 
+envisioning the future of a growing family of ncRNAs that would play important 
+roles in growth and development in tunicates\cite{Swalla1995}.
 
-This asymmetrically distributed ascidian RNAs were part of the set of many other RNAs known as maternally synthesized cytoplasmically localized RNAs, discovered first in oocytes of Xenopus \cite{Bashirullah1998}
+This asymmetrically distributed ascidian RNAs were part of the set of many 
+other RNAs known as maternally synthesized cytoplasmically localized RNAs, 
+discovered first in oocytes of Xenopus \cite{Bashirullah1998}
 
 \section{miRNA families origin and evolutionary perspective}
 \label{sec:2}
@@ -168,39 +184,225 @@ families. This has been observed most prominently for tunicates
 
 \subsection{miRNA identification and validation}
 
-The first microRNA (miRNA) in tunicates was discovered in the year 2000 from the work of \textit{Pasquinelli et al., 2000} (CITE) when they were studying the temporal regulation of let-7 during development by using samples of small RNAs of a wide range of animal species, in which the ascidian \textit{Ciona intestinalis} was included as well as other vertebrates, hemichordates, mollusc, annelids, arthropod and other bilateral and nonbilateria animals \cite{Pasquinelli2000}. Later on the year 2003 the same team suggested that let-7 RNA may control the late temporal transitions during development across animal phylogeny \cite{Pasquinelli2003} albeit it was not identified on basal metazoans such as cnidarians and poriferans. 
+The first microRNA (miRNA) in tunicates was discovered in the year 2000 from 
+the work of \textit{Pasquinelli et al., 2000} when they were studying 
+the temporal regulation of let-7 during development by using samples of small 
+RNAs of a wide range of animal species, in which the ascidian \textit{Ciona 
+intestinalis} was included as well as other vertebrates, hemichordates, mollusc, 
+annelids, arthropod and other bilateral and nonbilateria animals 
+\cite{Pasquinelli2000}. Later on the year 2003 the same team suggested that 
+let-7 RNA may control the late temporal transitions during development across 
+animal phylogeny \cite{Pasquinelli2003} albeit it was not identified on basal 
+metazoans such as cnidarians and poriferans. 
 
-Then after the era of genome sequencing became available, it was launched in 2005 the computational screening of whole-genomes of non-model organism as tunicates. Beginning with the Cionas \textit{C. intestinalis} and \textit{C. savigni} a profile-based strategy was implemented in the ERPIN program \cite{Legendre2005}. On that work were detected a set of new miRNAs candidates considered as \textit{C. intestinalis} specific such as the members of the family miR-9 and miR-79 and as it was expected, other miRNA families were found homologous between both Cionas like the families miR-124;92;98;325;310-313 and let-7. Coincidentally, by the same year a whole-genomic comparative approach in the urochordate lineage was performed on the species \textit{C. intestinalis, C. savignyi} and \textit{O. dioica}. Using a computational screening of structured ncRNAs based upon homology between predicted precursor hairpin structures  $41$ miRNA candidates were detected including let-7 and other six known candidates in \textit{C. intestinalis} \cite{Missal2005}. After all, the same group in 2007 implemented a structure-based clustering approach in \textit{C. intestinalis} predicted $58$ miRNAs, of which only let-7, miR-7, miR-124, and miR-126 coincided with the previously annotated miRNAs \cite{Will2007}. 
+Then after the era of genome sequencing became available, it was launched in 
+2005 the computational screening of whole-genomes of non-model organism as 
+tunicates. Beginning with the Cionas \textit{C. intestinalis} and \textit{C. 
+savigni} a profile-based strategy was implemented in the ERPIN program 
+\cite{Legendre2005}. On that work were detected a set of new miRNAs candidates 
+considered as \textit{C. intestinalis} specific such as the members of the 
+family miR-9 and miR-79 and as it was expected, other miRNA families were found 
+homologous between both Cionas like the families miR-124;92;98;325;310-313 and 
+let-7. Coincidentally, by the same year a whole-genomic comparative approach in 
+the urochordate lineage was performed on the species \textit{C. intestinalis, C. 
+savignyi} and \textit{O. dioica}. Using a computational screening of structured 
+ncRNAs based upon homology between predicted precursor hairpin structures  $41$ 
+miRNA candidates were detected including let-7 and other six known candidates in 
+\textit{C. intestinalis} \cite{Missal2005}. After all, the same group in 2007 
+implemented a structure-based clustering approach in \textit{C. intestinalis} 
+predicted $58$ miRNAs, of which only let-7, miR-7, miR-124, and miR-126 
+coincided with the previously annotated miRNAs \cite{Will2007}. 
 
-Thus far, the primary focus to identify miRNAs into urochordate linage has been mainly toward the use of computational approaches but soon came up the use of new hybrid strategies combining computational and experimental studies to validate candidate families previously detected. For instance the first bona fide record for \textit{C. intestinalis} was registered in mirBase only in its Release 11. Those first miRNAs records were derived from the work published in 2007 by Norden-Krichmar et al., \cite{Norden-Krichmar2007}. The authors searched for conservation with the seed region of the known mature miRNA sequences from miRBase release 2006 on the whole-genomic sequences of \textit{C. intestinalis} and \textit{C. savignyi}. Those miRNAs were aligned locally using the FASTA/ssearch34 program. Only matches of 90\% identity or better were retained. In further steps these authors studied RNA sequences that folds like hairpin structures with the mature miRNA sequence in the stem region including other typical features exhibit in miRNA hairpins. By manual curation of the genomic sequences predicted by the software mfold which folded like hairpin structures, a set of $18$ miRNA molecules were detected which appeared conserved in both Cionas. After all, using  Northern blot analyses in the adult tissue of \textit{C. intestinalis} the authors confirmed expression of  let-7, miR-7, and miR-126, as well as $11$ other conserved miRNA families.
+Thus far, the primary focus to identify miRNAs into urochordate linage has been 
+mainly toward the use of computational approaches but soon came up the use of 
+new hybrid strategies combining computational and experimental studies to 
+validate candidate families previously detected. For instance the first bona 
+fide record for \textit{C. intestinalis} was registered in mirBase only in its 
+Release 11. Those first miRNAs records were derived from the work published in 
+2007 by Norden-Krichmar et al., \cite{Norden-Krichmar2007}. The authors searched 
+for conservation with the seed region of the known mature miRNA sequences from 
+miRBase release 2006 on the whole-genomic sequences of \textit{C. intestinalis} 
+and \textit{C. savignyi}. Those miRNAs were aligned locally using the 
+FASTA/ssearch34 program. Only matches of 90\% identity or better were retained. 
+In further steps these authors studied RNA sequences that folds like hairpin 
+structures with the mature miRNA sequence in the stem region including other 
+typical features exhibit in miRNA hairpins. By manual curation of the genomic 
+sequences predicted by the software mfold which folded like hairpin structures, 
+a set of $18$ miRNA molecules were detected which appeared conserved in both 
+Cionas. After all, using  Northern blot analyses in the adult tissue of 
+\textit{C. intestinalis} the authors confirmed expression of  let-7, miR-7, and 
+miR-126, as well as $11$ other conserved miRNA families.
 
-Until 2008, most of the miRNAs annotations were concentrated in Cionas, but new annotation approaches for other species in tunicates were appearing slowly to increase then the repertory of new miRNAs families in urochordates. In this order of ideas, the first repertory of miRNAs based on non-Cionas species was published by Fu et al., in  2008 for the larvacean \textit{O. dioica} \cite{Fu2008}. At that time the authors were studying the temporal-spatial expression patterns of conserved miRNAs in different developmental stages of oocytes, 1-cell zygote, 2-8 cell embryons, blastulas, gastrulas, tadpoles (in different stages) and animals from 1 to 6 days from \textit{O. dioica}. In this research, small RNAs were isolated, amplified by RT-PCR and rapid amplification of cDNA ends (RACE) of the developmental stages, cloned and sequenced. Blast searches using the sequences of cloned small RNA libraries were used to annotate small RNAs as miRNA candidates. In further steps the recovered  genomic flanking sequences each side of those mapped candidates were used as input to predicted secondary structures by mfold v3.1. This step was used to detect candidates that folds like miRNA hairpins and aimed to decrease the set of false positive potential miRNAs in \textit{O. dioica}. Finally, for this set of potential candidates a developmental miRNA array dot blot analyses were performed to detect miRNA expression. With this approach from $3066$ sequenced small RNA clones only for $55$ miRNAs was detected expression. As a conclusion the authors suggested that those candidates were expressed throughout the short life cycle of \textit{O. dioica} showing that some of them were stocked as maternal determinants prior to rapid embryonic development.  Besides the authors identified a set of sex-specific miRNAs that appeared as male/female gonad differentiation which became apparent and was maintained throughout spermatogenesis \cite{Fu2008}. Unexpectedly, the majority of the miRNAs loci in \textit{O. dioica} were located in antisense orientations into the hosted genes in opposite fashion observed in the majority of the known mammalian miRNAs at that time. 
+Until 2008, most of the miRNAs annotations were concentrated in Cionas, but new 
+annotation approaches for other species in tunicates were appearing slowly to 
+increase then the repertory of new miRNAs families in urochordates. In this 
+order of ideas, the first repertory of miRNAs based on non-Cionas species was 
+published by Fu et al., in  2008 for the larvacean \textit{O. dioica} 
+\cite{Fu2008}. At that time the authors were studying the temporal-spatial 
+expression patterns of conserved miRNAs in different developmental stages of 
+oocytes, 1-cell zygote, 2-8 cell embryons, blastulas, gastrulas, tadpoles (in 
+different stages) and animals from 1 to 6 days from \textit{O. dioica}. In this 
+research, small RNAs were isolated, amplified by RT-PCR and rapid amplification 
+of cDNA ends (RACE) of the developmental stages, cloned and sequenced. Blast 
+searches using the sequences of cloned small RNA libraries were used to annotate 
+small RNAs as miRNA candidates. In further steps the recovered  genomic flanking 
+sequences each side of those mapped candidates were used as input to predicted 
+secondary structures by mfold v3.1. This step was used to detect candidates that 
+folds like miRNA hairpins and aimed to decrease the set of false positive 
+potential miRNAs in \textit{O. dioica}. Finally, for this set of potential 
+candidates a developmental miRNA array dot blot analyses were performed to 
+detect miRNA expression. With this approach from $3066$ sequenced small RNA 
+clones only for $55$ miRNAs was detected expression. As a conclusion the authors 
+suggested that those candidates were expressed throughout the short life cycle 
+of \textit{O. dioica} showing that some of them were stocked as maternal 
+determinants prior to rapid embryonic development.  Besides the authors 
+identified a set of sex-specific miRNAs that appeared as male/female gonad 
+differentiation which became apparent and was maintained throughout 
+spermatogenesis \cite{Fu2008}. Unexpectedly, the majority of the miRNAs loci in 
+\textit{O. dioica} were located in antisense orientations into the hosted genes 
+in opposite fashion observed in the majority of the known mammalian miRNAs at 
+that time. 
 
-Between the years 2009 and 2015 the majority of the studies of miRNAs in tunicates were focused into the validation of expression of computational predicted miRNAs in Cionas specially focused in \textit{C. intestinalis} as model organism of tunicates or into the test of new computational approaches as miRTRAP, miRDeep2 and miRRim2 which used next-generation sequencing libraries of small RNAs derived from \textit{C. intestinalis} to validate their algorithms. Then by the year 2016 the first comparative homology based search strategy let us to identify the repertory on miRNAs and other ncRNAs in the carpet sea squirt \textit{Didemnum vexillum} with a preliminary comparative analysis of gain and losses of miRNA families on chordates which included the \textit{Cionas}, \textit{O. dioca} and the colonial tunicate \textit{Botryllus schlosseri} \cite{Velandia-Huerto2016}. By the same year, from the preliminary genome sequence assembled for the Southern Ocean salp, \textit{Salpa thompsoni} (Urochordata, Thaliacea) a set of miRNAs families were detected \cite{Jue2016} and in 2017 the prediction of miRNAs families were reported to the species \textit{Halocynthia roretzi}. On the following two sections we will focus on those stages of the fascinated increased screening of the miRNA repertory in tunicates.
+Between the years 2009 and 2015 the majority of the studies of miRNAs in 
+tunicates were focused into the validation of expression of computational 
+predicted miRNAs in Cionas specially focused in \textit{C. intestinalis} as 
+model organism of tunicates or into the test of new computational approaches as 
+miRTRAP, miRDeep2 and miRRim2 which used next-generation sequencing libraries of 
+small RNAs derived from \textit{C. intestinalis} to validate their algorithms. 
+Then by the year 2016 the first comparative homology based search strategy let 
+us to identify the repertory on miRNAs and other ncRNAs in the carpet sea squirt 
+\textit{Didemnum vexillum} with a preliminary comparative analysis of gain and 
+losses of miRNA families on chordates which included the \textit{Cionas}, 
+\textit{O. dioca} and the colonial tunicate \textit{Botryllus schlosseri} 
+\cite{Velandia-Huerto2016}. By the same year, from the preliminary genome 
+sequence assembled for the Southern Ocean salp, \textit{Salpa thompsoni} 
+(Urochordata, Thaliacea) a set of miRNAs families were detected \cite{Jue2016} 
+and in 2017 the prediction of miRNAs families were reported to the species 
+\textit{Halocynthia roretzi}. On the following two sections we will focus on 
+those stages of the fascinated increased screening of the miRNA repertory in 
+tunicates.
 
 \subsubsection{Validation and detection of miRNA families in Cionas in this decade}
 
-At the end of the last decade the application of next generation sequencing technologies to sequence small RNA libraries changed the common way used to detect expression of miRNAs in many organisms including the tunicates. This technology became in one of the most common approaches that supported methods like RT-PCR, microarrays or dot blotting which were previously used to validate miRNA expression in tunicates. In 2009 after preparing small RNA libraries from various developmental stages including unfertilized eggs, early
-embryos, late embryos and adults from  \textit{C. intestinalis} was performed high-throughput sequencing of cDNA with an Illumina 1G Genome Analyzer experiments. These sequencing led to document $80$ miRNAs families for  \textit{C. intestinalis}. Unexpectedly, were detected a distinct species of small RNAs processed outside of the miRNA precursors which were termed as moRs or miRNA-offset RNAs \cite{Shi2009}. Later on, after extracting non-coding conserved regions of whole genome alignments between  \textit{C. intestinalis} and \textit{C. savigny} a set of $12$ million sequences were computationally folded using RNAfold and mfold. Then after combining the following criteria: structure/sequence conservation, homology to known miRNAs, and phylogenetic footprinting the authors detected 
-a set of $458$ candidate sequences \cite{Keshavan2010}. Then in order to validate those candidate, RT-PCR and PAGE were conducted to design a custom microarray. After screened them for miRNA expression were identifying that $244$ of the $458$ miRNA predictions were represented either in their microarray data or in the Illumina database constructed previously for small RNA derived from \textit{C. intestinalis} by \cite{Shi2009}. Although they failed to predict $39$ previously characterized miRNAs, it was suggested in this work that \textit{C. intestinalis} genome may encode about $300$ miRNA genes. Then to increase the miRNAs collection in \textit{C. intestinalis} a novel computational strategy for the systematic, whole-genome identification of microRNA from high throughput sequencing information was developed in 2010 by \cite{Hendrix2010}. That method, known as miRTRAP, incorporated not only the mechanisms of microRNA biogenesis but also includes additional criteria regarding the prevalence and quality of small RNAs arising from the antisense strand and the neighboring loci. With that approach, nearly $400$ putative microRNAs loci were detected. In short words these strategy relies on the way how the the biochemical machinery processes pre-miRNA hairpins produces short RNA products. This approach is highly depended on the deep of the small RNAs mapped to a given locus and is highlighted by the authors that the approach requires an accurate assignment of small RNA sequences on their relative positions along the hairpin, that is, miR/miR*, moR/moR* and loop \cite{Hendrix2010}. Again a new approach took advantage of importance to detect miRNAs from the high-throughput sequencing of small RNAs available from \cite{Shi2009}. These approach known as  miRDeep2 improved the algorithm of its first version miRDeep \cite{Friedlander2012} and let to identify with an accuracy of $98.6$\% and $99.9$\% canonical and non-canonical miRNAs in different species. These approach reported $313$ known and $127$ novel ones miRNAs in \textit{C. intestinalis}. 
-In the same year the program miRRim2 \cite{Terai2012} was applied to the \textit{C. intestinalis} genome, in which some candidates identified from the work of \cite{Hendrix2010} and the several promising candidates were detected. In 2013, \cite{Kusakabe2013} was investigated the expression patterns of the cluster miR-1 and miR-133 in \textit{C. intestinalis} and in \textit{C. savignyi}. RT-PCR amplification of miR-1/133 precursors were performed and PCR products were subcloned and sequenced. Whole-mount in situ hybridization to detect cin-miR-1/miR-133 primary transcript was performed and LNA Northern blotting was conducted on different developmental stages. 
+At the end of the last decade the application of next generation sequencing 
+technologies to sequence small RNA libraries changed the common way used to 
+detect expression of miRNAs in many organisms including the tunicates. This 
+technology became in one of the most common approaches that supported methods 
+like RT-PCR, microarrays or dot blotting which were previously used to validate 
+miRNA expression in tunicates. In 2009 after preparing small RNA libraries from 
+various developmental stages including unfertilized eggs, early embryos, late 
+embryos and adults from  \textit{C. intestinalis} was performed high-throughput 
+sequencing of cDNA with an Illumina 1G Genome Analyzer experiments. These 
+sequencing led to document $80$ miRNAs families for  \textit{C. intestinalis}. 
+Unexpectedly, were detected a distinct species of small RNAs processed outside 
+of the miRNA precursors which were termed as moRs or miRNA-offset RNAs 
+\cite{Shi2009}. Later on, after extracting non-coding conserved regions of whole 
+genome alignments between  \textit{C. intestinalis} and \textit{C. savigny} a 
+set of $12$ million sequences were computationally folded using RNAfold and 
+mfold. Then after combining the following criteria: structure/sequence 
+conservation, homology to known miRNAs, and phylogenetic footprinting the 
+authors detected a set of $458$ candidate sequences \cite{Keshavan2010}. Then 
+in order to validate those candidate, RT-PCR and PAGE were conducted to design 
+a custom microarray. After screened them for miRNA expression were identifying 
+that $244$ of the $458$ miRNA predictions were represented either in their 
+microarray data or in the Illumina database constructed previously for small RNA 
+derived from \textit{C. intestinalis} by \cite{Shi2009}. Although they failed to 
+predict $39$ previously characterized miRNAs, it was suggested in this work that 
+\textit{C. intestinalis} genome may encode about $300$ miRNA genes. Then to 
+increase the miRNAs collection in \textit{C. intestinalis} a novel computational 
+strategy for the systematic, whole-genome identification of microRNA from high 
+throughput sequencing information was developed in 2010 by \cite{Hendrix2010}. 
+That method, known as miRTRAP, incorporated not only the mechanisms of microRNA 
+biogenesis but also includes additional criteria regarding the prevalence and 
+quality of small RNAs arising from the antisense strand and the neighboring 
+loci. With that approach, nearly $400$ putative microRNAs loci were detected. In 
+short words these strategy relies on the way how the the biochemical machinery 
+processes pre-miRNA hairpins produces short RNA products. This approach is 
+highly depended on the deep of the small RNAs mapped to a given locus and is 
+highlighted by the authors that the approach requires an accurate assignment of 
+small RNA sequences on their relative positions along the hairpin, that is, 
+miR/miR*, moR/moR* and loop \cite{Hendrix2010}. Again a new approach took 
+advantage of importance to detect miRNAs from the high-throughput sequencing of 
+small RNAs available from \cite{Shi2009}. These approach known as  miRDeep2 
+improved the algorithm of its first version miRDeep \cite{Friedlander2012} and 
+let to identify with an accuracy of $98.6$\% and $99.9$\% canonical and 
+non-canonical miRNAs in different species. These approach reported $313$ known 
+and $127$ novel ones miRNAs in \textit{C. intestinalis}. In the same year the 
+program miRRim2 \cite{Terai2012} was applied to the \textit{C. intestinalis} 
+genome, in which some candidates identified from the work of \cite{Hendrix2010} 
+and the several promising candidates were detected. In 2013, \cite{Kusakabe2013} 
+was investigated the expression patterns of the cluster miR-1 and miR-133 in 
+\textit{C. intestinalis} and in \textit{C. savignyi}. RT-PCR amplification of 
+miR-1/133 precursors were performed and PCR products were subcloned and 
+sequenced. Whole-mount in situ hybridization to detect cin-miR-1/miR-133 primary 
+transcript was performed and LNA Northern blotting was conducted on different 
+developmental stages. 
 
 \subsubsection{The new era to get deep insights into the repertory of miRNA in other urochordates}
 
-Since 2016 new approximations has increased our knowledge about new families in other tunicates thanks to the sequence of new urochordate genomes of the species \textit{D. vexillum}, \textit{S. thompsoni} and \textit{H. roretzi} %do not know write here B. schlosseri because no-ncRNAs were reported, only on mtDNA and methodology to validate genes by RNA-seq from different tissues and it was reported on 2013...
+Since 2016 new approximations has increased our knowledge about new families in 
+other tunicates thanks to the sequence of new urochordate genomes of the species 
+\textit{D. vexillum}, \textit{S. thompsoni} and \textit{H. roretzi} %do not know 
+write here B. schlosseri because no-ncRNAs were reported, only on mtDNA and 
+methodology to validate genes by RNA-seq from different tissues and it was 
+reported on 2013...
 
-(Please summary of our Dvexillum paper \cite{Velandia-Huerto2016} including the first reported preliminary annotation for colonial tunicate \textit{B. schlosseri} beside the one for Dvexillum.)
+(Please summary of our Dvexillum paper \cite{Velandia-Huerto2016} including the 
+first reported preliminary annotation for colonial tunicate \textit{B. 
+schlosseri} beside the one for Dvexillum.)
 %%%%ADDED CRISTIAN
-For the draft genome sequence from \textit{D. vexillum} an homology-based computational approach was applied \cite{Velandia-Huerto2016}. Blast and HMMer searches were performed with annotated small ncRNAs sequences from metazoans and hidden markov models from RFAM\footnote{\url{http://rfam.xfam.org/}} to obtain the sort of candidates at sequence level. Structural alignments of those sequences were performed by infernal (CITE), using metazoan-specific covariance models to annotate the small ncRNAs collection, which $57$ families and $100$ loci of miRNAs were found. 
+For the draft genome sequence from \textit{D. vexillum} an 
+homology-based computational approach was applied \cite{Velandia-Huerto2016}. 
+Blast and HMMer searches were performed with annotated small ncRNAs sequences 
+from metazoans and hidden markov models from 
+RFAM\footnote{\url{http://rfam.xfam.org/}} to obtain the sort of candidates at 
+sequence level. Structural alignments of those sequences were performed by 
+infernal (CITE), using metazoan-specific covariance models to annotate the small 
+ncRNAs collection, which $57$ families and $100$ loci of miRNAs were found. 
 %%%%%%%%%%%%
-For the preliminary assembled of the genome sequence for the Southern Ocean salp \textit{S. thompsoni} \cite{Jue2016} were small RNA libraries constructed to be sequenced on an Illumina Hiseq 2000. After filtering data sets to 18-24 nt for miRNA and 28-32 nt for piRNA, the reads were aligned to \textit{S. thompsoni} genome and miRNA gene folding predictions were performed using RNAfold. In this initial survey of small RNAs, were revealed the presence of known, conserved miRNAs, as well as novel miRNA genes and mature miRNA signatures for varying developmental stages. Then in 2017, the prediction of $319$ miRNAs candidates in \textit{H. roretzi} were obtained through three complementary methods. The experimental validation suggested that more than half of these candidate miRNAs are expressed during embryogenesis. The expression of some of the predicted miRNAs were validated by RT-PCR using embryonic RNA. In this approach \textit{C. robusta} small RNA-Seq reads derived from \textit{C. robusta} \cite{Shi2009} (previously known as  \textit{C. intestinalis} today reclassified) was used to identify conserved miRNAs in \textit{H. roretzi} \cite{Wang2017} .  
 
-%%%%% CAVH
+For the preliminary assembled of the genome sequence for the 
+Southern Ocean salp \textit{S. thompsoni} \cite{Jue2016} were small RNA 
+libraries constructed to be sequenced on an Illumina Hiseq 2000. After filtering 
+data sets to 18-24 nt for miRNA and 28-32 nt for piRNA, the reads were aligned 
+to \textit{S. thompsoni} genome and miRNA gene folding predictions were 
+performed using RNAfold. In this initial survey of small RNAs, were revealed the 
+presence of known, conserved miRNAs, as well as novel miRNA genes and mature 
+miRNA signatures for varying developmental stages. Then in 2017, the prediction 
+of $319$ miRNAs candidates in \textit{H. roretzi} were obtained through three 
+complementary methods. The experimental validation suggested that more than half 
+of these candidate miRNAs are expressed during embryogenesis. The expression of 
+some of the predicted miRNAs were validated by RT-PCR using embryonic RNA. In 
+this approach \textit{C. robusta} small RNA-Seq reads derived from \textit{C. 
+robusta} \cite{Shi2009} (previously known as  \textit{C. intestinalis} today 
+reclassified) was used to identify conserved miRNAs in \textit{H. roretzi} 
+\cite{Wang2017}.
+
 
 \subsection{miRNA in clusters}
 
-One of the most interesting aspects about the patterns of genomic locations of miRNAs is to known whether those loci are randomly distributed throughout the genome as single copies or if they are arranged on consecutive locations or in tandem copies clustered to be expressed from polycistronic primary precursors or to be transcribed independently. Interestingly in \textit{O. dioca} miRNAs are located in the antisense orientations of protein-coding gene and immediately downstream of its corresponding 3`UTR region or even more in the sense strand of introns \cite{Fu2008}. Nevertheless, after those conspicuous distributions some clusters have been also identified in \textit{O. dioca}. For instance four miRNAs, miR-1490a, miR-1493, miR-1497d, and miR-1504, are reported by \cite{Fu2008} to be presented as two copies, and miR-1497d-1 and miR-1497d-2 are included in the large miR-1497 cluster. See the current structure of this cluster in Table \ref{tab:detailBigClusters} although only one copy for the  miR-1497 has been reported for \textit{C. instestinalis} located in an intergenic region \cite{Fu2008}, \cite{Hendrix2010} and one in \textit{C. savigny} overlapped in an intron \cite{Fu2008}. By testing real time PCR co-expression of some miRNAs, their host and adjacent genes in \textit{O. dioca} by \cite{Fu2008} it was discovered for the case of the cluster  miR-1487/miR-1488 a not clear positive or negative correlation with the expression of its anti-sense hosting gene. In males this cluster expression was not associated with the expression of its adjacent ABCA3 gene by the same authors.  
-
+One of the most interesting aspects about the patterns of genomic locations of 
+miRNAs is to known whether those loci are randomly distributed throughout the 
+genome as single copies or if they are arranged on consecutive locations or in 
+tandem copies clustered to be expressed from polycistronic primary precursors or 
+to be transcribed independently. Interestingly in \textit{O. dioca} miRNAs are 
+located in the antisense orientations of protein-coding gene and immediately 
+downstream of its corresponding 3`UTR region or even more in the sense strand of 
+introns \cite{Fu2008}. Nevertheless, after those conspicuous distributions some 
+clusters have been also identified in \textit{O. dioca}. For instance four 
+miRNAs, miR-1490a, miR-1493, miR-1497d, and miR-1504, are reported by 
+\cite{Fu2008} to be presented as two copies, and miR-1497d-1 and miR-1497d-2 are 
+included in the large miR-1497 cluster. See the current structure of this 
+cluster in Table \ref{tab:detailBigClusters} although only one copy for the  
+miR-1497 has been reported for \textit{C. instestinalis} located in an 
+intergenic region \cite{Fu2008}, \cite{Hendrix2010} and one in \textit{C. 
+savigny} overlapped in an intron \cite{Fu2008}. By testing real time PCR 
+co-expression of some miRNAs, their host and adjacent genes in \textit{O. dioca} 
+by \cite{Fu2008} it was discovered for the case of the cluster  
+miR-1487/miR-1488 a not clear positive or negative correlation with the 
+expression of its anti-sense hosting gene. In males this cluster expression was 
+not associated with the expression of its adjacent ABCA3 gene by the same 
+authors.  
 %%%
 
 \begin{longtable}{p{2.0 cm}p{2 cm}p{2 cm}p{2 cm}p{1.2 cm}p{1.0 cm}p{2.6 cm}}
@@ -241,17 +443,17 @@ evolution of this cluster conducted by \cite{Griffiths-Jones2011}. The authors
 suggested that mir-100, mir125 and let7 are clustered in most of the bilaterian 
 genomes including as 1473 as orthologue of mir-100. 
 
-%\CAVH{My main concerns here that the cluster cluster let-7/miR-125/miR-100 
-%observed in Drosophila and is included time ago for 
-%\cite{Griffiths-Jones2011}. In his plot you see a cluster on the right side 
-%and another on the left side, I am not sure why the mir-125 is not including 
-%if right now is validated in miRBAse shaping a cluster 
-%\ref{let7-mir125-mir1473}. Why the mir125 is not here? If it is reported time 
-%ago and is validated in miBase and by \cite{Keshavan2010}? And why mir233 is 
-%on it and not for Csa and Cin?. Please could you check this let7 cluster in 
-%the current plot?. Here I follow with Cristan description of this cluster. 
-%Please check about the mir125 and do any reconciliation if is posible with the 
-%plot of the paper of  \cite{Griffiths-Jones2011} in \ref{evolutionlet7}. 
+\textcolor{red}{My main concerns here that the cluster cluster 
+let-7/miR-125/miR-100 observed in Drosophila and is included time ago for 
+\cite{Griffiths-Jones2011}. In his plot you see a cluster on the right side 
+and another on the left side, I am not sure why the mir-125 is not including 
+if right now is validated in miRBAse shaping a cluster 
+\ref{let7-mir125-mir1473}. Why the mir125 is not here? If it is reported time 
+ago and is validated in miBase and by \cite{Keshavan2010}? And why mir233 is 
+on it and not for Csa and Cin?. Please could you check this let7 cluster in 
+the current plot?. Here I follow with Cristan description of this cluster. 
+Please check about the mir125 and do any reconciliation if is posible with the 
+plot of the paper of  \cite{Griffiths-Jones2011} in \ref{evolutionlet7}.}
 
 Current analysis of this cluster shows that the distribution of miRNAs families 
 on this let-7 cluster are distributed in all the studied chordate species. In 
@@ -275,39 +477,38 @@ authors also found five additional paralogs of let-7 within a 1-kb stretch
 previously know as Scaffold\_138 which is right now described on the chromosome 
 4q. The current distribution for both Cionas is shown in \ref{let7paralogs}. 
 
-%\CAVH{Unfortunately is not seen in the Cristian detection method?, could we 
-%plotted or is not making sense? Since let7 is a very important regulator of 
-%development} MAPPING, problem with mapping...
+\textcolor{red}{Unfortunately is not seen in the Cristian detection method?, 
+could we plotted or is not making sense? Since let7 is a very important 
+regulator of development (MAPPING, problem with mapping...)}
 
 The cluster miR-1/miR-133, expressed specifically in Cionas muscle tissues was 
 also reported by \cite{Kusakabe2013}. The authors reported that one copy of this 
 cluster is presented in both Cionas. As is shown in the plot 
-\ref{fig:mir-1} a copy is also presented in \textit{L. chalumnae}. 
-In 2012 a new cluster was proposed in \textit{C. intestinalis} by 
-\cite{Terai2012} located on the cromosome 10q and composed by the mir-4054 
-locus and the mir-4091. In the current distribution of this cluster a new 
-annotated family the mir-4008 with three paralogous is located on the middle of 
-those loci. This current distribution in shown of \ref{mir4091} whose loci were 
- validated by \cite{Norden-Krichmar2007}, \cite{Fu2008}, \cite{Hendrix2010}, 
-and \cite{Terai2012}. As was mentioned by \cite{Hendrix2010} is not very common 
-to find related miRNAs organized in clusters composed by closely related 
-families that differ in just a single nucleotide in the seed sequence as was 
-found on the cluster composed by nine Ci-mir-2200, seven Ci-mir-2201 and 
-nine Ci-mir2203 which were previously reported under that putative names. They 
-also found a second large cluster composed of $11$ miRNAs that gather into 4 
-paralogous families three of Ci-mir-2200, three Ci-mir-2201, four Ci-mir-2204 
-and two Ci-2217. Current distribution of miRNAs families in \textit{C. 
-intestinalis} and curated annotations indicate than in other regions of the 
-chromosome 7q are also organized miRNAs in tandem copies of families. For 
-instance the big cluster presumably re-named from \cite{Hendrix2010} today is 
-known to be built by the families miR4000, miR-4001, miR4002, and miR4006 
-located on chromosome 7q Figures \ref{7qf} and \ref{7qs}. Another cluster is 
-also located on the same chromosome composed by the families miR-4003, miR4005 
-and miR4077 in Figure \ref{7qother}. Some other cluster are also found on the 
-cromosome 1a, 10q and 3p. See this structure on Figures \ref{1q-10q}, 
-\ref{3p-7q} and \ref{3p}, most of them validated by \cite{Hendrix2010}. 
-\CAVH{Please check the Table \ref{tab:detailBigClusters} which are and which are 
-not to update}
+\ref{fig:mir-1} a copy is also presented in \textit{L. chalumnae}. In 2012 a 
+new cluster was proposed in \textit{C. intestinalis} by \cite{Terai2012} located 
+on the cromosome 10q and composed by the mir-4054 locus and the mir-4091. In 
+the current distribution of this cluster a new annotated family the mir-4008 
+with three paralogous is located on the middle of those loci. This current 
+distribution in shown of \ref{mir4091} whose loci were  validated 
+by \cite{Norden-Krichmar2007}, \cite{Fu2008}, \cite{Hendrix2010}, and 
+\cite{Terai2012}. As was mentioned by \cite{Hendrix2010} is not very common to 
+find related miRNAs organized in clusters composed by closely related families 
+that differ in just a single nucleotide in the seed sequence as was found on the 
+cluster composed by nine Ci-mir-2200, seven Ci-mir-2201 and nine Ci-mir2203 
+which were previously reported under that putative names. They also found a 
+second large cluster composed of $11$ miRNAs that gather into $4$ paralogous 
+families three of Ci-mir-2200, three Ci-mir-2201, four Ci-mir-2204 and two 
+Ci-2217. Current distribution of miRNAs families in \textit{C. intestinalis} and 
+curated annotations indicate than in other regions of the chromosome 7q are also 
+organized miRNAs in tandem copies of families. For instance the big cluster 
+presumably re-named from \cite{Hendrix2010} today is known to be built by the 
+families miR4000, miR-4001, miR4002, and miR4006 located on chromosome 7q 
+Figures \ref{7qf} and \ref{7qs}. Another cluster is also located on the same 
+chromosome composed by the families miR-4003, miR4005 and miR4077 in Figure 
+\ref{7qother}. Some other cluster are also found on the cromosome 1a, 10q and 
+3p. See this structure on Figures \ref{1q-10q}, \ref{3p-7q} and \ref{3p}, most 
+of them validated by \cite{Hendrix2010}. \textcolor{red}{Please check the Table 
+\ref{tab:detailBigClusters} which are and which are not to update}
 
 Some other clusters shared between both Cionas are the cluster 92, 124 and 200  
 validated by \cite{Norden-Krichmar2007}, \cite{Fu2008}, \cite{Hendrix2010} which 
@@ -384,6 +585,7 @@ the structure is seen on Figures \ref{mir92}, \ref{mir124} and \ref{mir200}
 %carolinensis}.}
 %\end{figure}
 
+\iffalse
 \subsubsection{Yanetal2014.pdf}
 
 \cite{Yang2014}
@@ -446,6 +648,8 @@ author = {Griffiths-Jones, Sam and Hui, Jerome H L and Marco, Antonio and Ronsha
 
 \cite{Yang2014}
 \textit{Mir-181 is an ancient microRNA (miRNA) gene family that originated in urochordata. Although their functions were subjected to extensive studies in recent years, their evolutionary process remains largely unknown. Here we systematically investigated the homologous genes of the mir-181 family by a sequence similarity search. Representative sequences of the mir-181 gene family were used to reconstruct their evolutionary history. Our results indicated that this family could have derived from multiple duplications, which include two rounds of whole genome duplications and one round of segmental replication. Functional annotation of the target genes of the mir-181 family suggested that this family could participate in some important biological processes including transcriptional and translational regulation, signaling transduction etc. This analysis presented a complex evolutionary dynamics for the origination of a miRNA gene family. {\textcopyright} 2014 Elsevier Ltd.}
+\fi
+
 
 \subsection{To complete the tree of loss and gain of families}
 
@@ -500,6 +704,7 @@ carolinensis}}
 \label{fig:vennDiagram}
 \end{figure}
 
+\iffalse
 \cite{Velandia-Huerto2016} \textit{A comparative analysis of miRNAs families in 
 tunicates is summarized in Fig. 5 c and d. We find several patterns of 
 recognizable trends as we analyze the conservation, loss and gain of miRNA 
@@ -549,6 +754,8 @@ will facilitate the study of the mechanisms for miRNA-controlled gene regulatory
 development. Further, our analysis suggests that the majority of Halocynthia miRNAs are specific to ascidian
 or tunicates, with only a small number of widely conserved miRNAs. This result is consistent with the general
 notion that animal miRNAs are less conserved between taxa than plant ones.}
+
+\fi
 
 \section{miRNAs and its rol in development}
 \label{sec:3}
@@ -848,8 +1055,7 @@ may play an important role in growth and development \cite{Swalla1995}.
 \subsection{MicroRNA-offset RNAs}
 
 MicroRNA-offset RNAs, i.e. moRNAs, concern about $20$ nucleotides long RNAs 
-that lie adjacent to pre-miRNAs. They can originate let-7_101_128.pdffrom both 
-ends of these 
+that lie adjacent to pre-miRNAs. They can originate from both ends of these 
 pre-miRNAs, although prevalently they are derived from the 5' arm 
 \cite{bortoluzzi2011}. During a study focused on identifying miRNAs in the 
 simple chordate \textit{C. intestinalis} moRNAs were first discovered 
@@ -864,12 +1070,11 @@ These results and subsequent studies gave rise to the hypothesis that moRNAs
 concern  a new class of functional regulators whose qualitative alteration 
 and/or expression dysregulation might even impact human diseases 
 \cite{bortoluzzi2011}. Evidence supporting this hypothesis is still fragmentary 
-however. After the discovery in \textit{Ciona}, moRNlet-7_101_128.pdfAs were 
-also found in human 
-cells by deep sequencing analysis. Hereby it was reported that moRNAs from $78$ 
-genomic loci were weakly expressed in the prefrontal cortex 
-\cite{Langenberger2009}. Additional indications that moRNA have a distinct 
-function include the fact that some moRNAs are as conserved as miRNAs 
+however. After the discovery in \textit{Ciona}, moRNAs were 
+also found in human cells by deep sequencing analysis. Hereby it was reported 
+that moRNAs from $78$ genomic loci were weakly expressed in the prefrontal 
+cortex \cite{Langenberger2009}. Additional indications that moRNA have a 
+distinct function include the fact that some moRNAs are as conserved as miRNAs 
 and are in fact conserved across species to an extent that correlated with 
 expression level \cite{Shi2009}. The expression level of certain moRNAs can 
 even be greater than for their corresponding miRNA \cite{Umbach2010}. Finally, 

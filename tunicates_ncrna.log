@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016) (preloaded format=pdflatex 2017.10.18)  23 JAN 2018 11:42
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016) (preloaded format=pdflatex 2017.10.18)  23 JAN 2018 11:58
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1019,13 +1019,13 @@ LaTeX Warning: Reference `mir124' on page 13 undefined on input line 515.
 
 LaTeX Warning: Reference `mir200' on page 13 undefined on input line 515.
 
-<./Images/Cluster_images/let-7_101_128.pdf, id=46, 935.45744pt x 619.39572pt>
+<./Images/Cluster_images/let-7_101_128.pdf, id=46, 935.4553pt x 619.38788pt>
 File: ./Images/Cluster_images/let-7_101_128.pdf Graphic file (type pdf)
 
 <use ./Images/Cluster_images/let-7_101_128.pdf>
 Package pdftex.def Info: ./Images/Cluster_images/let-7_101_128.pdf used on inpu
 t line 523.
-(pdftex.def)             Requested size: 332.89723pt x 220.421pt.
+(pdftex.def)             Requested size: 332.89723pt x 220.41821pt.
 
 
 Class SVMult Warning: \sidecaption: No sufficient room for the legend; 
@@ -1230,10 +1230,10 @@ es/utmb8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmbi8a.pfb>
 </usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmr8a.pfb></usr/share/tex
 live/texmf-dist/fonts/type1/urw/times/utmr8a.pfb></usr/share/texlive/texmf-dist
 /fonts/type1/urw/times/utmri8a.pfb>
-Output written on tunicates_ncrna.pdf (28 pages, 2607404 bytes).
+Output written on tunicates_ncrna.pdf (28 pages, 2696765 bytes).
 PDF statistics:
- 3023 PDF objects out of 3580 (max. 8388607)
- 1992 compressed objects within 20 object streams
+ 3534 PDF objects out of 3580 (max. 8388607)
+ 2330 compressed objects within 24 object streams
  0 named destinations out of 1000 (max. 500000)
  61 words of extra memory for PDF output out of 10000 (max. 10000000)
 
