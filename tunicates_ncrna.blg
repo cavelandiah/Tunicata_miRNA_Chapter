@@ -7,6 +7,8 @@ Repeated entry---line 1343 of file tuni_updated.bib
  : @article{Chen2014
  :                  ,
 I'm skipping whatever remains of this entry
+Warning--I'm ignoring TanzerALL:2010's extra "author" field
+--line 1417 of file tuni_updated.bib
 Warning--I didn't find a database entry for "Ameres:13"
 Warning--I didn't find a database entry for "Cerutti:06"
 Warning--I didn't find a database entry for "Shabalina:08"
@@ -28,45 +30,46 @@ Warning--I didn't find a database entry for "Peterson:09"
 Warning--I didn't find a database entry for "Berezikov:11"
 Warning--I didn't find a database entry for "Tanzer:10a"
 Warning--I didn't find a database entry for "Dai:09"
-You've used 66 entries,
+Warning--I didn't find a database entry for "Nawrocki:201"
+You've used 67 entries,
             2118 wiz_defined-function locations,
-            1009 strings with 21060 characters,
-and the built_in function-call counts, 29273 in all, are:
-= -- 2654
-> -- 2159
-< -- 0
-+ -- 863
-- -- 786
-* -- 2694
-:= -- 5121
-add.period$ -- 197
-call.type$ -- 66
-change.case$ -- 591
+            1018 strings with 21386 characters,
+and the built_in function-call counts, 29867 in all, are:
+= -- 2710
+> -- 2197
+< -- 1
++ -- 878
+- -- 800
+* -- 2738
+:= -- 5212
+add.period$ -- 200
+call.type$ -- 67
+change.case$ -- 600
 chr.to.int$ -- 0
-cite$ -- 66
-duplicate$ -- 717
-empty$ -- 1741
-format.name$ -- 786
-if$ -- 5691
+cite$ -- 67
+duplicate$ -- 739
+empty$ -- 1779
+format.name$ -- 800
+if$ -- 5819
 int.to.chr$ -- 0
-int.to.str$ -- 66
-missing$ -- 64
-newline$ -- 332
-num.names$ -- 132
-pop$ -- 472
+int.to.str$ -- 67
+missing$ -- 66
+newline$ -- 337
+num.names$ -- 134
+pop$ -- 487
 preamble$ -- 1
-purify$ -- 525
+purify$ -- 534
 quote$ -- 0
-skip$ -- 470
+skip$ -- 488
 stack$ -- 0
-substring$ -- 1740
-swap$ -- 66
-text.length$ -- 0
+substring$ -- 1777
+swap$ -- 76
+text.length$ -- 1
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 264
+type$ -- 266
 warning$ -- 0
-while$ -- 217
-width$ -- 68
-write$ -- 724
+while$ -- 222
+width$ -- 69
+write$ -- 735
 (There was 1 error message)
