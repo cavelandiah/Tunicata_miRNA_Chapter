@@ -10,16 +10,15 @@
 \contentsline {subsection}{\numberline {2.3}miRNA in clusters}{10}
 \contentsline {subsection}{\numberline {2.4}To complete the tree of loss and gain of families}{17}
 \contentsline {section}{\numberline {3}miRNAs and its rol in development}{18}
-\contentsline {subsection}{\numberline {3.1}let-7 was the first miRNA in tunicates proposed to have a regulatory role in development}{18}
-\contentsline {subsection}{\numberline {3.2}miRNAs discovery and development}{20}
-\contentsline {subsection}{\numberline {3.3}Neuronal fate determination and regulation by miR-124}{21}
-\contentsline {subsubsection}{\numberline {3.3.1}Muscle development and the polycistronic miR-1/miR-133 cluster}{22}
-\contentsline {subsubsection}{\numberline {3.3.2}miRNA expression during oral siphon (OS) regeneration}{22}
-\contentsline {subsubsection}{\numberline {3.3.3}miRNA expression during \textit {O. dioica} development}{23}
-\contentsline {section}{\numberline {4}Other ncRNAs associated to development}{24}
-\contentsline {subsection}{\numberline {4.1}Yellow Crescent RNA}{24}
+\contentsline {subsection}{\numberline {3.1}miRNAs discovery and development}{18}
+\contentsline {subsection}{\numberline {3.2}Neuronal fate determination and regulation by miR-124}{20}
+\contentsline {subsubsection}{\numberline {3.2.1}Muscle development and the polycistronic miR-1/miR-133 cluster}{22}
+\contentsline {subsubsection}{\numberline {3.2.2}miRNA expression during oral siphon (OS) regeneration}{22}
+\contentsline {subsubsection}{\numberline {3.2.3}miRNA expression during \textit {O. dioica} development}{23}
+\contentsline {section}{\numberline {4}Other ncRNAs associated to development}{23}
+\contentsline {subsection}{\numberline {4.1}Yellow Crescent RNA}{23}
 \contentsline {subsection}{\numberline {4.2}MicroRNA-offset RNAs}{24}
-\contentsline {subsection}{\numberline {4.3}Long Noncoding RNA RMST}{25}
+\contentsline {subsection}{\numberline {4.3}Long Noncoding RNA RMST}{24}
 \contentsline {subsection}{\numberline {4.4}Splices-leader RNA}{25}
 \contentsline {section}{\numberline {5}Acknowledgments}{26}
 \contentsline {section}{References}{26}
