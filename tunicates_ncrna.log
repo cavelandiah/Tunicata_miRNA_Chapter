@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016) (preloaded format=pdflatex 2017.10.18)  1 FEB 2018 10:13
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016) (preloaded format=pdflatex 2017.10.18)  1 FEB 2018 15:13
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -418,913 +418,705 @@ LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <6> not available
 
 ]
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <14> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 59.
-LaTeX Font Info:    Calculating math sizes for size <8.5> on input line 59.
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 78.
+LaTeX Font Info:    Calculating math sizes for size <8.5> on input line 78.
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <8.5> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 59.
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 78.
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <6.29004> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 59.
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 78.
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <5.10005> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 59.
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 78.
+
+Underfull \hbox (badness 1472) in paragraph at lines 78--78
+\OT1/ptm/m/n/8.5 Bioinformatics Group, De-part-ment of Com-puter Sci-ence, and 
+In-ter-dis-ci-plinary Cen-ter for
+ []
+
+
+Underfull \hbox (badness 1472) in paragraph at lines 78--78
+\OT1/ptm/m/n/8.5 Bioinformatics Group, De-part-ment of Com-puter Sci-ence, and 
+In-ter-dis-ci-plinary Cen-ter for
+ []
 
 Names of authors too long for running head. Please supply
 a shorter form with \authorrunning prior to \maketitle
+LaTeX Font Info:    Try loading font information for OT1+pcr on input line 92.
+(/usr/share/texlive/texmf-dist/tex/latex/psnfss/ot1pcr.fd
+File: ot1pcr.fd 2001/06/04 font definitions for OT1/pcr.
+)
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <12> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 76.
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 95.
+ [3]
 LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <12> not available
-(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 94.
-
-LaTeX Warning: Citation `Ameres:13' on page 3 undefined on input line 99.
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 129.
 
 
-LaTeX Warning: Citation `Cerutti:06' on page 3 undefined on input line 101.
+LaTeX Warning: Citation `Ameres:13' on page 4 undefined on input line 134.
 
 
-LaTeX Warning: Citation `Shabalina:08' on page 3 undefined on input line 101.
+LaTeX Warning: Citation `Cerutti:06' on page 4 undefined on input line 136.
 
-[3]
-Overfull \hbox (23.81934pt too wide) in paragraph at lines 104--120
+
+LaTeX Warning: Citation `Shabalina:08' on page 4 undefined on input line 136.
+
+
+Overfull \hbox (23.81934pt too wide) in paragraph at lines 139--155
 []\OT1/ptm/m/n/10 Throughout an-i-mals, canon-i-cal miR-NAs are the pro-cessed 
 through a well-characterized
  []
 
-
-LaTeX Warning: Citation `Price:11' on page 4 undefined on input line 127.
-
-LaTeX Font Info:    Try loading font information for OT1+pcr on input line 131.
-
-(/usr/share/texlive/texmf-dist/tex/latex/psnfss/ot1pcr.fd
-File: ot1pcr.fd 2001/06/04 font definitions for OT1/pcr.
-)
-
-LaTeX Warning: Citation `Tanzer:04a' on page 4 undefined on input line 136.
-
-
-LaTeX Warning: Citation `Hertel:12a' on page 4 undefined on input line 136.
-
-
-LaTeX Warning: Citation `Fu:08' on page 4 undefined on input line 144.
-
-
-LaTeX Warning: Citation `Bentwich:05' on page 4 undefined on input line 148.
-
-
-LaTeX Warning: Citation `Berezikov:06' on page 4 undefined on input line 148.
-
-
-LaTeX Warning: Citation `Lu:08' on page 4 undefined on input line 151.
-
-
-LaTeX Warning: Citation `Tanzer:04a' on page 4 undefined on input line 154.
-
-
-LaTeX Warning: Citation `CampoPaysaa:11' on page 4 undefined on input line 154.
-
-
-
-LaTeX Warning: Citation `Marco:13' on page 4 undefined on input line 154.
-
-
-LaTeX Warning: Citation `Liang:09' on page 4 undefined on input line 160.
-
-
-LaTeX Warning: Citation `Meunier:12' on page 4 undefined on input line 160.
-
-
-LaTeX Warning: Citation `Lee:07a' on page 4 undefined on input line 163.
-
 [4]
 
-LaTeX Warning: Citation `Niwa:07' on page 5 undefined on input line 171.
+LaTeX Warning: Citation `Price:11' on page 5 undefined on input line 162.
 
 
-LaTeX Warning: Citation `Prochnik:07' on page 5 undefined on input line 171.
+LaTeX Warning: Citation `Tanzer:04a' on page 5 undefined on input line 171.
 
 
-LaTeX Warning: Citation `Lee:07a' on page 5 undefined on input line 171.
+LaTeX Warning: Citation `Hertel:12a' on page 5 undefined on input line 171.
 
 
-LaTeX Warning: Citation `Peterson:09' on page 5 undefined on input line 171.
+LaTeX Warning: Citation `Fu:08' on page 5 undefined on input line 179.
 
 
-LaTeX Warning: Citation `Berezikov:11' on page 5 undefined on input line 171.
+LaTeX Warning: Citation `Bentwich:05' on page 5 undefined on input line 183.
 
 
-LaTeX Warning: Citation `Tanzer:10a' on page 5 undefined on input line 173.
+LaTeX Warning: Citation `Berezikov:06' on page 5 undefined on input line 183.
 
 
-LaTeX Warning: Citation `Fu:08' on page 5 undefined on input line 178.
+LaTeX Warning: Citation `Lu:08' on page 5 undefined on input line 186.
 
 
-LaTeX Warning: Citation `Dai:09' on page 5 undefined on input line 178.
+LaTeX Warning: Citation `Tanzer:04a' on page 5 undefined on input line 189.
 
-[5] [6] [7] [8]
-Underfull \hbox (badness 10000) in paragraph at lines 417--417
+
+LaTeX Warning: Citation `CampoPaysaa:11' on page 5 undefined on input line 189.
+
+
+
+LaTeX Warning: Citation `Marco:13' on page 5 undefined on input line 189.
+
+
+LaTeX Warning: Citation `Liang:09' on page 5 undefined on input line 195.
+
+
+LaTeX Warning: Citation `Meunier:12' on page 5 undefined on input line 195.
+
+
+LaTeX Warning: Citation `Lee:07a' on page 5 undefined on input line 198.
+
+
+LaTeX Warning: Citation `Niwa:07' on page 5 undefined on input line 206.
+
+
+LaTeX Warning: Citation `Prochnik:07' on page 5 undefined on input line 206.
+
+
+LaTeX Warning: Citation `Lee:07a' on page 5 undefined on input line 206.
+
+
+LaTeX Warning: Citation `Peterson:09' on page 5 undefined on input line 206.
+
+
+LaTeX Warning: Citation `Berezikov:11' on page 5 undefined on input line 206.
+
+
+LaTeX Warning: Citation `Tanzer:10a' on page 5 undefined on input line 208.
+
+
+LaTeX Warning: Citation `Fu:08' on page 5 undefined on input line 213.
+
+
+LaTeX Warning: Citation `Dai:09' on page 5 undefined on input line 213.
+
+[5] [6] [7] [8] [9]
+Underfull \hbox (badness 10000) in paragraph at lines 452--452
 []|\OT1/ptm/b/n/8.5 Size
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 420--421
+Underfull \hbox (badness 10000) in paragraph at lines 455--456
 \OT1/ptm/m/n/8.5 4857, bfl-mir-4862,
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 420--421
+Underfull \hbox (badness 10000) in paragraph at lines 455--456
 \OT1/ptm/m/n/8.5 bfl-mir-4856b, bfl-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 421--422
+Underfull \hbox (badness 10000) in paragraph at lines 456--457
 []|\OT1/ptm/m/n/8.5 odi-mir-1497e,
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 421--422
+Underfull \hbox (badness 10000) in paragraph at lines 456--457
 \OT1/ptm/m/n/8.5 odi-mir-1497d-2,
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 421--422
+Underfull \hbox (badness 10000) in paragraph at lines 456--457
 \OT1/ptm/m/n/8.5 odi-mir-1497d-1,
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 421--422
+Underfull \hbox (badness 10000) in paragraph at lines 456--457
 \OT1/ptm/m/n/8.5 odi-mir-1497c,
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 421--422
+Underfull \hbox (badness 10000) in paragraph at lines 456--457
 \OT1/ptm/m/n/8.5 odi-mir-1497b,
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 423--424
+Underfull \hbox (badness 10000) in paragraph at lines 458--459
 []|\OT1/ptm/m/n/8.5 cin-mir-4006d,
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 423--424
+Underfull \hbox (badness 10000) in paragraph at lines 458--459
 \OT1/ptm/m/n/8.5 cin-mir-4006c,
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 423--424
+Underfull \hbox (badness 10000) in paragraph at lines 458--459
 \OT1/ptm/m/n/8.5 cin-mir-4001b-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 423--424
+Underfull \hbox (badness 10000) in paragraph at lines 458--459
 \OT1/ptm/m/n/8.5 2, cin-mir-4000i,
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 423--424
+Underfull \hbox (badness 10000) in paragraph at lines 458--459
 \OT1/ptm/m/n/8.5 cin-mir-4006g,
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 423--424
+Underfull \hbox (badness 10000) in paragraph at lines 458--459
 \OT1/ptm/m/n/8.5 cin-mir-4001e,
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 423--424
+Underfull \hbox (badness 10000) in paragraph at lines 458--459
 \OT1/ptm/m/n/8.5 cin-mir-4001d,
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 423--424
+Underfull \hbox (badness 10000) in paragraph at lines 458--459
 \OT1/ptm/m/n/8.5 cin-mir-4000g,
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 423--424
+Underfull \hbox (badness 10000) in paragraph at lines 458--459
 \OT1/ptm/m/n/8.5 cin-mir-4006f,
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 423--424
+Underfull \hbox (badness 10000) in paragraph at lines 458--459
 \OT1/ptm/m/n/8.5 cin-mir-4006b,
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 423--424
+Underfull \hbox (badness 10000) in paragraph at lines 458--459
 \OT1/ptm/m/n/8.5 cin-mir-4001b-1,
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 423--424
+Underfull \hbox (badness 10000) in paragraph at lines 458--459
 \OT1/ptm/m/n/8.5 cin-mir-4000c,
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 423--424
+Underfull \hbox (badness 10000) in paragraph at lines 458--459
 \OT1/ptm/m/n/8.5 cin-mir-4006e,
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 423--424
+Underfull \hbox (badness 10000) in paragraph at lines 458--459
 \OT1/ptm/m/n/8.5 cin-mir-4000b-2,
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 423--424
+Underfull \hbox (badness 10000) in paragraph at lines 458--459
 \OT1/ptm/m/n/8.5 cin-mir-4001a-1,
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 423--424
+Underfull \hbox (badness 10000) in paragraph at lines 458--459
 \OT1/ptm/m/n/8.5 cin-mir-4000b-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 423--424
+Underfull \hbox (badness 10000) in paragraph at lines 458--459
 \OT1/ptm/m/n/8.5 1, cin-mir-4002,
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 423--424
+Underfull \hbox (badness 10000) in paragraph at lines 458--459
 \OT1/ptm/m/n/8.5 cin-mir-4000d,
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 423--424
+Underfull \hbox (badness 10000) in paragraph at lines 458--459
 \OT1/ptm/m/n/8.5 cin-mir-4001h,
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 423--424
+Underfull \hbox (badness 10000) in paragraph at lines 458--459
 \OT1/ptm/m/n/8.5 cin-mir-4000a-2,
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 423--424
+Underfull \hbox (badness 10000) in paragraph at lines 458--459
 \OT1/ptm/m/n/8.5 cin-mir-4006a-2,
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 423--424
+Underfull \hbox (badness 10000) in paragraph at lines 458--459
 \OT1/ptm/m/n/8.5 cin-mir-4006a-3,
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 424--425
+Underfull \hbox (badness 10000) in paragraph at lines 459--460
 []|\OT1/ptm/m/n/8.5 csa-mir-216b, csa-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 424--425
+Underfull \hbox (badness 10000) in paragraph at lines 459--460
 \OT1/ptm/m/n/8.5 mir-216a, csa-mir-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 426--427
+Underfull \hbox (badness 10000) in paragraph at lines 461--462
 []|\OT1/ptm/m/n/8.5 dre-mir-430a-18,
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 426--427
+Underfull \hbox (badness 10000) in paragraph at lines 461--462
 \OT1/ptm/m/n/8.5 dre-mir-430c-18,
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 426--427
+Underfull \hbox (badness 10000) in paragraph at lines 461--462
 \OT1/ptm/m/n/8.5 dre-mir-430b-4,
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 426--427
+Underfull \hbox (badness 10000) in paragraph at lines 461--462
 \OT1/ptm/m/n/8.5 dre-mir-430a-15,
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 426--427
+Underfull \hbox (badness 10000) in paragraph at lines 461--462
 \OT1/ptm/m/n/8.5 dre-mir-430c-18,
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 426--427
+Underfull \hbox (badness 10000) in paragraph at lines 461--462
 \OT1/ptm/m/n/8.5 dre-mir-430b-5,
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 426--427
+Underfull \hbox (badness 10000) in paragraph at lines 461--462
 \OT1/ptm/m/n/8.5 dre-mir-430a-10,
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 426--427
+Underfull \hbox (badness 10000) in paragraph at lines 461--462
 \OT1/ptm/m/n/8.5 dre-mir-430c-18,
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 426--427
+Underfull \hbox (badness 10000) in paragraph at lines 461--462
 \OT1/ptm/m/n/8.5 dre-mir-430b-5,
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 426--427
+Underfull \hbox (badness 10000) in paragraph at lines 461--462
 \OT1/ptm/m/n/8.5 dre-mir-430a-15,
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 426--427
+Underfull \hbox (badness 10000) in paragraph at lines 461--462
 \OT1/ptm/m/n/8.5 dre-mir-430c-18,
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 426--427
+Underfull \hbox (badness 10000) in paragraph at lines 461--462
 \OT1/ptm/m/n/8.5 dre-mir-430b-3,
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 426--427
+Underfull \hbox (badness 10000) in paragraph at lines 461--462
 \OT1/ptm/m/n/8.5 dre-mir-430a-10,
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 426--427
+Underfull \hbox (badness 10000) in paragraph at lines 461--462
 \OT1/ptm/m/n/8.5 dre-mir-430c-18,
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 426--427
+Underfull \hbox (badness 10000) in paragraph at lines 461--462
 \OT1/ptm/m/n/8.5 dre-mir-430b-8,
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 426--427
+Underfull \hbox (badness 10000) in paragraph at lines 461--462
 \OT1/ptm/m/n/8.5 dre-mir-430a-15,
  []
 
 
-Underfull \hbox (badness 1337) in paragraph at lines 426--427
+Underfull \hbox (badness 1337) in paragraph at lines 461--462
 \OT1/ptm/m/n/8.5 mir-430b-5, dre-mir-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 426--427
+Underfull \hbox (badness 10000) in paragraph at lines 461--462
 \OT1/ptm/m/n/8.5 430a-17, miR-430,
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 426--427
+Underfull \hbox (badness 10000) in paragraph at lines 461--462
 \OT1/ptm/m/n/8.5 dre-mir-430b-20,
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 426--427
+Underfull \hbox (badness 10000) in paragraph at lines 461--462
 \OT1/ptm/m/n/8.5 dre-mir-430a-10,
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 426--427
+Underfull \hbox (badness 10000) in paragraph at lines 461--462
 \OT1/ptm/m/n/8.5 dre-mir-430c-18,
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 426--427
+Underfull \hbox (badness 10000) in paragraph at lines 461--462
 \OT1/ptm/m/n/8.5 dre-mir-430b-5,
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 426--427
+Underfull \hbox (badness 10000) in paragraph at lines 461--462
 \OT1/ptm/m/n/8.5 dre-mir-430i-3,
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 426--427
+Underfull \hbox (badness 10000) in paragraph at lines 461--462
 \OT1/ptm/m/n/8.5 dre-mir-430c-18,
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 426--427
+Underfull \hbox (badness 10000) in paragraph at lines 461--462
 \OT1/ptm/m/n/8.5 dre-mir-430b-3,
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 426--427
+Underfull \hbox (badness 10000) in paragraph at lines 461--462
 \OT1/ptm/m/n/8.5 dre-mir-430a-10,
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 426--427
+Underfull \hbox (badness 10000) in paragraph at lines 461--462
 \OT1/ptm/m/n/8.5 dre-mir-430c-18,
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 426--427
+Underfull \hbox (badness 10000) in paragraph at lines 461--462
 \OT1/ptm/m/n/8.5 dre-mir-430b-8,
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 426--427
+Underfull \hbox (badness 10000) in paragraph at lines 461--462
 \OT1/ptm/m/n/8.5 dre-mir-430a-11,
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 426--427
+Underfull \hbox (badness 10000) in paragraph at lines 461--462
 \OT1/ptm/m/n/8.5 dre-mir-430c-18,
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 426--427
+Underfull \hbox (badness 10000) in paragraph at lines 461--462
 \OT1/ptm/m/n/8.5 dre-mir-430b-5,
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 426--427
+Underfull \hbox (badness 10000) in paragraph at lines 461--462
 \OT1/ptm/m/n/8.5 dre-mir-430i-3,
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 426--427
+Underfull \hbox (badness 10000) in paragraph at lines 461--462
 \OT1/ptm/m/n/8.5 dre-mir-430c-18,
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 426--427
+Underfull \hbox (badness 10000) in paragraph at lines 461--462
 \OT1/ptm/m/n/8.5 dre-mir-430b-19,
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 426--427
+Underfull \hbox (badness 10000) in paragraph at lines 461--462
 \OT1/ptm/m/n/8.5 dre-mir-430a-10,
  []
 
 
-Underfull \hbox (badness 1337) in paragraph at lines 426--427
+Underfull \hbox (badness 1337) in paragraph at lines 461--462
 \OT1/ptm/m/n/8.5 mir-430b-5, dre-mir-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 426--427
+Underfull \hbox (badness 10000) in paragraph at lines 461--462
 \OT1/ptm/m/n/8.5 430a-17, miR-430,
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 426--427
+Underfull \hbox (badness 10000) in paragraph at lines 461--462
 \OT1/ptm/m/n/8.5 dre-mir-430b-20,
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 426--427
+Underfull \hbox (badness 10000) in paragraph at lines 461--462
 \OT1/ptm/m/n/8.5 dre-mir-430a-10,
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 426--427
+Underfull \hbox (badness 10000) in paragraph at lines 461--462
 \OT1/ptm/m/n/8.5 dre-mir-430c-18,
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 426--427
+Underfull \hbox (badness 10000) in paragraph at lines 461--462
 \OT1/ptm/m/n/8.5 dre-mir-430b-5,
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 426--427
+Underfull \hbox (badness 10000) in paragraph at lines 461--462
 \OT1/ptm/m/n/8.5 dre-mir-430i-3,
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 426--427
+Underfull \hbox (badness 10000) in paragraph at lines 461--462
 \OT1/ptm/m/n/8.5 dre-mir-430c-18,
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 426--427
+Underfull \hbox (badness 10000) in paragraph at lines 461--462
 \OT1/ptm/m/n/8.5 dre-mir-430b-19,
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 426--427
+Underfull \hbox (badness 10000) in paragraph at lines 461--462
 \OT1/ptm/m/n/8.5 dre-mir-430a-10,
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 426--427
+Underfull \hbox (badness 10000) in paragraph at lines 461--462
 \OT1/ptm/m/n/8.5 dre-mir-430c-18,
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 426--427
+Underfull \hbox (badness 10000) in paragraph at lines 461--462
 \OT1/ptm/m/n/8.5 dre-mir-430b-5,
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 426--427
+Underfull \hbox (badness 10000) in paragraph at lines 461--462
 \OT1/ptm/m/n/8.5 dre-mir-430a-15,
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 426--427
+Underfull \hbox (badness 10000) in paragraph at lines 461--462
 \OT1/ptm/m/n/8.5 dre-mir-430c-18,
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 426--427
+Underfull \hbox (badness 10000) in paragraph at lines 461--462
 \OT1/ptm/m/n/8.5 dre-mir-430b-3,
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 426--427
+Underfull \hbox (badness 10000) in paragraph at lines 461--462
 \OT1/ptm/m/n/8.5 dre-mir-430a-10,
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 426--427
+Underfull \hbox (badness 10000) in paragraph at lines 461--462
 \OT1/ptm/m/n/8.5 dre-mir-430c-18,
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 426--427
+Underfull \hbox (badness 10000) in paragraph at lines 461--462
 \OT1/ptm/m/n/8.5 dre-mir-430b-8,
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 426--427
+Underfull \hbox (badness 10000) in paragraph at lines 461--462
 \OT1/ptm/m/n/8.5 dre-mir-430a-15,
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 426--427
+Underfull \hbox (badness 10000) in paragraph at lines 461--462
 \OT1/ptm/m/n/8.5 dre-mir-430c-18,
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 427--428
+Underfull \hbox (badness 10000) in paragraph at lines 462--463
 []|\OT1/ptm/m/n/8.5 mir-233, mir-233,
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 427--428
+Underfull \hbox (badness 10000) in paragraph at lines 462--463
 \OT1/ptm/m/n/8.5 mir-233, mir-598,
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 427--428
+Underfull \hbox (badness 10000) in paragraph at lines 462--463
 \OT1/ptm/m/n/8.5 mir-672, MIR535,
  []
 
 
-Overfull \hbox (52.29807pt too wide) in alignment at lines 411--429
+Overfull \hbox (52.29807pt too wide) in alignment at lines 446--464
  [] [] [] [] [] [] [] 
  []
 
-[9] [10] [11] [12]
-<./Images/Cluster_images/let-7_101_128.pdf, id=46, 935.4553pt x 619.38788pt>
+[10] [11] [12] [13]
+<./Images/Cluster_images/let-7_101_128.pdf, id=50, 935.4553pt x 619.38788pt>
 File: ./Images/Cluster_images/let-7_101_128.pdf Graphic file (type pdf)
 
 <use ./Images/Cluster_images/let-7_101_128.pdf>
 Package pdftex.def Info: ./Images/Cluster_images/let-7_101_128.pdf used on inpu
-t line 556.
+t line 591.
 (pdftex.def)             Requested size: 332.89723pt x 220.41821pt.
 
 
 Class SVMult Warning: \sidecaption: No sufficient room for the legend; 
-using normal \caption on input line 556.
+using normal \caption on input line 591.
 
 
-<./Images/Cluster_images/mir-133_113_33.pdf, id=47, 433.14748pt x 153.76546pt>
+<./Images/Cluster_images/mir-133_113_33.pdf, id=51, 433.14748pt x 153.76546pt>
 File: ./Images/Cluster_images/mir-133_113_33.pdf Graphic file (type pdf)
 
 <use ./Images/Cluster_images/mir-133_113_33.pdf>
 Package pdftex.def Info: ./Images/Cluster_images/mir-133_113_33.pdf used on inp
-ut line 568.
+ut line 603.
 (pdftex.def)             Requested size: 332.89723pt x 118.18155pt.
 
 
 Class SVMult Warning: \sidecaption: No sufficient room for the legend; 
-using normal \caption on input line 568.
+using normal \caption on input line 603.
 
 
-<./Images/Cluster_images/mir-181_105_2502.pdf, id=48, 443.52245pt x 122.31023pt
+<./Images/Cluster_images/mir-181_105_2502.pdf, id=52, 443.52245pt x 122.31023pt
 >
 File: ./Images/Cluster_images/mir-181_105_2502.pdf Graphic file (type pdf)
  <use ./Images/Cluster_images/mir-181_105_2502.pdf>
 Package pdftex.def Info: ./Images/Cluster_images/mir-181_105_2502.pdf used on i
-nput line 576.
+nput line 611.
 (pdftex.def)             Requested size: 332.89723pt x 91.80707pt.
 
 
 Class SVMult Warning: \sidecaption: No sufficient room for the legend; 
-using normal \caption on input line 576.
+using normal \caption on input line 611.
 
-<./Images/Cluster_images/mir-217_13D_467.pdf, id=49, 530.7697pt x 164.1146pt>
+<./Images/Cluster_images/mir-217_13D_467.pdf, id=53, 530.7697pt x 164.1146pt>
 File: ./Images/Cluster_images/mir-217_13D_467.pdf Graphic file (type pdf)
 
 <use ./Images/Cluster_images/mir-217_13D_467.pdf>
 Package pdftex.def Info: ./Images/Cluster_images/mir-217_13D_467.pdf used on in
-put line 584.
+put line 619.
 (pdftex.def)             Requested size: 332.89723pt x 102.93446pt.
 
 
 Class SVMult Warning: \sidecaption: No sufficient room for the legend; 
-using normal \caption on input line 584.
+using normal \caption on input line 619.
 
 
-<./Images/Cluster_images/mir-34_11A_435.pdf, id=50, 499.87077pt x 159.93953pt>
+<./Images/Cluster_images/mir-34_11A_435.pdf, id=54, 499.87077pt x 159.93953pt>
 File: ./Images/Cluster_images/mir-34_11A_435.pdf Graphic file (type pdf)
 
 <use ./Images/Cluster_images/mir-34_11A_435.pdf>
 Package pdftex.def Info: ./Images/Cluster_images/mir-34_11A_435.pdf used on inp
-ut line 592.
+ut line 627.
 (pdftex.def)             Requested size: 332.89723pt x 106.5195pt.
 
 
 Class SVMult Warning: \sidecaption: No sufficient room for the legend; 
-using normal \caption on input line 592.
+using normal \caption on input line 627.
 
 
-<./Images/Cluster_images/mir-92_281_4336.pdf, id=51, 585.33891pt x 168.41333pt>
+<./Images/Cluster_images/mir-92_281_4336.pdf, id=55, 585.33891pt x 168.41333pt>
 File: ./Images/Cluster_images/mir-92_281_4336.pdf Graphic file (type pdf)
 <use ./Images/Cluster_images/mir-92_281_4336.pdf>
 Package pdftex.def Info: ./Images/Cluster_images/mir-92_281_4336.pdf used on in
-put line 600.
+put line 635.
 (pdftex.def)             Requested size: 332.89723pt x 95.7833pt.
 
 
 Class SVMult Warning: \sidecaption: No sufficient room for the legend; 
-using normal \caption on input line 600.
+using normal \caption on input line 635.
 
 
-<./Images/Cluster_images/mir-96_138_240.pdf, id=52, 453.00755pt x 160.41444pt>
+<./Images/Cluster_images/mir-96_138_240.pdf, id=56, 453.00755pt x 160.41444pt>
 File: ./Images/Cluster_images/mir-96_138_240.pdf Graphic file (type pdf)
 
 <use ./Images/Cluster_images/mir-96_138_240.pdf>
 Package pdftex.def Info: ./Images/Cluster_images/mir-96_138_240.pdf used on inp
-ut line 608.
+ut line 643.
 (pdftex.def)             Requested size: 332.89723pt x 117.88239pt.
 
 
 Class SVMult Warning: \sidecaption: No sufficient room for the legend; 
-using normal \caption on input line 608.
+using normal \caption on input line 643.
 
 
-Underfull \hbox (badness 2556) in paragraph at lines 643--643
+Underfull \hbox (badness 2556) in paragraph at lines 678--678
 \OT1/ptm/b/n/8.5 7f, cin-let-7b, cin-
  []
 
 
-Underfull \hbox (badness 3333) in paragraph at lines 644--644
+Underfull \hbox (badness 3333) in paragraph at lines 679--679
 []|\OT1/ptm/m/n/8.5 Reported on miR-BAse
  []
 
 
-Underfull \hbox (badness 3815) in paragraph at lines 644--644
+Underfull \hbox (badness 3815) in paragraph at lines 679--679
 \OT1/ptm/m/n/8.5 and an-no-tated on En-
  []
 
 
-Underfull \hbox (badness 6542) in paragraph at lines 647--648
-[]|\OT1/ptm/m/n/8.5 Reported on miR-Base
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 650--651
-[]|\OT1/ptm/b/n/8.5 cin-mir-34\OT1/ptm/m/n/8.5 , cin-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 650--651
-\OT1/ptm/m/n/8.5 mir-4091, cin-mir-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 650--651
-\OT1/ptm/m/n/8.5 4008a, cin-mir-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 650--651
-\OT1/ptm/m/n/8.5 4008c, cin-mir-
- []
-
-
-Underfull \hbox (badness 6428) in paragraph at lines 652--652
-[]|\OT1/ptm/m/n/8.5 miRBase and Ho-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 652--654
+Underfull \hbox (badness 10000) in paragraph at lines 679--681
 []|\OT1/ptm/m/n/8.5 [[]],
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 652--654
-\OT1/ptm/m/n/8.5 [[]],
+Underfull \hbox (badness 6542) in paragraph at lines 682--683
+[]|\OT1/ptm/m/n/8.5 Reported on miR-Base
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 652--654
-\OT1/ptm/m/n/8.5 [[]],
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 655--657
-[]|\OT1/ptm/m/n/8.5 cin-mir-4077b,
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 655--657
-\OT1/ptm/m/n/8.5 cin-mir-4003b,
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 655--657
-\OT1/ptm/m/n/8.5 cin-mir-4005b,
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 655--657
-\OT1/ptm/m/n/8.5 cin-mir-4077d,
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 655--657
-\OT1/ptm/m/n/8.5 cin-mir-4003a-1,
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 655--657
-\OT1/ptm/m/n/8.5 cin-mir-4003c,
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 655--657
-\OT1/ptm/m/n/8.5 cin-mir-4077a,
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 655--657
-\OT1/ptm/m/n/8.5 cin-mir-4003a-4,
- []
-
-
-Underfull \hbox (badness 6428) in paragraph at lines 657--657
-[]|\OT1/ptm/m/n/8.5 miRBase and Ho-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 660--663
-[]|\OT1/ptm/m/n/8.5 cin-mir-4001f,
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 660--663
-\OT1/ptm/m/n/8.5 cin-mir-4000e,
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 660--663
-\OT1/ptm/m/n/8.5 cin-mir-4001c,
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 660--663
-\OT1/ptm/m/n/8.5 cin-mir-1502d,
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 660--663
-\OT1/ptm/m/n/8.5 cin-mir-4018a,
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 660--663
-\OT1/ptm/m/n/8.5 cin-mir-4019,
- []
-
-
-Underfull \hbox (badness 5091) in paragraph at lines 660--663
-\OT1/ptm/m/n/8.5 cin-mir-1502b, cin-
- []
-
-
-Underfull \hbox (badness 2980) in paragraph at lines 660--663
-\OT1/ptm/m/n/8.5 mir-1502a, cin-mir-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 660--663
-\OT1/ptm/m/n/8.5 cin-mir-4001i,
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 660--663
-\OT1/ptm/m/n/8.5 cin-mir-4018b,
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 663--663
-[]|\OT1/ptm/m/n/8.5 Inclusion of cin-mir-
- []
-
-
-Underfull \hbox (badness 6428) in paragraph at lines 663--664
-[]|\OT1/ptm/m/n/8.5 miRBase and Ho-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 666--668
-[]|\OT1/ptm/b/n/8.5 cin-mir-367\OT1/ptm/m/n/8.5 , \OT1/ptm/b/n/8.5 cin-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 666--668
-\OT1/ptm/m/n/8.5 cin-mir-4009c,
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 666--668
-\OT1/ptm/m/n/8.5 cin-mir-4009a,
- []
-
-
-Underfull \hbox (badness 7256) in paragraph at lines 668--669
-[]|\OT1/ptm/m/n/8.5 Non-highlighted names
- []
-
-
-Underfull \hbox (badness 1694) in paragraph at lines 668--669
-\OT1/ptm/m/n/8.5 could be found in the
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 668--669
-\OT1/ptm/m/n/8.5 cur-rent genome at
- []
-
-
-Underfull \hbox (badness 6428) in paragraph at lines 669--669
-[]|\OT1/ptm/m/n/8.5 miRBase and Ho-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 672--673
+Underfull \hbox (badness 10000) in paragraph at lines 685--686
 []|\OT1/ptm/b/n/8.5 cin-mir-34\OT1/ptm/m/n/8.5 , cin-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 672--673
+Underfull \hbox (badness 10000) in paragraph at lines 685--686
 \OT1/ptm/m/n/8.5 mir-4091, cin-mir-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 672--673
+Underfull \hbox (badness 10000) in paragraph at lines 685--686
 \OT1/ptm/m/n/8.5 4008a, cin-mir-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 672--673
+Underfull \hbox (badness 10000) in paragraph at lines 685--686
 \OT1/ptm/m/n/8.5 4008c, cin-mir-
- []
-
-
-Underfull \hbox (badness 6428) in paragraph at lines 673--674
-[]|\OT1/ptm/m/n/8.5 miRBase and Ho-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 677--677
-[]|\OT1/ptm/m/n/8.5 cin-mir-92a, cin-
- []
-
-
-Underfull \hbox (badness 6428) in paragraph at lines 677--677
-[]|\OT1/ptm/m/n/8.5 miRBase and Ho-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 679--680
-[]|\OT1/ptm/m/n/8.5 csa-mir-92b, csa-
- []
-
-
-Underfull \hbox (badness 6428) in paragraph at lines 680--680
-[]|\OT1/ptm/m/n/8.5 miRBase and Ho-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 681--681
-[]|\OT1/ptm/m/n/8.5 odi-mir-92b, odi-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 684--685
-[]|\OT1/ptm/m/n/8.5 cin-mir-124-1,
- []
-
-
-Underfull \hbox (badness 6428) in paragraph at lines 685--685
-[]|\OT1/ptm/m/n/8.5 miRBase and Ho-
- []
-
-
-Underfull \hbox (badness 6825) in paragraph at lines 686--687
-[]|\OT1/ptm/m/n/8.5 csa-mir-124-1, csa-
  []
 
 
@@ -1333,271 +1125,506 @@ Underfull \hbox (badness 6428) in paragraph at lines 687--687
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 690--690
-[]|\OT1/ptm/m/n/8.5 cin-mir-200, \OT1/ptm/b/n/8.5 cin-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 690--690
-\OT1/ptm/b/n/8.5 mir-3575\OT1/ptm/m/n/8.5 , cin-mir-
- []
-
-
-Underfull \hbox (badness 6428) in paragraph at lines 691--691
-[]|\OT1/ptm/m/n/8.5 miRBase and Ho-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 691--693
+Underfull \hbox (badness 10000) in paragraph at lines 687--689
 []|\OT1/ptm/m/n/8.5 [[]],
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 691--693
+Underfull \hbox (badness 10000) in paragraph at lines 687--689
 \OT1/ptm/m/n/8.5 [[]],
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 693--694
-[]|\OT1/ptm/m/n/8.5 csa-mir-200, csa-
+Underfull \hbox (badness 10000) in paragraph at lines 687--689
+\OT1/ptm/m/n/8.5 [[]],
  []
 
 
-Underfull \hbox (badness 6428) in paragraph at lines 694--694
+Underfull \hbox (badness 10000) in paragraph at lines 690--692
+[]|\OT1/ptm/m/n/8.5 cin-mir-4077b,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 690--692
+\OT1/ptm/m/n/8.5 cin-mir-4003b,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 690--692
+\OT1/ptm/m/n/8.5 cin-mir-4005b,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 690--692
+\OT1/ptm/m/n/8.5 cin-mir-4077d,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 690--692
+\OT1/ptm/m/n/8.5 cin-mir-4003a-1,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 690--692
+\OT1/ptm/m/n/8.5 cin-mir-4003c,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 690--692
+\OT1/ptm/m/n/8.5 cin-mir-4077a,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 690--692
+\OT1/ptm/m/n/8.5 cin-mir-4003a-4,
+ []
+
+
+Underfull \hbox (badness 6428) in paragraph at lines 692--692
 []|\OT1/ptm/m/n/8.5 miRBase and Ho-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 695--705
+Underfull \hbox (badness 10000) in paragraph at lines 695--698
+[]|\OT1/ptm/m/n/8.5 cin-mir-4001f,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 695--698
+\OT1/ptm/m/n/8.5 cin-mir-4000e,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 695--698
+\OT1/ptm/m/n/8.5 cin-mir-4001c,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 695--698
+\OT1/ptm/m/n/8.5 cin-mir-1502d,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 695--698
+\OT1/ptm/m/n/8.5 cin-mir-4018a,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 695--698
+\OT1/ptm/m/n/8.5 cin-mir-4019,
+ []
+
+
+Underfull \hbox (badness 5091) in paragraph at lines 695--698
+\OT1/ptm/m/n/8.5 cin-mir-1502b, cin-
+ []
+
+
+Underfull \hbox (badness 2980) in paragraph at lines 695--698
+\OT1/ptm/m/n/8.5 mir-1502a, cin-mir-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 695--698
+\OT1/ptm/m/n/8.5 cin-mir-4001i,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 695--698
+\OT1/ptm/m/n/8.5 cin-mir-4018b,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 698--698
+[]|\OT1/ptm/m/n/8.5 Inclusion of cin-mir-
+ []
+
+
+Underfull \hbox (badness 6428) in paragraph at lines 698--699
+[]|\OT1/ptm/m/n/8.5 miRBase and Ho-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 701--703
+[]|\OT1/ptm/b/n/8.5 cin-mir-367\OT1/ptm/m/n/8.5 , \OT1/ptm/b/n/8.5 cin-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 701--703
+\OT1/ptm/m/n/8.5 cin-mir-4009c,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 701--703
+\OT1/ptm/m/n/8.5 cin-mir-4009a,
+ []
+
+
+Underfull \hbox (badness 7256) in paragraph at lines 703--704
+[]|\OT1/ptm/m/n/8.5 Non-highlighted names
+ []
+
+
+Underfull \hbox (badness 1694) in paragraph at lines 703--704
+\OT1/ptm/m/n/8.5 could be found in the
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 703--704
+\OT1/ptm/m/n/8.5 cur-rent genome at
+ []
+
+
+Underfull \hbox (badness 6428) in paragraph at lines 704--704
+[]|\OT1/ptm/m/n/8.5 miRBase and Ho-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 707--708
+[]|\OT1/ptm/b/n/8.5 cin-mir-34\OT1/ptm/m/n/8.5 , cin-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 707--708
+\OT1/ptm/m/n/8.5 mir-4091, cin-mir-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 707--708
+\OT1/ptm/m/n/8.5 4008a, cin-mir-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 707--708
+\OT1/ptm/m/n/8.5 4008c, cin-mir-
+ []
+
+
+Underfull \hbox (badness 6428) in paragraph at lines 708--709
+[]|\OT1/ptm/m/n/8.5 miRBase and Ho-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 712--712
+[]|\OT1/ptm/m/n/8.5 cin-mir-92a, cin-
+ []
+
+
+Underfull \hbox (badness 6428) in paragraph at lines 712--712
+[]|\OT1/ptm/m/n/8.5 miRBase and Ho-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 714--715
+[]|\OT1/ptm/m/n/8.5 csa-mir-92b, csa-
+ []
+
+
+Underfull \hbox (badness 6428) in paragraph at lines 715--715
+[]|\OT1/ptm/m/n/8.5 miRBase and Ho-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 716--716
+[]|\OT1/ptm/m/n/8.5 odi-mir-92b, odi-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 719--720
+[]|\OT1/ptm/m/n/8.5 cin-mir-124-1,
+ []
+
+
+Underfull \hbox (badness 6428) in paragraph at lines 720--720
+[]|\OT1/ptm/m/n/8.5 miRBase and Ho-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 720--721
+[]|\OT1/ptm/m/n/8.5 [[]],
+ []
+
+
+Underfull \hbox (badness 6825) in paragraph at lines 721--722
+[]|\OT1/ptm/m/n/8.5 csa-mir-124-1, csa-
+ []
+
+
+Underfull \hbox (badness 6428) in paragraph at lines 722--722
+[]|\OT1/ptm/m/n/8.5 miRBase and Ho-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 725--725
+[]|\OT1/ptm/m/n/8.5 cin-mir-200, \OT1/ptm/b/n/8.5 cin-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 725--725
+\OT1/ptm/b/n/8.5 mir-3575\OT1/ptm/m/n/8.5 , cin-mir-
+ []
+
+
+Underfull \hbox (badness 6428) in paragraph at lines 726--726
+[]|\OT1/ptm/m/n/8.5 miRBase and Ho-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 726--728
+[]|\OT1/ptm/m/n/8.5 [[]],
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 726--728
+\OT1/ptm/m/n/8.5 [[]],
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 726--728
+\OT1/ptm/m/n/8.5 [[]],
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 728--729
+[]|\OT1/ptm/m/n/8.5 csa-mir-200, csa-
+ []
+
+
+Underfull \hbox (badness 6428) in paragraph at lines 729--729
+[]|\OT1/ptm/m/n/8.5 miRBase and Ho-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 730--740
 []|\OT1/ptm/m/n/8.5 cin-mir-4006d,
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 695--705
+Underfull \hbox (badness 10000) in paragraph at lines 730--740
 \OT1/ptm/m/n/8.5 cin-mir-4006c,
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 695--705
+Underfull \hbox (badness 10000) in paragraph at lines 730--740
 \OT1/ptm/m/n/8.5 cin-mir-4001b-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 695--705
+Underfull \hbox (badness 10000) in paragraph at lines 730--740
 \OT1/ptm/m/n/8.5 2, cin-mir-4000i,
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 695--705
+Underfull \hbox (badness 10000) in paragraph at lines 730--740
 \OT1/ptm/m/n/8.5 cin-mir-4006g,
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 695--705
+Underfull \hbox (badness 10000) in paragraph at lines 730--740
 \OT1/ptm/m/n/8.5 cin-mir-4001e,
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 695--705
+Underfull \hbox (badness 10000) in paragraph at lines 730--740
 \OT1/ptm/m/n/8.5 cin-mir-4001d,
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 695--705
+Underfull \hbox (badness 10000) in paragraph at lines 730--740
 \OT1/ptm/m/n/8.5 cin-mir-4000g,
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 695--705
+Underfull \hbox (badness 10000) in paragraph at lines 730--740
 \OT1/ptm/m/n/8.5 cin-mir-4006f,
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 695--705
+Underfull \hbox (badness 10000) in paragraph at lines 730--740
 \OT1/ptm/m/n/8.5 cin-mir-4000h*,
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 695--705
+Underfull \hbox (badness 10000) in paragraph at lines 730--740
 \OT1/ptm/m/n/8.5 cin-mir-4006b,
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 695--705
+Underfull \hbox (badness 10000) in paragraph at lines 730--740
 \OT1/ptm/m/n/8.5 cin-mir-4001b-1,
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 695--705
+Underfull \hbox (badness 10000) in paragraph at lines 730--740
 \OT1/ptm/m/n/8.5 cin-mir-4006e,
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 695--705
+Underfull \hbox (badness 10000) in paragraph at lines 730--740
 \OT1/ptm/m/n/8.5 cin-mir-4001a-1,
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 695--705
+Underfull \hbox (badness 10000) in paragraph at lines 730--740
 \OT1/ptm/b/n/8.5 cin-mir-4001a-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 695--705
+Underfull \hbox (badness 10000) in paragraph at lines 730--740
 \OT1/ptm/b/n/8.5 2\OT1/ptm/m/n/8.5 , cin-mir-4002,
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 695--705
+Underfull \hbox (badness 10000) in paragraph at lines 730--740
 \OT1/ptm/m/n/8.5 cin-mir-4001h,
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 695--705
+Underfull \hbox (badness 10000) in paragraph at lines 730--740
 \OT1/ptm/m/n/8.5 cin-mir-4000a-2,
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 695--705
+Underfull \hbox (badness 10000) in paragraph at lines 730--740
 \OT1/ptm/m/n/8.5 cin-mir-4006a-2,
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 695--705
+Underfull \hbox (badness 10000) in paragraph at lines 730--740
 \OT1/ptm/m/n/8.5 cin-mir-4006a-3,
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 695--705
+Underfull \hbox (badness 10000) in paragraph at lines 730--740
 \OT1/ptm/m/n/8.5 cin-mir-4006a-1,
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 695--705
+Underfull \hbox (badness 10000) in paragraph at lines 730--740
 \OT1/ptm/b/n/8.5 cin-mir-4006e\OT1/ptm/m/n/8.5 ,
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 695--705
+Underfull \hbox (badness 10000) in paragraph at lines 730--740
 \OT1/ptm/b/n/8.5 cin-mir-4001a-1\OT1/ptm/m/n/8.5 ,
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 695--705
+Underfull \hbox (badness 10000) in paragraph at lines 730--740
 \OT1/ptm/b/n/8.5 cin-mir-4006b\OT1/ptm/m/n/8.5 ,
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 695--705
+Underfull \hbox (badness 10000) in paragraph at lines 730--740
 \OT1/ptm/m/n/8.5 cin-mir-4000c,
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 695--705
+Underfull \hbox (badness 10000) in paragraph at lines 730--740
 \OT1/ptm/b/n/8.5 cin-mir-4006e\OT1/ptm/m/n/8.5 ,
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 695--705
+Underfull \hbox (badness 10000) in paragraph at lines 730--740
 \OT1/ptm/m/n/8.5 cin-mir-4000b-2*,
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 695--705
+Underfull \hbox (badness 10000) in paragraph at lines 730--740
 \OT1/ptm/b/n/8.5 cin-mir-4001a-1\OT1/ptm/m/n/8.5 ,
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 695--705
+Underfull \hbox (badness 10000) in paragraph at lines 730--740
 \OT1/ptm/m/n/8.5 cin-mir-4000b-1*,
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 695--705
+Underfull \hbox (badness 10000) in paragraph at lines 730--740
 \OT1/ptm/b/n/8.5 cin-mir-4001a-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 695--705
+Underfull \hbox (badness 10000) in paragraph at lines 730--740
 \OT1/ptm/b/n/8.5 2\OT1/ptm/m/n/8.5 , \OT1/ptm/b/n/8.5 cin-mir-4002\OT1/ptm/m/n/
 8.5 ,
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 695--705
+Underfull \hbox (badness 10000) in paragraph at lines 730--740
 \OT1/ptm/m/n/8.5 cin-mir-4000d*,
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 695--705
+Underfull \hbox (badness 10000) in paragraph at lines 730--740
 \OT1/ptm/b/n/8.5 cin-mir-4001h\OT1/ptm/m/n/8.5 ,
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 695--705
+Underfull \hbox (badness 10000) in paragraph at lines 730--740
 \OT1/ptm/b/n/8.5 cin-mir-4006a-3\OT1/ptm/m/n/8.5 ,
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 695--705
+Underfull \hbox (badness 10000) in paragraph at lines 730--740
 \OT1/ptm/b/n/8.5 cin-mir-4006a-1\OT1/ptm/m/n/8.5 ,
  []
 
 
-Underfull \hbox (badness 2884) in paragraph at lines 706--707
+Underfull \hbox (badness 2884) in paragraph at lines 741--742
 \OT1/ptm/m/n/8.5 clus-ter, but in an-other
  []
 
 
-Underfull \hbox (badness 6428) in paragraph at lines 708--708
+Underfull \hbox (badness 6428) in paragraph at lines 743--743
 []|\OT1/ptm/m/n/8.5 miRBase and Ho-
  []
 
 
-Overfull \hbox (107.48643pt too wide) in alignment at lines 627--710
+Overfull \hbox (107.48643pt too wide) in alignment at lines 662--745
  [] [] [] [] [] [] [] [] [] 
  []
 
-[13 <./Images/Cluster_images/let-7_101_128.pdf>] [14]
-<./Images/miRNA_matrix.pdf, id=578, 2260.74617pt x 1882.5286pt>
+[14 <./Images/Cluster_images/let-7_101_128.pdf>] [15]
+<./Images/miRNA_matrix.pdf, id=581, 2260.74617pt x 1882.5286pt>
 File: ./Images/miRNA_matrix.pdf Graphic file (type pdf)
 
 <use ./Images/miRNA_matrix.pdf>
-Package pdftex.def Info: ./Images/miRNA_matrix.pdf used on input line 785.
+Package pdftex.def Info: ./Images/miRNA_matrix.pdf used on input line 820.
 (pdftex.def)             Requested size: 332.89723pt x 277.1966pt.
- [15]
-<./Images/last_tree.png, id=582, 896.34875pt x 611.28375pt>
+ [16]
+<./Images/last_tree.png, id=585, 896.34875pt x 611.28375pt>
 File: ./Images/last_tree.png Graphic file (type png)
 
 <use ./Images/last_tree.png>
-Package pdftex.def Info: ./Images/last_tree.png used on input line 807.
+Package pdftex.def Info: ./Images/last_tree.png used on input line 842.
 (pdftex.def)             Requested size: 213.39566pt x 145.5265pt.
 
-<./Images/cluster_number.pdf, id=583, 428.60126pt x 149.55875pt>
+<./Images/cluster_number.pdf, id=586, 428.60126pt x 149.55875pt>
 File: ./Images/cluster_number.pdf Graphic file (type pdf)
 
 <use ./Images/cluster_number.pdf>
-Package pdftex.def Info: ./Images/cluster_number.pdf used on input line 817.
+Package pdftex.def Info: ./Images/cluster_number.pdf used on input line 852.
 (pdftex.def)             Requested size: 210.55022pt x 73.47156pt.
 
-<./Images/density.pdf, id=584, 335.2525pt x 263.98625pt>
+<./Images/density.pdf, id=587, 335.2525pt x 263.98625pt>
 File: ./Images/density.pdf Graphic file (type pdf)
 
 <use ./Images/density.pdf>
-Package pdftex.def Info: ./Images/density.pdf used on input line 817.
+Package pdftex.def Info: ./Images/density.pdf used on input line 852.
 (pdftex.def)             Requested size: 210.55022pt x 165.79259pt.
 
 
 Class SVMult Warning: \sidecaption: No sufficient room for the legend; 
-using normal \caption on input line 817.
+using normal \caption on input line 852.
 
-<./Images/vennmiRNAs.pdf, id=585, 578.16pt x 722.7pt>
+<./Images/vennmiRNAs.pdf, id=588, 578.16pt x 722.7pt>
 File: ./Images/vennmiRNAs.pdf Graphic file (type pdf)
 
 <use ./Images/vennmiRNAs.pdf>
-Package pdftex.def Info: ./Images/vennmiRNAs.pdf used on input line 825.
+Package pdftex.def Info: ./Images/vennmiRNAs.pdf used on input line 860.
 (pdftex.def)             Requested size: 213.39566pt x 266.74419pt.
- [16 <./Images/Cluster_images/mir-133_113_33.pdf> <./Images/Cluster_images/mir-
+ [17 <./Images/Cluster_images/mir-133_113_33.pdf> <./Images/Cluster_images/mir-
 181_105_2502.pdf
 
 pdfTeX warning: /usr/bin/pdflatex (file ./Images/Cluster_images/mir-181_105_250
@@ -1606,7 +1633,7 @@ pdfTeX warning: /usr/bin/pdflatex (file ./Images/Cluster_images/mir-181_105_250
 
 pdfTeX warning: /usr/bin/pdflatex (file ./Images/Cluster_images/mir-217_13D_467
 .pdf): PDF inclusion: multiple pdfs with page group included in a single page
->] [17 <./Images/Cluster_images/mir-34_11A_435.pdf> <./Images/Cluster_images/mi
+>] [18 <./Images/Cluster_images/mir-34_11A_435.pdf> <./Images/Cluster_images/mi
 r-92_281_4336.pdf
 
 pdfTeX warning: /usr/bin/pdflatex (file ./Images/Cluster_images/mir-92_281_4336
@@ -1615,31 +1642,29 @@ pdfTeX warning: /usr/bin/pdflatex (file ./Images/Cluster_images/mir-92_281_4336
 
 pdfTeX warning: /usr/bin/pdflatex (file ./Images/Cluster_images/mir-96_138_240.
 pdf): PDF inclusion: multiple pdfs with page group included in a single page
->] [18 <./Images/miRNA_matrix.pdf>] [19 <./Images/last_tree.png> <./Images/clus
-ter_number.pdf> <./Images/density.pdf>] [20 <./Images/vennmiRNAs.pdf>] [21]
+>] [19 <./Images/miRNA_matrix.pdf>] [20 <./Images/last_tree.png> <./Images/clus
+ter_number.pdf> <./Images/density.pdf>] [21 <./Images/vennmiRNAs.pdf>] [22]
 LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <10> not available
-(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 988.
-
-[22] [23] (./tunicates_ncrna.bbl [24]
-LaTeX Font Info:    Try loading font information for OML+ptm on input line 109.
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 1036.
 
 
-(/usr/share/texlive/texmf-dist/tex/latex/psnfss/omlptm.fd
-File: omlptm.fd 
-)
-LaTeX Font Info:    Font shape `OML/ptm/m/n' in size <8.5> not available
-(Font)              Font shape `OML/cmm/m/it' tried instead on input line 109.
+[23] [24] [25]
+Overfull \hbox (10.93906pt too wide) in paragraph at lines 1172--1182
+\OT1/ptm/m/n/10 2014). CAVH ac-knowl-edges the sup-port by DAAD schol-ar-ship: 
+Forschungsstipendien-
+ []
 
-Underfull \hbox (badness 1888) in paragraph at lines 121--125
+(./tunicates_ncrna.bbl [26] [27]
+Underfull \hbox (badness 1888) in paragraph at lines 208--212
 []\OT1/ptm/m/n/8.5 David Lan-gen-berger, Clara Bermudez-Santana, Jana Her-tel, 
 Steve Hoff-mann, Philipp
  []
 
-[25]
+[28]
 Missing character: There is no â in font ptmr7t!
 Missing character: There is no € in font ptmr7t!
 Missing character: There is no ² in font ptmr7t!
- [26]) [27] (./tunicates_ncrna.aux)
+ [29]) [30] (./tunicates_ncrna.aux)
 
 LaTeX Warning: There were undefined references.
 
@@ -1648,26 +1673,25 @@ LaTeX Warning: There were multiply-defined labels.
 
  ) 
 Here is how much of TeX's memory you used:
- 2931 strings out of 493039
- 41984 string characters out of 6136942
- 143769 words of memory out of 5000000
- 6378 multiletter control sequences out of 15000+600000
- 43541 words of font info for 85 fonts, out of 8000000 for 9000
+ 2935 strings out of 493039
+ 41971 string characters out of 6136942
+ 143854 words of memory out of 5000000
+ 6386 multiletter control sequences out of 15000+600000
+ 43184 words of font info for 84 fonts, out of 8000000 for 9000
  1137 hyphenation exceptions out of 8191
  40i,9n,25p,2509b,343s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/share/texlive/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/share/texliv
 e/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/share/texlive/texm
-f-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr/share/texlive/texmf-dist/
-fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texlive/texmf-dist/fonts/
-type1/urw/courier/ucrr8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/tim
-es/utmb8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmbi8a.pfb>
-</usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmr8a.pfb></usr/share/tex
-live/texmf-dist/fonts/type1/urw/times/utmr8a.pfb></usr/share/texlive/texmf-dist
-/fonts/type1/urw/times/utmri8a.pfb>
-Output written on tunicates_ncrna.pdf (27 pages, 2685371 bytes).
+f-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texlive/texmf-dist
+/fonts/type1/urw/courier/ucrr8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/
+urw/times/utmb8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmbi
+8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmr8a.pfb></usr/sh
+are/texlive/texmf-dist/fonts/type1/urw/times/utmr8a.pfb></usr/share/texlive/tex
+mf-dist/fonts/type1/urw/times/utmri8a.pfb>
+Output written on tunicates_ncrna.pdf (30 pages, 2689407 bytes).
 PDF statistics:
- 3531 PDF objects out of 3580 (max. 8388607)
- 2328 compressed objects within 24 object streams
+ 3536 PDF objects out of 3580 (max. 8388607)
+ 2331 compressed objects within 24 object streams
  0 named destinations out of 1000 (max. 500000)
  61 words of extra memory for PDF output out of 10000 (max. 10000000)
 

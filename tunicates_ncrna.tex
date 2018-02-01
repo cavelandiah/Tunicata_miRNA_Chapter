@@ -43,14 +43,33 @@
 \tableofcontents
 
 \title*{non-protein-coding RNAs as regulators of development in tunicates}
+
+
 % Use \titlerunning{Short Title} for an abbreviated version of
 % your contribution title if the original one is too long
-\author{Cristian A. Velandia-Huerto, Arjan Gittenberger, Federico D. 
-Brown Almeida, Peter F. Stadler and Clara I. Berm\'{u}dez-Santana}
+\author{Cristian A. Velandia-Huerto, Federico D. 
+Brown, Adriaan A. Gittenberger, Peter F. Stadler and Clara I. 
+Berm\'{u}dez-Santana}
 % Use \authorrunning{Short Title} for an abbreviated version of
 % your contribution title if the original one is too long
-\institute{Author Name \at Name, Address of Institute, \email{writeemail@unal.edu.co}
-\and   Author Name \at Name, Address of Institute \email{writeemail@com}}
+\institute{Cristian A. Velandia-Huerto, \at {Bioinformatics Group, Department of 
+Computer Science, and Interdisciplinary Center for Bioinformatics, 
+Universit{\"a}t Leipzig},H{\"a}rtelstra{\ss}e 16--18, D-04107, Leipzig, Germany 
+\email{cristian@bioinf.uni-leipzig.de}
+\and Federico D. Brown \at Departamento de Zoologia, Instituto Bioci{\^e}ncias, 
+    Universidade de S{\~a}o Paulo, Rua do Mat{\~a}o,  Tr. 14 no. 101,S{\~a}o 
+Paulo, SP, Brazil \email{fdbrown@usp.br}
+\and Adriaan A. Gittenberger \at Institute of Biology, Leiden University,P.O. 
+Box 9505, 2300 RA, Leiden, Netherlands, \email{gittenberger@gimaris.com}
+\and Peter F. Stadler \at {Bioinformatics Group, Department of Computer Science, 
+and Interdisciplinary Center for Bioinformatics, Universit{\"a}t 
+Leipzig},H{\"a}rtelstra{\ss}e 16--18, D-04107, Leipzig, Germany 
+\email{studla@bioinf.uni-leipzig.de}
+\and Clara I. Berm\'{u}dez-Santana \at Biology Department, Universidad 
+Nacional de Colombia, Carrera 45 \# 26-85, Edif. Uriel Guti{\'e}rrez, 
+\email{cibermudezs@unal.edu.co}
+}
+
 %
 % Use the package "url.sty" to avoid
 % problems with special characters
@@ -58,23 +77,39 @@ Brown Almeida, Peter F. Stadler and Clara I. Berm\'{u}dez-Santana}
 %
 \maketitle
 
-\abstract*{Each chapter should be preceded by an abstract (10--15 lines long) 
+\abstract{Each chapter should be preceded by an abstract (10--15 lines long) 
 that summarizes the content. The abstract will appear \textit{online} at 
 \url{www.SpringerLink.com} and be available with unrestricted access. This 
 allows unregistered users to read the abstract as a teaser for the complete 
 chapter. As a general rule the abstracts will not appear in the printed version 
 of your book unless it is the style of your particular book or that of the 
 series to which your book belongs.
-Please use the 'starred' version of the new 
-Springer \texttt{abstract} command for typesetting the text of the online 
-abstracts (cf. source file of this chapter template \texttt{abstract}) and 
-include them with the source files of your manuscript. Use the plain 
+Please use the 'starred' version of the new Springer \texttt{abstract} command 
+for typesetting the text of the online abstracts (cf. source file of this 
+chapter template \texttt{abstract}) and include them with the source files of 
+your manuscript. Use the plain 
 \texttt{abstract} command if the abstract is also to appear in the printed 
 version of the book.}
 
 
 \section{Introduction}
 \label{sec:1}
+
+Tunicates are organisms characterized by a fast rate of genomic and 
+developmental evolution. Some fast evolving evolutionary changes include loss of 
+synteny, fast changes in \textit{cis}-regulatory sequences, and loss of several 
+key regulatory developmental genes \cite{Satou2008, Denoeud1381}, such as 
+several central or posterior Hox genes involved in AP patterning 
+of metazoans \cite{Ikuta:2005} and Gbx involved in the establishment of 
+the midbrain-hindbrain boundary in vertebrates \cite{Yagi2003}. Genome 
+studies of miRNA prevalence in several species of tunicates (i.e.Oikopleura, 
+Ciona and Didemnum) have revealed many losses of conserved miRNA families as 
+well as many gains of unique miRNAs among recently divergent lineages in the 
+tunicates when compared to other groups of chordates \cite{Fu2008, 
+Velandia-Huerto2016}. Thus, relaxed constraints in the evolution of 
+genomes and developmental trajectories in the tunicates may have been 
+responsible for the plethora of reproductive strategies, morphologies, and life 
+histories observed in the group \cite{Holland2015}.
 
 noncoding RNAs roles in tunicates development date earliest in the 90`s from 
 the works of Swalla \& Jeffry in which RNAs localized in the yellow crescent or 
@@ -887,120 +922,134 @@ notion that animal miRNAs are less conserved between taxa than plant ones.}
 \section{miRNAs and its rol in development}
 \label{sec:3}
 
+\subsection{let-7 was the first miRNA in tunicates proposed to have a regulatory 
+role in development}
+The first miRNA ever reported in any tunicate was let-7, which was 
+first detected in \textit{C. robusta} and \textit{Herdmania curvata} 
+\cite{Pasquinelli2000}. A previous study the same year in \textit{C. elegans} 
+had shown that small RNA let-7 ($21$ nt) was required for late larval to adult 
+developmental transition \cite{Reinhart:2000mz}. Small RNA let-7 was then shown 
+to also be differentially expressed during the development of many distantly 
+related animal taxa, but was not detected in Porifera, Ctenophora, Cnidaria, 
+and Acoelomorpha, suggesting that let-7 was involved in the regulation of late 
+temporal transitions during development or in the evolution of complex life 
+histories in the Nephrozoa \cite{Pasquinelli2000, Pasquinelli2003}.
+
 \subsection{miRNAs discovery and development}
 
 Both MicroRNAs (miRNAs or miRs) as well as MicroRNA offset RNA (moRNAs or moRs) 
 are developmentally regulated as shown during \textit{C. robusta} development 
-(Shi et al., 2009). In spite of the considerably higher abundance of miRs and 
+\cite{Shi2009}. In spite of the considerably higher abundance of miRs and 
 miRs* in cells than their corresponding abundance of moRs, all three small RNA 
 types have been shown to have regulatory roles for gene expression. Although a 
 vast majority of miRNAs remain to be studied, there are already many cases of 
 well-studied miRNAs (including many that are mentioned in this chapter that have 
 been studied in tunicates) that are known to target mRNAs, modulate their levels 
 of expression, and affect developmental processes both in plants and animals 
-(Zhao et al. 2018). Only recently two studies demonstrated for the first time 
-that two moRs (viral moR-rR1-3-5p and moR-21 could also modulate gene 
-expression, and were not merely the byproduct of miRNA biogenesis (Umbach et al 
-2010, Zhao et al. 2016).
+\cite{Zhao2018}. Only recently two studies demonstrated for 
+the first time that two moRs (viral moR-rR1-3-5p and moR-21) could also 
+modulate gene expression, and were not merely the byproduct of miRNA biogenesis 
+\cite{UMBACH2010592, Zhao2016}.
 
-\subsubsection{Neuronal fate determination and regulation by miR-124}
+\subsection{Neuronal fate determination and regulation by miR-124}
 
 The miRNA miR-124 is expressed in the nervous system of many animals, including 
-Drosophila (Aboobaker et al., 2005), \textit{C. elegans} (Clark et al., 2010) 
-and humans (Sempere et al., 2004). As was first observed by in vitro studies 
-of mouse brain cells, low expression of miR-124 was related to neural stem cell 
+Drosophila \cite{Aboobaker18017}, \textit{C. elegans} \cite{Clark:2010} and 
+humans \cite{Sempere2004}. As was first observed by in vitro studies of mouse 
+brain cells, low expression of miR-124 was related to neural stem cell 
 maintenance, whereas high expression of miR-124 induced the differentiation of 
-neuronal cell types (Cheng et al., 2009). A regulative role of miR-124 in 
-non-neural vs. neural fate decisions was further investigated by embryonic 
-experiments in vivo (Chen et al. 2011) and by theoretical and in silico 
-modeling analyses in \textit{C. robusta} (Chen et al. 2014). These studies 
-showed that miR-124 promotes nervous system development by feedback interactions 
-with Notch signaling. During nervous system development of \textit{C. robusta}, 
-cells in the dorsal and ventral midline epidermis of the teilbud embryo either 
-take an epidermal sensory neuron (ESN) or peripheral nervous system (PNS) fate, 
-a decision mediated by lateral inhibition using a classical model of feedback 
-loop regulation of Notch-Delta signaling in neighboring cells (Collier et al. 
-1996; Chen et al. 2014). Cells that take an ESN fate showed low expression of 
-miR-124 presumably by Notch inhibition, whereas cells that take a PNS fate 
-expressed high levels of miR-124, which in the latter case it was shown to 
-target and repress non-neuronal genes (e.g. neuronal repressors SCP1 and PTBP1) 
-downstream of Notch signaling (Chen et al. 2011). In addition, expression of 
-miR-124 in larval epidermal cells was sufficient for ectopic neural 
+neuronal cell types \textcolor{red}{(Cheng et al., 2009)}. A regulative role of 
+miR-124 in non-neural vs. neural fate decisions was further investigated by 
+embryonic experiments in vivo \cite{Chen4943} and by 
+theoretical and in silico modeling analyses in \textit{C. robusta} 
+\cite{Chen2014}. These studies showed that miR-124 promotes 
+nervous system development by feedback interactions with Notch signaling. During 
+nervous system development of \textit{C. robusta}, cells in the dorsal and 
+ventral midline epidermis of the teilbud embryo either take an epidermal sensory 
+neuron (ESN) or peripheral nervous system (PNS) fate, a decision mediated by 
+lateral inhibition using a classical model of feedback loop regulation of 
+Notch-Delta signaling in neighboring cells \cite{Collier:1996, 
+Chen2014}. Cells that take an ESN fate showed low expression of miR-124 
+presumably by Notch inhibition, whereas cells that take a PNS fate expressed 
+high levels of miR-124, which in the latter case it was shown to target and 
+repress non-neuronal genes (e.g. neuronal repressors SCP1 and PTBP1) downstream 
+of Notch signaling \cite{Chen4943}. In addition, expression 
+of miR-124 in larval epidermal cells was sufficient for ectopic neural 
 specification, which resembled mis-expression experiments using Pou4, an 
-important transcription factor for sensory neuron specification (Chen et al. 
-2011; Tang et al. 2013). Whereas miR-124 targeting to SCP1 is thought to have 
-evolved in the vertebrates+tunicates, miR targeting to PTBP1 may be conserved 
-among bilaterians except for ecdysozoans (Chen et al. 2011) suggesting that the 
-miRNA regulatory logic in lateral inhibition models of Notch-Delta signaling may 
-have broader implications in other organisms yet to be studied (Chen et al. 
-2014). The research team also showed that miR-124 acted at the gastrula stage 
-and targeted other non-neural genes such as muscle determinant Macho-1 and 
-notochord determinant Brachyury to allow for ectodermal fate specification (Chen 
-et al. 2011).
+important transcription factor for sensory neuron specification 
+\cite{Chen4943, JoyceTang2013}. Whereas miR-124 targeting to SCP1 is thought to 
+have evolved in the vertebrates+tunicates, miR targeting to PTBP1 may be 
+conserved among bilaterians except for ecdysozoans \cite{Chen4943} suggesting 
+that the miRNA regulatory logic in lateral inhibition models of Notch-Delta 
+signaling may have broader implications in other organisms yet to be studied 
+\cite{Chen2014}. The research team also showed that miR-124 
+acted at the gastrula stage and targeted other non-neural genes such as muscle 
+determinant Macho-1 and notochord determinant Brachyury to allow for ectodermal 
+fate specification \cite{Chen4943}.
 
 \subsubsection{Muscle development and the polycistronic miR-1/miR-133 cluster}
 A well-studied case of miRNA regulation in muscle development is the 
 miR-1/miR-133 polycistronic cluster. Whereas miR-1 promotes differentiation of 
-muscle, miR-133 promotes proliferation of muscle precursors (Chen et al, 2006). 
+muscle, miR-133 promotes proliferation of muscle precursors \cite{Chen:2005yq}. 
 In the chordates, these two miRNAs are encoded in an antisense direction in a 
-relatively close localization (3-11 kb apart) within the gene mind bomb 1 
-(MIB1), and transcribed as a single primary (i.e. polycistronic) transcript. 
+relatively close localization (3-11 kb apart) within the gene \textit{mind bomb 
+1} (MIB1), and transcribed as a single primary (i.e. polycistronic) transcript. 
 Except for Drosophila and ambulacrarians (i.e. echinoderms and hemichordates), a 
 close proximity of these two miRNAs has been documented in most animal taxa 
 suggesting some form of functional regulatory constraint of a condensed 
-miR-1/miR-133 cluster for the bilaterians (Campos-Paysaa et al., 2011). During 
-\textit{C. robusta} development, the polycistronic transcription can be 
+miR-1/miR-133 cluster for the bilaterians \cite{Campo-Paysaa:2011}. 
+During \textit{C. robusta} development, the polycistronic transcription can be 
 detected in the nuclei of presumptive tail muscle cells from the gastrula stage 
-onward, and its transcription is regulated by an 850 bp sequence upstream of 
-the transcipt start site (Kusakabe et al. 2013). Differential expression of the 
-two miRNAs in muscle tissues was only detected in the adult, where body wall 
-muscle expressed similar levels of miR-1 and miR-133 and heart muscle expressed 
-significantly higher levels of miR-1 (Kusakabe et al. 2013).
+onward, and its transcription is regulated by an $850$ bp sequence upstream of 
+the transcipt start site \cite{Kusakabe2013}. Differential 
+expression of the two miRNAs in muscle tissues was only detected in the adult, 
+where body wall muscle expressed similar levels of miR-1 and miR-133 and heart 
+muscle expressed significantly higher levels of miR-1 \cite{Kusakabe2013}.
 
 \subsubsection{miRNA expression during oral siphon (OS) regeneration}
 Three stages of regeneration have been proposed that reconstruct main events of 
 regeneration that match expected expression profiles in the corresponding 
-timeframes (Knapp, et al. 2013). The three phases correspond to: i. wound 
-Healing, ii. transition, and iii. re-development. Using miRNA-mRNA 
-transcriptional profiling using a correlation network, differential expression 
-of mRNAs was correlated to miRNA profiles during the three regeneration windows 
-mentioned above in \textit{C. robusta} oral siphon regeneration (Spina et al. 
-2017). In the first phase, i.e. wound healing, miRNA target clusters of miR 
-4178b-5p and miR 4\_20211 were found to be correlated to the differential 
-expression of genes involved in the following GO term functional 
-classifications: immune response, stress response and apoptosis. In the second 
-phase, i.e. transition, miR 4008c-5p, miR 4123-5p, miR 4178-5p, miR 2\_15911, 
-miR 4\_20211, and miR 11\_7539 were correlated and known to target Wnt, TGFb 
-and MAPK pathway genes that may be regulating the proliferative state 
-characteristic of this particular timeframe. In the third phase, i.e. 
-re-development, miR4008c-5p, miR 10\_4533, and miR 11\_6940 known to target ECM 
-peptidase inhibitors are correlated with the characteristic extracellular 
-matrix remodeling that occurs at the final phase of regeneration and which 
-resembles the original developmental processes. In contrast other miRs were 
-found expressed throughout the regenerative process. MiRNA miR 10\_4533 known 
-to target IGF and IGFb was found expressed presumably regulating the 
-proliferation of progenitors. Also miR-9 was found expressed throughout 
-regeneration and is known to be essential for neural development and function, 
-presumably by targeting and regulating genes involved in cytoskeleton and cell 
-cycle functions (Galderisi et al., 2003; McBeath et al., 2004), instead of 
-targeting Notch or Hes-1 (Spina et al. 2017).
+timeframes \cite{Knapp:2013}. The three phases correspond to: i. wound Healing, 
+ii. transition, and iii. re-development. Using miRNA-mRNA transcriptional 
+profiling using a correlation network, differential expression of mRNAs was 
+correlated to miRNA profiles during the three regeneration windows mentioned 
+above in \textit{C. robusta} oral siphon regeneration \cite{Spina:2017}. In 
+the first phase, i.e. wound healing, miRNA target clusters of miR 4178b-5p and 
+miR 4\_20211 were found to be correlated to the differential expression of genes 
+involved in the following GO term functional classifications: immune response, 
+stress response and apoptosis. In the second phase, i.e. transition, miR 
+4008c-5p, miR 4123-5p, miR 4178-5p, miR 2\_15911, miR 4\_20211, and miR 11\_7539 
+were correlated and known to target Wnt, TGFb and MAPK pathway genes that may be 
+regulating the proliferative state characteristic of this particular timeframe. 
+In the third phase, i.e. re-development, miR4008c-5p, miR 10\_4533, and miR 
+11\_6940 known to target ECM peptidase inhibitors are correlated with the 
+characteristic extracellular matrix remodeling that occurs at the final phase of 
+regeneration and which resembles the original developmental processes. In 
+contrast other miRs were found expressed throughout the regenerative process. 
+MiRNA miR 10\_4533 known to target IGF and IGFb was found expressed presumably 
+regulating the proliferation of progenitors. Also miR-9 was found expressed 
+throughout regeneration and is known to be essential for neural development and 
+function, presumably by targeting and regulating genes involved in cytoskeleton 
+and cell cycle functions \cite{Galderisi:2003rt, MCBEATH2004483}, instead of 
+targeting Notch or Hes-1 \cite{Spina:2017}.
 
 \subsubsection{miRNA expression during \textit{O. dioica} development}
 A most thorough study of the miRNA repertoire expressed during development has 
-been published for the larvacean \textit{O. dioca} (Fu et al. 2008). Using a 
+been published for the larvacean \textit{O. dioca} \cite{Fu2008}. Using a 
 miRNA array approach with $55$ candidate miRNAs and $10$ developmental stages 
 for analyses, some general patterns of miRNA occurrence emerged. MicroRNAs were 
 expressed throughout the life cycle of the animal, and were deposited in eggs as 
 maternal determinants for early zygotes. Expression of zygotic miRNAs, such as 
 miR-1487 and miR-1488, was observed starting on the blastula stage (1.5h post 
 fertilization). Most miRNAs analyzed showed developmental regulation (for 
-specific miRNAs that were differentially expressed at each stage see Fu et al, 
-2008), except for some such as miR-1497 that was expressed throughout all stages 
-(Fu et al. 2008). From this study, the first sex specific miRNAs were revealed: 
-miR-1478 was expressed day $6$ females in the oocytes, whereas miR-1487/88 were 
-expressed in day $6$ males. Interestingly, the compact genomes of \textit{O. 
-dioica} showed one single copy of most miRNA loci, except for miR-1490a, 
-miR-1493, miR-1497d, and miR-1504 that were in two copies (Fu et al. 2008).
+specific miRNAs that were differentially expressed at each stage see 
+\cite{Fu2008}), except for some such as miR-1497 that was expressed throughout 
+all stages \cite{Fu2008}. From this study, the first sex specific miRNAs were 
+revealed: miR-1478 was expressed day $6$ females in the oocytes, whereas 
+miR-1487/88 were expressed in day $6$ males. Interestingly, the compact genomes 
+of \textit{O. dioica} showed one single copy of most miRNA loci, except for 
+miR-1490a, miR-1493, miR-1497d, and miR-1504 that were in two copies 
+\cite{Fu2008}.
 
 
 \section{Other ncRNAs associated to development}
@@ -1119,6 +1168,17 @@ of polycistronic pre-mRNAs \cite{Agabian1990, Blumenthal1995}, to the
 production of functional mRNAs from RNA polymerase I 
 transcripts \cite{ShuLee1997}.
 
+\section{Acknowledgments}
+This work and the computational analysis were partially supported by the 
+equipment donation from the German Academic Exchange Service-DAAD to the Faculty 
+of Science at the Universidad Nacional de Colombia and the computational 
+laboratory from Bioinformatics Group at Department of Computer Science and 
+Interdisciplinary Center for Bioinformatic at the Leipzig University. The 
+comparative analysis was partially supported by Colciencias (project no.\ 
+110165843196, contract 571-2014). CAVH acknowledges the support by DAAD 
+scholarship: Forschungsstipendien-Promotionen in Deutschland, 2017/18 (Bewerbung 
+57299294). CIBS acknowledges Universidad Nacional de Colombia for the time 
+granted to write this chapter.
 
 % BibTeX users please use
 \bibliographystyle{plain}

@@ -3,6 +3,10 @@ Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
 The top-level auxiliary file: tunicates_ncrna.aux
 The style file: plain.bst
 Database file #1: tuni_updated.bib
+Repeated entry---line 1343 of file tuni_updated.bib
+ : @article{Chen2014
+ :                  ,
+I'm skipping whatever remains of this entry
 Warning--I didn't find a database entry for "Ameres:13"
 Warning--I didn't find a database entry for "Cerutti:06"
 Warning--I didn't find a database entry for "Shabalina:08"
@@ -24,45 +28,45 @@ Warning--I didn't find a database entry for "Peterson:09"
 Warning--I didn't find a database entry for "Berezikov:11"
 Warning--I didn't find a database entry for "Tanzer:10a"
 Warning--I didn't find a database entry for "Dai:09"
-You've used 45 entries,
+You've used 66 entries,
             2118 wiz_defined-function locations,
-            859 strings with 14317 characters,
-and the built_in function-call counts, 18373 in all, are:
-= -- 1706
-> -- 1222
+            1009 strings with 21060 characters,
+and the built_in function-call counts, 29273 in all, are:
+= -- 2654
+> -- 2159
 < -- 0
-+ -- 487
-- -- 436
-* -- 1619
-:= -- 3196
-add.period$ -- 135
-call.type$ -- 45
-change.case$ -- 353
++ -- 863
+- -- 786
+* -- 2694
+:= -- 5121
+add.period$ -- 197
+call.type$ -- 66
+change.case$ -- 591
 chr.to.int$ -- 0
-cite$ -- 45
-duplicate$ -- 491
-empty$ -- 1183
-format.name$ -- 436
-if$ -- 3626
+cite$ -- 66
+duplicate$ -- 717
+empty$ -- 1741
+format.name$ -- 786
+if$ -- 5691
 int.to.chr$ -- 0
-int.to.str$ -- 45
-missing$ -- 44
-newline$ -- 228
-num.names$ -- 90
-pop$ -- 269
+int.to.str$ -- 66
+missing$ -- 64
+newline$ -- 332
+num.names$ -- 132
+pop$ -- 472
 preamble$ -- 1
-purify$ -- 308
+purify$ -- 525
 quote$ -- 0
-skip$ -- 320
+skip$ -- 470
 stack$ -- 0
-substring$ -- 1172
-swap$ -- 45
+substring$ -- 1740
+swap$ -- 66
 text.length$ -- 0
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 180
+type$ -- 264
 warning$ -- 0
-while$ -- 148
-width$ -- 47
-write$ -- 496
-(There were 21 warnings)
+while$ -- 217
+width$ -- 68
+write$ -- 724
+(There was 1 error message)
