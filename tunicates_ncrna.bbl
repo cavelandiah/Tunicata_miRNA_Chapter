@@ -1,5 +1,9 @@
 \begin{thebibliography}{10}
 
+\bibitem{TanzerALL:2010}
+{\em Evolutionary Genomics of microRNAs and Their Relatives}, pages 295--327.
+\newblock John Wiley \& Sons, Inc., 2010.
+
 \bibitem{Aboobaker18017}
 A.~Aziz Aboobaker, Pavel Tomancak, Nipam Patel, Gerald~M. Rubin, and Eric~C.
   Lai.
@@ -67,6 +71,12 @@ Jian-Fu Chen, Elizabeth~M Mandel, J~Michael Thomson, Qiulian Wu, Thomas~E
 \newblock The role of microrna-1 and microrna-133 in skeletal muscle
   proliferation and differentiation.
 \newblock {\em Nature Genetics}, 38:228 EP --, 12 2005.
+
+\bibitem{Cheng:2009qf}
+Li-Chun Cheng, Erika Pastrana, Masoud Tavazoie, and Fiona Doetsch.
+\newblock mir-124 regulates adult neurogenesis in the subventricular zone stem
+  cell niche.
+\newblock {\em Nature Neuroscience}, 12:399 EP --, 03 2009.
 
 \bibitem{Clark:2010}
 Alejandra~M. Clark, Leonard~D. Goldstein, Maya Tevlin, Simon Tavar{\'e}, Shai
@@ -357,13 +367,6 @@ B~J Swalla and W~R Jeffery.
 Ryan~J Taft, Ken~C Pang, Timothy~R Mercer, Marcel Dinger, and John~S Mattick.
 \newblock Non-coding rnas: regulators of disease.
 \newblock {\em The Journal of Pathology}, 220(2):126--139, 2010.
-
-\bibitem{TanzerALL:2010}
-Andrea Tanzer, Markus Riester, Jana Hertel, Clara~Isabel Bermudez-Santana, Jan
-  Gorodkin, Ivo~L. Hofacker, and Peter~F. Stadler.
-\newblock {\em Evolutionary Genomics of microRNAs and Their Relatives}, pages
-  295--327.
-\newblock John Wiley \& Sons, Inc., 2010.
 
 \bibitem{Terai2012}
 Goro Terai, Hiroaki Okida, Kiyoshi Asai, and Toutai Mituyama.

@@ -1,14 +1,8 @@
-This is BibTeX, Version 0.99d (TeX Live 2016)
+This is BibTeX, Version 0.99d (TeX Live 2015)
 Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
 The top-level auxiliary file: tunicates_ncrna.aux
 The style file: plain.bst
 Database file #1: tuni_updated.bib
-Repeated entry---line 1343 of file tuni_updated.bib
- : @article{Chen2014
- :                  ,
-I'm skipping whatever remains of this entry
-Warning--I'm ignoring TanzerALL:2010's extra "author" field
---line 1417 of file tuni_updated.bib
 Warning--I didn't find a database entry for "Ameres:13"
 Warning--I didn't find a database entry for "Cerutti:06"
 Warning--I didn't find a database entry for "Shabalina:08"
@@ -31,45 +25,47 @@ Warning--I didn't find a database entry for "Berezikov:11"
 Warning--I didn't find a database entry for "Tanzer:10a"
 Warning--I didn't find a database entry for "Dai:09"
 Warning--I didn't find a database entry for "Nawrocki:201"
-You've used 67 entries,
+Warning--to sort, need author, editor, or key in TanzerALL:2010
+Warning--empty author and editor in TanzerALL:2010
+You've used 68 entries,
             2118 wiz_defined-function locations,
-            1018 strings with 21386 characters,
-and the built_in function-call counts, 29867 in all, are:
-= -- 2710
-> -- 2197
+            1024 strings with 21445 characters,
+and the built_in function-call counts, 30028 in all, are:
+= -- 2730
+> -- 2183
 < -- 1
-+ -- 878
-- -- 800
-* -- 2738
-:= -- 5212
-add.period$ -- 200
-call.type$ -- 67
++ -- 873
+- -- 794
+* -- 2750
+:= -- 5227
+add.period$ -- 202
+call.type$ -- 68
 change.case$ -- 600
 chr.to.int$ -- 0
-cite$ -- 67
-duplicate$ -- 739
-empty$ -- 1779
-format.name$ -- 800
-if$ -- 5819
+cite$ -- 70
+duplicate$ -- 751
+empty$ -- 1808
+format.name$ -- 794
+if$ -- 5861
 int.to.chr$ -- 0
-int.to.str$ -- 67
+int.to.str$ -- 68
 missing$ -- 66
-newline$ -- 337
+newline$ -- 341
 num.names$ -- 134
-pop$ -- 487
+pop$ -- 485
 preamble$ -- 1
-purify$ -- 534
+purify$ -- 533
 quote$ -- 0
-skip$ -- 488
+skip$ -- 495
 stack$ -- 0
-substring$ -- 1777
-swap$ -- 76
+substring$ -- 1806
+swap$ -- 77
 text.length$ -- 1
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 266
-warning$ -- 0
-while$ -- 222
-width$ -- 69
-write$ -- 735
-(There was 1 error message)
+type$ -- 270
+warning$ -- 2
+while$ -- 223
+width$ -- 70
+write$ -- 744
+(There were 24 warnings)
