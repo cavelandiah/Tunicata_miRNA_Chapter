@@ -1,13 +1,16 @@
-%%%%%%%%%%%%%%%%%%%% author.tex %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%% author.tex %%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%
 %
 % sample root file for your "contribution" to a contributed volume
 %
 % Use this file as a template for your own input.
 %
-%%%%%%%%%%%%%%%% Springer %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%% Springer %%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%
 
 
-% RECOMMENDED %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% RECOMMENDED %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%
 \documentclass[graybox]{svmult}
 
 % choose options for [] as required from the list
@@ -37,7 +40,8 @@
                        % please use the style svind.ist with
                        % your makeindex program
 
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 \begin{document}
 \tableofcontents
@@ -88,63 +92,92 @@ Bogot{\'a}, Colombia, \email{cibermudezs@unal.edu.co}.
 %
 \maketitle
 
-\abstract{Los RNAs no codificantes son elementos clave en mecanismos basales y 
-de regulacion a nivel celular a largo de diferentes especies de eucariontes y 
-procariontes. La intervencion de estos elementos esta ampliamente relacionada 
-con procesos a nivel de desarrollo embrionario en donde desde inicios 
-de los 90 se conoce su rol en procesos asociados al desarrollo embrionario en 
-organismos modelo de gran importancia a nivel experimental y evolutivo como los 
-tunicados. Numerosos estudios se han concentrado en el estudio sistematico de 
-elementos no codificantes sobre los tunicados, sobretodo en miRNAs, en donde se 
-resalta la tendencia a una perdida masiva de familias de miRNAs ampliamente 
-conservadas evolutivamente.}
 
-\iffalse
-\abstract{Each chapter should be preceded by an abstract (10--15 lines long) 
-that summarizes the content. The abstract will appear \textit{online} at 
-\url{www.SpringerLink.com} and be available with unrestricted access. This 
-alows unregistered users to read the abstract as a teaser for the complete 
-chapter. As a general rule the abstracts will not appear in the printed version 
-of your book unless it is the style of your particular book or that of the 
-series to which your book belongs.
-Please use the 'starred' version of the new Springer \texttt{abstract} command 
-for typesetting the text of the online abstracts (cf. source file of this 
-capter template \texttt{abstract}) and include them with the source files of 
-your manuscript. Use the plain 
-\texttt{abstract} command if the abstract is also to appear in the printed 
-version of the book.}
-\fi
+\abstract{Tunicates called also urochordates are a group of small marine 
+organisms which have increased great importance for gaining insights into the 
+evolution of chordates since are likely considered the sister group of 
+vertebrates. These animals are found widely throughout the seas of the world and 
+are model organisms to study many aspects of the developmental biology research. 
+Current genomic analysis of tunicates indicates that their genomes evolved in a 
+fast rate and many evolutionary changes include genome reduction, 
+rearrangements and gene loss of some important coding and non-coding RNA 
+(ncRNAs) elements or even loss of conserved syntenic genomic regions. This 
+evidence have been gained from comparative genomics of the study of 
+house-keeping genes, like Hox genes and non-coding elements. In this chapter the 
+most importance aspects related to the discovery of ncRNAs in tunicates are 
+described and is mainly devoted to describe the families of ncRNAs widely ever 
+studied in any animals as well as in tunicates, the microRNAs. Based on the 
+genomic information and the well established and widely importance of microRNA 
+as key regulators of many gene committed to increase morphological complexity in 
+metazoans in this chapter is described the discovery, evolution and the genome 
+organization of the miRNA repertoire, that have been drastically reduced in 
+tunicates. Functions of ncRNAs as regulators of development in tunicates are 
+also reviewed. For instance the function of some miRNAs as key regulators of the 
+muscle development or their importance into the regulation of the differential 
+expression during the oral siphon regeneration.The functions of other ncRNAs 
+like the Yellow Crescent RNA, moRNAs, RMST lncRNAs and Splices-leader RNAs 
+associated with the embryonic development, neurogenesis and mediation of mRNA 
+stability are finally described.}
+
+
+%\iffalse
+%\abstract{Each chapter should be preceded by an abstract (10--15 lines long) 
+%that summarizes the content. The abstract will appear \textit{online} at 
+%\url{www.SpringerLink.com} and be available with unrestricted access. This 
+%alows unregistered users to read the abstract as a teaser for the complete 
+%chapter. As a general rule the abstracts will not appear in the printed version 
+%of your book unless it is the style of your particular book or that of the 
+%series to which your book belongs.
+%Please use the 'starred' version of the new Springer \texttt{abstract} command 
+%for typesetting the text of the online abstracts (cf. source file of this 
+%capter template \texttt{abstract}) and include them with the source files of 
+%your manuscript. Use the plain 
+%\texttt{abstract} command if the abstract is also to appear in the printed 
+%version of the book.}
+%\fi
 
 \section{Introduction}
 \label{sec:1}
 
 Tunicates are organisms characterized by a fast rate of genomic and 
-developmental evolution. Some fast evolving evolutionary changes include loss 
-of synteny, fast changes in \textit{cis}-regulatory sequences, and loss of 
-several key regulatory developmental genes \cite{Satou2008, Denoeud1381}, such 
-as several central or posterior Hox genes involved in AP patterning 
-of metazoans \cite{Ikuta:2005} and Gbx involved in the establishment of 
-the midbrain-hindbrain boundary in vertebrates \cite{Yagi2003}. Genome 
-studies of miRNA prevalence in several species of tunicates (i.e. 
-\textit{Oikopleura dioica}, Cionas and \textit{Didemnum vexillum}) have 
-revealed many losses of conserved miRNA families as well as many gains of 
-unique miRNAs among recently divergent lineages in the tunicates when compared 
-to other groups of chordates \cite{Fu2008, Velandia-Huerto2016}. Thus, relaxed 
-constraints in the evolution of genomes and developmental trajectories in the 
-tunicates may have been responsible for the plethora of reproductive strategies, 
-morphologies, and life histories observed in the group \cite{Holland2015}.
+developmental evolution. Some fast evolving evolutionary changes include loss of 
+synteny, fast changes in cis-regulatory sequences, and loss of several key 
+regulatory developmental genes \cite{Satou2008, Denoeud1381}, such as several 
+central or posterior Hox genes involved in AP patterning of metazoans 
+\cite{Ikuta:2005} and Gbx involved in the establishment of the 
+midbrain-hindbrain boundary in vertebrates \cite{Yagi2003}.
 
 noncoding RNAs roles in tunicates development date earliest in the 90`s from 
 the works of Swalla \& Jeffry in which RNAs localized in the yellow crescent or 
-myoplasm, a cytoskeletal domain in oocytes of the ascidian \textit{Styela clava} 
-were discovered \cite{Swalla1995}. This yellow crescent or YC RNA identified to 
-be present throughout embryonic development was the first example involved in 
-envisioning the future of a growing family of ncRNAs that would play important 
-roles in growth and development in tunicates \cite{Swalla1995}.
+myoplasm, a cytoskeletal domain in oocytes of the ascidian \textit{Styela 
+clava} were discovered \cite{Swalla1995}. This yellow crescent or YC RNA 
+identified to be present throughout embryonic development was the first example 
+involved in envisioning the future of a growing family of ncRNAs that would play 
+important roles in growth and development in tunicates \cite{Swalla1995}. This 
+asymmetrically distributed ascidian RNAs were part of the set of many other 
+RNAs known as maternally synthesized cytoplasmically localized RNAs, discovered 
+first in oocytes of Xenopus \cite{Bashirullah1998}.
 
-This asymmetrically distributed ascidian RNAs were part of the set of many 
-other RNAs known as maternally synthesized cytoplasmically localized RNAs, 
-discovered first in oocytes of Xenopus \cite{Bashirullah1998}
+Though the number of ncRNAs within the tunicates is still unknown an abundant 
+and functionally important family of ncRNAs, known microRNAs, is also 
+distributed in tunicates as for more of all the animals. Genome 
+studies of miRNA prevalence in several species of tunicates (i.e. 
+\textit{Oikopleura dioica}, Cionas and \textit{Didemnum vexillum} and 
+\textit{Salpa thompsoni}) have revealed many losses of conserved miRNA families 
+as well as many gains of unique miRNAs among recently divergent lineages in the 
+tunicates when compared to other groups of chordates 
+\cite{Fu2008, Velandia-Huerto2016}. Thus, relaxed constraints in the evolution 
+of genomes and developmental trajectories in the tunicates may have 
+been responsible for the plethora of reproductive strategies, morphologies, and 
+life histories observed in the group \cite{Holland2015}.   
+
+Throughout this text, the debatable name of the species \textit{Ciona 
+intestinalis} has been replaced by \textit{Ciona robusta} in accordance with 
+the ascidian community which adopted the new name based on the ``Morphological 
+evidence that the molecularly determined \textit{C. intestinalis} type A and 
+type B are different species: \textit{Ciona robusta} and \textit{C. 
+intestinalis}" \cite{Brunetti:2015}. 
+
 
 \section{miRNA families origin and evolutionary perspective}
 \label{sec:2}
@@ -408,16 +441,8 @@ other urochordates}
 
 Since 2016 new approximations has increased our knowledge about new families in 
 other tunicates thanks to the sequence of new urochordate genomes of the 
-species 
-\textit{D. vexillum}, \textit{S. thompsoni} and \textit{H. roretzi} %do not 
-know 
-write here B. schlosseri because no-ncRNAs were reported, only on mtDNA and 
-methodology to validate genes by RNA-seq from different tissues and it was 
-reported on 2013...
+species \textit{D. vexillum}, \textit{S. thompsoni} and \textit{H. roretzi}.
 
-(Please summary of our Dvexillum paper \cite{Velandia-Huerto2016} including the 
-first reported preliminary annotation for colonial tunicate \textit{B. 
-schlosseri} beside the one for Dvexillum.)
 %%%%ADDED CRISTIAN
 For the draft genome sequence from \textit{D. vexillum} an 
 homology-based computational approach was applied \cite{Velandia-Huerto2016}. 
@@ -425,9 +450,9 @@ Blast and HMMer searches were performed with annotated small ncRNAs sequences
 from metazoans and hidden markov models from 
 RFAM\footnote{\url{http://rfam.xfam.org/}} to obtain the sort of candidates at 
 sequence level. Structural alignments of those sequences were performed by 
-infernal (CITE), using metazoan-specific covariance models to annotate the 
-small 
-ncRNAs collection, which $57$ families and $100$ loci of miRNAs were found. 
+infernal \cite{Nawrocki:201}, using metazoan-specific covariance models 
+to annotate the small ncRNAs collection, which $57$ families and $100$ loci of 
+miRNAs were found. 
 %%%%%%%%%%%%
 
 For the preliminary assembled of the genome sequence for the 
@@ -446,9 +471,17 @@ half
 of these candidate miRNAs are expressed during embryogenesis. The expression of 
 some of the predicted miRNAs were validated by RT-PCR using embryonic RNA. In 
 this approach \textit{C. robusta} small RNA-Seq reads derived from \textit{C. 
-robusta} \cite{Shi2009} (previously known as  \textit{C. robusta} today 
+robusta} \cite{Shi2009} (previously known as \textit{C. intestinalis} today 
 reclassified) was used to identify conserved miRNAs in \textit{H. roretzi} 
 \cite{Wang2017}.
+
+Current repertorie of miRNAs (Figure \ref{fig:matrimirnas}) is based on the 
+final matrix of miRNAs families from \cite{Hertel:15a} and complemented by 
+homology methods developed on \ref{Velandia-Huerto2016}, specifically for 
+\textit{S. thompsoni} and \textit{H. roretzi} blast searches with structural 
+alignments where applied on the reported candidates in \cite{Jue2016} and 
+\cite{Wang2017}.
+
 
 
 \subsection{miRNA in clusters}
@@ -457,24 +490,20 @@ One of the most interesting aspects about the patterns of genomic locations of
 miRNAs is to known whether those loci are randomly distributed throughout the 
 genome as single copies or if they are arranged on consecutive locations or in 
 tandem copies clustered to be expressed from polycistronic primary precursors 
-or 
-to be transcribed independently. Interestingly in \textit{O. dioca} miRNAs are 
-located in the antisense orientations of protein-coding gene and immediately 
-downstream of its corresponding 3`UTR region or even more in the sense strand 
-of 
-introns \cite{Fu2008}. Nevertheless, after those conspicuous distributions some 
-clusters have been also identified in \textit{O. dioca}. For instance four 
-miRNAs, miR-1490a, miR-1493, miR-1497d, and miR-1504, are reported by 
-\cite{Fu2008} to be presented as two copies, and miR-1497d-1 and miR-1497d-2 
-are 
-included in the large miR-1497 cluster. See the current structure of this 
-cluster in Table \ref{tab:detailBigClusters} although only one copy for the  
-miR-1497 has been reported for \textit{C. instestinalis} located in an 
-intergenic region \cite{Fu2008}, \cite{Hendrix2010} and one in \textit{C. 
-savigny} overlapped in an intron \cite{Fu2008}. By testing real time PCR 
-co-expression of some miRNAs, their host and adjacent genes in \textit{O. 
-dioca} 
-by \cite{Fu2008} it was discovered for the case of the cluster  
+or to be transcribed independently \cite{TanzerALL:2010}. Interestingly in 
+\textit{O. dioca} miRNAs are located in the antisense orientations of 
+protein-coding gene and immediately downstream of its corresponding 3`UTR region 
+or even more in the sense strand of introns \cite{Fu2008}. Nevertheless, after 
+those conspicuous distributions some clusters have been also identified in 
+\textit{O. dioca}. For instance four miRNAs, miR-1490a, miR-1493, miR-1497d, and 
+miR-1504, are reported by \cite{Fu2008} to be presented as two copies, and 
+miR-1497d-1 and miR-1497d-2 are included in the large miR-1497 cluster. See the 
+current structure of this cluster in Table \ref{tab:detailBigClusters} although 
+only one copy for the miR-1497 has been reported for \textit{C. robusta} 
+located in an intergenic region \cite{Fu2008, Hendrix2010} and one in 
+\textit{C. savigny} overlapped in an intron \cite{Fu2008}. By testing real time 
+PCR co-expression of some miRNAs, their host and adjacent genes in \textit{O. 
+dioca} by \cite{Fu2008} it was discovered for the case of the cluster  
 miR-1487/miR-1488 a not clear positive or negative correlation with the 
 expression of its anti-sense hosting gene. In males this cluster expression was 
 not associated with the expression of its adjacent ABCA3 gene by the same 
@@ -558,9 +587,8 @@ more than one let-7 cluster, extending the loci definition which is not
 restricted only for one element but for a cluster of many locus with different 
 length distributions. It is important to see that let-7 is organized sometimes 
 with another let-7 locus or with another miRNA's loci families. The 
-distribution 
-of this cluster reported on amphioxus is composed by 2 let-7 and 3 mir-10 (1 
-bfl-mir-100, 1 bfl-mir-125a and 1 bfl-mir-125b), this 
+distribution of this cluster reported on amphioxus is composed by 2 let-7 and 3 
+mir-10 (1 bfl-mir-100, 1 bfl-mir-125a and 1 bfl-mir-125b), this 
 cluster architecture almost conserved on vertebrates that apparently inverted 
 the order and split the relation between let-7 and mir-10, creating two 
 different cluster order groups: let-7 + mir-10 and let-7 + other families. 
@@ -570,8 +598,7 @@ cluster but including mir-233, mir-1473 or mir-125.
 A second miRNA cluster consisting of the miR-182 and miR-183 was also detected 
 in \textit{C. robusta} in 2010 by \cite{Keshavan2010} which is in the 
 current predictions is reported another member locus the miR-96 organized in 
-the 
-middle of those loci as is shown in the plot \ref{fig:mir-96}. 
+the middle of those loci as is shown in the plot \ref{fig:mir-96}. 
 Here the authots also found five additional paralogs of let-7 within a 1-kb 
 stretch, but it is important to know that those elements had been identified on 
 chromosome 4q on Ensembl release 54 version, at the current version only 
@@ -762,8 +789,6 @@ miRBase, Homology & \cite{Hendrix2010} \\
 \end{center}
 \end{small}
 
-\subsection{To complete the tree of loss and gain of families}
-
 \begin{figure}[ht!]
 \centering 
 \includegraphics[width=\textwidth, angle=90]{./Images/miRNA_matrix}
@@ -839,7 +864,7 @@ Drosophila \cite{Aboobaker18017}, \textit{C. elegans} \cite{Clark:2010} and
 humans \cite{Sempere2004}. As was first observed by in vitro studies of mouse 
 brain cells, low expression of miR-124 was related to neural stem cell 
 maintenance, whereas high expression of miR-124 induced the differentiation of 
-neuronal cell types \textcolor{red}{(Cheng et al., 2009)}. A regulative role of 
+neuronal cell types \cite{Cheng:2009qf}. A regulative role of 
 miR-124 in non-neural vs. neural fate decisions was further investigated by 
 embryonic experiments in vivo \cite{Chen4943} and by 
 theoretical and in silico modeling analyses in \textit{C. robusta} 
@@ -991,11 +1016,13 @@ most expressed mature miRNA \cite{Langenberger2009, Umbach2010}.
 What functions moRNAs may have, varies. For example, moRNA expression was 
 recorded in solid tumours, together with other small RNAs \cite{Meiri2010}. 
 In addition the fact that an 18-fold enrichment of moRNAs was observed in the 
-nucleus 
-\cite{Taft2010} indicates that at least some moRNAs may have functions related 
-to nuclear processes \cite{bortoluzzi2011}. Although these studies do provide 
-good indications, the potential functional roles that moRNAs can play, remain 
-still largely unknown. 
+nucleus \cite{Taft2010} indicates that at least some moRNAs may have functions 
+related to nuclear processes \cite{bortoluzzi2011}. Recently, an specific class 
+of moRNAs (moRNA-21) has been associated with post-transcriptional gene 
+regulation, proliferation of vascular smooth muscle cells (VSMC) and mediated 
+gene down-regulation in a process mediated by Ago2 \cite{Zhao2016}. Although 
+these studies do provide good indications, the potential functional roles that 
+moRNAs can play, remain still largely unknown.
 
 \subsection{Long Noncoding RNA RMST}
 
