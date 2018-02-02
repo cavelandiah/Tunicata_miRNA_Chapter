@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2015.5.24)  2 FEB 2018 11:13
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2015.5.24)  2 FEB 2018 11:18
 entering extended mode
  \write18 enabled.
  file:line:error style messages enabled.
@@ -1596,42 +1596,42 @@ Overfull \hbox (44.56688pt too wide) in alignment at lines 666--751
 File: ./Images/miRNA_matrix.pdf Graphic file (type pdf)
 
 <use ./Images/miRNA_matrix.pdf>
-Package pdftex.def Info: ./Images/miRNA_matrix.pdf used on input line 759.
+Package pdftex.def Info: ./Images/miRNA_matrix.pdf used on input line 757.
 (pdftex.def)             Requested size: 332.89723pt x 277.1966pt.
- [16]
-<./Images/last_tree.png, id=586, 896.34875pt x 611.28375pt>
+
+<./Images/last_tree.png, id=583, 896.34875pt x 611.28375pt>
 File: ./Images/last_tree.png Graphic file (type png)
 
 <use ./Images/last_tree.png>
-Package pdftex.def Info: ./Images/last_tree.png used on input line 778.
+Package pdftex.def Info: ./Images/last_tree.png used on input line 776.
 (pdftex.def)             Requested size: 213.39566pt x 145.5265pt.
 
-<./Images/cluster_number.pdf, id=587, 428.60126pt x 149.55875pt>
+<./Images/cluster_number.pdf, id=584, 428.60126pt x 149.55875pt>
 File: ./Images/cluster_number.pdf Graphic file (type pdf)
 
 <use ./Images/cluster_number.pdf>
-Package pdftex.def Info: ./Images/cluster_number.pdf used on input line 788.
+Package pdftex.def Info: ./Images/cluster_number.pdf used on input line 786.
 (pdftex.def)             Requested size: 210.55022pt x 73.47156pt.
 
-<./Images/density.pdf, id=588, 335.2525pt x 263.98625pt>
+<./Images/density.pdf, id=585, 335.2525pt x 263.98625pt>
 File: ./Images/density.pdf Graphic file (type pdf)
 
 <use ./Images/density.pdf>
-Package pdftex.def Info: ./Images/density.pdf used on input line 788.
+Package pdftex.def Info: ./Images/density.pdf used on input line 786.
 (pdftex.def)             Requested size: 210.55022pt x 165.79259pt.
 
 
 Class SVMult Warning: \sidecaption: No sufficient room for the legend; 
-using normal \caption on input line 788.
+using normal \caption on input line 786.
 
-<./Images/vennmiRNAs.pdf, id=589, 578.16pt x 722.7pt>
+<./Images/vennmiRNAs.pdf, id=586, 578.16pt x 722.7pt>
 File: ./Images/vennmiRNAs.pdf Graphic file (type pdf)
 
 <use ./Images/vennmiRNAs.pdf>
-Package pdftex.def Info: ./Images/vennmiRNAs.pdf used on input line 797.
+Package pdftex.def Info: ./Images/vennmiRNAs.pdf used on input line 795.
 (pdftex.def)             Requested size: 213.39566pt x 266.74419pt.
- [17 <./Images/Cluster_images/mir-133_113_33.pdf> <./Images/Cluster_images/mir-
-181_105_2502.pdf
+ [16] [17 <./Images/Cluster_images/mir-133_113_33.pdf> <./Images/Cluster_images
+/mir-181_105_2502.pdf
 
 pdfTeX warning: /Library/TeX/texbin/pdflatex (file ./Images/Cluster_images/mir-
 181_105_2502.pdf): PDF inclusion: multiple pdfs with page group included in a s
@@ -1655,10 +1655,10 @@ gle page
 >] [19 <./Images/miRNA_matrix.pdf>] [20 <./Images/last_tree.png> <./Images/clus
 ter_number.pdf> <./Images/density.pdf>] [21 <./Images/vennmiRNAs.pdf>]
 LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <10> not available
-(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 907.
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 905.
  [22]
 [23] [24]
-Overfull \hbox (10.93906pt too wide) in paragraph at lines 1045--1055
+Overfull \hbox (10.93906pt too wide) in paragraph at lines 1043--1053
 \OT1/ptm/m/n/10 2014). CAVH ac-knowl-edges the sup-port by DAAD schol-ar-ship: 
 Forschungsstipendien-
  []
@@ -1698,7 +1698,7 @@ st/fonts/type1/urw/times/utmbi8a.pfb></usr/local/texlive/2015/texmf-dist/fonts/
 type1/urw/times/utmr8a.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/urw/
 times/utmr8a.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/urw/times/utmr
 i8a.pfb>
-Output written on tunicates_ncrna.pdf (29 pages, 2690700 bytes).
+Output written on tunicates_ncrna.pdf (29 pages, 2690371 bytes).
 PDF statistics:
  3533 PDF objects out of 3580 (max. 8388607)
  2329 compressed objects within 24 object streams

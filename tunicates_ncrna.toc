@@ -8,7 +8,6 @@
 \contentsline {subsubsection}{\numberline {2.2.1}Validation and detection of miRNA families in Cionas in this decade}{8}
 \contentsline {subsubsection}{\numberline {2.2.2}The new era to get deep insights into the repertory of miRNA in other urochordates}{9}
 \contentsline {subsection}{\numberline {2.3}miRNA in clusters}{10}
-\contentsline {subsection}{\numberline {2.4}To complete the tree of loss and gain of families}{17}
 \contentsline {section}{\numberline {3}miRNAs and its rol in development}{17}
 \contentsline {subsection}{\numberline {3.1}miRNAs discovery and development}{17}
 \contentsline {subsection}{\numberline {3.2}Neuronal fate determination and regulation by miR-124}{19}
