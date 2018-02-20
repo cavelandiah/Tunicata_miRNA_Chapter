@@ -1,9 +1,8 @@
-This is BibTeX, Version 0.99d (TeX Live 2013)
+This is BibTeX, Version 0.99d (TeX Live 2015)
 Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
 The top-level auxiliary file: tunicates_ncrna.aux
 The style file: plain.bst
 Database file #1: tuni_updated.bib
-Warning--I didn't find a database entry for "Brunetti:2015"
 Warning--I didn't find a database entry for "Ameres:13"
 Warning--I didn't find a database entry for "Cerutti:06"
 Warning--I didn't find a database entry for "Shabalina:08"
@@ -28,45 +27,45 @@ Warning--I didn't find a database entry for "Dai:09"
 Warning--I didn't find a database entry for "Nawrocki:201"
 Warning--to sort, need author, editor, or key in TanzerALL:2010
 Warning--empty author and editor in TanzerALL:2010
-You've used 68 entries,
+You've used 71 entries,
             2118 wiz_defined-function locations,
-            1026 strings with 21471 characters,
-and the built_in function-call counts, 30028 in all, are:
-= -- 2730
-> -- 2183
+            1044 strings with 22408 characters,
+and the built_in function-call counts, 31373 in all, are:
+= -- 2850
+> -- 2292
 < -- 1
-+ -- 873
-- -- 794
-* -- 2750
-:= -- 5227
-add.period$ -- 202
-call.type$ -- 68
-change.case$ -- 600
++ -- 917
+- -- 834
+* -- 2871
+:= -- 5467
+add.period$ -- 211
+call.type$ -- 71
+change.case$ -- 629
 chr.to.int$ -- 0
-cite$ -- 70
-duplicate$ -- 751
-empty$ -- 1808
-format.name$ -- 794
-if$ -- 5861
+cite$ -- 73
+duplicate$ -- 783
+empty$ -- 1880
+format.name$ -- 834
+if$ -- 6118
 int.to.chr$ -- 0
-int.to.str$ -- 68
-missing$ -- 66
-newline$ -- 341
-num.names$ -- 134
-pop$ -- 485
+int.to.str$ -- 71
+missing$ -- 69
+newline$ -- 356
+num.names$ -- 140
+pop$ -- 510
 preamble$ -- 1
-purify$ -- 533
+purify$ -- 559
 quote$ -- 0
-skip$ -- 495
+skip$ -- 516
 stack$ -- 0
-substring$ -- 1806
-swap$ -- 77
+substring$ -- 1874
+swap$ -- 80
 text.length$ -- 1
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 270
+type$ -- 282
 warning$ -- 2
-while$ -- 223
-width$ -- 70
-write$ -- 744
-(There were 25 warnings)
+while$ -- 232
+width$ -- 73
+write$ -- 776
+(There were 24 warnings)
