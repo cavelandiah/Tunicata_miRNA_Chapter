@@ -1,21 +1,20 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2015.5.24)  20 FEB 2018 02:25
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013) (format=pdflatex 2018.1.13)  28 FEB 2018 23:56
 entering extended mode
- \write18 enabled.
- file:line:error style messages enabled.
+ restricted \write18 enabled.
  %&-line parsing enabled.
-**tunicates_ncrna.tex
+**tunicates_ncrna
 (./tunicates_ncrna.tex
-LaTeX2e <2015/01/01>
-Babel <3.9l> and hyphenation patterns for 79 languages loaded.
+LaTeX2e <2011/06/27>
+Babel <3.9f> and hyphenation patterns for 2 languages loaded.
 (./svmult.cls
 Document Class: svmult 2007/06/25 v5.4 
 Springer Verlag global LaTeX document class for multi authored books
 Class Springer-SVMult Info: extra/valid Springer sub-package 
 (Springer-SVMult)           not found in option list - using "global" style.
-(/usr/local/texlive/2015/texmf-dist/tex/latex/base/article.cls
-Document Class: article 2014/09/29 v1.4h Standard LaTeX document class
-(/usr/local/texlive/2015/texmf-dist/tex/latex/base/size10.clo
-File: size10.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
+(/usr/share/texlive/texmf-dist/tex/latex/base/article.cls
+Document Class: article 2007/10/19 v1.4h Standard LaTeX document class
+(/usr/share/texlive/texmf-dist/tex/latex/base/size10.clo
+File: size10.clo 2007/10/19 v1.4h Standard LaTeX file (size option)
 )
 \c@part=\count79
 \c@section=\count80
@@ -97,26 +96,26 @@ LaTeX Font Info:    Redeclaring math symbol \Omega on input line 973.
 \c@contribution=\count109
 LaTeX Info: Redefining \abstract on input line 2320.
 )
-(/usr/local/texlive/2015/texmf-dist/tex/latex/graphics/color.sty
-Package: color 2014/10/28 v1.1a Standard LaTeX Color (DPC)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/color.sty
+Package: color 2005/11/14 v1.0j Standard LaTeX Color (DPC)
 
-(/usr/local/texlive/2015/texmf-dist/tex/latex/latexconfig/color.cfg
+(/usr/share/texlive/texmf-dist/tex/latex/latexconfig/color.cfg
 File: color.cfg 2007/01/18 v1.5 color configuration of teTeX/TeXLive
 )
-Package color Info: Driver file: pdftex.def on input line 142.
+Package color Info: Driver file: pdftex.def on input line 130.
 
-(/usr/local/texlive/2015/texmf-dist/tex/latex/pdftex-def/pdftex.def
+(/usr/share/texlive/texmf-dist/tex/latex/pdftex-def/pdftex.def
 File: pdftex.def 2011/05/27 v0.06d Graphics/color for pdfTeX
 
-(/usr/local/texlive/2015/texmf-dist/tex/generic/oberdiek/infwarerr.sty
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/infwarerr.sty
 Package: infwarerr 2010/04/08 v1.3 Providing info/warning/error messages (HO)
 )
-(/usr/local/texlive/2015/texmf-dist/tex/generic/oberdiek/ltxcmds.sty
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/ltxcmds.sty
 Package: ltxcmds 2011/11/09 v1.22 LaTeX kernel commands for general use (HO)
 )
 \Gread@gobject=\count110
 ))
-(/usr/local/texlive/2015/texmf-dist/tex/latex/framed/framed.sty
+(/usr/share/texlive/texmf-dist/tex/latex/framed/framed.sty
 Package: framed 2011/10/22 v 0.96: framed or shaded text with page breaks
 \OuterFrameSep=\skip43
 \fb@frw=\dimen127
@@ -124,7 +123,7 @@ Package: framed 2011/10/22 v 0.96: framed or shaded text with page breaks
 \FrameRule=\dimen129
 \FrameSep=\dimen130
 )
-(/usr/local/texlive/2015/texmf-dist/tex/latex/psnfss/mathptmx.sty
+(/usr/share/texlive/texmf-dist/tex/latex/psnfss/mathptmx.sty
 Package: mathptmx 2005/04/12 PSNFSS-v9.2a Times w/ Math, improved (SPQR, WaS) 
 LaTeX Font Info:    Redeclaring symbol font `operators' on input line 28.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
@@ -160,42 +159,42 @@ LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
 (Font)                  OT1/cmr/bx/it --> OT1/ptm/m/it on input line 35.
 LaTeX Info: Redefining \hbar on input line 50.
 )
-(/usr/local/texlive/2015/texmf-dist/tex/latex/psnfss/helvet.sty
+(/usr/share/texlive/texmf-dist/tex/latex/psnfss/helvet.sty
 Package: helvet 2005/04/12 PSNFSS-v9.2a (WaS) 
 
-(/usr/local/texlive/2015/texmf-dist/tex/latex/graphics/keyval.sty
-Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 1999/03/16 v1.13 key=value parser (DPC)
 \KV@toks@=\toks18
 ))
-(/usr/local/texlive/2015/texmf-dist/tex/latex/psnfss/courier.sty
+(/usr/share/texlive/texmf-dist/tex/latex/psnfss/courier.sty
 Package: courier 2005/04/12 PSNFSS-v9.2a (WaS) 
 )
-(/usr/local/texlive/2015/texmf-dist/tex/latex/type1cm/type1cm.sty
+(/usr/share/texlive/texmf-dist/tex/latex/type1cm/type1cm.sty
 Package: type1cm 2002/09/05 v0.04 BlueSky/Y&Y Type1 CM font definitions (DPC, p
 atched RF)
 )
-(/usr/local/texlive/2015/texmf-dist/tex/latex/base/makeidx.sty
-Package: makeidx 2014/09/29 v1.0m Standard LaTeX package
+(/usr/share/texlive/texmf-dist/tex/latex/base/makeidx.sty
+Package: makeidx 2000/03/29 v1.0m Standard LaTeX package
 )
-(/usr/local/texlive/2015/texmf-dist/tex/latex/graphics/graphicx.sty
-Package: graphicx 2014/10/28 v1.0g Enhanced LaTeX Graphics (DPC,SPQR)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 1999/02/16 v1.0f Enhanced LaTeX Graphics (DPC,SPQR)
 
-(/usr/local/texlive/2015/texmf-dist/tex/latex/graphics/graphics.sty
-Package: graphics 2014/10/28 v1.0p Standard LaTeX Graphics (DPC,SPQR)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2009/02/05 v1.0o Standard LaTeX Graphics (DPC,SPQR)
 
-(/usr/local/texlive/2015/texmf-dist/tex/latex/graphics/trig.sty
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/trig.sty
 Package: trig 1999/03/16 v1.09 sin cos tan (DPC)
 )
-(/usr/local/texlive/2015/texmf-dist/tex/latex/latexconfig/graphics.cfg
+(/usr/share/texlive/texmf-dist/tex/latex/latexconfig/graphics.cfg
 File: graphics.cfg 2010/04/23 v1.9 graphics configuration of TeX Live
 )
-Package graphics Info: Driver file: pdftex.def on input line 94.
+Package graphics Info: Driver file: pdftex.def on input line 91.
 )
 \Gin@req@height=\dimen131
 \Gin@req@width=\dimen132
 )
-(/usr/local/texlive/2015/texmf-dist/tex/latex/tools/multicol.sty
-Package: multicol 2015/03/31 v1.8m multicolumn formatting (FMi)
+(/usr/share/texlive/texmf-dist/tex/latex/tools/multicol.sty
+Package: multicol 2011/06/27 v1.7a multicolumn formatting (FMi)
 \c@tracingmulticols=\count111
 \mult@box=\box29
 \multicol@leftmargin=\dimen133
@@ -212,7 +211,6 @@ Package: multicol 2015/03/31 v1.8m multicolumn formatting (FMi)
 \multicolbaselineskip=\skip45
 \partial@page=\box30
 \last@line=\box31
-\maxbalancingoverflow=\dimen138
 \mult@rightbox=\box32
 \mult@grightbox=\box33
 \mult@gfirstbox=\box34
@@ -236,17 +234,17 @@ Package: multicol 2015/03/31 v1.8m multicolumn formatting (FMi)
 \@tempa=\box52
 \c@columnbadness=\count117
 \c@finalcolumnbadness=\count118
-\last@try=\dimen139
-\multicolovershoot=\dimen140
-\multicolundershoot=\dimen141
+\last@try=\dimen138
+\multicolovershoot=\dimen139
+\multicolundershoot=\dimen140
 \mult@nat@firstbox=\box53
 \colbreak@box=\box54
-\mc@col@check@num=\count119
+\multicol@sort@counter=\count119
 )
-(/usr/local/texlive/2015/texmf-dist/tex/latex/footmisc/footmisc.sty
+(/usr/share/texlive/texmf-dist/tex/latex/footmisc/footmisc.sty
 Package: footmisc 2011/06/06 v5.5b a miscellany of footnote facilities
 \FN@temptoken=\toks19
-\footnotemargin=\dimen142
+\footnotemargin=\dimen141
 \c@pp@next@reset=\count120
 Package footmisc Info: Declaring symbol style bringhurst on input line 855.
 Package footmisc Info: Declaring symbol style chicago on input line 863.
@@ -257,14 +255,14 @@ Package footmisc Info: Declaring symbol style lamport* on input line 903.
 Package footmisc Info: Declaring symbol style lamport*-robust on input line 924
 .
 )
-(/usr/local/texlive/2015/texmf-dist/tex/latex/tools/longtable.sty
-Package: longtable 2014/10/28 v4.11 Multi-page Table package (DPC)
+(/usr/share/texlive/texmf-dist/tex/latex/tools/longtable.sty
+Package: longtable 2004/02/01 v4.11 Multi-page Table package (DPC)
 \LTleft=\skip46
 \LTright=\skip47
 \LTpre=\skip48
 \LTpost=\skip49
 \LTchunksize=\count121
-\LTcapwidth=\dimen143
+\LTcapwidth=\dimen142
 \LT@head=\box55
 \LT@firsthead=\box56
 \LT@foot=\box57
@@ -275,8 +273,8 @@ Package: longtable 2014/10/28 v4.11 Multi-page Table package (DPC)
 \c@LT@chunks=\count125
 \LT@p@ftn=\toks20
 )
-(/usr/local/texlive/2015/texmf-dist/tex/latex/multirow/multirow.sty
-\bigstrutjot=\dimen144
+(/usr/share/texlive/texmf-dist/tex/latex/multirow/multirow.sty
+\bigstrutjot=\dimen143
 )
 \@indexfile=\write4
 \openout4 = `tunicates_ncrna.idx'.
@@ -303,33 +301,33 @@ LaTeX Font Info:    ... okay on input line 48.
 LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 48.
 LaTeX Font Info:    ... okay on input line 48.
 LaTeX Font Info:    Try loading font information for OT1+ptm on input line 48.
- (/usr/local/texlive/2015/texmf-dist/tex/latex/psnfss/ot1ptm.fd
+ (/usr/share/texlive/texmf-dist/tex/latex/psnfss/ot1ptm.fd
 File: ot1ptm.fd 2001/06/04 font definitions for OT1/ptm.
 )
-(/usr/local/texlive/2015/texmf-dist/tex/context/base/supp-pdf.mkii
+(/usr/share/texlive/texmf-dist/tex/context/base/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count126
-\scratchdimen=\dimen145
+\scratchdimen=\dimen144
 \scratchbox=\box59
 \nofMPsegments=\count127
 \nofMParguments=\count128
 \everyMPshowfont=\toks21
 \MPscratchCnt=\count129
-\MPscratchDim=\dimen146
+\MPscratchDim=\dimen145
 \MPnumerator=\count130
 \makeMPintoPDFobject=\count131
 \everyMPtoPDFconversion=\toks22
 )
-\big@size=\dimen147
- (/usr/local/texlive/2015/texmf-dist/tex/generic/oberdiek/pdftexcmds.sty
+\big@size=\dimen146
+ (/usr/share/texlive/texmf-dist/tex/generic/oberdiek/pdftexcmds.sty
 Package: pdftexcmds 2011/11/29 v0.20 Utility functions of pdfTeX for LuaTeX (HO
 )
 
-(/usr/local/texlive/2015/texmf-dist/tex/generic/oberdiek/ifluatex.sty
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/ifluatex.sty
 Package: ifluatex 2010/03/01 v1.3 Provides the ifluatex switch (HO)
 Package ifluatex Info: LuaTeX not detected.
 )
-(/usr/local/texlive/2015/texmf-dist/tex/generic/oberdiek/ifpdf.sty
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/ifpdf.sty
 Package: ifpdf 2011/01/30 v2.3 Provides the ifpdf switch (HO)
 Package ifpdf Info: pdfTeX in PDF mode is detected.
 )
@@ -338,22 +336,22 @@ Package pdftexcmds Info: \pdf@primitive is available.
 Package pdftexcmds Info: \pdf@ifprimitive is available.
 Package pdftexcmds Info: \pdfdraftmode found.
 )
-(/usr/local/texlive/2015/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
+(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
 Package: epstopdf-base 2010/02/09 v2.5 Base part for package epstopdf
 
-(/usr/local/texlive/2015/texmf-dist/tex/latex/oberdiek/grfext.sty
+(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/grfext.sty
 Package: grfext 2010/08/19 v1.1 Manage graphics extensions (HO)
 
-(/usr/local/texlive/2015/texmf-dist/tex/generic/oberdiek/kvdefinekeys.sty
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/kvdefinekeys.sty
 Package: kvdefinekeys 2011/04/07 v1.3 Define keys (HO)
 ))
-(/usr/local/texlive/2015/texmf-dist/tex/latex/oberdiek/kvoptions.sty
+(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/kvoptions.sty
 Package: kvoptions 2011/06/30 v3.11 Key value format for package options (HO)
 
-(/usr/local/texlive/2015/texmf-dist/tex/generic/oberdiek/kvsetkeys.sty
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/kvsetkeys.sty
 Package: kvsetkeys 2012/04/25 v1.16 Key value parser (HO)
 
-(/usr/local/texlive/2015/texmf-dist/tex/generic/oberdiek/etexcmds.sty
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/etexcmds.sty
 Package: etexcmds 2011/02/16 v1.5 Avoid name clashes with e-TeX commands (HO)
 Package etexcmds Info: Could not find \expanded.
 (etexcmds)             That can mean that you are not using pdfTeX 1.50 or
@@ -365,7 +363,7 @@ Package grfext Info: Graphics extension search list:
 G,.JBIG2,.JB2,.eps]
 (grfext)             \AppendGraphicsExtensions on input line 452.
 
-(/usr/local/texlive/2015/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+(/usr/share/texlive/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
 File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
 e
 ))
@@ -381,25 +379,25 @@ LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <10> not available
 LaTeX Font Info:    Try loading font information for OT1+ztmcm on input line 1.
 
 
-(/usr/local/texlive/2015/texmf-dist/tex/latex/psnfss/ot1ztmcm.fd
+(/usr/share/texlive/texmf-dist/tex/latex/psnfss/ot1ztmcm.fd
 File: ot1ztmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OT1/ztmcm.
 )
 LaTeX Font Info:    Try loading font information for OML+ztmcm on input line 1.
 
 
-(/usr/local/texlive/2015/texmf-dist/tex/latex/psnfss/omlztmcm.fd
+(/usr/share/texlive/texmf-dist/tex/latex/psnfss/omlztmcm.fd
 File: omlztmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OML/ztmcm.
 )
 LaTeX Font Info:    Try loading font information for OMS+ztmcm on input line 1.
 
 
-(/usr/local/texlive/2015/texmf-dist/tex/latex/psnfss/omsztmcm.fd
+(/usr/share/texlive/texmf-dist/tex/latex/psnfss/omsztmcm.fd
 File: omsztmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OMS/ztmcm.
 )
 LaTeX Font Info:    Try loading font information for OMX+ztmcm on input line 1.
 
 
-(/usr/local/texlive/2015/texmf-dist/tex/latex/psnfss/omxztmcm.fd
+(/usr/share/texlive/texmf-dist/tex/latex/psnfss/omxztmcm.fd
 File: omxztmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OMX/ztmcm.
 )
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <7.4> not available
@@ -414,7 +412,7 @@ LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <6> not available
 
 
 
-{/usr/local/texlive/2015/texmf-var/fonts/map/pdftex/updmap/pdftex.map}] [2
+{/usr/share/texlive/texmf-var/fonts/map/pdftex/updmap/pdftex.map}] [2
 
 
 ]
@@ -448,16 +446,6 @@ LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <12> not available
 LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <12> not available
 (Font)              Font shape `OT1/ptm/b/it' tried instead on input line 171.
 
-
-LaTeX Warning: Citation `Ameres:13' on page 5 undefined on input line 176.
-
-
-LaTeX Warning: Citation `Cerutti:06' on page 5 undefined on input line 178.
-
-
-LaTeX Warning: Citation `Shabalina:08' on page 5 undefined on input line 178.
-
-
 Overfull \hbox (23.81934pt too wide) in paragraph at lines 181--197
 []\OT1/ptm/m/n/10 Throughout an-i-mals, canon-i-cal miR-NAs are the pro-cessed 
 through a well-characterized
@@ -468,7 +456,7 @@ LaTeX Warning: Citation `Price:11' on page 5 undefined on input line 204.
 
 LaTeX Font Info:    Try loading font information for OT1+pcr on input line 208.
 
-(/usr/local/texlive/2015/texmf-dist/tex/latex/psnfss/ot1pcr.fd
+(/usr/share/texlive/texmf-dist/tex/latex/psnfss/ot1pcr.fd
 File: ot1pcr.fd 2001/06/04 font definitions for OT1/pcr.
 )
 
@@ -482,15 +470,6 @@ LaTeX Warning: Citation `Fu:08' on page 5 undefined on input line 219.
 
 [5]
 
-LaTeX Warning: Citation `Bentwich:05' on page 6 undefined on input line 223.
-
-
-LaTeX Warning: Citation `Berezikov:06' on page 6 undefined on input line 223.
-
-
-LaTeX Warning: Citation `Lu:08' on page 6 undefined on input line 226.
-
-
 LaTeX Warning: Citation `Tanzer:04a' on page 6 undefined on input line 229.
 
 
@@ -501,19 +480,10 @@ LaTeX Warning: Citation `CampoPaysaa:11' on page 6 undefined on input line 229.
 LaTeX Warning: Citation `Marco:13' on page 6 undefined on input line 229.
 
 
-LaTeX Warning: Citation `Liang:09' on page 6 undefined on input line 235.
-
-
-LaTeX Warning: Citation `Meunier:12' on page 6 undefined on input line 235.
-
-
 LaTeX Warning: Citation `Lee:07a' on page 6 undefined on input line 238.
 
 
 LaTeX Warning: Citation `Niwa:07' on page 6 undefined on input line 247.
-
-
-LaTeX Warning: Citation `Prochnik:07' on page 6 undefined on input line 247.
 
 
 LaTeX Warning: Citation `Lee:07a' on page 6 undefined on input line 247.
@@ -523,9 +493,6 @@ LaTeX Warning: Citation `Peterson:09' on page 6 undefined on input line 247.
 
 
 LaTeX Warning: Citation `Berezikov:11' on page 6 undefined on input line 247.
-
-
-LaTeX Warning: Citation `Tanzer:10a' on page 6 undefined on input line 248.
 
 
 LaTeX Warning: Citation `Fu:08' on page 6 undefined on input line 253.
@@ -1643,25 +1610,21 @@ Package pdftex.def Info: ./Images/vennmiRNAs.pdf used on input line 805.
  [16] [17 <./Images/Cluster_images/mir-133_113_33.pdf> <./Images/Cluster_images
 /mir-181_105_2502.pdf
 
-pdfTeX warning: /Library/TeX/texbin/pdflatex (file ./Images/Cluster_images/mir-
-181_105_2502.pdf): PDF inclusion: multiple pdfs with page group included in a s
-ingle page
+pdfTeX warning: pdflatex (file ./Images/Cluster_images/mir-181_105_2502.pdf): P
+DF inclusion: multiple pdfs with page group included in a single page
 > <./Images/Cluster_images/mir-217_13D_467.pdf
 
-pdfTeX warning: /Library/TeX/texbin/pdflatex (file ./Images/Cluster_images/mir-
-217_13D_467.pdf): PDF inclusion: multiple pdfs with page group included in a si
-ngle page
+pdfTeX warning: pdflatex (file ./Images/Cluster_images/mir-217_13D_467.pdf): PD
+F inclusion: multiple pdfs with page group included in a single page
 >] [18 <./Images/Cluster_images/mir-34_11A_435.pdf> <./Images/Cluster_images/mi
 r-92_281_4336.pdf
 
-pdfTeX warning: /Library/TeX/texbin/pdflatex (file ./Images/Cluster_images/mir-
-92_281_4336.pdf): PDF inclusion: multiple pdfs with page group included in a si
-ngle page
+pdfTeX warning: pdflatex (file ./Images/Cluster_images/mir-92_281_4336.pdf): PD
+F inclusion: multiple pdfs with page group included in a single page
 > <./Images/Cluster_images/mir-96_138_240.pdf
 
-pdfTeX warning: /Library/TeX/texbin/pdflatex (file ./Images/Cluster_images/mir-
-96_138_240.pdf): PDF inclusion: multiple pdfs with page group included in a sin
-gle page
+pdfTeX warning: pdflatex (file ./Images/Cluster_images/mir-96_138_240.pdf): PDF
+ inclusion: multiple pdfs with page group included in a single page
 >] [19 <./Images/miRNA_matrix.pdf>] [20 <./Images/last_tree_miRNAs.pdf>]
 [21 <./Images/cluster_number.pdf> <./Images/density.pdf>] [22 <./Images/vennmiR
 NAs.pdf>]
@@ -1674,16 +1637,16 @@ Forschungsstipendien-
  []
 
 [25] (./tunicates_ncrna.bbl [26] [27]
-Underfull \hbox (badness 1888) in paragraph at lines 240--244
+Underfull \hbox (badness 1888) in paragraph at lines 277--281
 []\OT1/ptm/m/n/8.5 David Lan-gen-berger, Clara Bermudez-Santana, Jana Her-tel, 
 Steve Hoff-mann, Philipp
  []
 
-[28]
+[28] [29]
 Missing character: There is no â in font ptmr7t!
 Missing character: There is no € in font ptmr7t!
 Missing character: There is no ² in font ptmr7t!
- [29]) [30] (./tunicates_ncrna.aux)
+ [30]) [31] (./tunicates_ncrna.aux)
 
 LaTeX Warning: There were undefined references.
 
@@ -1692,26 +1655,25 @@ LaTeX Warning: There were multiply-defined labels.
 
  ) 
 Here is how much of TeX's memory you used:
- 2945 strings out of 493089
- 42514 string characters out of 6134842
- 140457 words of memory out of 5000000
- 6338 multiletter control sequences out of 15000+600000
+ 2925 strings out of 495035
+ 41763 string characters out of 6181702
+ 134680 words of memory out of 5000000
+ 6040 multiletter control sequences out of 15000+600000
  43184 words of font info for 84 fonts, out of 8000000 for 9000
- 1141 hyphenation exceptions out of 8191
- 37i,9n,23p,988b,343s stack positions out of 5000i,500n,10000p,200000b,80000s
-{/usr/local/texlive/2015/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/local/t
-exlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/local/te
-xlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/tex
-live/2015/texmf-dist/fonts/type1/urw/courier/ucrr8a.pfb></usr/local/texlive/201
-5/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></usr/local/texlive/2015/texmf-di
-st/fonts/type1/urw/times/utmbi8a.pfb></usr/local/texlive/2015/texmf-dist/fonts/
-type1/urw/times/utmr8a.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/urw/
-times/utmr8a.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/urw/times/utmr
-i8a.pfb>
-Output written on tunicates_ncrna.pdf (30 pages, 2692779 bytes).
+ 14 hyphenation exceptions out of 8191
+ 37i,9n,23p,984b,343s stack positions out of 5000i,500n,10000p,200000b,80000s
+{/usr/share/texlive/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/share/texliv
+e/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/share/texlive/texm
+f-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texlive/texmf-dist
+/fonts/type1/urw/courier/ucrr8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/
+urw/times/utmb8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmbi
+8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmr8a.pfb></usr/sh
+are/texlive/texmf-dist/fonts/type1/urw/times/utmr8a.pfb></usr/share/texlive/tex
+mf-dist/fonts/type1/urw/times/utmri8a.pfb>
+Output written on tunicates_ncrna.pdf (31 pages, 2695729 bytes).
 PDF statistics:
- 3542 PDF objects out of 3580 (max. 8388607)
- 2336 compressed objects within 24 object streams
+ 3546 PDF objects out of 3580 (max. 8388607)
+ 2339 compressed objects within 24 object streams
  0 named destinations out of 1000 (max. 500000)
  61 words of extra memory for PDF output out of 10000 (max. 10000000)
 

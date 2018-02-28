@@ -24,6 +24,11 @@ V.~Ambros, B.~Bartel, D.~P. Bartel, C.~B. Burge, J.~C. Carrington, X.~Chen,
 \newblock A uniform system for microrna annotation.
 \newblock {\em RNA}, 9:277--279, 2003.
 
+\bibitem{Ameres:13}
+Stefan~L. Ameres and Phillip~D. Zamore.
+\newblock Diversifying {microRNA} sequence and function.
+\newblock {\em Nature Rev. Mol. Cell Biol.}, 14:475--488, 2013.
+
 \bibitem{Bartel:13}
 David~P. Bartel.
 \newblock Micro{RNA} target recognition and regulatory functions.
@@ -33,6 +38,25 @@ David~P. Bartel.
 Arash Bashirullah, Ramona~L Cooperstock, and Howard~D Lipshitz.
 \newblock {RNA} localization.
 \newblock {\em Annu. Rev. Biochem}, 67:335--394, 1998.
+
+\bibitem{Bentwich:05}
+Isaac Bentwich, Amir~Avniel Avniel, Yael Karov, Ranit Aharonov, Shlomit Gilad,
+  Omer Barad, Adi Barzilai, Paz Einat, Uri Einav, Eti Meiri, Eilon Sharon, Yael
+  Spector, and Zvi Bentwich.
+\newblock Identification of hundreds of conserved and nonconserved human
+  {microRNA}s.
+\newblock {\em Nat.\ Genet.}, 37:766--770, 2005.
+
+\bibitem{Berezikov:11}
+E~Berezikov.
+\newblock Evolution of {microRNA} diversity and regulation in animals.
+\newblock {\em Nat Rev Genet.}, 12:846--860, 2011.
+
+\bibitem{Berezikov:06}
+E~Berezikov, F~Thuemmler, L~W van Laake, I~Kondova, R~Bontrop, E~Cuppen, and
+  R~H Plasterk.
+\newblock Diversity of {microRNAs} in human and chimpanzee brain.
+\newblock {\em Nat Genet.}, 38:1375--1377, 2006.
 
 \bibitem{Blumenthal1995}
 Thomas Blumenthal.
@@ -55,12 +79,24 @@ Riccardo Brunetti, Carmela Gissi, Roberta Pennati, Federico Caicci, Fabio
 \newblock {\em Journal of Zoological Systematics and Evolutionary Research},
   53(3):186--193, 2015.
 
+\bibitem{CampoPaysaa:11}
+F~Campo-Paysaa, M~S{\'e}mon, R~A Cameron, K~J Peterson, and M~Schubert.
+\newblock Micro{RNA} complements in deuterostomes: origin and evolution of
+  {microRNAs}.
+\newblock {\em Evol Dev}, 13:15--27, 2011.
+
 \bibitem{Campo-Paysaa:2011}
 Florent Campo-Paysaa, Marie S{\'e}mon, R.~Andrew Cameron, Kevin~J. Peterson,
   and Michael Schubert.
 \newblock microrna complements in deuterostomes: origin and evolution of
   micrornas.
 \newblock {\em Evolution \& Development}, 13(1):15--27, 2011.
+
+\bibitem{Cerutti:06}
+H~Cerutti and J~A Casas-Mollano.
+\newblock On the origin and functions of {RNA}-mediated silencing: from
+  protists to man.
+\newblock {\em Curr Genet}, 50:81--99, 2006.
 
 \bibitem{Chen2014}
 Jerry~S. Chen, Abygail~M. Gumbayan, Robert~W. Zeller, and Joseph~M. Mahaffy.
@@ -100,6 +136,13 @@ Joanne~R. Collier, Nicholas~A.M. Monk, Philip~K. Maini, and Julian~H. Lewis.
   model of delta-notch intercellular signalling.
 \newblock {\em Journal of Theoretical Biology}, 183(4):429 -- 446, 1996.
 
+\bibitem{Dai:09}
+Z~Dai, Z~Chen, H~Ye, L~Zhou, L~Cao, Y~Wang, S~Peng, and L~Chen.
+\newblock Characterization of {microRNAs} in cephalochordates reveals a
+  correlation between {microRNA} repertoire homology and morphological
+  similarity in chordate evolution.
+\newblock {\em Evol Dev.}, 11:41--49, 2009.
+
 \bibitem{Delsuc:2017}
 Frederic Delsuc, Herve Philippe, Georgia Tsagkogeorga, Paul Simion, Marie-Ka
   Tilak, Xavier Turon, Susanna Lopez-Legentil, Jacques Piette, Patrick Lemaire,
@@ -133,6 +176,12 @@ Marc~R. Friedl{\"a}nder, Sebastian~D. Mackowiak, Na~Li, Wei Chen, and Nikolaus
 \newblock {miRDeep2} accurately identifies known and hundreds of novel microrna
   genes in seven animal clades.
 \newblock {\em Nucleic Acids Res.}, 40:37--52, 2012.
+
+\bibitem{Fu:08}
+Xianghui Fu, Marcin Adamski, and Eric~M. Thompson.
+\newblock Altered {miRNA} repertoire in the simplified chordate,
+  \emph{Oikopleura dioica}.
+\newblock {\em Mol.\ Biol.\ Evol.}, 25:1067--1080, 2008.
 
 \bibitem{Fu2008}
 Xianghui Fu, Marcin Adamski, and Eric~M. Thompson.
@@ -174,6 +223,12 @@ D~Hendrix, M~Levine, and W~Shi.
 \newblock {miRTRAP, a computational method for the systematic identification of
   miRNAs from high throughput sequencing data}.
 \newblock {\em Genome Biol}, 11(4):R39, 2010.
+
+\bibitem{Hertel:12a}
+Jana Hertel, Sebastian Bartschat, Axel Wintsche, Christian Otto, {The Students
+  of the Bioinformatics Computer Lab 2011}, and Peter~F. Stadler.
+\newblock Evolution of the let-7 {microRNA} family.
+\newblock {\em RNA Biology}, 9:231--241, 2012.
 
 \bibitem{Hertel:06a}
 Jana Hertel, Manuela Lindemeyer, Kristin Missal, Claudia Fried, Andrea Tanzer,
@@ -255,6 +310,13 @@ David Langenberger, M.~Volkan {\c{C}}akir, Steve Hoffmann, and Peter~F.
 \newblock Dicer-processed small {RNAs}: Rules and exceptions.
 \newblock {\em J. Exp. Zool: Mol. Dev. Evol.}, 320:35--46, 2012.
 
+\bibitem{Lee:07a}
+C~T Lee, T~Risom, and W~M Strauss.
+\newblock Evolutionary conservation of {microRNA} regulatory circuits: an
+  examination of microrna gene complexity and conserved micro{RNA}-target
+  interactions through metazoan phylogeny.
+\newblock {\em DNA Cell Biol.}, 26:209--218, 2007.
+
 \bibitem{ShuLee1997}
 Mary Gwo-Shu Lee and Lex H. T.~Van der Ploeg.
 \newblock Transcription of protein-coding genes in trypanosomes by rna
@@ -267,15 +329,31 @@ Matthieu Legendre, Andr{\'{e}} Lambert, and Daniel Gautheret.
 \newblock {Profile-based detection of microRNA precursors in animal genomes}.
 \newblock {\em Bioinformatics}, 21(7):841--845, 2005.
 
+\bibitem{Liang:09}
+H~Liang and {W-H.} Li.
+\newblock Lowly expressed human microrna genes evolve rapidly.
+\newblock {\em Mol Biol Evol}, 26:1195--1198, 2009.
+
 \bibitem{Lin:06}
 Shi-Lung Lin, Joseph~D. Miller, and Shao-Yao~Ying Ying.
 \newblock Intronic {MicroRNA} (mirna).
 \newblock {\em J Biomed Biotechnol.}, 2006:26818, 2006.
 
+\bibitem{Lu:08}
+J~Lu, Y~Shen, Q~Wu, S~Kumar, B~He, S~Shi, R~W Carthew, S~M Wang, and C~I Wu.
+\newblock The birth and death of {microRNA} genes in \emph{Drosophila}.
+\newblock {\em Nat Genet.}, 40:351--355, 2008.
+
 \bibitem{Lund:04}
 E~Lund, S~G{\"u}ttinger, A~Calado, J~E Dahlberg, and U~Kutay.
 \newblock Nuclear export of {microRNA} precursors.
 \newblock {\em Science}, 303:95--98, 2004.
+
+\bibitem{Marco:13}
+A.~Marco, M.~Ninova, M.~Ronshaugen, and S.~Griffiths-Jones.
+\newblock Clusters of {microRNAs} emerge by new hairpins in existing
+  transcripts.
+\newblock {\em Nucleic Acids Res}, 41:7745--7752, 2013.
 
 \bibitem{Maroney1995}
 P~A Maroney, J~A Denker, E~Darzynkiewicz, R~Laneve, and T~W Nilsen.
@@ -297,6 +375,12 @@ Eti Meiri, Asaf Levy, Hila Benjamin, Miriam Ben-David, Lahav Cohen, Avital Dov,
 \newblock Discovery of micrornas and other small rnas in solid tumors.
 \newblock {\em Nucleic Acids Research}, 38(18):6234--6246, 2010.
 
+\bibitem{Meunier:12}
+J~Meunier, F~Lemoine, M~Soumillon, A~Liechti, M~Weier, K~Guschanski, H~Hu,
+  P~Khaitovich, and H~Kaessmann.
+\newblock Birth and expression evolution of mammalian microrna genes.
+\newblock {\em Genome Res}, 23:34--45, 2012.
+
 \bibitem{Missal2005}
 Kristin Missal, Dominic Rose, and Peter~F. Stadler.
 \newblock {Non-coding RNAs in Ciona intestinalis}.
@@ -312,6 +396,11 @@ Shi-Yan Ng, Gireesh~K. Bogu, Boon~Seng Soh, and Lawrence~W. Stanton.
 \newblock The long noncoding rna rmst interacts with sox2 to regulate
   neurogenesis.
 \newblock {\em Molecular Cell}, 51(3):349--359, 2013.
+
+\bibitem{Niwa:07}
+R~Niwa and F~J. Slack.
+\newblock The evolution of animal {microRNA} function.
+\newblock {\em Curr Opin Genet Dev.}, 17:145--150, 2007.
 
 \bibitem{Norden-Krichmar2007}
 Trina~M Norden-Krichmar, Janette Holtz, Amy~E Pasquinelli, and Terry
@@ -334,6 +423,22 @@ a~E Pasquinelli, B~J Reinhart, F~Slack, M~Q Martindale, M~I Kuroda, B~Maller,
 \newblock {Conservation of the sequence and temporal expression of let-7
   heterochronic regulatory RNA.}
 \newblock {\em Nature}, 408(6808):86--89, 2000.
+
+\bibitem{Peterson:09}
+Kevin~J. Peterson, Michael~R. Dietrich, and Mark~A. McPeek.
+\newblock {MicroRNAs} and metazoan macroevolution: insights into canalization,
+  complexity, and the {C}ambrian explosion.
+\newblock {\em Bioessays}, 31:736--747, 2009.
+
+\bibitem{Price:11}
+N~Price, R~A Cartwright, N~Sabath, D~Graur, and R~B Azevedo.
+\newblock Neutral evolution of robustness in drosophila {microRNA} precursors.
+\newblock {\em Mol Biol Evol}, 28:2115--2123, 2011.
+
+\bibitem{Prochnik:07}
+S~E Prochnik, D~S Rokhsar, and A~A Aboobaker.
+\newblock Evidence for a {microRNA} expansion in the bilaterian ancestor.
+\newblock {\em Dev Genes Evol.}, 217:73--77, 2007.
 
 \bibitem{Reinhart:2000mz}
 Brenda~J. Reinhart, Frank~J. Slack, Michael Basson, Amy~E. Pasquinelli, Jill~C.
@@ -367,6 +472,11 @@ Lorenzo~F. Sempere, Sarah Freemantle, Ian Pitha-Rowe, Eric Moss, Ethan
   differentiation.
 \newblock {\em Genome Biology}, 5(3):R13, Feb 2004.
 
+\bibitem{Shabalina:08}
+S~A Shabalina and E~V Koonin.
+\newblock Origins and evolution of eukaryotic {RNA} interference.
+\newblock {\em Trends Ecol Evol.}, 23:578--587, 2008.
+
 \bibitem{Shi2009}
 Weiyang Shi, David Hendrix, Mike Levine, and Benjamin Haley.
 \newblock {A distinct class of small RNAs arises from pre-miRNA--proximal
@@ -389,6 +499,18 @@ B~J Swalla and W~R Jeffery.
 Ryan~J Taft, Ken~C Pang, Timothy~R Mercer, Marcel Dinger, and John~S Mattick.
 \newblock Non-coding rnas: regulators of disease.
 \newblock {\em The Journal of Pathology}, 220(2):126--139, 2010.
+
+\bibitem{Tanzer:10a}
+Andrea Tanzer, Markus Riester, Jana Hertel, Clara~Isabel Bermudez-Santana, Jan
+  Gorodkin, Ivo~L. Hofacker, and Peter~F. Stadler.
+\newblock Evolutionary genomics of micro{RNA}s and their relatives.
+\newblock In Gustavo Caetano-Anolles, editor, {\em Evolutionary Genomics and
+  Systems Biology}, pages 295--327. Wiley-Blackwell, Hoboken, NJ, 2010.
+
+\bibitem{Tanzer:04a}
+Andrea Tanzer and Peter~F. Stadler.
+\newblock Molecular evolution of a micro{RNA} cluster.
+\newblock {\em J.\ Mol.\ Biol.}, 339:327--335, 2004.
 
 \bibitem{Terai2012}
 Goro Terai, Hiroaki Okida, Kiyoshi Asai, and Toutai Mituyama.
