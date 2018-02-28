@@ -1,6 +1,6 @@
 \contentsline {title}{non-protein-coding RNAs as regulators of development in tunicates}{3}
 \authcount {1}
-\contentsline {author}{Cristian A. Velandia-Huerto, Federico D. Brown, Adriaan A. Gittenberger, Peter F. Stadler and Clara I. Berm\'{u}dez-Santana}{3}
+\contentsline {author}{Cristian A. Velandia-Huerto*, Federico D. Brown, Adriaan A. Gittenberger, Peter F. Stadler and Clara I. Berm\'{u}dez-Santana}{3}
 \contentsline {section}{\numberline {1}Introduction}{4}
 \contentsline {section}{\numberline {2}miRNA families origin and evolutionary perspective}{5}
 \contentsline {subsection}{\numberline {2.1}Origins and Evolution of MicroRNAs}{5}
@@ -12,12 +12,12 @@
 \contentsline {subsection}{\numberline {3.1}miRNAs discovery and development}{17}
 \contentsline {subsection}{\numberline {3.2}Neuronal fate determination and regulation by miR-124}{19}
 \contentsline {subsubsection}{\numberline {3.2.1}Muscle development and the polycistronic miR-1/miR-133 cluster}{21}
-\contentsline {subsubsection}{\numberline {3.2.2}miRNA expression during oral siphon (OS) regeneration}{22}
-\contentsline {subsubsection}{\numberline {3.2.3}miRNA expression during \textit {O. dioica} development}{23}
-\contentsline {section}{\numberline {4}Other ncRNAs associated to development}{23}
-\contentsline {subsection}{\numberline {4.1}Yellow Crescent RNA}{23}
-\contentsline {subsection}{\numberline {4.2}MicroRNA-offset RNAs}{24}
-\contentsline {subsection}{\numberline {4.3}Long Noncoding RNA RMST}{25}
-\contentsline {subsection}{\numberline {4.4}Splices-leader RNA}{25}
-\contentsline {section}{\numberline {5}Acknowledgments}{26}
-\contentsline {section}{References}{26}
+\contentsline {subsubsection}{\numberline {3.2.2}miRNA expression during oral siphon (OS) regeneration}{21}
+\contentsline {subsubsection}{\numberline {3.2.3}miRNA expression during \textit {O. dioica} development}{22}
+\contentsline {section}{\numberline {4}Other ncRNAs associated to development}{22}
+\contentsline {subsection}{\numberline {4.1}Yellow Crescent RNA}{22}
+\contentsline {subsection}{\numberline {4.2}MicroRNA-offset RNAs}{23}
+\contentsline {subsection}{\numberline {4.3}Long Noncoding RNA RMST}{23}
+\contentsline {subsection}{\numberline {4.4}Splices-leader RNA}{24}
+\contentsline {section}{\numberline {5}Acknowledgments}{24}
+\contentsline {section}{References}{25}

@@ -1,71 +1,46 @@
-This is BibTeX, Version 0.99d (TeX Live 2016)
+This is BibTeX, Version 0.99d (TeX Live 2015)
 Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
 The top-level auxiliary file: tunicates_ncrna.aux
 The style file: plain.bst
 Database file #1: tuni_updated.bib
-Warning--I didn't find a database entry for "Ameres:13"
-Warning--I didn't find a database entry for "Cerutti:06"
-Warning--I didn't find a database entry for "Shabalina:08"
-Warning--I didn't find a database entry for "Price:11"
-Warning--I didn't find a database entry for "Tanzer:04a"
-Warning--I didn't find a database entry for "Hertel:12a"
-Warning--I didn't find a database entry for "Fu:08"
-Warning--I didn't find a database entry for "Bentwich:05"
-Warning--I didn't find a database entry for "Berezikov:06"
-Warning--I didn't find a database entry for "Lu:08"
-Warning--I didn't find a database entry for "CampoPaysaa:11"
-Warning--I didn't find a database entry for "Marco:13"
-Warning--I didn't find a database entry for "Liang:09"
-Warning--I didn't find a database entry for "Meunier:12"
-Warning--I didn't find a database entry for "Lee:07a"
-Warning--I didn't find a database entry for "Niwa:07"
-Warning--I didn't find a database entry for "Prochnik:07"
-Warning--I didn't find a database entry for "Peterson:09"
-Warning--I didn't find a database entry for "Berezikov:11"
-Warning--I didn't find a database entry for "Tanzer:10a"
-Warning--I didn't find a database entry for "Dai:09"
-Warning--I didn't find a database entry for "Nawrocki:201"
-Warning--to sort, need author, editor, or key in TanzerALL:2010
-Warning--empty author and editor in TanzerALL:2010
-You've used 71 entries,
+You've used 93 entries,
             2118 wiz_defined-function locations,
-            1044 strings with 22408 characters,
-and the built_in function-call counts, 31373 in all, are:
-= -- 2850
-> -- 2292
-< -- 1
-+ -- 917
-- -- 834
-* -- 2871
-:= -- 5467
-add.period$ -- 211
-call.type$ -- 71
-change.case$ -- 629
+            1138 strings with 26011 characters,
+and the built_in function-call counts, 40523 in all, are:
+= -- 3702
+> -- 2898
+< -- 2
++ -- 1156
+- -- 1049
+* -- 3626
+:= -- 7063
+add.period$ -- 279
+call.type$ -- 93
+change.case$ -- 802
 chr.to.int$ -- 0
-cite$ -- 73
-duplicate$ -- 783
-empty$ -- 1880
-format.name$ -- 834
-if$ -- 6118
+cite$ -- 93
+duplicate$ -- 1037
+empty$ -- 2469
+format.name$ -- 1049
+if$ -- 7960
 int.to.chr$ -- 0
-int.to.str$ -- 71
-missing$ -- 69
-newline$ -- 356
-num.names$ -- 140
-pop$ -- 510
+int.to.str$ -- 93
+missing$ -- 92
+newline$ -- 467
+num.names$ -- 188
+pop$ -- 643
 preamble$ -- 1
-purify$ -- 559
+purify$ -- 710
 quote$ -- 0
-skip$ -- 516
+skip$ -- 688
 stack$ -- 0
-substring$ -- 1874
-swap$ -- 80
-text.length$ -- 1
+substring$ -- 2461
+swap$ -- 111
+text.length$ -- 2
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 282
-warning$ -- 2
-while$ -- 232
-width$ -- 73
-write$ -- 776
-(There were 24 warnings)
+type$ -- 370
+warning$ -- 0
+while$ -- 302
+width$ -- 95
+write$ -- 1022
