@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013) (format=pdflatex 2018.1.13)  28 FEB 2018 23:56
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013) (format=pdflatex 2018.1.13)  28 FEB 2018 23:57
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -451,45 +451,20 @@ Overfull \hbox (23.81934pt too wide) in paragraph at lines 181--197
 through a well-characterized
  []
 
-
-LaTeX Warning: Citation `Price:11' on page 5 undefined on input line 204.
-
 LaTeX Font Info:    Try loading font information for OT1+pcr on input line 208.
 
 (/usr/share/texlive/texmf-dist/tex/latex/psnfss/ot1pcr.fd
 File: ot1pcr.fd 2001/06/04 font definitions for OT1/pcr.
 )
 
-LaTeX Warning: Citation `Tanzer:04a' on page 5 undefined on input line 212.
-
-
-LaTeX Warning: Citation `Hertel:12a' on page 5 undefined on input line 212.
-
-
 LaTeX Warning: Citation `Fu:08' on page 5 undefined on input line 219.
 
 [5]
 
-LaTeX Warning: Citation `Tanzer:04a' on page 6 undefined on input line 229.
-
-
-LaTeX Warning: Citation `CampoPaysaa:11' on page 6 undefined on input line 229.
-
-
-
 LaTeX Warning: Citation `Marco:13' on page 6 undefined on input line 229.
 
 
-LaTeX Warning: Citation `Lee:07a' on page 6 undefined on input line 238.
-
-
 LaTeX Warning: Citation `Niwa:07' on page 6 undefined on input line 247.
-
-
-LaTeX Warning: Citation `Lee:07a' on page 6 undefined on input line 247.
-
-
-LaTeX Warning: Citation `Peterson:09' on page 6 undefined on input line 247.
 
 
 LaTeX Warning: Citation `Berezikov:11' on page 6 undefined on input line 247.
@@ -1637,7 +1612,7 @@ Forschungsstipendien-
  []
 
 [25] (./tunicates_ncrna.bbl [26] [27]
-Underfull \hbox (badness 1888) in paragraph at lines 277--281
+Underfull \hbox (badness 1888) in paragraph at lines 295--299
 []\OT1/ptm/m/n/8.5 David Lan-gen-berger, Clara Bermudez-Santana, Jana Her-tel, 
 Steve Hoff-mann, Philipp
  []
@@ -1657,7 +1632,7 @@ LaTeX Warning: There were multiply-defined labels.
 Here is how much of TeX's memory you used:
  2925 strings out of 495035
  41763 string characters out of 6181702
- 134680 words of memory out of 5000000
+ 134704 words of memory out of 5000000
  6040 multiletter control sequences out of 15000+600000
  43184 words of font info for 84 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
@@ -1670,7 +1645,7 @@ urw/times/utmb8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmbi
 8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmr8a.pfb></usr/sh
 are/texlive/texmf-dist/fonts/type1/urw/times/utmr8a.pfb></usr/share/texlive/tex
 mf-dist/fonts/type1/urw/times/utmri8a.pfb>
-Output written on tunicates_ncrna.pdf (31 pages, 2695729 bytes).
+Output written on tunicates_ncrna.pdf (31 pages, 2696426 bytes).
 PDF statistics:
  3546 PDF objects out of 3580 (max. 8388607)
  2339 compressed objects within 24 object streams
