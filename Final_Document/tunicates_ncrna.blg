@@ -1,50 +1,46 @@
-<<<<<<< HEAD
 This is BibTeX, Version 0.99d (TeX Live 2013)
-=======
-This is BibTeX, Version 0.99d (TeX Live 2015)
->>>>>>> a2b88e3a84c166146d4e3591df3aef0bf5c9149c
 Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
 The top-level auxiliary file: tunicates_ncrna.aux
 The style file: plain.bst
 Database file #1: tuni_updated.bib
-You've used 93 entries,
+You've used 91 entries,
             2118 wiz_defined-function locations,
-            1138 strings with 26011 characters,
-and the built_in function-call counts, 40523 in all, are:
-= -- 3702
-> -- 2898
-< -- 2
-+ -- 1156
-- -- 1049
-* -- 3626
-:= -- 7063
-add.period$ -- 279
-call.type$ -- 93
-change.case$ -- 802
+            1128 strings with 25772 characters,
+and the built_in function-call counts, 39547 in all, are:
+= -- 3607
+> -- 2842
+< -- 1
++ -- 1134
+- -- 1029
+* -- 3549
+:= -- 6909
+add.period$ -- 273
+call.type$ -- 91
+change.case$ -- 787
 chr.to.int$ -- 0
-cite$ -- 93
-duplicate$ -- 1037
-empty$ -- 2469
-format.name$ -- 1049
-if$ -- 7960
+cite$ -- 91
+duplicate$ -- 1004
+empty$ -- 2402
+format.name$ -- 1029
+if$ -- 7755
 int.to.chr$ -- 0
-int.to.str$ -- 93
-missing$ -- 92
-newline$ -- 467
-num.names$ -- 188
-pop$ -- 643
+int.to.str$ -- 91
+missing$ -- 89
+newline$ -- 457
+num.names$ -- 184
+pop$ -- 624
 preamble$ -- 1
-purify$ -- 710
+purify$ -- 696
 quote$ -- 0
-skip$ -- 688
+skip$ -- 663
 stack$ -- 0
-substring$ -- 2461
-swap$ -- 111
-text.length$ -- 2
+substring$ -- 2388
+swap$ -- 100
+text.length$ -- 1
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 370
+type$ -- 364
 warning$ -- 0
-while$ -- 302
-width$ -- 95
-write$ -- 1022
+while$ -- 293
+width$ -- 93
+write$ -- 1000
