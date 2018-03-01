@@ -1,9 +1,5 @@
 \begin{thebibliography}{10}
 
-\bibitem{TanzerALL:2010}
-{\em Evolutionary Genomics of microRNAs and Their Relatives}, pages 295--327.
-\newblock John Wiley \& Sons, Inc., 2010.
-
 \bibitem{Aboobaker18017}
 A.~Aziz Aboobaker, Pavel Tomancak, Nipam Patel, Gerald~M. Rubin, and Eric~C.
   Lai.
@@ -391,6 +387,11 @@ Eric~P Nawrocki and Sean~R Eddy.
 \newblock Infernal 1.1: 100-fold faster {RNA} homology searches.
 \newblock {\em Bioinformatics}, 29:2933--2935, 2013.
 
+\bibitem{Nawrocki:2013}
+Eric~P. Nawrocki and Sean~R. Eddy.
+\newblock Infernal 1.1: 100-fold faster rna homology searches.
+\newblock {\em Bioinformatics}, 29(22):2933--2935, 2013.
+
 \bibitem{Bogu2013}
 Shi-Yan Ng, Gireesh~K. Bogu, Boon~Seng Soh, and Lawrence~W. Stanton.
 \newblock The long noncoding rna rmst interacts with sox2 to regulate
@@ -506,6 +507,13 @@ Andrea Tanzer, Markus Riester, Jana Hertel, Clara~Isabel Bermudez-Santana, Jan
 \newblock Evolutionary genomics of micro{RNA}s and their relatives.
 \newblock In Gustavo Caetano-Anolles, editor, {\em Evolutionary Genomics and
   Systems Biology}, pages 295--327. Wiley-Blackwell, Hoboken, NJ, 2010.
+
+\bibitem{TanzerALL:2010}
+Andrea Tanzer, Markus Riester, Jana Hertel, Clara~Isabel Bermudez-Santana, Jan
+  Gorodkin, Ivo~L. Hofacker, and Peter~F. Stadler.
+\newblock {\em Evolutionary Genomics of microRNAs and Their Relatives}, pages
+  295--327.
+\newblock John Wiley \& Sons, Inc., 2010.
 
 \bibitem{Tanzer:04a}
 Andrea Tanzer and Peter~F. Stadler.

@@ -1,51 +1,46 @@
-This is BibTeX, Version 0.99d (TeX Live 2013)
+This is BibTeX, Version 0.99d (TeX Live 2015)
 Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
 The top-level auxiliary file: tunicates_ncrna.aux
 The style file: plain.bst
 Database file #1: tuni_updated.bib
-Database file #2: more.bib
-Warning--I didn't find a database entry for "Nawrocki:201"
-Warning--to sort, need author, editor, or key in TanzerALL:2010
-Warning--empty author and editor in TanzerALL:2010
-You've used 92 entries,
+You've used 93 entries,
             2118 wiz_defined-function locations,
-            1137 strings with 25927 characters,
-and the built_in function-call counts, 39952 in all, are:
-= -- 3651
-> -- 2848
+            1138 strings with 26011 characters,
+and the built_in function-call counts, 40523 in all, are:
+= -- 3702
+> -- 2898
 < -- 2
-+ -- 1137
-- -- 1031
-* -- 3577
-:= -- 6955
-add.period$ -- 275
-call.type$ -- 92
-change.case$ -- 790
++ -- 1156
+- -- 1049
+* -- 3626
+:= -- 7063
+add.period$ -- 279
+call.type$ -- 93
+change.case$ -- 802
 chr.to.int$ -- 0
-cite$ -- 94
-duplicate$ -- 1027
-empty$ -- 2442
-format.name$ -- 1031
-if$ -- 7851
+cite$ -- 93
+duplicate$ -- 1037
+empty$ -- 2469
+format.name$ -- 1049
+if$ -- 7960
 int.to.chr$ -- 0
-int.to.str$ -- 92
-missing$ -- 90
-newline$ -- 461
-num.names$ -- 184
-pop$ -- 633
+int.to.str$ -- 93
+missing$ -- 92
+newline$ -- 467
+num.names$ -- 188
+pop$ -- 643
 preamble$ -- 1
-purify$ -- 699
+purify$ -- 710
 quote$ -- 0
-skip$ -- 680
+skip$ -- 688
 stack$ -- 0
-substring$ -- 2429
-swap$ -- 110
+substring$ -- 2461
+swap$ -- 111
 text.length$ -- 2
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 366
-warning$ -- 2
-while$ -- 297
-width$ -- 94
-write$ -- 1009
-(There were 3 warnings)
+type$ -- 370
+warning$ -- 0
+while$ -- 302
+width$ -- 95
+write$ -- 1022
