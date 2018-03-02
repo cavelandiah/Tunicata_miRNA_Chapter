@@ -1,46 +1,46 @@
 This is BibTeX, Version 0.99d (TeX Live 2016)
 Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
 The top-level auxiliary file: tunicates_ncrna.aux
-The style file: plain.bst
+The style file: apalike.bst
 Database file #1: tuni_updated.bib
 You've used 91 entries,
-            2118 wiz_defined-function locations,
-            1128 strings with 25772 characters,
-and the built_in function-call counts, 39547 in all, are:
-= -- 3607
+            1935 wiz_defined-function locations,
+            1092 strings with 25426 characters,
+and the built_in function-call counts, 45492 in all, are:
+= -- 4168
 > -- 2842
-< -- 1
-+ -- 1134
+< -- 19
++ -- 1059
 - -- 1029
-* -- 3549
-:= -- 6909
+* -- 4443
+:= -- 8092
 add.period$ -- 273
 call.type$ -- 91
-change.case$ -- 787
-chr.to.int$ -- 0
+change.case$ -- 969
+chr.to.int$ -- 89
 cite$ -- 91
-duplicate$ -- 1004
-empty$ -- 2402
-format.name$ -- 1029
-if$ -- 7755
-int.to.chr$ -- 0
-int.to.str$ -- 91
+duplicate$ -- 1277
+empty$ -- 2655
+format.name$ -- 1146
+if$ -- 8585
+int.to.chr$ -- 3
+int.to.str$ -- 0
 missing$ -- 89
 newline$ -- 457
-num.names$ -- 184
-pop$ -- 624
+num.names$ -- 275
+pop$ -- 776
 preamble$ -- 1
-purify$ -- 696
+purify$ -- 969
 quote$ -- 0
-skip$ -- 663
+skip$ -- 935
 stack$ -- 0
-substring$ -- 2388
-swap$ -- 100
+substring$ -- 3039
+swap$ -- 98
 text.length$ -- 1
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 364
+type$ -- 546
 warning$ -- 0
 while$ -- 293
-width$ -- 93
-write$ -- 1000
+width$ -- 0
+write$ -- 1182

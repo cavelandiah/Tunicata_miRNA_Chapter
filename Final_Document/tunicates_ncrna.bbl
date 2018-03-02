@@ -1,580 +1,577 @@
-\begin{thebibliography}{10}
+\begin{thebibliography}{}
 
-\bibitem{Aboobaker18017}
-A.~Aziz Aboobaker, Pavel Tomancak, Nipam Patel, Gerald~M. Rubin, and Eric~C.
-  Lai.
+\bibitem[Aboobaker et~al., 2005]{Aboobaker18017}
+Aboobaker, A.~A., Tomancak, P., Patel, N., Rubin, G.~M., and Lai, E.~C. (2005).
 \newblock Drosophila micrornas exhibit diverse spatial expression patterns
   during embryonic development.
 \newblock {\em Proceedings of the National Academy of Sciences},
-  102(50):18017--18022, 2005.
+  102(50):18017--18022.
 
-\bibitem{Agabian1990}
-Nina Agabian.
+\bibitem[Agabian, 1990]{Agabian1990}
+Agabian, N. (1990).
 \newblock Trans splicing of nuclear pre-mrnas.
-\newblock {\em Cell}, 61(7):1157 -- 1160, 1990.
+\newblock {\em Cell}, 61(7):1157 -- 1160.
 
-\bibitem{Ambrose:03a}
-V.~Ambros, B.~Bartel, D.~P. Bartel, C.~B. Burge, J.~C. Carrington, X.~Chen,
-  G.~Dreyfuss, S.~R. Eddy, S.~Griffiths-Jones, M.~Marshall, M.~Matzke,
-  G.~Ruvkun, and T.~Tuschl.
+\bibitem[Ambros et~al., 2003]{Ambrose:03a}
+Ambros, V., Bartel, B., Bartel, D.~P., Burge, C.~B., Carrington, J.~C., Chen,
+  X., Dreyfuss, G., Eddy, S.~R., Griffiths-Jones, S., Marshall, M., Matzke, M.,
+  Ruvkun, G., and Tuschl, T. (2003).
 \newblock A uniform system for microrna annotation.
-\newblock {\em RNA}, 9:277--279, 2003.
+\newblock {\em RNA}, 9:277--279.
 
-\bibitem{Ameres:13}
-Stefan~L. Ameres and Phillip~D. Zamore.
+\bibitem[Ameres and Zamore, 2013]{Ameres:13}
+Ameres, S.~L. and Zamore, P.~D. (2013).
 \newblock Diversifying {microRNA} sequence and function.
-\newblock {\em Nature Rev. Mol. Cell Biol.}, 14:475--488, 2013.
+\newblock {\em Nature Rev. Mol. Cell Biol.}, 14:475--488.
 
-\bibitem{Bartel:13}
-David~P. Bartel.
+\bibitem[Bartel, 2009]{Bartel:13}
+Bartel, D.~P. (2009).
 \newblock Micro{RNA} target recognition and regulatory functions.
-\newblock {\em Cell}, 136:215--233, 2009.
+\newblock {\em Cell}, 136:215--233.
 
-\bibitem{Bashirullah1998}
-Arash Bashirullah, Ramona~L Cooperstock, and Howard~D Lipshitz.
+\bibitem[Bashirullah et~al., 1998]{Bashirullah1998}
+Bashirullah, A., Cooperstock, R.~L., and Lipshitz, H.~D. (1998).
 \newblock {RNA} localization.
-\newblock {\em Annu. Rev. Biochem}, 67:335--394, 1998.
+\newblock {\em Annu. Rev. Biochem}, 67:335--394.
 
-\bibitem{Bentwich:05}
-Isaac Bentwich, Amir~Avniel Avniel, Yael Karov, Ranit Aharonov, Shlomit Gilad,
-  Omer Barad, Adi Barzilai, Paz Einat, Uri Einav, Eti Meiri, Eilon Sharon, Yael
-  Spector, and Zvi Bentwich.
+\bibitem[Bentwich et~al., 2005]{Bentwich:05}
+Bentwich, I., Avniel, A.~A., Karov, Y., Aharonov, R., Gilad, S., Barad, O.,
+  Barzilai, A., Einat, P., Einav, U., Meiri, E., Sharon, E., Spector, Y., and
+  Bentwich, Z. (2005).
 \newblock Identification of hundreds of conserved and nonconserved human
   {microRNA}s.
-\newblock {\em Nat.\ Genet.}, 37:766--770, 2005.
+\newblock {\em Nat.\ Genet.}, 37:766--770.
 
-\bibitem{Berezikov:11}
-E~Berezikov.
+\bibitem[Berezikov, 2011]{Berezikov:11}
+Berezikov, E. (2011).
 \newblock Evolution of {microRNA} diversity and regulation in animals.
-\newblock {\em Nat Rev Genet.}, 12:846--860, 2011.
+\newblock {\em Nat Rev Genet.}, 12:846--860.
 
-\bibitem{Berezikov:06}
-E~Berezikov, F~Thuemmler, L~W van Laake, I~Kondova, R~Bontrop, E~Cuppen, and
-  R~H Plasterk.
+\bibitem[Berezikov et~al., 2006]{Berezikov:06}
+Berezikov, E., Thuemmler, F., van Laake, L.~W., Kondova, I., Bontrop, R.,
+  Cuppen, E., and Plasterk, R.~H. (2006).
 \newblock Diversity of {microRNAs} in human and chimpanzee brain.
-\newblock {\em Nat Genet.}, 38:1375--1377, 2006.
+\newblock {\em Nat Genet.}, 38:1375--1377.
 
-\bibitem{Blumenthal1995}
-Thomas Blumenthal.
+\bibitem[Blumenthal, 1995]{Blumenthal1995}
+Blumenthal, T. (1995).
 \newblock Trans-splicing and polycistronic transcription in caenohabditis
   elegans.
-\newblock {\em Trends in Genetics}, 11(4):132 -- 136, 1995.
+\newblock {\em Trends in Genetics}, 11(4):132 -- 136.
 
-\bibitem{bortoluzzi2011}
-Stefania Bortoluzzi, Marta Biasiolo, and Andrea Bisognin.
+\bibitem[Bortoluzzi et~al., 2011]{bortoluzzi2011}
+Bortoluzzi, S., Biasiolo, M., and Bisognin, A. (2011).
 \newblock Microrna-offset rnas (mornas): by-product spectators or functional
   players?
-\newblock {\em Trends in Molecular Medicine}, 17(9):473--474, 2011.
+\newblock {\em Trends in Molecular Medicine}, 17(9):473--474.
 
-\bibitem{Brunetti:2015}
-Riccardo Brunetti, Carmela Gissi, Roberta Pennati, Federico Caicci, Fabio
-  Gasparini, and Lucia Manni.
+\bibitem[Brunetti et~al., 2015]{Brunetti:2015}
+Brunetti, R., Gissi, C., Pennati, R., Caicci, F., Gasparini, F., and Manni, L.
+  (2015).
 \newblock Morphological evidence that the molecularly determined ciona
   intestinalis type a and type b are different species: Ciona robusta and ciona
   intestinalis.
 \newblock {\em Journal of Zoological Systematics and Evolutionary Research},
-  53(3):186--193, 2015.
+  53(3):186--193.
 
-\bibitem{CampoPaysaa:11}
-F~Campo-Paysaa, M~S{\'e}mon, R~A Cameron, K~J Peterson, and M~Schubert.
+\bibitem[Campo-Paysaa et~al., 2011a]{CampoPaysaa:11}
+Campo-Paysaa, F., S{\'e}mon, M., Cameron, R.~A., Peterson, K.~J., and Schubert,
+  M. (2011a).
 \newblock Micro{RNA} complements in deuterostomes: origin and evolution of
   {microRNAs}.
-\newblock {\em Evol Dev}, 13:15--27, 2011.
+\newblock {\em Evol Dev}, 13:15--27.
 
-\bibitem{Campo-Paysaa:2011}
-Florent Campo-Paysaa, Marie S{\'e}mon, R.~Andrew Cameron, Kevin~J. Peterson,
-  and Michael Schubert.
+\bibitem[Campo-Paysaa et~al., 2011b]{Campo-Paysaa:2011}
+Campo-Paysaa, F., S{\'e}mon, M., Cameron, R.~A., Peterson, K.~J., and Schubert,
+  M. (2011b).
 \newblock microrna complements in deuterostomes: origin and evolution of
   micrornas.
-\newblock {\em Evolution \& Development}, 13(1):15--27, 2011.
+\newblock {\em Evolution \& Development}, 13(1):15--27.
 
-\bibitem{Cerutti:06}
-H~Cerutti and J~A Casas-Mollano.
+\bibitem[Cerutti and Casas-Mollano, 2006]{Cerutti:06}
+Cerutti, H. and Casas-Mollano, J.~A. (2006).
 \newblock On the origin and functions of {RNA}-mediated silencing: from
   protists to man.
-\newblock {\em Curr Genet}, 50:81--99, 2006.
+\newblock {\em Curr Genet}, 50:81--99.
 
-\bibitem{Chen2014}
-Jerry~S. Chen, Abygail~M. Gumbayan, Robert~W. Zeller, and Joseph~M. Mahaffy.
-\newblock {An Expanded Notch-Delta Model Exhibiting Long-Range Patterning and
-  Incorporating MicroRNA Regulation}.
-\newblock {\em PLoS Computational Biology}, 10(6), 2014.
-
-\bibitem{Chen4943}
-Jerry~S. Chen, Matthew~San Pedro, and Robert~W. Zeller.
-\newblock mir-124 function during ciona intestinalis neuronal development
-  includes extensive interaction with the notch signaling pathway.
-\newblock {\em Development}, 138(22):4943--4953, 2011.
-
-\bibitem{Chen:2005yq}
-Jian-Fu Chen, Elizabeth~M Mandel, J~Michael Thomson, Qiulian Wu, Thomas~E
-  Callis, Scott~M Hammond, Frank~L Conlon, and Da-Zhi Wang.
+\bibitem[Chen et~al., 2005]{Chen:2005yq}
+Chen, J.-F., Mandel, E.~M., Thomson, J.~M., Wu, Q., Callis, T.~E., Hammond,
+  S.~M., Conlon, F.~L., and Wang, D.-Z. (2005).
 \newblock The role of microrna-1 and microrna-133 in skeletal muscle
   proliferation and differentiation.
-\newblock {\em Nature Genetics}, 38:228 EP --, 12 2005.
+\newblock {\em Nature Genetics}, 38:228 EP --.
 
-\bibitem{Cheng:2009qf}
-Li-Chun Cheng, Erika Pastrana, Masoud Tavazoie, and Fiona Doetsch.
+\bibitem[Chen et~al., 2014]{Chen2014}
+Chen, J.~S., Gumbayan, A.~M., Zeller, R.~W., and Mahaffy, J.~M. (2014).
+\newblock {An Expanded Notch-Delta Model Exhibiting Long-Range Patterning and
+  Incorporating MicroRNA Regulation}.
+\newblock {\em PLoS Computational Biology}, 10(6).
+
+\bibitem[Chen et~al., 2011]{Chen4943}
+Chen, J.~S., Pedro, M.~S., and Zeller, R.~W. (2011).
+\newblock mir-124 function during ciona intestinalis neuronal development
+  includes extensive interaction with the notch signaling pathway.
+\newblock {\em Development}, 138(22):4943--4953.
+
+\bibitem[Cheng et~al., 2009]{Cheng:2009qf}
+Cheng, L.-C., Pastrana, E., Tavazoie, M., and Doetsch, F. (2009).
 \newblock mir-124 regulates adult neurogenesis in the subventricular zone stem
   cell niche.
-\newblock {\em Nature Neuroscience}, 12:399 EP --, 03 2009.
+\newblock {\em Nature Neuroscience}, 12:399 EP --.
 
-\bibitem{Clark:2010}
-Alejandra~M. Clark, Leonard~D. Goldstein, Maya Tevlin, Simon Tavar{\'e}, Shai
-  Shaham, and Eric~A. Miska.
+\bibitem[Clark et~al., 2010]{Clark:2010}
+Clark, A.~M., Goldstein, L.~D., Tevlin, M., Tavar{\'e}, S., Shaham, S., and
+  Miska, E.~A. (2010).
 \newblock The microrna mir-124 controls gene expression in the sensory nervous
   system of caenorhabditis elegans.
-\newblock {\em Nucleic Acids Research}, 38(11):3780--3793, 2010.
+\newblock {\em Nucleic Acids Research}, 38(11):3780--3793.
 
-\bibitem{Collier:1996}
-Joanne~R. Collier, Nicholas~A.M. Monk, Philip~K. Maini, and Julian~H. Lewis.
+\bibitem[Collier et~al., 1996]{Collier:1996}
+Collier, J.~R., Monk, N.~A., Maini, P.~K., and Lewis, J.~H. (1996).
 \newblock Pattern formation by lateral inhibition with feedback: a mathematical
   model of delta-notch intercellular signalling.
-\newblock {\em Journal of Theoretical Biology}, 183(4):429 -- 446, 1996.
+\newblock {\em Journal of Theoretical Biology}, 183(4):429 -- 446.
 
-\bibitem{Dai:09}
-Z~Dai, Z~Chen, H~Ye, L~Zhou, L~Cao, Y~Wang, S~Peng, and L~Chen.
+\bibitem[Dai et~al., 2009]{Dai:09}
+Dai, Z., Chen, Z., Ye, H., Zhou, L., Cao, L., Wang, Y., Peng, S., and Chen, L.
+  (2009).
 \newblock Characterization of {microRNAs} in cephalochordates reveals a
   correlation between {microRNA} repertoire homology and morphological
   similarity in chordate evolution.
-\newblock {\em Evol Dev.}, 11:41--49, 2009.
+\newblock {\em Evol Dev.}, 11:41--49.
 
-\bibitem{Delsuc:2017}
-Frederic Delsuc, Herve Philippe, Georgia Tsagkogeorga, Paul Simion, Marie-Ka
-  Tilak, Xavier Turon, Susanna Lopez-Legentil, Jacques Piette, Patrick Lemaire,
-  and Emmanuel J.~P. Douzery.
+\bibitem[Delsuc et~al., 2017]{Delsuc:2017}
+Delsuc, F., Philippe, H., Tsagkogeorga, G., Simion, P., Tilak, M.-K., Turon,
+  X., Lopez-Legentil, S., Piette, J., Lemaire, P., and Douzery, E. J.~P.
+  (2017).
 \newblock A phylogenomic framework and timescale for comparative genomics and
   evolutionary developmental biology of tunicates.
-\newblock {\em bioRxiv}, 2017.
+\newblock {\em bioRxiv}.
 
-\bibitem{Denoeud1381}
-France Denoeud, Simon Henriet, Sutada Mungpakdee, Jean-Marc Aury, Corinne
-  Da~Silva, Henner Brinkmann, Jana Mikhaleva, Lisbeth~Charlotte Olsen, Claire
-  Jubin, Cristian Ca{\~n}estro, Jean-Marie Bouquet, Gemma Danks, Julie Poulain,
-  Coen Campsteijn, Marcin Adamski, Ismael Cross, Fekadu Yadetie, Matthieu
-  Muffato, Alexandra Louis, Stephen Butcher, Georgia Tsagkogeorga, Anke Konrad,
-  Sarabdeep Singh, Marit~Flo Jensen, Evelyne~Huynh Cong, Helen
-  Eikeseth-Otteraa, Benjamin Noel, V{\'e}ronique Anthouard, Betina~M. Porcel,
-  Rym Kachouri-Lafond, Atsuo Nishino, Matteo Ugolini, Pascal Chourrout, Hiroki
-  Nishida, Rein Aasland, Snehalata Huzurbazar, Eric Westhof, Fr{\'e}d{\'e}ric
-  Delsuc, Hans Lehrach, Richard Reinhardt, Jean Weissenbach, Scott~W. Roy,
-  Fran{\c c}ois Artiguenave, John~H. Postlethwait, J.~Robert Manak, Eric~M.
-  Thompson, Olivier Jaillon, Louis Du~Pasquier, Pierre Boudinot, David~A.
-  Liberles, Jean-Nicolas Volff, Herv{\'e} Philippe, Boris Lenhard, Hugues~Roest
-  Crollius, Patrick Wincker, and Daniel Chourrout.
+\bibitem[Denoeud et~al., 2010]{Denoeud1381}
+Denoeud, F., Henriet, S., Mungpakdee, S., Aury, J.-M., Da~Silva, C., Brinkmann,
+  H., Mikhaleva, J., Olsen, L.~C., Jubin, C., Ca{\~n}estro, C., Bouquet, J.-M.,
+  Danks, G., Poulain, J., Campsteijn, C., Adamski, M., Cross, I., Yadetie, F.,
+  Muffato, M., Louis, A., Butcher, S., Tsagkogeorga, G., Konrad, A., Singh, S.,
+  Jensen, M.~F., Cong, E.~H., Eikeseth-Otteraa, H., Noel, B., Anthouard, V.,
+  Porcel, B.~M., Kachouri-Lafond, R., Nishino, A., Ugolini, M., Chourrout, P.,
+  Nishida, H., Aasland, R., Huzurbazar, S., Westhof, E., Delsuc, F., Lehrach,
+  H., Reinhardt, R., Weissenbach, J., Roy, S.~W., Artiguenave, F.,
+  Postlethwait, J.~H., Manak, J.~R., Thompson, E.~M., Jaillon, O., Du~Pasquier,
+  L., Boudinot, P., Liberles, D.~A., Volff, J.-N., Philippe, H., Lenhard, B.,
+  Crollius, H.~R., Wincker, P., and Chourrout, D. (2010).
 \newblock Plasticity of animal genome architecture unmasked by rapid evolution
   of a pelagic tunicate.
-\newblock {\em Science}, 330(6009):1381--1385, 2010.
+\newblock {\em Science}, 330(6009):1381--1385.
 
-\bibitem{Friedlaender:12}
-Marc~R. Friedl{\"a}nder, Sebastian~D. Mackowiak, Na~Li, Wei Chen, and Nikolaus
-  Rajewsky.
+\bibitem[Friedl{\"a}nder et~al., 2012]{Friedlaender:12}
+Friedl{\"a}nder, M.~R., Mackowiak, S.~D., Li, N., Chen, W., and Rajewsky, N.
+  (2012).
 \newblock {miRDeep2} accurately identifies known and hundreds of novel microrna
   genes in seven animal clades.
-\newblock {\em Nucleic Acids Res.}, 40:37--52, 2012.
+\newblock {\em Nucleic Acids Res.}, 40:37--52.
 
-\bibitem{Fu:08}
-Xianghui Fu, Marcin Adamski, and Eric~M. Thompson.
+\bibitem[Fu et~al., 2008]{Fu:08}
+Fu, X., Adamski, M., and Thompson, E.~M. (2008).
 \newblock Altered {miRNA} repertoire in the simplified chordate,
   \emph{Oikopleura dioica}.
-\newblock {\em Mol.\ Biol.\ Evol.}, 25:1067--1080, 2008.
+\newblock {\em Mol.\ Biol.\ Evol.}, 25:1067--1080.
 
-\bibitem{Galderisi:2003rt}
-Umberto Galderisi, Francesco~Paolo Jori, and Antonio Giordano.
+\bibitem[Galderisi et~al., 2003]{Galderisi:2003rt}
+Galderisi, U., Jori, F.~P., and Giordano, A. (2003).
 \newblock Cell cycle regulation and neural differentiation.
-\newblock {\em Oncogene}, 22:5208 EP --, 08 2003.
+\newblock {\em Oncogene}, 22:5208 EP --.
 
-\bibitem{Ganot2004}
-Philippe Ganot, Torben Kalles{\o}e, Richard Reinhardt, Daniel Chourrout, and
-  Eric~M. Thompson.
+\bibitem[Ganot et~al., 2004]{Ganot2004}
+Ganot, P., Kalles{\o}e, T., Reinhardt, R., Chourrout, D., and Thompson, E.~M.
+  (2004).
 \newblock Spliced-leader rna trans splicing in a chordate, oikopleura dioica,
   with a compact genome.
-\newblock {\em Molecular and Cellular Biology}, 24(17):7795--7805, 2004.
+\newblock {\em Molecular and Cellular Biology}, 24(17):7795--7805.
 
-\bibitem{Griffiths-Jones2011}
-Sam Griffiths-Jones, Jerome H~L Hui, Antonio Marco, and Matthew Ronshaugen.
+\bibitem[Griffiths-Jones et~al., 2011]{Griffiths-Jones2011}
+Griffiths-Jones, S., Hui, J. H.~L., Marco, A., and Ronshaugen, M. (2011).
 \newblock {MicroRNA evolution by arm switching}.
-\newblock {\em EMBO reports}, 12(2):172--177, 2011.
+\newblock {\em EMBO reports}, 12(2):172--177.
 
-\bibitem{Heimberg:10}
-A~M Heimberg, R~Cowper-{Sal$\cdot$lari}, M~S{\'e}mon, P~C Donoghue, and Kevin~J
-  Peterson.
+\bibitem[Heimberg et~al., 2010]{Heimberg:10}
+Heimberg, A.~M., Cowper-{Sal$\cdot$lari}, R., S{\'e}mon, M., Donoghue, P.~C.,
+  and Peterson, K.~J. (2010).
 \newblock {MicroRNAs} reveal the interrelationships of hagfish, lampreys, and
   gnathostomes and the nature of the ancestral vertebrate.
-\newblock {\em Proc. Natl. Acad. Sci. USA}, 107:19379--19383, 2010.
+\newblock {\em Proc. Natl. Acad. Sci. USA}, 107:19379--19383.
 
-\bibitem{Heimberg:08}
-A.~M. Heimberg, L.~F. Sempere, V.~N. Moy, P.~C.~J. Donoghue, and K.J. Peterson.
+\bibitem[Heimberg et~al., 2007]{Heimberg:08}
+Heimberg, A.~M., Sempere, L.~F., Moy, V.~N., Donoghue, P. C.~J., and Peterson,
+  K. (2007).
 \newblock {MicroRNA}s and the advent of vertebrate morphological complexity.
-\newblock {\em Proc. Natl. Acad. Sci. USA}, 105:2946--2950, 2007.
+\newblock {\em Proc. Natl. Acad. Sci. USA}, 105:2946--2950.
 
-\bibitem{Hendrix2010}
-D~Hendrix, M~Levine, and W~Shi.
+\bibitem[Hendrix et~al., 2010]{Hendrix2010}
+Hendrix, D., Levine, M., and Shi, W. (2010).
 \newblock {miRTRAP, a computational method for the systematic identification of
   miRNAs from high throughput sequencing data}.
-\newblock {\em Genome Biol}, 11(4):R39, 2010.
+\newblock {\em Genome Biol}, 11(4):R39.
 
-\bibitem{Hertel:12a}
-Jana Hertel, Sebastian Bartschat, Axel Wintsche, Christian Otto, {The Students
-  of the Bioinformatics Computer Lab 2011}, and Peter~F. Stadler.
+\bibitem[Hertel et~al., 2012]{Hertel:12a}
+Hertel, J., Bartschat, S., Wintsche, A., Otto, C., {The Students of the
+  Bioinformatics Computer Lab 2011}, and Stadler, P.~F. (2012).
 \newblock Evolution of the let-7 {microRNA} family.
-\newblock {\em RNA Biology}, 9:231--241, 2012.
+\newblock {\em RNA Biology}, 9:231--241.
 
-\bibitem{Hertel:06a}
-Jana Hertel, Manuela Lindemeyer, Kristin Missal, Claudia Fried, Andrea Tanzer,
-  Christoph Flamm, Ivo~L. Hofacker, Peter~F. Stadler, and {The Students of
-  Bioinformatics Computer Labs 2004 and 2005}.
+\bibitem[Hertel et~al., 2006]{Hertel:06a}
+Hertel, J., Lindemeyer, M., Missal, K., Fried, C., Tanzer, A., Flamm, C.,
+  Hofacker, I.~L., Stadler, P.~F., and {The Students of Bioinformatics Computer
+  Labs 2004 and 2005} (2006).
 \newblock The expansion of the metazoan micro{RNA} repertoire.
-\newblock {\em BMC Genomics}, 7:15 [epub], 2006.
+\newblock {\em BMC Genomics}, 7:15 [epub].
 
-\bibitem{Hertel:15a}
-Jana Hertel and Peter~F. Stadler.
+\bibitem[Hertel and Stadler, 2015]{Hertel:15a}
+Hertel, J. and Stadler, P.~F. (2015).
 \newblock The expansion of animal micro{RNA} families revisited.
-\newblock {\em Life}, 5:905--920, 2015.
+\newblock {\em Life}, 5:905--920.
 
-\bibitem{Holland2015}
-Linda~Z. Holland.
+\bibitem[Holland, 2015]{Holland2015}
+Holland, L.~Z. (2015).
 \newblock {Genomics, evolution and development of amphioxus and tunicates: The
-  Goldilocks principle}, 2015.
+  Goldilocks principle}.
 
-\bibitem{Ikuta:2005}
-Tetsuro Ikuta and Hidetoshi Saiga.
+\bibitem[Ikuta and Saiga, 2005]{Ikuta:2005}
+Ikuta, T. and Saiga, H. (2005).
 \newblock Organization of hox genes in ascidians: Present, past, and future.
-\newblock {\em Developmental Dynamics}, 233(2):382--389, 2005.
+\newblock {\em Developmental Dynamics}, 233(2):382--389.
 
-\bibitem{JoyceTang2013}
-W.~{Joyce Tang}, Jerry~S. Chen, and Robert~W. Zeller.
+\bibitem[{Joyce Tang} et~al., 2013]{JoyceTang2013}
+{Joyce Tang}, W., Chen, J.~S., and Zeller, R.~W. (2013).
 \newblock {Transcriptional regulation of the peripheral nervous system in Ciona
   intestinalis}.
-\newblock {\em Developmental Biology}, 378(2):183--193, 2013.
+\newblock {\em Developmental Biology}, 378(2):183--193.
 
-\bibitem{Jue2016}
-Nathaniel~K. Jue, Paola~G. Batta-Lona, Sarah Trusiak, Craig Obergfell, Ann
-  Bucklin, Michael~J. O'neill, and Rachel~J. O'neill.
+\bibitem[Jue et~al., 2016]{Jue2016}
+Jue, N.~K., Batta-Lona, P.~G., Trusiak, S., Obergfell, C., Bucklin, A.,
+  O'neill, M.~J., and O'neill, R.~J. (2016).
 \newblock {Rapid evolutionary rates and unique genomic signatures discovered in
   the first reference genome for the southern ocean salp, salpa thompsoni
   (Urochordata, Thaliacea)}.
-\newblock {\em Genome Biology and Evolution}, 8(10):3171--3186, 2016.
+\newblock {\em Genome Biology and Evolution}, 8(10):3171--3186.
 
-\bibitem{Keshavan2010}
-Raja Keshavan, Michael Virata, Anisha Keshavan, and Robert~W. Zeller.
+\bibitem[Keshavan et~al., 2010]{Keshavan2010}
+Keshavan, R., Virata, M., Keshavan, A., and Zeller, R.~W. (2010).
 \newblock Computational identification of ciona intestinalis micrornas.
-\newblock {\em Zoological Science}, 27(2):162--170, 2010.
+\newblock {\em Zoological Science}, 27(2):162--170.
 
-\bibitem{Knapp:2013}
-Dunja Knapp, Herbert Schulz, Cynthia~Alexander Rascon, Michael Volkmer, Juliane
-  Scholz, Eugen Nacu, Mu~Le, Sergey Novozhilov, Akira Tazaki, Stephanie Protze,
-  Tina Jacob, Norbert Hubner, Bianca Habermann, and Elly~M. Tanaka.
+\bibitem[Knapp et~al., 2013]{Knapp:2013}
+Knapp, D., Schulz, H., Rascon, C.~A., Volkmer, M., Scholz, J., Nacu, E., Le,
+  M., Novozhilov, S., Tazaki, A., Protze, S., Jacob, T., Hubner, N., Habermann,
+  B., and Tanaka, E.~M. (2013).
 \newblock Comparative transcriptional profiling of the axolotl limb identifies
   a tripartite regeneration-specific gene program.
-\newblock {\em PLOS ONE}, 8(5):1--20, 05 2013.
+\newblock {\em PLOS ONE}, 8(5):1--20.
 
-\bibitem{Kocot:2018}
-Kevin~M. Kocot, Michael~G. Tassia, Kenneth~M. Halanych, and Billie~J. Swalla.
+\bibitem[Kocot et~al., 2018]{Kocot:2018}
+Kocot, K.~M., Tassia, M.~G., Halanych, K.~M., and Swalla, B.~J. (2018).
 \newblock Phylogenomics offers resolution of major tunicate relationships.
-\newblock {\em Molecular Phylogenetics and Evolution}, 121:166 -- 173, 2018.
+\newblock {\em Molecular Phylogenetics and Evolution}, 121:166 -- 173.
 
-\bibitem{Kusakabe2013}
-Rie Kusakabe, Saori Tani, Koki Nishitsuji, Miyuki Shindo, Kohji Okamura, Yuki
-  Miyamoto, Kenta Nakai, Yutaka Suzuki, Takehiro~G. Kusakabe, and Kunio Inoue.
+\bibitem[Kusakabe et~al., 2013]{Kusakabe2013}
+Kusakabe, R., Tani, S., Nishitsuji, K., Shindo, M., Okamura, K., Miyamoto, Y.,
+  Nakai, K., Suzuki, Y., Kusakabe, T.~G., and Inoue, K. (2013).
 \newblock {Characterization of the compact bicistronic microRNA precursor,
   miR-1/miR-133, expressed specifically in Ciona muscle tissues}.
-\newblock {\em Gene Expression Patterns}, 13(1-2):43--50, 2013.
+\newblock {\em Gene Expression Patterns}, 13(1-2):43--50.
 
-\bibitem{Langenberger2009}
-David Langenberger, Clara Bermudez-Santana, Jana Hertel, Steve Hoffmann,
-  Philipp Khaitovich, and Peter~F. Stadler.
+\bibitem[Langenberger et~al., 2009]{Langenberger2009}
+Langenberger, D., Bermudez-Santana, C., Hertel, J., Hoffmann, S., Khaitovich,
+  P., and Stadler, P.~F. (2009).
 \newblock Evidence for human microrna-offset rnas in small rna sequencing data.
-\newblock {\em Bioinformatics}, 25(18):2298--2301, 2009.
+\newblock {\em Bioinformatics}, 25(18):2298--2301.
 
-\bibitem{Langenberger:10a}
-David Langenberger, Clara Bermudez-Santana, Peter~F. Stadler, and Steve
-  Hoffmann.
+\bibitem[Langenberger et~al., 2010]{Langenberger:10a}
+Langenberger, D., Bermudez-Santana, C., Stadler, P.~F., and Hoffmann, S.
+  (2010).
 \newblock Identification and classification of small {RNAs} in transcriptome
   sequence data.
-\newblock {\em Pac.\ Symp.\ Biocomput.}, 15:80--87, 2010.
+\newblock {\em Pac.\ Symp.\ Biocomput.}, 15:80--87.
 
-\bibitem{Langenberger:13a}
-David Langenberger, M.~Volkan {\c{C}}akir, Steve Hoffmann, and Peter~F.
-  Stadler.
+\bibitem[Langenberger et~al., 2012]{Langenberger:13a}
+Langenberger, D., {\c{C}}akir, M.~V., Hoffmann, S., and Stadler, P.~F. (2012).
 \newblock Dicer-processed small {RNAs}: Rules and exceptions.
-\newblock {\em J. Exp. Zool: Mol. Dev. Evol.}, 320:35--46, 2012.
+\newblock {\em J. Exp. Zool: Mol. Dev. Evol.}, 320:35--46.
 
-\bibitem{Lee:07a}
-C~T Lee, T~Risom, and W~M Strauss.
+\bibitem[Lee et~al., 2007]{Lee:07a}
+Lee, C.~T., Risom, T., and Strauss, W.~M. (2007).
 \newblock Evolutionary conservation of {microRNA} regulatory circuits: an
   examination of microrna gene complexity and conserved micro{RNA}-target
   interactions through metazoan phylogeny.
-\newblock {\em DNA Cell Biol.}, 26:209--218, 2007.
+\newblock {\em DNA Cell Biol.}, 26:209--218.
 
-\bibitem{ShuLee1997}
-Mary Gwo-Shu Lee and Lex H. T.~Van der Ploeg.
+\bibitem[Lee and der Ploeg, 1997]{ShuLee1997}
+Lee, M. G.-S. and der Ploeg, L. H. T.~V. (1997).
 \newblock Transcription of protein-coding genes in trypanosomes by rna
   polymerase i.
-\newblock {\em Annual Review of Microbiology}, 51(1):463--489, 1997.
+\newblock {\em Annual Review of Microbiology}, 51(1):463--489.
 \newblock PMID: 9343357.
 
-\bibitem{Legendre2005}
-Matthieu Legendre, Andr{\'{e}} Lambert, and Daniel Gautheret.
+\bibitem[Legendre et~al., 2005]{Legendre2005}
+Legendre, M., Lambert, A., and Gautheret, D. (2005).
 \newblock {Profile-based detection of microRNA precursors in animal genomes}.
-\newblock {\em Bioinformatics}, 21(7):841--845, 2005.
+\newblock {\em Bioinformatics}, 21(7):841--845.
 
-\bibitem{Liang:09}
-H~Liang and {W-H.} Li.
+\bibitem[Liang and Li, 2009]{Liang:09}
+Liang, H. and Li, W. (2009).
 \newblock Lowly expressed human microrna genes evolve rapidly.
-\newblock {\em Mol Biol Evol}, 26:1195--1198, 2009.
+\newblock {\em Mol Biol Evol}, 26:1195--1198.
 
-\bibitem{Lin:06}
-Shi-Lung Lin, Joseph~D. Miller, and Shao-Yao~Ying Ying.
+\bibitem[Lin et~al., 2006]{Lin:06}
+Lin, S.-L., Miller, J.~D., and Ying, S.-Y.~Y. (2006).
 \newblock Intronic {MicroRNA} (mirna).
-\newblock {\em J Biomed Biotechnol.}, 2006:26818, 2006.
+\newblock {\em J Biomed Biotechnol.}, 2006:26818.
 
-\bibitem{Lu:08}
-J~Lu, Y~Shen, Q~Wu, S~Kumar, B~He, S~Shi, R~W Carthew, S~M Wang, and C~I Wu.
+\bibitem[Lu et~al., 2008]{Lu:08}
+Lu, J., Shen, Y., Wu, Q., Kumar, S., He, B., Shi, S., Carthew, R.~W., Wang,
+  S.~M., and Wu, C.~I. (2008).
 \newblock The birth and death of {microRNA} genes in \emph{Drosophila}.
-\newblock {\em Nat Genet.}, 40:351--355, 2008.
+\newblock {\em Nat Genet.}, 40:351--355.
 
-\bibitem{Lund:04}
-E~Lund, S~G{\"u}ttinger, A~Calado, J~E Dahlberg, and U~Kutay.
+\bibitem[Lund et~al., 2004]{Lund:04}
+Lund, E., G{\"u}ttinger, S., Calado, A., Dahlberg, J.~E., and Kutay, U. (2004).
 \newblock Nuclear export of {microRNA} precursors.
-\newblock {\em Science}, 303:95--98, 2004.
+\newblock {\em Science}, 303:95--98.
 
-\bibitem{Marco:13}
-A.~Marco, M.~Ninova, M.~Ronshaugen, and S.~Griffiths-Jones.
+\bibitem[Marco et~al., 2013]{Marco:13}
+Marco, A., Ninova, M., Ronshaugen, M., and Griffiths-Jones, S. (2013).
 \newblock Clusters of {microRNAs} emerge by new hairpins in existing
   transcripts.
-\newblock {\em Nucleic Acids Res}, 41:7745--7752, 2013.
+\newblock {\em Nucleic Acids Res}, 41:7745--7752.
 
-\bibitem{Maroney1995}
-P~A Maroney, J~A Denker, E~Darzynkiewicz, R~Laneve, and T~W Nilsen.
+\bibitem[Maroney et~al., 1995]{Maroney1995}
+Maroney, P.~A., Denker, J.~A., Darzynkiewicz, E., Laneve, R., and Nilsen, T.~W.
+  (1995).
 \newblock Most mrnas in the nematode ascaris lumbricoides are trans-spliced: a
   role for spliced leader addition in translational efficiency.
-\newblock {\em RNA}, 1(7):714--723, 1995.
+\newblock {\em RNA}, 1(7):714--723.
 
-\bibitem{MCBEATH2004483}
-Rowena McBeath, Dana~M Pirone, Celeste~M Nelson, Kiran Bhadriraju, and
-  Christopher~S Chen.
+\bibitem[McBeath et~al., 2004]{MCBEATH2004483}
+McBeath, R., Pirone, D.~M., Nelson, C.~M., Bhadriraju, K., and Chen, C.~S.
+  (2004).
 \newblock Cell shape, cytoskeletal tension, and rhoa regulate stem cell lineage
   commitment.
-\newblock {\em Developmental Cell}, 6(4):483 -- 495, 2004.
+\newblock {\em Developmental Cell}, 6(4):483 -- 495.
 
-\bibitem{Meiri2010}
-Eti Meiri, Asaf Levy, Hila Benjamin, Miriam Ben-David, Lahav Cohen, Avital Dov,
-  Nir Dromi, Eran Elyakim, Noga Yerushalmi, Orit Zion, Gila Lithwick-Yanai, and
-  Einat Sitbon.
+\bibitem[Meiri et~al., 2010]{Meiri2010}
+Meiri, E., Levy, A., Benjamin, H., Ben-David, M., Cohen, L., Dov, A., Dromi,
+  N., Elyakim, E., Yerushalmi, N., Zion, O., Lithwick-Yanai, G., and Sitbon, E.
+  (2010).
 \newblock Discovery of micrornas and other small rnas in solid tumors.
-\newblock {\em Nucleic Acids Research}, 38(18):6234--6246, 2010.
+\newblock {\em Nucleic Acids Research}, 38(18):6234--6246.
 
-\bibitem{Meunier:12}
-J~Meunier, F~Lemoine, M~Soumillon, A~Liechti, M~Weier, K~Guschanski, H~Hu,
-  P~Khaitovich, and H~Kaessmann.
+\bibitem[Meunier et~al., 2012]{Meunier:12}
+Meunier, J., Lemoine, F., Soumillon, M., Liechti, A., Weier, M., Guschanski,
+  K., Hu, H., Khaitovich, P., and Kaessmann, H. (2012).
 \newblock Birth and expression evolution of mammalian microrna genes.
-\newblock {\em Genome Res}, 23:34--45, 2012.
+\newblock {\em Genome Res}, 23:34--45.
 
-\bibitem{Missal2005}
-Kristin Missal, Dominic Rose, and Peter~F. Stadler.
+\bibitem[Missal et~al., 2005]{Missal2005}
+Missal, K., Rose, D., and Stadler, P.~F. (2005).
 \newblock {Non-coding RNAs in Ciona intestinalis}.
-\newblock {\em Bioinformatics}, 21(SUPPL. 2):77--78, 2005.
+\newblock {\em Bioinformatics}, 21(SUPPL. 2):77--78.
 
-\bibitem{Nawrocki:13}
-Eric~P Nawrocki and Sean~R Eddy.
+\bibitem[Nawrocki and Eddy, 2013a]{Nawrocki:13}
+Nawrocki, E.~P. and Eddy, S.~R. (2013a).
 \newblock Infernal 1.1: 100-fold faster {RNA} homology searches.
-\newblock {\em Bioinformatics}, 29:2933--2935, 2013.
+\newblock {\em Bioinformatics}, 29:2933--2935.
 
-\bibitem{Nawrocki:2013}
-Eric~P. Nawrocki and Sean~R. Eddy.
+\bibitem[Nawrocki and Eddy, 2013b]{Nawrocki:2013}
+Nawrocki, E.~P. and Eddy, S.~R. (2013b).
 \newblock Infernal 1.1: 100-fold faster rna homology searches.
-\newblock {\em Bioinformatics}, 29(22):2933--2935, 2013.
+\newblock {\em Bioinformatics}, 29(22):2933--2935.
 
-\bibitem{Bogu2013}
-Shi-Yan Ng, Gireesh~K. Bogu, Boon~Seng Soh, and Lawrence~W. Stanton.
+\bibitem[Ng et~al., 2013]{Bogu2013}
+Ng, S.-Y., Bogu, G.~K., Soh, B.~S., and Stanton, L.~W. (2013).
 \newblock The long noncoding rna rmst interacts with sox2 to regulate
   neurogenesis.
-\newblock {\em Molecular Cell}, 51(3):349--359, 2013.
+\newblock {\em Molecular Cell}, 51(3):349--359.
 
-\bibitem{Niwa:07}
-R~Niwa and F~J. Slack.
+\bibitem[Niwa and Slack, 2007]{Niwa:07}
+Niwa, R. and Slack, F.~J. (2007).
 \newblock The evolution of animal {microRNA} function.
-\newblock {\em Curr Opin Genet Dev.}, 17:145--150, 2007.
+\newblock {\em Curr Opin Genet Dev.}, 17:145--150.
 
-\bibitem{Norden-Krichmar2007}
-Trina~M Norden-Krichmar, Janette Holtz, Amy~E Pasquinelli, and Terry
-  Gaasterland.
+\bibitem[Norden-Krichmar et~al., 2007]{Norden-Krichmar2007}
+Norden-Krichmar, T.~M., Holtz, J., Pasquinelli, A.~E., and Gaasterland, T.
+  (2007).
 \newblock {Computational prediction and experimental validation of Ciona
   intestinalis microRNA genes.}
-\newblock {\em BMC genomics}, 8(1):445, 2007.
+\newblock {\em BMC genomics}, 8(1):445.
 
-\bibitem{Pasquinelli2003}
-A.~E. Pasquinelli, A.~McCoy, E.~Jimenez, E.~Salo, G.~Ruvkun, M.~Q. Martindale,
-  and J.~Baguna.
+\bibitem[Pasquinelli et~al., 2003]{Pasquinelli2003}
+Pasquinelli, A.~E., McCoy, A., Jimenez, E., Salo, E., Ruvkun, G., Martindale,
+  M.~Q., and Baguna, J. (2003).
 \newblock {{E}xpression of the 22 nucleotide let-7 heterochronic {R}{N}{A}
   throughout the {M}etazoa: a role in life history evolution?}
-\newblock {\em Evol. Dev.}, 5(4):372--378, 2003.
+\newblock {\em Evol. Dev.}, 5(4):372--378.
 
-\bibitem{Pasquinelli2000}
-a~E Pasquinelli, B~J Reinhart, F~Slack, M~Q Martindale, M~I Kuroda, B~Maller,
-  D~C Hayward, E~E Ball, B~Degnan, P~M{\"{u}}ller, J~Spring, a~Srinivasan,
-  M~Fishman, J~Finnerty, J~Corbo, M~Levine, P~Leahy, E~Davidson, and G~Ruvkun.
+\bibitem[Pasquinelli et~al., 2000]{Pasquinelli2000}
+Pasquinelli, a.~E., Reinhart, B.~J., Slack, F., Martindale, M.~Q., Kuroda,
+  M.~I., Maller, B., Hayward, D.~C., Ball, E.~E., Degnan, B., M{\"{u}}ller, P.,
+  Spring, J., Srinivasan, a., Fishman, M., Finnerty, J., Corbo, J., Levine, M.,
+  Leahy, P., Davidson, E., and Ruvkun, G. (2000).
 \newblock {Conservation of the sequence and temporal expression of let-7
   heterochronic regulatory RNA.}
-\newblock {\em Nature}, 408(6808):86--89, 2000.
+\newblock {\em Nature}, 408(6808):86--89.
 
-\bibitem{Peterson:09}
-Kevin~J. Peterson, Michael~R. Dietrich, and Mark~A. McPeek.
+\bibitem[Peterson et~al., 2009]{Peterson:09}
+Peterson, K.~J., Dietrich, M.~R., and McPeek, M.~A. (2009).
 \newblock {MicroRNAs} and metazoan macroevolution: insights into canalization,
   complexity, and the {C}ambrian explosion.
-\newblock {\em Bioessays}, 31:736--747, 2009.
+\newblock {\em Bioessays}, 31:736--747.
 
-\bibitem{Price:11}
-N~Price, R~A Cartwright, N~Sabath, D~Graur, and R~B Azevedo.
+\bibitem[Price et~al., 2011]{Price:11}
+Price, N., Cartwright, R.~A., Sabath, N., Graur, D., and Azevedo, R.~B. (2011).
 \newblock Neutral evolution of robustness in drosophila {microRNA} precursors.
-\newblock {\em Mol Biol Evol}, 28:2115--2123, 2011.
+\newblock {\em Mol Biol Evol}, 28:2115--2123.
 
-\bibitem{Prochnik:07}
-S~E Prochnik, D~S Rokhsar, and A~A Aboobaker.
+\bibitem[Prochnik et~al., 2007]{Prochnik:07}
+Prochnik, S.~E., Rokhsar, D.~S., and Aboobaker, A.~A. (2007).
 \newblock Evidence for a {microRNA} expansion in the bilaterian ancestor.
-\newblock {\em Dev Genes Evol.}, 217:73--77, 2007.
+\newblock {\em Dev Genes Evol.}, 217:73--77.
 
-\bibitem{Reinhart:2000mz}
-Brenda~J. Reinhart, Frank~J. Slack, Michael Basson, Amy~E. Pasquinelli, Jill~C.
-  Bettinger, Ann~E. Rougvie, H.~Robert Horvitz, and Gary Ruvkun.
+\bibitem[Reinhart et~al., 2000]{Reinhart:2000mz}
+Reinhart, B.~J., Slack, F.~J., Basson, M., Pasquinelli, A.~E., Bettinger,
+  J.~C., Rougvie, A.~E., Horvitz, H.~R., and Ruvkun, G. (2000).
 \newblock The 21-nucleotide let-7 rna regulates developmental timing in
   caenorhabditis elegans.
-\newblock {\em Nature}, 403:901 EP --, 02 2000.
+\newblock {\em Nature}, 403:901 EP --.
 
-\bibitem{Satou2008}
-Yutaka Satou, Katsuhiko Mineta, Michio Ogasawara, Yasunori Sasakura, Eiichi
-  Shoguchi, Keisuke Ueno, Lixy Yamada, Jun Matsumoto, Jessica Wasserscheid, Ken
-  Dewar, Graham~B. Wiley, Simone~L. Macmil, Bruce~A. Roe, Robert~W. Zeller,
-  Kenneth~EM Hastings, Patrick Lemaire, Erika Lindquist, Toshinori Endo, Kohji
-  Hotta, and Kazuo Inaba.
+\bibitem[Satou et~al., 2008]{Satou2008}
+Satou, Y., Mineta, K., Ogasawara, M., Sasakura, Y., Shoguchi, E., Ueno, K.,
+  Yamada, L., Matsumoto, J., Wasserscheid, J., Dewar, K., Wiley, G.~B., Macmil,
+  S.~L., Roe, B.~A., Zeller, R.~W., Hastings, K.~E., Lemaire, P., Lindquist,
+  E., Endo, T., Hotta, K., and Inaba, K. (2008).
 \newblock Improved genome assembly and evidence-based global gene model set for
   the chordate ciona intestinalis: new insight into intron and operon
   populations.
-\newblock {\em Genome Biology}, 9(10):R152, Oct 2008.
+\newblock {\em Genome Biology}, 9(10):R152.
 
-\bibitem{Sempere:06}
-L~F Sempere, C~N Cole, M~A McPeek, and K~J Peterson.
+\bibitem[Sempere et~al., 2006]{Sempere:06}
+Sempere, L.~F., Cole, C.~N., McPeek, M.~A., and Peterson, K.~J. (2006).
 \newblock The phylogenetic distribution of metazoan micro{RNA}s: insights into
   evolutionary complexity and constraint.
-\newblock {\em J Exp Zoolog B Mol Dev Evol.}, 306B:575--588, 2006.
+\newblock {\em J Exp Zoolog B Mol Dev Evol.}, 306B:575--588.
 
-\bibitem{Sempere2004}
-Lorenzo~F. Sempere, Sarah Freemantle, Ian Pitha-Rowe, Eric Moss, Ethan
-  Dmitrovsky, and Victor Ambros.
+\bibitem[Sempere et~al., 2004]{Sempere2004}
+Sempere, L.~F., Freemantle, S., Pitha-Rowe, I., Moss, E., Dmitrovsky, E., and
+  Ambros, V. (2004).
 \newblock Expression profiling of mammalian micrornas uncovers a subset of
   brain-expressed micrornas with possible roles in murine and human neuronal
   differentiation.
-\newblock {\em Genome Biology}, 5(3):R13, Feb 2004.
+\newblock {\em Genome Biology}, 5(3):R13.
 
-\bibitem{Shabalina:08}
-S~A Shabalina and E~V Koonin.
+\bibitem[Shabalina and Koonin, 2008]{Shabalina:08}
+Shabalina, S.~A. and Koonin, E.~V. (2008).
 \newblock Origins and evolution of eukaryotic {RNA} interference.
-\newblock {\em Trends Ecol Evol.}, 23:578--587, 2008.
+\newblock {\em Trends Ecol Evol.}, 23:578--587.
 
-\bibitem{Shi2009}
-Weiyang Shi, David Hendrix, Mike Levine, and Benjamin Haley.
+\bibitem[Shi et~al., 2009]{Shi2009}
+Shi, W., Hendrix, D., Levine, M., and Haley, B. (2009).
 \newblock {A distinct class of small RNAs arises from pre-miRNA--proximal
   regions in a simple chordate}.
-\newblock {\em Nature Structural {\&} Molecular Biology}, 16(2):183--189, 2009.
+\newblock {\em Nature Structural {\&} Molecular Biology}, 16(2):183--189.
 
-\bibitem{Spina:2017}
-Elijah~J. Spina, Elmer Guzman, Hongjun Zhou, Kenneth~S. Kosik, and William~C.
-  Smith.
+\bibitem[Spina et~al., 2017]{Spina:2017}
+Spina, E.~J., Guzman, E., Zhou, H., Kosik, K.~S., and Smith, W.~C. (2017).
 \newblock A microrna-mrna expression network during oral siphon regeneration in
   ciona.
-\newblock {\em Development}, 144(10):1787--1797, 2017.
+\newblock {\em Development}, 144(10):1787--1797.
 
-\bibitem{Swalla1995}
-B~J Swalla and W~R Jeffery.
+\bibitem[Swalla and Jeffery, 1995]{Swalla1995}
+Swalla, B.~J. and Jeffery, W.~R. (1995).
 \newblock {A maternal RNA localized in the yellow crescent is segregated to the
-  larval muscle cells during ascidian development.}, 1995.
+  larval muscle cells during ascidian development.}
 
-\bibitem{Taft2010}
-Ryan~J Taft, Ken~C Pang, Timothy~R Mercer, Marcel Dinger, and John~S Mattick.
+\bibitem[Taft et~al., 2010]{Taft2010}
+Taft, R.~J., Pang, K.~C., Mercer, T.~R., Dinger, M., and Mattick, J.~S. (2010).
 \newblock Non-coding rnas: regulators of disease.
-\newblock {\em The Journal of Pathology}, 220(2):126--139, 2010.
+\newblock {\em The Journal of Pathology}, 220(2):126--139.
 
-\bibitem{Tanzer:10a}
-Andrea Tanzer, Markus Riester, Jana Hertel, Clara~Isabel Bermudez-Santana, Jan
-  Gorodkin, Ivo~L. Hofacker, and Peter~F. Stadler.
+\bibitem[Tanzer et~al., 2010]{Tanzer:10a}
+Tanzer, A., Riester, M., Hertel, J., Bermudez-Santana, C.~I., Gorodkin, J.,
+  Hofacker, I.~L., and Stadler, P.~F. (2010).
 \newblock Evolutionary genomics of micro{RNA}s and their relatives.
-\newblock In Gustavo Caetano-Anolles, editor, {\em Evolutionary Genomics and
-  Systems Biology}, pages 295--327. Wiley-Blackwell, Hoboken, NJ, 2010.
+\newblock In Caetano-Anolles, G., editor, {\em Evolutionary Genomics and
+  Systems Biology}, pages 295--327. Wiley-Blackwell, Hoboken, NJ.
 
-\bibitem{Tanzer:04a}
-Andrea Tanzer and Peter~F. Stadler.
+\bibitem[Tanzer and Stadler, 2004]{Tanzer:04a}
+Tanzer, A. and Stadler, P.~F. (2004).
 \newblock Molecular evolution of a micro{RNA} cluster.
-\newblock {\em J.\ Mol.\ Biol.}, 339:327--335, 2004.
+\newblock {\em J.\ Mol.\ Biol.}, 339:327--335.
 
-\bibitem{Terai2012}
-Goro Terai, Hiroaki Okida, Kiyoshi Asai, and Toutai Mituyama.
+\bibitem[Terai et~al., 2012]{Terai2012}
+Terai, G., Okida, H., Asai, K., and Mituyama, T. (2012).
 \newblock {Prediction of Conserved Precursors of miRNAs and Their Mature Forms
   by Integrating Position-Specific Structural Features}.
-\newblock {\em PLoS ONE}, 7(9):1--11, 2012.
+\newblock {\em PLoS ONE}, 7(9):1--11.
 
-\bibitem{Umbach2010}
-Jennifer~L. Umbach and Bryan~R. Cullen.
+\bibitem[Umbach and Cullen, 2010]{Umbach2010}
+Umbach, J.~L. and Cullen, B.~R. (2010).
 \newblock In-depth analysis of kaposi's sarcoma-associated herpesvirus microrna
   expression provides insights into the mammalian microrna-processing
   machinery.
-\newblock {\em Journal of Virology}, 84(2):695--703, 2010.
+\newblock {\em Journal of Virology}, 84(2):695--703.
 
-\bibitem{UMBACH2010592}
-Jennifer~L. Umbach, Lisa~I. Strelow, Scott~W. Wong, and Bryan~R. Cullen.
+\bibitem[Umbach et~al., 2010]{UMBACH2010592}
+Umbach, J.~L., Strelow, L.~I., Wong, S.~W., and Cullen, B.~R. (2010).
 \newblock Analysis of rhesus rhadinovirus micrornas expressed in virus-induced
   tumors from infected rhesus macaques.
-\newblock {\em Virology}, 405(2):592 -- 599, 2010.
+\newblock {\em Virology}, 405(2):592 -- 599.
 
-\bibitem{Vandenberghe2001}
-Amanda~E. Vandenberghe, Thomas~H. Meedel, and Kenneth~E.M. Hastings.
+\bibitem[Vandenberghe et~al., 2001]{Vandenberghe2001}
+Vandenberghe, A.~E., Meedel, T.~H., and Hastings, K.~E. (2001).
 \newblock mrna 5′-leader trans-splicing in the chordates.
-\newblock {\em Genes \& Development}, 15(3):294--303, 2001.
+\newblock {\em Genes \& Development}, 15(3):294--303.
 
-\bibitem{Velandia-Huerto2016}
-C.~A. Velandia-Huerto, A.~A. Gittenberger, F.~D. Brown, P.~F. Stadler, and
-  C.~I. Bermudez-Santana.
+\bibitem[Velandia-Huerto et~al., 2016]{Velandia-Huerto2016}
+Velandia-Huerto, C.~A., Gittenberger, A.~A., Brown, F.~D., Stadler, P.~F., and
+  Bermudez-Santana, C.~I. (2016).
 \newblock Automated detection of ncrnas in the draft genome sequence of a
   colonial tunicate: the carpet sea squirt didemnum vexillum.
-\newblock {\em BMC Genomics}, 17:691, Aug 2016.
+\newblock {\em BMC Genomics}, 17:691.
 
-\bibitem{Wang2017}
-Kai Wang, Christelle Dantec, Patrick Lemaire, Takeshi~A. Onuma, and Hiroki
-  Nishida.
+\bibitem[Wang et~al., 2017]{Wang2017}
+Wang, K., Dantec, C., Lemaire, P., Onuma, T.~A., and Nishida, H. (2017).
 \newblock {Genome-wide survey of miRNAs and their evolutionary history in the
   ascidian, Halocynthia roretzi}.
-\newblock {\em BMC Genomics}, 18(1):314, 2017.
+\newblock {\em BMC Genomics}, 18(1):314.
 
-\bibitem{Wheeler:09}
-B~M Wheeler, A~M Heimberg, V~N Moy, E~A Sperling, T~W Holstein, S~Heber, and
-  K~J Peterson.
+\bibitem[Wheeler et~al., 2009]{Wheeler:09}
+Wheeler, B.~M., Heimberg, A.~M., Moy, V.~N., Sperling, E.~A., Holstein, T.~W.,
+  Heber, S., and Peterson, K.~J. (2009).
 \newblock The deep evolution of metazoan micro{RNA}s.
-\newblock {\em Evol. Dev.}, 11:50--68, 2009.
+\newblock {\em Evol. Dev.}, 11:50--68.
 
-\bibitem{Will2007}
-Sebastian Will, Kristin Reiche, Ivo~L. Hofacker, Peter~F. Stadler, and Rolf
-  Backofen.
+\bibitem[Will et~al., 2007]{Will2007}
+Will, S., Reiche, K., Hofacker, I.~L., Stadler, P.~F., and Backofen, R. (2007).
 \newblock {Inferring noncoding RNA families and classes by means of
   genome-scale structure-based clustering}.
-\newblock {\em PLoS Computational Biology}, 3(4):680--691, 2007.
+\newblock {\em PLoS Computational Biology}, 3(4):680--691.
 
-\bibitem{Yagi2003}
-Kasumi Yagi, Yutaka Satou, Fran{\c{c}}oise Mazet, Sebastian~M. Shimeld, Bernard
-  Degnan, Daniel Rokhsar, Michael Levine, Yuji Kohara, and Nori Satoh.
+\bibitem[Yagi et~al., 2003]{Yagi2003}
+Yagi, K., Satou, Y., Mazet, F., Shimeld, S.~M., Degnan, B., Rokhsar, D.,
+  Levine, M., Kohara, Y., and Satoh, N. (2003).
 \newblock A genomewide survey of developmentally relevant genes in ciona
   intestinalis.
-\newblock {\em Development Genes and Evolution}, 213(5):235--244, Jun 2003.
+\newblock {\em Development Genes and Evolution}, 213(5):235--244.
 
-\bibitem{Zhao2016}
-Jin Zhao, Gavin~R. Schnitzler, Lakshmanan~K. Iyer, Mark~J. Aronovitz, Wendy~E.
-  Baur, and Richard~H. Karas.
+\bibitem[Zhao et~al., 2016]{Zhao2016}
+Zhao, J., Schnitzler, G.~R., Iyer, L.~K., Aronovitz, M.~J., Baur, W.~E., and
+  Karas, R.~H. (2016).
 \newblock Microrna-offset rna alters gene expression and cell proliferation.
-\newblock {\em PLOS ONE}, 11(6):1--16, 06 2016.
+\newblock {\em PLOS ONE}, 11(6):1--16.
 
-\bibitem{Zhao2018}
-Yuhai Zhao, Lin Cong, and Walter~J. Lukiw.
+\bibitem[Zhao et~al., 2018]{Zhao2018}
+Zhao, Y., Cong, L., and Lukiw, W.~J. (2018).
 \newblock Plant and animal micrornas (mirnas) and their potential for
   inter-kingdom communication.
-\newblock {\em Cellular and Molecular Neurobiology}, 38(1):133--140, Jan 2018.
+\newblock {\em Cellular and Molecular Neurobiology}, 38(1):133--140.
 
 \end{thebibliography}
