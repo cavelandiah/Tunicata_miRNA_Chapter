@@ -16,7 +16,7 @@ Agabian, N. (1990).
 Ambros, V., Bartel, B., Bartel, D.~P., Burge, C.~B., Carrington, J.~C., Chen,
   X., Dreyfuss, G., Eddy, S.~R., Griffiths-Jones, S., Marshall, M., Matzke, M.,
   Ruvkun, G., and Tuschl, T. (2003).
-\newblock A uniform system for microrna annotation.
+\newblock A uniform system for {microRNA} annotation.
 \newblock {\em RNA}, 9:277--279.
 
 \bibitem[Ameres and Zamore, 2013]{Ameres:13}
@@ -61,8 +61,8 @@ Blumenthal, T. (1995).
 
 \bibitem[Bortoluzzi et~al., 2011]{bortoluzzi2011}
 Bortoluzzi, S., Biasiolo, M., and Bisognin, A. (2011).
-\newblock Microrna-offset rnas (mornas): by-product spectators or functional
-  players?
+\newblock {MicroRNA}-offset {RNA}s ({moRNAs}): by-product spectators or
+  functional players?
 \newblock {\em Trends in Molecular Medicine}, 17(9):473--474.
 
 \bibitem[Brunetti et~al., 2015]{Brunetti:2015}
@@ -97,9 +97,9 @@ Cerutti, H. and Casas-Mollano, J.~A. (2006).
 \bibitem[Chen et~al., 2005]{Chen:2005yq}
 Chen, J.-F., Mandel, E.~M., Thomson, J.~M., Wu, Q., Callis, T.~E., Hammond,
   S.~M., Conlon, F.~L., and Wang, D.-Z. (2005).
-\newblock The role of microrna-1 and microrna-133 in skeletal muscle
+\newblock The role of {microRNA-1} and {microRNA-133} in skeletal muscle
   proliferation and differentiation.
-\newblock {\em Nature Genetics}, 38:228 EP --.
+\newblock {\em Nature Genetics}, 38:228--233.
 
 \bibitem[Chen et~al., 2014]{Chen2014}
 Chen, J.~S., Gumbayan, A.~M., Zeller, R.~W., and Mahaffy, J.~M. (2014).
@@ -117,7 +117,7 @@ Chen, J.~S., Pedro, M.~S., and Zeller, R.~W. (2011).
 Cheng, L.-C., Pastrana, E., Tavazoie, M., and Doetsch, F. (2009).
 \newblock mir-124 regulates adult neurogenesis in the subventricular zone stem
   cell niche.
-\newblock {\em Nature Neuroscience}, 12:399 EP --.
+\newblock {\em Nature Neuroscience}, 12:399--408.
 
 \bibitem[Clark et~al., 2010]{Clark:2010}
 Clark, A.~M., Goldstein, L.~D., Tevlin, M., Tavar{\'e}, S., Shaham, S., and
@@ -167,8 +167,8 @@ Denoeud, F., Henriet, S., Mungpakdee, S., Aury, J.-M., Da~Silva, C., Brinkmann,
 \bibitem[Friedl{\"a}nder et~al., 2012]{Friedlaender:12}
 Friedl{\"a}nder, M.~R., Mackowiak, S.~D., Li, N., Chen, W., and Rajewsky, N.
   (2012).
-\newblock {miRDeep2} accurately identifies known and hundreds of novel microrna
-  genes in seven animal clades.
+\newblock {miRDeep2} accurately identifies known and hundreds of novel
+  {microRNA} genes in seven animal clades.
 \newblock {\em Nucleic Acids Res.}, 40:37--52.
 
 \bibitem[Fu et~al., 2008]{Fu:08}
@@ -180,7 +180,7 @@ Fu, X., Adamski, M., and Thompson, E.~M. (2008).
 \bibitem[Galderisi et~al., 2003]{Galderisi:2003rt}
 Galderisi, U., Jori, F.~P., and Giordano, A. (2003).
 \newblock Cell cycle regulation and neural differentiation.
-\newblock {\em Oncogene}, 22:5208 EP --.
+\newblock {\em Oncogene}, 22:5208--5219.
 
 \bibitem[Ganot et~al., 2004]{Ganot2004}
 Ganot, P., Kalles{\o}e, T., Reinhardt, R., Chourrout, D., and Thompson, E.~M.
@@ -257,7 +257,7 @@ Jue, N.~K., Batta-Lona, P.~G., Trusiak, S., Obergfell, C., Bucklin, A.,
 
 \bibitem[Keshavan et~al., 2010]{Keshavan2010}
 Keshavan, R., Virata, M., Keshavan, A., and Zeller, R.~W. (2010).
-\newblock Computational identification of ciona intestinalis micrornas.
+\newblock Computational identification of {Ciona intestinalis} micro{RNAs}.
 \newblock {\em Zoological Science}, 27(2):162--170.
 
 \bibitem[Knapp et~al., 2013]{Knapp:2013}
@@ -314,7 +314,7 @@ Lee, M. G.-S. and der Ploeg, L. H. T.~V. (1997).
 
 \bibitem[Legendre et~al., 2005]{Legendre2005}
 Legendre, M., Lambert, A., and Gautheret, D. (2005).
-\newblock {Profile-based detection of microRNA precursors in animal genomes}.
+\newblock Profile-based detection of micro{RNA} precursors in animal genomes.
 \newblock {\em Bioinformatics}, 21(7):841--845.
 
 \bibitem[Liang and Li, 2009]{Liang:09}
@@ -324,7 +324,7 @@ Liang, H. and Li, W. (2009).
 
 \bibitem[Lin et~al., 2006]{Lin:06}
 Lin, S.-L., Miller, J.~D., and Ying, S.-Y.~Y. (2006).
-\newblock Intronic {MicroRNA} (mirna).
+\newblock Intronic {MicroRNA} ({miRNA}).
 \newblock {\em J Biomed Biotechnol.}, 2006:26818.
 
 \bibitem[Lu et~al., 2008]{Lu:08}
@@ -441,7 +441,7 @@ Reinhart, B.~J., Slack, F.~J., Basson, M., Pasquinelli, A.~E., Bettinger,
   J.~C., Rougvie, A.~E., Horvitz, H.~R., and Ruvkun, G. (2000).
 \newblock The 21-nucleotide let-7 rna regulates developmental timing in
   caenorhabditis elegans.
-\newblock {\em Nature}, 403:901 EP --.
+\newblock {\em Nature}, 403:901--906.
 
 \bibitem[Satou et~al., 2008]{Satou2008}
 Satou, Y., Mineta, K., Ogasawara, M., Sasakura, Y., Shoguchi, E., Ueno, K.,

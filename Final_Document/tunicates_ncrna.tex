@@ -12,7 +12,7 @@
 % RECOMMENDED %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %%%%%%%%%%%%%%%
 \documentclass[graybox]{svmult}
-
+\usepackage{natbib}
 % choose options for [] as required from the list
 % in the Reference Guide
 
@@ -109,7 +109,7 @@ Bogot{\'a}, Colombia, \email{cibermudezs@unal.edu.co}.
   genomic regions that are otherwise well conserved. These observations are
   largely based on evidence from comparative genomics resulting from the
   analysis of well-studied gene families such as the Hox genes and their
-  non-coding elements. In this chapter the focus on the ncRNA complement
+  non-coding elements. In this chapter the focus lies on the ncRNA complement
   of tunicates, with a particular emphasis on microRNAs, which have already
   been studied extensively for other animal clades. MicroRNAs are known as
   important regulators of key genes in animal development and they are
@@ -157,7 +157,7 @@ studied already in some detail in several tunicates species, such as,
   determined \textit{C.\ intestinalis} type A and type B are different
   species: \textit{Ciona robusta} and \textit{C.  intestinalis}"
   \cite{Brunetti:2015}.}, \textit{Didemnum vexillum}, and \textit{Salpa
-  thompsoni}. These studies have revealed many losses in miRNA families that
+  thompsoni}. These studies have revealed many losses of miRNA families that
 are very well conserved outside the tunicates. At the same time, many gains
 of unique miRNAs among recently divergent lineages in the tunicates when
 compared to other groups of chordates \cite{Fu:08,
@@ -188,7 +188,7 @@ hairpin-shaped precursors, the pre-miRNAs, are excised while the RNA is
 still residing in the nucleus. These are exported into the cytoplasm
 \cite{Lund:04} and then processed further into miRNA/miRNA* duplexes. In
 the final step the single-stranded mature miR or its complement, the miR*,
-is incorporated into RISC complex. Sequence complementarity of miR and mRNA
+is incorporated into the RISC complex. Sequence complementarity of miR and mRNA
 ensures the targeting specificity \cite{Bartel:13}. As as a consequence,
 miRNAs share a set of structural characteristics, most importantly the
 extremely stable secondary structure of the precursor hairpin and the 2-bp
@@ -236,8 +236,8 @@ levels. Initially, they go through a phase of relatively fast sequence
 evolution \cite{Liang:09, Meunier:12}, which slows down as the selective
 pressures from a gradual increase in the number of target site increases. A
 large, diverse set of targets then protects against miRNA loss
-\cite{Lee:07a}. \TODO{The rate of gain of miRNA families that retained
-essentially permanently amounts to only $1$ per several million years}. This
+\cite{Lee:07a}. The rate of gain of miRNA families that are retained
+essentially permanently amounts to only $1$ per several million years. This
 number is consistent with divergence of the miRNA complements between
 animal phyla.
 
@@ -303,10 +303,9 @@ was reported. The expression of $14$ of these families, including let-7,
 miR-7, and miR-126, was then confirmed by Northern blot analyses in the
 adult tissue of \textit{C.\ robusta}.
 
-Until 2008, most of the miRNAs annotations were concentrated in Cionas, 
-\TODO{but new annotation approaches for other species in tunicates were 
-appearing slowly to increase then the repertory} of new miRNAs families in
-urochordates. The first repertory of miRNAs in tunicate beyond the Ciona
+Until 2008, most of the miRNAs were annotated in Cionas, and few new miRNA 
+families were discovered in other urochordates. 
+The first repertory of miRNAs in tunicate beyond the Ciona
 species was published in 2008 for the larvacean \textit{O.\ dioica}
 \cite{Fu:08}. At that time the Fu \emph{et al.}\ were studying the
 temporal-spatial expression patterns of conserved miRNAs in different
@@ -413,8 +412,8 @@ and LNA Northern blotting was conducted on different developmental stages.
 Since 2016 new approximations has increased our knowledge about new
 families in other tunicates thanks to the sequence of new urochordate
 genomes of the species \textit{D.\ vexillum}, \textit{S.\ thompsoni} and
-\textit{H.\ roretzi}. \TODO{For the draft genome sequence} from
-\textit{D. vexillum} an homology-based computational approach was applied
+\textit{H.\ roretzi}. A detailed homology-based computational survey of ncRNAs
+was performend for an early draft genome of \textit{D. vexillum}
 \cite{Velandia-Huerto2016}.  Blast and HMMer searches were performed with
 annotated small ncRNAs sequences from metazoans and hidden markov models
 from RFAM\footnote{\url{http://rfam.xfam.org/}} to obtain the sort of
@@ -423,9 +422,8 @@ performed by infernal \cite{Nawrocki:2013}, using metazoan-specific
 covariance models to annotate the small ncRNAs collection, which $57$
 families and $100$ loci of miRNAs were found.
 
-\TODO{For the preliminary assembled} of the genome sequence for the Southern 
-Ocean salp \textit{S.\ thompsoni} \cite{Jue2016} were small RNA libraries
-constructed to be sequenced on an Illumina Hiseq 2000. After filtering data
+Small RNA libraries for the Southern Ocean salp \textit{S.\ thompsoni} 
+were sequenced with an Illumina Hiseq 2000 \cite{Jue2016}. After filtering data
 sets to 18-24 nt for miRNA and 28-32 nt for piRNA, the reads were aligned
 to \textit{S. thompsoni} genome and miRNA gene folding predictions were
 performed using RNAfold. In this initial survey of small RNAs, were
@@ -632,7 +630,7 @@ families are reported at the bottom of the aligned elements.}
 %\centering
 \includegraphics[width=\textwidth]{./Images/Cluster_images/mir-181_105_2502}
 \caption{mir-181}
-\label{fig:mir-1}
+\label{fig:mir-181}
 \end{figure}
 
 \begin{figure}[ht!]

@@ -1,28 +1,28 @@
-This is BibTeX, Version 0.99d (TeX Live 2016)
+This is BibTeX, Version 0.99d (TeX Live 2013)
 Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
 The top-level auxiliary file: tunicates_ncrna.aux
 The style file: apalike.bst
 Database file #1: tuni_updated.bib
 You've used 91 entries,
             1935 wiz_defined-function locations,
-            1092 strings with 25426 characters,
-and the built_in function-call counts, 45492 in all, are:
-= -- 4168
+            1092 strings with 25443 characters,
+and the built_in function-call counts, 45465 in all, are:
+= -- 4165
 > -- 2842
 < -- 19
 + -- 1059
 - -- 1029
-* -- 4443
-:= -- 8092
+* -- 4440
+:= -- 8089
 add.period$ -- 273
 call.type$ -- 91
 change.case$ -- 969
 chr.to.int$ -- 89
 cite$ -- 91
 duplicate$ -- 1277
-empty$ -- 2655
+empty$ -- 2652
 format.name$ -- 1146
-if$ -- 8585
+if$ -- 8579
 int.to.chr$ -- 3
 int.to.str$ -- 0
 missing$ -- 89
@@ -34,7 +34,7 @@ purify$ -- 969
 quote$ -- 0
 skip$ -- 935
 stack$ -- 0
-substring$ -- 3039
+substring$ -- 3030
 swap$ -- 98
 text.length$ -- 1
 text.prefix$ -- 0
