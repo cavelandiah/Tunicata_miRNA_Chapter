@@ -8,16 +8,16 @@
 \contentsline {subsubsection}{\numberline {2.2.1}High throughput studies of Ciona miRNAs}{8}
 \contentsline {subsubsection}{\numberline {2.2.2}High throughput miRNA searches in other Urochordates}{10}
 \contentsline {subsection}{\numberline {2.3}miRNA in clusters}{10}
-\contentsline {section}{\numberline {3}miRNAs and its role in development}{18}
-\contentsline {subsection}{\numberline {3.1}miRNAs discovery and its role in development}{18}
-\contentsline {subsection}{\numberline {3.2}Neuronal fate determination and regulation by miR-124}{20}
-\contentsline {subsubsection}{\numberline {3.2.1}Muscle development and the polycistronic miR-1/miR-133 cluster}{22}
+\contentsline {section}{\numberline {3}miRNAs and its role in development}{19}
+\contentsline {subsection}{\numberline {3.1}miRNAs discovery and its role in development}{19}
+\contentsline {subsection}{\numberline {3.2}Neuronal fate determination and regulation by miR-124}{21}
+\contentsline {subsubsection}{\numberline {3.2.1}Muscle development and the polycistronic miR-1/miR-133 cluster}{23}
 \contentsline {subsubsection}{\numberline {3.2.2}miRNA expression during oral siphon (OS) regeneration}{23}
 \contentsline {subsubsection}{\numberline {3.2.3}miRNA expression during \textit {O. dioica} development}{24}
 \contentsline {section}{\numberline {4}Other ncRNAs associated with development}{24}
 \contentsline {subsection}{\numberline {4.1}Yellow Crescent RNA}{24}
 \contentsline {subsection}{\numberline {4.2}MicroRNA-offset RNAs}{25}
 \contentsline {subsection}{\numberline {4.3}Long Noncoding RNA RMST}{26}
-\contentsline {subsection}{\numberline {4.4}Splices-leader RNA}{27}
+\contentsline {subsection}{\numberline {4.4}Splices-leader RNA}{26}
 \contentsline {section}{\numberline {5}Acknowledgments}{27}
 \contentsline {section}{References}{27}
