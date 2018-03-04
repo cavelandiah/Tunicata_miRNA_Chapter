@@ -1,13 +1,16 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2015.5.24)  4 MAR 2018 22:12
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=latex 2015.5.24)  4 MAR 2018 22:49
 entering extended mode
- \write18 enabled.
+ restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**tunicates_ncrna.tex
-(./tunicates_ncrna.tex
-LaTeX2e <2015/01/01>
-Babel <3.9l> and hyphenation patterns for 79 languages loaded.
-(./svmult.cls
+**\makeatletter\def\HCode{\futurelet\HCode\HChar}\def\HChar{\ifx"\HCode\def\HCo
+de"##1"{\Link##1}\expandafter\HCode\else\expandafter\Link\fi}\def\Link#1.a.b.c.
+{\g@addto@macro\@documentclasshook{\RequirePackage[#1,html]{tex4ht}}\let\HCode\
+documentstyle\def\documentstyle{\let\documentstyle\HCode\expandafter\def\csname
+ tex4ht\endcsname{#1,html}\def\HCode####1{\documentstyle[tex4ht,}\@ifnextchar[{
+\HCode}{\documentstyle[tex4ht]}}}\makeatother\HCode xhtml,docbook.a.b.c.\input 
+ tunicates_ncrna.tex
+(./tunicates_ncrna.tex (./svmult.cls
 Document Class: svmult 2007/06/25 v5.4 
 Springer Verlag global LaTeX document class for multi authored books
 Class Springer-SVMult Info: extra/valid Springer sub-package 
@@ -96,42 +99,42 @@ LaTeX Font Info:    Redeclaring math symbol \Omega on input line 973.
 \toctitle=\toks17
 \c@contribution=\count109
 LaTeX Info: Redefining \abstract on input line 2320.
-)
-(/usr/local/texlive/2015/texmf-dist/tex/latex/graphics/color.sty
+) (/usr/local/texlive/2015/texmf-dist/tex/latex/graphics/color.sty
 Package: color 2014/10/28 v1.1a Standard LaTeX Color (DPC)
-
 (/usr/local/texlive/2015/texmf-dist/tex/latex/latexconfig/color.cfg
 File: color.cfg 2007/01/18 v1.5 color configuration of teTeX/TeXLive
 )
-Package color Info: Driver file: pdftex.def on input line 142.
-
-(/usr/local/texlive/2015/texmf-dist/tex/latex/pdftex-def/pdftex.def
-File: pdftex.def 2011/05/27 v0.06d Graphics/color for pdfTeX
-
-(/usr/local/texlive/2015/texmf-dist/tex/generic/oberdiek/infwarerr.sty
-Package: infwarerr 2010/04/08 v1.3 Providing info/warning/error messages (HO)
-)
-(/usr/local/texlive/2015/texmf-dist/tex/generic/oberdiek/ltxcmds.sty
-Package: ltxcmds 2011/11/09 v1.22 LaTeX kernel commands for general use (HO)
-)
-\Gread@gobject=\count110
-))
-(/usr/local/texlive/2015/texmf-dist/tex/latex/framed/framed.sty
+Package color Info: Driver file: dvips.def on input line 142.
+(/usr/local/texlive/2015/texmf-dist/tex/latex/graphics/dvips.def
+File: dvips.def 2014/10/14 v3.0j Driver-dependent file (DPC,SPQR)
+) (/usr/local/texlive/2015/texmf-dist/tex/latex/graphics/dvipsnam.def
+File: dvipsnam.def 2014/10/14 v3.0j Driver-dependent file (DPC,SPQR)
+)) (/usr/local/texlive/2015/texmf-dist/tex/latex/framed/framed.sty
 Package: framed 2011/10/22 v 0.96: framed or shaded text with page breaks
 \OuterFrameSep=\skip43
 \fb@frw=\dimen127
 \fb@frh=\dimen128
 \FrameRule=\dimen129
 \FrameSep=\dimen130
-)
-(/usr/local/texlive/2015/texmf-dist/tex/latex/natbib/natbib.sty
+) (/usr/local/texlive/2015/texmf-dist/tex/generic/tex4ht/tex4ht.sty
+version 2008-10-27-17:23
+Package: tex4ht 
+--------------------------------------
+--- Note --- for _ at preamble, use the command line option `early_'
+--------------------------------------
+--------------------------------------
+--- Note --- for ^ at preamble, use the command line option `early^'
+--------------------------------------
+\tmp:toks=\toks18
+) (/usr/local/texlive/2015/texmf-dist/tex/generic/tex4ht/usepackage.4ht
+version 2009-05-21-09:32
+) (/usr/local/texlive/2015/texmf-dist/tex/latex/natbib/natbib.sty
 Package: natbib 2010/09/13 8.31b (PWD, AO)
 \bibhang=\skip44
 \bibsep=\skip45
 LaTeX Info: Redefining \cite on input line 694.
-\c@NAT@ctr=\count111
-)
-(/usr/local/texlive/2015/texmf-dist/tex/latex/psnfss/mathptmx.sty
+\c@NAT@ctr=\count110
+) (/usr/local/texlive/2015/texmf-dist/tex/latex/psnfss/mathptmx.sty
 Package: mathptmx 2005/04/12 PSNFSS-v9.2a Times w/ Math, improved (SPQR, WaS) 
 LaTeX Font Info:    Redeclaring symbol font `operators' on input line 28.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
@@ -166,51 +169,41 @@ LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
 (Font)                  OT1/cmr/bx/it --> OT1/ptm/m/it on input line 35.
 LaTeX Info: Redefining \hbar on input line 50.
-)
-(/usr/local/texlive/2015/texmf-dist/tex/latex/psnfss/helvet.sty
+) (/usr/local/texlive/2015/texmf-dist/tex/latex/psnfss/helvet.sty
 Package: helvet 2005/04/12 PSNFSS-v9.2a (WaS) 
-
 (/usr/local/texlive/2015/texmf-dist/tex/latex/graphics/keyval.sty
 Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
-\KV@toks@=\toks18
-))
-(/usr/local/texlive/2015/texmf-dist/tex/latex/psnfss/courier.sty
+\KV@toks@=\toks19
+)) (/usr/local/texlive/2015/texmf-dist/tex/latex/psnfss/courier.sty
 Package: courier 2005/04/12 PSNFSS-v9.2a (WaS) 
-)
-(/usr/local/texlive/2015/texmf-dist/tex/latex/type1cm/type1cm.sty
+) (/usr/local/texlive/2015/texmf-dist/tex/latex/type1cm/type1cm.sty
 Package: type1cm 2002/09/05 v0.04 BlueSky/Y&Y Type1 CM font definitions (DPC, p
 atched RF)
-)
-(/usr/local/texlive/2015/texmf-dist/tex/latex/base/makeidx.sty
+) (/usr/local/texlive/2015/texmf-dist/tex/latex/base/makeidx.sty
 Package: makeidx 2014/09/29 v1.0m Standard LaTeX package
-)
-(/usr/local/texlive/2015/texmf-dist/tex/latex/graphics/graphicx.sty
+) (/usr/local/texlive/2015/texmf-dist/tex/latex/graphics/graphicx.sty
 Package: graphicx 2014/10/28 v1.0g Enhanced LaTeX Graphics (DPC,SPQR)
-
 (/usr/local/texlive/2015/texmf-dist/tex/latex/graphics/graphics.sty
 Package: graphics 2014/10/28 v1.0p Standard LaTeX Graphics (DPC,SPQR)
-
 (/usr/local/texlive/2015/texmf-dist/tex/latex/graphics/trig.sty
 Package: trig 1999/03/16 v1.09 sin cos tan (DPC)
-)
-(/usr/local/texlive/2015/texmf-dist/tex/latex/latexconfig/graphics.cfg
+) (/usr/local/texlive/2015/texmf-dist/tex/latex/latexconfig/graphics.cfg
 File: graphics.cfg 2010/04/23 v1.9 graphics configuration of TeX Live
 )
-Package graphics Info: Driver file: pdftex.def on input line 94.
+Package graphics Info: Driver file: dvips.def on input line 94.
 )
 \Gin@req@height=\dimen131
 \Gin@req@width=\dimen132
-)
-(/usr/local/texlive/2015/texmf-dist/tex/latex/tools/multicol.sty
+) (/usr/local/texlive/2015/texmf-dist/tex/latex/tools/multicol.sty
 Package: multicol 2015/03/31 v1.8m multicolumn formatting (FMi)
-\c@tracingmulticols=\count112
+\c@tracingmulticols=\count111
 \mult@box=\box29
 \multicol@leftmargin=\dimen133
-\c@unbalance=\count113
-\c@collectmore=\count114
-\doublecol@number=\count115
-\multicoltolerance=\count116
-\multicolpretolerance=\count117
+\c@unbalance=\count112
+\c@collectmore=\count113
+\doublecol@number=\count114
+\multicoltolerance=\count115
+\multicolpretolerance=\count116
 \full@width=\dimen134
 \page@free=\dimen135
 \premulticols=\dimen136
@@ -241,20 +234,19 @@ Package: multicol 2015/03/31 v1.8m multicolumn formatting (FMi)
 \@tempa=\box50
 \@tempa=\box51
 \@tempa=\box52
-\c@columnbadness=\count118
-\c@finalcolumnbadness=\count119
+\c@columnbadness=\count117
+\c@finalcolumnbadness=\count118
 \last@try=\dimen139
 \multicolovershoot=\dimen140
 \multicolundershoot=\dimen141
 \mult@nat@firstbox=\box53
 \colbreak@box=\box54
-\mc@col@check@num=\count120
-)
-(/usr/local/texlive/2015/texmf-dist/tex/latex/footmisc/footmisc.sty
+\mc@col@check@num=\count119
+) (/usr/local/texlive/2015/texmf-dist/tex/latex/footmisc/footmisc.sty
 Package: footmisc 2011/06/06 v5.5b a miscellany of footnote facilities
-\FN@temptoken=\toks19
+\FN@temptoken=\toks20
 \footnotemargin=\dimen142
-\c@pp@next@reset=\count121
+\c@pp@next@reset=\count120
 Package footmisc Info: Declaring symbol style bringhurst on input line 855.
 Package footmisc Info: Declaring symbol style chicago on input line 863.
 Package footmisc Info: Declaring symbol style wiley on input line 872.
@@ -263,34 +255,234 @@ Package footmisc Info: Declaring symbol style lamport-robust on input line 883.
 Package footmisc Info: Declaring symbol style lamport* on input line 903.
 Package footmisc Info: Declaring symbol style lamport*-robust on input line 924
 .
-)
-(/usr/local/texlive/2015/texmf-dist/tex/latex/tools/longtable.sty
+) (/usr/local/texlive/2015/texmf-dist/tex/latex/tools/longtable.sty
 Package: longtable 2014/10/28 v4.11 Multi-page Table package (DPC)
 \LTleft=\skip48
 \LTright=\skip49
 \LTpre=\skip50
 \LTpost=\skip51
-\LTchunksize=\count122
+\LTchunksize=\count121
 \LTcapwidth=\dimen143
 \LT@head=\box55
 \LT@firsthead=\box56
 \LT@foot=\box57
 \LT@lastfoot=\box58
-\LT@cols=\count123
-\LT@rows=\count124
-\c@LT@tables=\count125
-\c@LT@chunks=\count126
-\LT@p@ftn=\toks20
-)
-(/usr/local/texlive/2015/texmf-dist/tex/latex/multirow/multirow.sty
+\LT@cols=\count122
+\LT@rows=\count123
+\c@LT@tables=\count124
+\c@LT@chunks=\count125
+\LT@p@ftn=\toks21
+) (/usr/local/texlive/2015/texmf-dist/tex/latex/multirow/multirow.sty
 \bigstrutjot=\dimen144
 )
 \@indexfile=\write4
 \openout4 = `tunicates_ncrna.idx'.
 
-
 Writing index file tunicates_ncrna.idx
-(./tunicates_ncrna.aux)
+(/usr/local/texlive/2015/texmf-dist/tex/generic/tex4ht/tex4ht.4ht
+version 2009-01-07-07:11
+--------------------------------------
+--- Note --- for additional information, use the command line option `info'
+--------------------------------------
+::::::::::::::::::::::::::::::::::::::::::
+ TeX4ht info is available in the log file 
+::::::::::::::::::::::::::::::::::::::::::
+) (/usr/local/texlive/2015/texmf-dist/tex/generic/tex4ht/tex4ht.sty
+version 2008-10-27-17:23
+--- needs --- tex4ht tunicates_ncrna ---
+\tmp:cnt=\count126
+\openout15 = `tunicates_ncrna.tmp'.
+
+(./tunicates_ncrna.tmp)
+\tmp:dim=\skip52
+(./tunicates_ncrna.xref)
+\:refout=\write5
+\openout5 = `tunicates_ncrna.xref'.
+
+(/usr/local/texlive/2015/texmf-dist/tex/generic/tex4ht/docbook.4ht
+version 2009-04-13-13:09
+) (/usr/local/texlive/2015/texmf-dist/tex/generic/tex4ht/unicode.4ht
+version 2015-01-20-08:10
+) (/usr/local/texlive/2015/texmf-dist/tex/generic/tex4ht/docbook-math.4ht
+version 2009-04-13-13:09
+)
+--------------------------------------
+--- Note --- for marking of the base font, use the command line option `fonts+'
+
+--------------------------------------
+--------------------------------------
+--- Note --- for non active _, use the command line option `no_'
+--------------------------------------
+--------------------------------------
+--- Note --- for _ of catcode 13, use the command line option `_13'
+--------------------------------------
+--------------------------------------
+--- Note --- for non active ^, use the command line option `no^'
+--------------------------------------
+--------------------------------------
+--- Note --- for ^ of catcode 13, use the command line option `^13'
+--------------------------------------
+(/usr/local/texlive/2015/texmf-dist/tex/generic/tex4ht/docbook.4ht
+version 2009-04-13-13:09
+--------------------------------------
+--- Note --- for jpg bitmaps of pictures, use the `jpg' command line option. (C
+haracter bitmaps are controled only by `g' records of tex4ht.env and `-g' switc
+hes of tex4ht.c) 
+--------------------------------------
+--------------------------------------
+--- Note --- for gif bitmaps of pictures, use the `gif' command line option. (C
+haracter bitmaps are controled only by `g' records of tex4ht.env and `-g' switc
+hes of tex4ht.c) 
+--------------------------------------
+) (/usr/local/texlive/2015/texmf-dist/tex/generic/tex4ht/unicode.4ht
+version 2015-01-20-08:10
+) (/usr/local/texlive/2015/texmf-dist/tex/generic/tex4ht/docbook-math.4ht
+version 2009-04-13-13:09
+)
+\:tokwrite=\toks22
+\:tokpage=\toks23
+--------------------------------------
+--- Note --- for back links to toc, use the command line option `sections+'
+--------------------------------------
+--------------------------------------
+--- Note --- for linear crosslinks of pages, use the command line option `next'
+
+--------------------------------------
+\openout15 = `tunicates_ncrna.4ct'.
+
+\:tocout=\write6
+\openout6 = `tunicates_ncrna.4tc'.
+
+(/usr/local/texlive/2015/texmf-dist/tex/generic/tex4ht/docbook.4ht
+version 2009-04-13-13:09
+) (/usr/local/texlive/2015/texmf-dist/tex/generic/tex4ht/unicode.4ht
+version 2015-01-20-08:10
+) (/usr/local/texlive/2015/texmf-dist/tex/generic/tex4ht/docbook-math.4ht
+version 2009-04-13-13:09
+) (/usr/local/texlive/2015/texmf-dist/tex/generic/tex4ht/latex.4ht
+version 2009-05-21-09:32
+(/usr/local/texlive/2015/texmf-dist/tex/generic/tex4ht/docbook.4ht
+version 2009-04-13-13:09
+\tmp:bx=\box59
+) (/usr/local/texlive/2015/texmf-dist/tex/generic/tex4ht/unicode.4ht
+version 2015-01-20-08:10
+) (/usr/local/texlive/2015/texmf-dist/tex/generic/tex4ht/docbook-math.4ht
+version 2009-04-13-13:09
+)) (/usr/local/texlive/2015/texmf-dist/tex/generic/tex4ht/fontmath.4ht
+version 2009-05-21-09:32
+(/usr/local/texlive/2015/texmf-dist/tex/generic/tex4ht/docbook.4ht
+version 2009-04-13-13:09
+) (/usr/local/texlive/2015/texmf-dist/tex/generic/tex4ht/unicode.4ht
+version 2015-01-20-08:10
+) (/usr/local/texlive/2015/texmf-dist/tex/generic/tex4ht/docbook-math.4ht
+version 2009-04-13-13:09
+)) (/usr/local/texlive/2015/texmf-dist/tex/generic/tex4ht/article.4ht
+version 2009-05-21-09:32
+(/usr/local/texlive/2015/texmf-dist/tex/generic/tex4ht/docbook.4ht
+version 2009-04-13-13:09
+TeX4ht package options: xhtml,docbook,html,refcaption
+) (/usr/local/texlive/2015/texmf-dist/tex/generic/tex4ht/unicode.4ht
+version 2015-01-20-08:10
+) (/usr/local/texlive/2015/texmf-dist/tex/generic/tex4ht/docbook-math.4ht
+version 2009-04-13-13:09
+)) (/usr/local/texlive/2015/texmf-dist/tex/generic/tex4ht/color.4ht
+version 2009-05-21-09:32
+(/usr/local/texlive/2015/texmf-dist/tex/generic/tex4ht/docbook.4ht
+version 2009-04-13-13:09
+) (/usr/local/texlive/2015/texmf-dist/tex/generic/tex4ht/unicode.4ht
+version 2015-01-20-08:10
+) (/usr/local/texlive/2015/texmf-dist/tex/generic/tex4ht/docbook-math.4ht
+version 2009-04-13-13:09
+)) (/usr/local/texlive/2015/texmf-dist/tex/generic/tex4ht/dvips.4ht
+version 2009-05-21-09:32
+(/usr/local/texlive/2015/texmf-dist/tex/generic/tex4ht/docbook.4ht
+version 2009-04-13-13:09
+) (/usr/local/texlive/2015/texmf-dist/tex/generic/tex4ht/unicode.4ht
+version 2015-01-20-08:10
+) (/usr/local/texlive/2015/texmf-dist/tex/generic/tex4ht/docbook-math.4ht
+version 2009-04-13-13:09
+)) (/usr/local/texlive/2015/texmf-dist/tex/generic/tex4ht/dvipsnam.4ht
+version 2009-05-21-09:32
+(/usr/local/texlive/2015/texmf-dist/tex/latex/graphics/dvipsnam.def) (/usr/loca
+l/texlive/2015/texmf-dist/tex/generic/tex4ht/docbook.4ht
+version 2009-04-13-13:09
+) (/usr/local/texlive/2015/texmf-dist/tex/generic/tex4ht/unicode.4ht
+version 2015-01-20-08:10
+) (/usr/local/texlive/2015/texmf-dist/tex/generic/tex4ht/docbook-math.4ht
+version 2009-04-13-13:09
+)) (/usr/local/texlive/2015/texmf-dist/tex/generic/tex4ht/natbib.4ht
+version 2013-01-19-12:33
+(/usr/local/texlive/2015/texmf-dist/tex/generic/tex4ht/docbook.4ht
+version 2009-04-13-13:09
+) (/usr/local/texlive/2015/texmf-dist/tex/generic/tex4ht/unicode.4ht
+version 2015-01-20-08:10
+) (/usr/local/texlive/2015/texmf-dist/tex/generic/tex4ht/docbook-math.4ht
+version 2009-04-13-13:09
+)) (/usr/local/texlive/2015/texmf-dist/tex/generic/tex4ht/makeidx.4ht
+version 2009-05-21-09:32
+(/usr/local/texlive/2015/texmf-dist/tex/generic/tex4ht/docbook.4ht
+version 2009-04-13-13:09
+) (/usr/local/texlive/2015/texmf-dist/tex/generic/tex4ht/unicode.4ht
+version 2015-01-20-08:10
+) (/usr/local/texlive/2015/texmf-dist/tex/generic/tex4ht/docbook-math.4ht
+version 2009-04-13-13:09
+)) (/usr/local/texlive/2015/texmf-dist/tex/generic/tex4ht/graphicx.4ht
+version 2009-05-21-09:32
+(/usr/local/texlive/2015/texmf-dist/tex/generic/tex4ht/docbook.4ht
+version 2009-04-13-13:09
+) (/usr/local/texlive/2015/texmf-dist/tex/generic/tex4ht/unicode.4ht
+version 2015-01-20-08:10
+) (/usr/local/texlive/2015/texmf-dist/tex/generic/tex4ht/docbook-math.4ht
+version 2009-04-13-13:09
+)) (/usr/local/texlive/2015/texmf-dist/tex/generic/tex4ht/graphics.4ht
+version 2009-05-21-09:32
+(/usr/local/texlive/2015/texmf-dist/tex/generic/tex4ht/docbook.4ht
+version 2009-04-13-13:09
+) (/usr/local/texlive/2015/texmf-dist/tex/generic/tex4ht/unicode.4ht
+version 2015-01-20-08:10
+) (/usr/local/texlive/2015/texmf-dist/tex/generic/tex4ht/docbook-math.4ht
+version 2009-04-13-13:09
+)) (/usr/local/texlive/2015/texmf-dist/tex/generic/tex4ht/multicol.4ht
+version 2013-07-31-09:45
+(/usr/local/texlive/2015/texmf-dist/tex/generic/tex4ht/docbook.4ht
+version 2009-04-13-13:09
+) (/usr/local/texlive/2015/texmf-dist/tex/generic/tex4ht/unicode.4ht
+version 2015-01-20-08:10
+) (/usr/local/texlive/2015/texmf-dist/tex/generic/tex4ht/docbook-math.4ht
+version 2009-04-13-13:09
+)) (/usr/local/texlive/2015/texmf-dist/tex/generic/tex4ht/footmisc.4ht
+version 2009-05-21-09:32
+(/usr/local/texlive/2015/texmf-dist/tex/generic/tex4ht/docbook.4ht
+version 2009-04-13-13:09
+) (/usr/local/texlive/2015/texmf-dist/tex/generic/tex4ht/unicode.4ht
+version 2015-01-20-08:10
+) (/usr/local/texlive/2015/texmf-dist/tex/generic/tex4ht/docbook-math.4ht
+version 2009-04-13-13:09
+)) (/usr/local/texlive/2015/texmf-dist/tex/generic/tex4ht/longtable.4ht
+version 2009-05-21-09:32
+\LT:box=\box60
+\LT:ebox=\box61
+(/usr/local/texlive/2015/texmf-dist/tex/generic/tex4ht/docbook.4ht
+version 2009-04-13-13:09
+) (/usr/local/texlive/2015/texmf-dist/tex/generic/tex4ht/unicode.4ht
+version 2015-01-20-08:10
+) (/usr/local/texlive/2015/texmf-dist/tex/generic/tex4ht/docbook-math.4ht
+version 2009-04-13-13:09
+)) (/usr/local/texlive/2015/texmf-dist/tex/generic/tex4ht/multirow.4ht
+version 2009-05-21-09:32
+(/usr/local/texlive/2015/texmf-dist/tex/generic/tex4ht/docbook.4ht
+version 2009-04-13-13:09
+) (/usr/local/texlive/2015/texmf-dist/tex/generic/tex4ht/unicode.4ht
+version 2015-01-20-08:10
+) (/usr/local/texlive/2015/texmf-dist/tex/generic/tex4ht/docbook-math.4ht
+version 2009-04-13-13:09
+)) (/usr/local/texlive/2015/texmf-dist/tex/generic/tex4ht/docbook.4ht
+version 2009-04-13-13:09
+) (/usr/local/texlive/2015/texmf-dist/tex/generic/tex4ht/unicode.4ht
+version 2015-01-20-08:10
+) (/usr/local/texlive/2015/texmf-dist/tex/generic/tex4ht/docbook-math.4ht
+version 2009-04-13-13:09
+)) (./tunicates_ncrna.aux)
 \openout1 = `tunicates_ncrna.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 49.
@@ -306,1544 +498,441 @@ LaTeX Font Info:    ... okay on input line 49.
 LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 49.
 LaTeX Font Info:    ... okay on input line 49.
 LaTeX Font Info:    Try loading font information for OT1+ptm on input line 49.
-
 (/usr/local/texlive/2015/texmf-dist/tex/latex/psnfss/ot1ptm.fd
 File: ot1ptm.fd 2001/06/04 font definitions for OT1/ptm.
 )
-(/usr/local/texlive/2015/texmf-dist/tex/context/base/supp-pdf.mkii
-[Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count127
-\scratchdimen=\dimen145
-\scratchbox=\box59
-\nofMPsegments=\count128
-\nofMParguments=\count129
-\everyMPshowfont=\toks21
-\MPscratchCnt=\count130
-\MPscratchDim=\dimen146
-\MPnumerator=\count131
-\makeMPintoPDFobject=\count132
-\everyMPtoPDFconversion=\toks22
-)
-\big@size=\dimen147
- (/usr/local/texlive/2015/texmf-dist/tex/generic/oberdiek/pdftexcmds.sty
-Package: pdftexcmds 2011/11/29 v0.20 Utility functions of pdfTeX for LuaTeX (HO
-)
-
-(/usr/local/texlive/2015/texmf-dist/tex/generic/oberdiek/ifluatex.sty
-Package: ifluatex 2010/03/01 v1.3 Provides the ifluatex switch (HO)
-Package ifluatex Info: LuaTeX not detected.
-)
-(/usr/local/texlive/2015/texmf-dist/tex/generic/oberdiek/ifpdf.sty
-Package: ifpdf 2011/01/30 v2.3 Provides the ifpdf switch (HO)
-Package ifpdf Info: pdfTeX in PDF mode is detected.
-)
-Package pdftexcmds Info: LuaTeX not detected.
-Package pdftexcmds Info: \pdf@primitive is available.
-Package pdftexcmds Info: \pdf@ifprimitive is available.
-Package pdftexcmds Info: \pdfdraftmode found.
-)
-(/usr/local/texlive/2015/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
-Package: epstopdf-base 2010/02/09 v2.5 Base part for package epstopdf
-
-(/usr/local/texlive/2015/texmf-dist/tex/latex/oberdiek/grfext.sty
-Package: grfext 2010/08/19 v1.1 Manage graphics extensions (HO)
-
-(/usr/local/texlive/2015/texmf-dist/tex/generic/oberdiek/kvdefinekeys.sty
-Package: kvdefinekeys 2011/04/07 v1.3 Define keys (HO)
-))
-(/usr/local/texlive/2015/texmf-dist/tex/latex/oberdiek/kvoptions.sty
-Package: kvoptions 2011/06/30 v3.11 Key value format for package options (HO)
-
-(/usr/local/texlive/2015/texmf-dist/tex/generic/oberdiek/kvsetkeys.sty
-Package: kvsetkeys 2012/04/25 v1.16 Key value parser (HO)
-
-(/usr/local/texlive/2015/texmf-dist/tex/generic/oberdiek/etexcmds.sty
-Package: etexcmds 2011/02/16 v1.5 Avoid name clashes with e-TeX commands (HO)
-Package etexcmds Info: Could not find \expanded.
-(etexcmds)             That can mean that you are not using pdfTeX 1.50 or
-(etexcmds)             that some package has redefined \expanded.
-(etexcmds)             In the latter case, load this package earlier.
-)))
-Package grfext Info: Graphics extension search list:
-(grfext)             [.png,.pdf,.jpg,.mps,.jpeg,.jbig2,.jb2,.PNG,.PDF,.JPG,.JPE
-G,.JBIG2,.JB2,.eps]
-(grfext)             \AppendGraphicsExtensions on input line 452.
-
-(/usr/local/texlive/2015/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
-File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
-e
-))
-LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <16> not available
+\big@size=\dimen145
+--- file tunicates_ncrna.css ---
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <12> not available
 (Font)              Font shape `OT1/ptm/b/n' tried instead on input line 50.
-
 
 Package mathptmx Warning: There are no bold math fonts on input line 50.
 
-(./tunicates_ncrna.toc
-LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <10> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 1.
-LaTeX Font Info:    Try loading font information for OT1+ztmcm on input line 1.
+LaTeX Font Info:    Try loading font information for OT1+pcr on input line 50.
+(/usr/local/texlive/2015/texmf-dist/tex/latex/psnfss/ot1pcr.fd
+File: ot1pcr.fd 2001/06/04 font definitions for OT1/pcr.
+) (./tunicates_ncrna.4ct) [1
 
+] [2
 
+] [3
+
+] [4]
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <14> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 97.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <16> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 97.
+[5] [6]
+LaTeX Font Info:    Try loading font information for OT1+ztmcm on input line 97
+.
 (/usr/local/texlive/2015/texmf-dist/tex/latex/psnfss/ot1ztmcm.fd
 File: ot1ztmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OT1/ztmcm.
 )
-LaTeX Font Info:    Try loading font information for OML+ztmcm on input line 1.
-
-
+LaTeX Font Info:    Try loading font information for OML+ztmcm on input line 97
+.
 (/usr/local/texlive/2015/texmf-dist/tex/latex/psnfss/omlztmcm.fd
 File: omlztmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OML/ztmcm.
 )
-LaTeX Font Info:    Try loading font information for OMS+ztmcm on input line 1.
-
-
+LaTeX Font Info:    Try loading font information for OMS+ztmcm on input line 97
+.
 (/usr/local/texlive/2015/texmf-dist/tex/latex/psnfss/omsztmcm.fd
 File: omsztmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OMS/ztmcm.
 )
-LaTeX Font Info:    Try loading font information for OMX+ztmcm on input line 1.
-
-
+LaTeX Font Info:    Try loading font information for OMX+ztmcm on input line 97
+.
 (/usr/local/texlive/2015/texmf-dist/tex/latex/psnfss/omxztmcm.fd
 File: omxztmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OMX/ztmcm.
 )
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <10> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 97.
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <7.4> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 1.
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 97.
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <6> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 1.
-)
-\tf@toc=\write5
-\openout5 = `tunicates_ncrna.toc'.
-
- [1
-
-
-
-{/usr/local/texlive/2015/texmf-var/fonts/map/pdftex/updmap/pdftex.map}] [2
-
-
-]
-LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <14> not available
 (Font)              Font shape `OT1/ptm/b/n' tried instead on input line 97.
-LaTeX Font Info:    Calculating math sizes for size <8.5> on input line 97.
-LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <8.5> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 97.
-LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <6.29004> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 97.
-LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <5.10005> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 97.
-
-Underfull \hbox (badness 1019) in paragraph at lines 97--97
-\OT1/ptm/m/n/8.5 Naturalis Bio-di-ver-sity Cen-ter, Dar-win-weg 2, 2333 CR,Leid
-en, Nether-lands, e-mail: git-ten-
- []
-
-
-Underfull \hbox (badness 1472) in paragraph at lines 97--97
-\OT1/ptm/m/n/8.5 Bioinformatics Group, De-part-ment of Com-puter Sci-ence, and 
-In-ter-dis-ci-plinary Cen-ter for
- []
-
+l. 97 Writing tunicates_ncrna.idv[1] (tunicates_ncrna0x.png)
+l. 97 Writing tunicates_ncrna.idv[2] (tunicates_ncrna1x.png)
 Names of authors too long for running head. Please supply
 a shorter form with \authorrunning prior to \maketitle
-[3]
-LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <12> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 130.
- [4]
+[7]
+l. 155 Writing tunicates_ncrna.idv[3] (tunicates_ncrna2x.png)
 LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <12> not available
 (Font)              Font shape `OT1/ptm/b/it' tried instead on input line 173.
+[8]
+l. 227 Writing tunicates_ncrna.idv[4] (tunicates_ncrna3x.png)
+l. 241 Writing tunicates_ncrna.idv[5] (tunicates_ncrna4x.png)
+[9]
+l. 262 Writing tunicates_ncrna.idv[6] (tunicates_ncrna5x.png)
+l. 282 Writing tunicates_ncrna.idv[7] (tunicates_ncrna6x.png)
+l. 286 Writing tunicates_ncrna.idv[8] (tunicates_ncrna7x.png)
+[10]
+l. 302 Writing tunicates_ncrna.idv[9] (tunicates_ncrna8x.png)
+l. 303 Writing tunicates_ncrna.idv[10] (tunicates_ncrna9x.png)
+l. 325 Writing tunicates_ncrna.idv[11] (tunicates_ncrna10x.png)
+l. 326 Writing tunicates_ncrna.idv[12] (tunicates_ncrna11x.png)
+[11]
+l. 366 Writing tunicates_ncrna.idv[13] (tunicates_ncrna12x.png)
+l. 372 Writing tunicates_ncrna.idv[14] (tunicates_ncrna13x.png)
+l. 375 Writing tunicates_ncrna.idv[15] (tunicates_ncrna14x.png)
+l. 377 Writing tunicates_ncrna.idv[16] (tunicates_ncrna15x.png)
+l. 377 Writing tunicates_ncrna.idv[17] (tunicates_ncrna16x.png)
+l. 380 Writing tunicates_ncrna.idv[18] (tunicates_ncrna17x.png)
+l. 381 Writing tunicates_ncrna.idv[19] (tunicates_ncrna18x.png)
+l. 388 Writing tunicates_ncrna.idv[20] (tunicates_ncrna19x.png)
+l. 396 Writing tunicates_ncrna.idv[21] (tunicates_ncrna20x.png)
+l. 396 Writing tunicates_ncrna.idv[22] (tunicates_ncrna21x.png)
+l. 398 Writing tunicates_ncrna.idv[23] (tunicates_ncrna22x.png)
+l. 398 Writing tunicates_ncrna.idv[24] (tunicates_ncrna23x.png)
+[12]
+l. 420 Writing tunicates_ncrna.idv[25] (tunicates_ncrna24x.png)
+l. 423 Writing tunicates_ncrna.idv[26] (tunicates_ncrna25x.png)
+l. 424 Writing tunicates_ncrna.idv[27] (tunicates_ncrna26x.png)
+l. 433 Writing tunicates_ncrna.idv[28] (tunicates_ncrna27x.png)
+[13]
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <8.5> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 487.
+LaTeX Font Info:    Calculating math sizes for size <8.5> on input line 491.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <6.29004> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 491.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <5.10005> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 491.
+l. 491 Writing tunicates_ncrna.idv[29] (tunicates_ncrna28x.png)
+l. 491 Writing tunicates_ncrna.idv[30] (tunicates_ncrna29x.png)
+l. 491 Writing tunicates_ncrna.idv[31] (tunicates_ncrna30x.png)
+l. 491 Writing tunicates_ncrna.idv[32] (tunicates_ncrna31x.png)
+l. 491 Writing tunicates_ncrna.idv[33] (tunicates_ncrna32x.png)
+l. 493 Writing tunicates_ncrna.idv[34] (tunicates_ncrna33x.png)
+l. 493 Writing tunicates_ncrna.idv[35] (tunicates_ncrna34x.png)
+l. 493 Writing tunicates_ncrna.idv[36] (tunicates_ncrna35x.png)
+l. 493 Writing tunicates_ncrna.idv[37] (tunicates_ncrna36x.png)
+l. 496 Writing tunicates_ncrna.idv[38] (tunicates_ncrna37x.png)
+l. 496 Writing tunicates_ncrna.idv[39] (tunicates_ncrna38x.png)
+l. 496 Writing tunicates_ncrna.idv[40] (tunicates_ncrna39x.png)
+l. 496 Writing tunicates_ncrna.idv[41] (tunicates_ncrna40x.png)
+l. 498 Writing tunicates_ncrna.idv[42] (tunicates_ncrna41x.png)
+l. 498 Writing tunicates_ncrna.idv[43] (tunicates_ncrna42x.png)
+l. 498 Writing tunicates_ncrna.idv[44] (tunicates_ncrna43x.png)
+l. 498 Writing tunicates_ncrna.idv[45] (tunicates_ncrna44x.png)
+l. 498 Writing tunicates_ncrna.idv[46] (tunicates_ncrna45x.png)
+l. 504 Writing tunicates_ncrna.idv[47] (tunicates_ncrna46x.png)
+l. 504 Writing tunicates_ncrna.idv[48] (tunicates_ncrna47x.png)
+l. 504 Writing tunicates_ncrna.idv[49] (tunicates_ncrna48x.png)
+l. 504 Writing tunicates_ncrna.idv[50] (tunicates_ncrna49x.png)
+l. 506 Writing tunicates_ncrna.idv[51] (tunicates_ncrna50x.png)
+l. 506 Writing tunicates_ncrna.idv[52] (tunicates_ncrna51x.png)
+l. 506 Writing tunicates_ncrna.idv[53] (tunicates_ncrna52x.png)
+l. 506 Writing tunicates_ncrna.idv[54] (tunicates_ncrna53x.png)
+l. 508 Writing tunicates_ncrna.idv[55] (tunicates_ncrna54x.png)
+l. 508 Writing tunicates_ncrna.idv[56] (tunicates_ncrna55x.png)
+l. 508 Writing tunicates_ncrna.idv[57] (tunicates_ncrna56x.png)
+l. 508 Writing tunicates_ncrna.idv[58] (tunicates_ncrna57x.png)
+l. 508 Writing tunicates_ncrna.idv[59] (tunicates_ncrna58x.png)
+l. 524 Writing tunicates_ncrna.idv[60] (tunicates_ncrna59x.png)
+l. 524 Writing tunicates_ncrna.idv[61] (tunicates_ncrna60x.png)
+l. 524 Writing tunicates_ncrna.idv[62] (tunicates_ncrna61x.png)
+l. 524 Writing tunicates_ncrna.idv[63] (tunicates_ncrna62x.png)
+[14] [15] [16]
+l. 533 Writing tunicates_ncrna.idv[64] (tunicates_ncrna63x.png)
+l. 533 Writing tunicates_ncrna.idv[65] (tunicates_ncrna64x.png)
+l. 533 Writing tunicates_ncrna.idv[66] (tunicates_ncrna65x.png)
+[17]
+l. 580 Writing tunicates_ncrna.idv[67] (tunicates_ncrna66x.png)
+l. 580 Writing tunicates_ncrna.idv[68] (tunicates_ncrna67x.png)
+[18] [19
+
+]
+
+./tunicates_ncrna.tex:600: LaTeX Error: File `./Images/Cluster_images/let-7_101
+_128' not found.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.600 \caption
+              {Multiple alignment of let-7 clusters. Specific names from ann...
+
+I could not locate the file with any of these extensions:
+.eps,.ps,.eps.gz,.ps.gz,.eps.Z,.mps
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+Class-Warning: Legend of \sidecaption for figure 1
+is 85.85646pt taller than the corresponding float - 
+you'd better switch the environment. 
+[20
 
-Overfull \hbox (9.69948pt too wide) in paragraph at lines 183--199
-[]\OT1/ptm/m/n/10 Throughout an-i-mals, canon-i-cal miR-NAs are pro-cessed thro
-ugh a well-characterized
- []
+] [21
 
-LaTeX Font Info:    Try loading font information for OT1+pcr on input line 210.
+] [22
 
-(/usr/local/texlive/2015/texmf-dist/tex/latex/psnfss/ot1pcr.fd
-File: ot1pcr.fd 2001/06/04 font definitions for OT1/pcr.
-) [5] [6]
-[7] [8] [9] [10]
-Underfull \hbox (badness 10000) in paragraph at lines 487--488
-[]|\OT1/ptm/b/n/8.5 Size
- []
+]
 
+./tunicates_ncrna.tex:612: LaTeX Error: File `./Images/Cluster_images/mir-133_1
+13_33' not found.
 
-Underfull \hbox (badness 10000) in paragraph at lines 492--493
-\OT1/ptm/m/n/8.5 4857, bfl-mir-4862,
- []
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.612 \caption
+              {mir-1/mir-133}
+I could not locate the file with any of these extensions:
+.eps,.ps,.eps.gz,.ps.gz,.eps.Z,.mps
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 492--493
-\OT1/ptm/m/n/8.5 bfl-mir-4856b, bfl-
- []
+Class-Warning: Legend of \sidecaption for figure 2
+is 5.85646pt taller than the corresponding float - 
+you'd better switch the environment. 
+[23
 
+] [24
 
-Underfull \hbox (badness 10000) in paragraph at lines 494--496
-[]|\OT1/ptm/m/n/8.5 odi-mir-1497e,
- []
+] [25
 
+]
 
-Underfull \hbox (badness 10000) in paragraph at lines 494--496
-\OT1/ptm/m/n/8.5 odi-mir-1497d-2,
- []
+./tunicates_ncrna.tex:620: LaTeX Error: File `./Images/Cluster_images/mir-181_1
+05_2502' not found.
 
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.620 \caption
+              {mir-181}
+I could not locate the file with any of these extensions:
+.eps,.ps,.eps.gz,.ps.gz,.eps.Z,.mps
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
 
-Underfull \hbox (badness 10000) in paragraph at lines 494--496
-\OT1/ptm/m/n/8.5 odi-mir-1497d-1,
- []
 
+Class-Warning: Legend of \sidecaption for figure 3
+is 5.85646pt taller than the corresponding float - 
+you'd better switch the environment. 
+[26
 
-Underfull \hbox (badness 10000) in paragraph at lines 494--496
-\OT1/ptm/m/n/8.5 odi-mir-1497c,
- []
+] [27
 
+] [28
 
-Underfull \hbox (badness 10000) in paragraph at lines 494--496
-\OT1/ptm/m/n/8.5 odi-mir-1497b,
- []
+]
 
+./tunicates_ncrna.tex:628: LaTeX Error: File `./Images/Cluster_images/mir-217_1
+3D_467' not found.
 
-Underfull \hbox (badness 10000) in paragraph at lines 499--504
-[]|\OT1/ptm/m/n/8.5 cin-mir-4006d,
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 499--504
-\OT1/ptm/m/n/8.5 cin-mir-4006c,
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 499--504
-\OT1/ptm/m/n/8.5 cin-mir-4001b-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 499--504
-\OT1/ptm/m/n/8.5 2, cin-mir-4000i,
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 499--504
-\OT1/ptm/m/n/8.5 cin-mir-4006g,
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 499--504
-\OT1/ptm/m/n/8.5 cin-mir-4001e,
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 499--504
-\OT1/ptm/m/n/8.5 cin-mir-4001d,
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 499--504
-\OT1/ptm/m/n/8.5 cin-mir-4000g,
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 499--504
-\OT1/ptm/m/n/8.5 cin-mir-4006f,
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 499--504
-\OT1/ptm/m/n/8.5 cin-mir-4006b,
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 499--504
-\OT1/ptm/m/n/8.5 cin-mir-4001b-1,
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 499--504
-\OT1/ptm/m/n/8.5 cin-mir-4000c,
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 499--504
-\OT1/ptm/m/n/8.5 cin-mir-4006e,
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 499--504
-\OT1/ptm/m/n/8.5 cin-mir-4000b-2,
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 499--504
-\OT1/ptm/m/n/8.5 cin-mir-4001a-1,
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 499--504
-\OT1/ptm/m/n/8.5 cin-mir-4000b-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 499--504
-\OT1/ptm/m/n/8.5 1, cin-mir-4002,
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 499--504
-\OT1/ptm/m/n/8.5 cin-mir-4000d,
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 499--504
-\OT1/ptm/m/n/8.5 cin-mir-4001h,
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 499--504
-\OT1/ptm/m/n/8.5 cin-mir-4000a-2,
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 499--504
-\OT1/ptm/m/n/8.5 cin-mir-4006a-2,
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 499--504
-\OT1/ptm/m/n/8.5 cin-mir-4006a-3,
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 505--506
-[]|\OT1/ptm/m/n/8.5 csa-mir-216b, csa-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 505--506
-\OT1/ptm/m/n/8.5 mir-216a, csa-mir-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 509--524
-[]|\OT1/ptm/m/n/8.5 dre-mir-430a-18,
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 509--524
-\OT1/ptm/m/n/8.5 dre-mir-430c-18,
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 509--524
-\OT1/ptm/m/n/8.5 dre-mir-430b-4,
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 509--524
-\OT1/ptm/m/n/8.5 dre-mir-430a-15,
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 509--524
-\OT1/ptm/m/n/8.5 dre-mir-430c-18,
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 509--524
-\OT1/ptm/m/n/8.5 dre-mir-430b-5,
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 509--524
-\OT1/ptm/m/n/8.5 dre-mir-430a-10,
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 509--524
-\OT1/ptm/m/n/8.5 dre-mir-430c-18,
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 509--524
-\OT1/ptm/m/n/8.5 dre-mir-430b-5,
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 509--524
-\OT1/ptm/m/n/8.5 dre-mir-430a-15,
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 509--524
-\OT1/ptm/m/n/8.5 dre-mir-430c-18,
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 509--524
-\OT1/ptm/m/n/8.5 dre-mir-430b-3,
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 509--524
-\OT1/ptm/m/n/8.5 dre-mir-430a-10,
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 509--524
-\OT1/ptm/m/n/8.5 dre-mir-430c-18,
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 509--524
-\OT1/ptm/m/n/8.5 dre-mir-430b-8,
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 509--524
-\OT1/ptm/m/n/8.5 dre-mir-430a-15,
- []
-
-
-Underfull \hbox (badness 1337) in paragraph at lines 509--524
-\OT1/ptm/m/n/8.5 mir-430b-5, dre-mir-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 509--524
-\OT1/ptm/m/n/8.5 430a-17, miR-430,
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 509--524
-\OT1/ptm/m/n/8.5 dre-mir-430b-20,
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 509--524
-\OT1/ptm/m/n/8.5 dre-mir-430a-10,
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 509--524
-\OT1/ptm/m/n/8.5 dre-mir-430c-18,
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 509--524
-\OT1/ptm/m/n/8.5 dre-mir-430b-5,
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 509--524
-\OT1/ptm/m/n/8.5 dre-mir-430i-3,
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 509--524
-\OT1/ptm/m/n/8.5 dre-mir-430c-18,
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 509--524
-\OT1/ptm/m/n/8.5 dre-mir-430b-3,
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 509--524
-\OT1/ptm/m/n/8.5 dre-mir-430a-10,
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 509--524
-\OT1/ptm/m/n/8.5 dre-mir-430c-18,
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 509--524
-\OT1/ptm/m/n/8.5 dre-mir-430b-8,
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 509--524
-\OT1/ptm/m/n/8.5 dre-mir-430a-11,
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 509--524
-\OT1/ptm/m/n/8.5 dre-mir-430c-18,
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 509--524
-\OT1/ptm/m/n/8.5 dre-mir-430b-5,
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 509--524
-\OT1/ptm/m/n/8.5 dre-mir-430i-3,
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 509--524
-\OT1/ptm/m/n/8.5 dre-mir-430c-18,
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 509--524
-\OT1/ptm/m/n/8.5 dre-mir-430b-19,
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 509--524
-\OT1/ptm/m/n/8.5 dre-mir-430a-10,
- []
-
-
-Underfull \hbox (badness 1337) in paragraph at lines 509--524
-\OT1/ptm/m/n/8.5 mir-430b-5, dre-mir-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 509--524
-\OT1/ptm/m/n/8.5 430a-17, miR-430,
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 509--524
-\OT1/ptm/m/n/8.5 dre-mir-430b-20,
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 509--524
-\OT1/ptm/m/n/8.5 dre-mir-430a-10,
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 509--524
-\OT1/ptm/m/n/8.5 dre-mir-430c-18,
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 509--524
-\OT1/ptm/m/n/8.5 dre-mir-430b-5,
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 509--524
-\OT1/ptm/m/n/8.5 dre-mir-430i-3,
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 509--524
-\OT1/ptm/m/n/8.5 dre-mir-430c-18,
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 509--524
-\OT1/ptm/m/n/8.5 dre-mir-430b-19,
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 509--524
-\OT1/ptm/m/n/8.5 dre-mir-430a-10,
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 509--524
-\OT1/ptm/m/n/8.5 dre-mir-430c-18,
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 509--524
-\OT1/ptm/m/n/8.5 dre-mir-430b-5,
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 509--524
-\OT1/ptm/m/n/8.5 dre-mir-430a-15,
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 509--524
-\OT1/ptm/m/n/8.5 dre-mir-430c-18,
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 509--524
-\OT1/ptm/m/n/8.5 dre-mir-430b-3,
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 509--524
-\OT1/ptm/m/n/8.5 dre-mir-430a-10,
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 509--524
-\OT1/ptm/m/n/8.5 dre-mir-430c-18,
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 509--524
-\OT1/ptm/m/n/8.5 dre-mir-430b-8,
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 509--524
-\OT1/ptm/m/n/8.5 dre-mir-430a-15,
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 509--524
-\OT1/ptm/m/n/8.5 dre-mir-430c-18,
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 525--526
-[]|\OT1/ptm/m/n/8.5 mir-233, mir-233,
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 525--526
-\OT1/ptm/m/n/8.5 mir-233, mir-598,
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 525--526
-\OT1/ptm/m/n/8.5 mir-672, MIR535,
- []
-
-
-Overfull \hbox (52.29807pt too wide) in alignment at lines 481--527
- [] [] [] [] [] [] [] 
- []
-
-[11] [12] [13] [14]
-<./Images/Cluster_images/let-7_101_128.pdf, id=53, 935.4553pt x 619.38788pt>
-File: ./Images/Cluster_images/let-7_101_128.pdf Graphic file (type pdf)
-
-<use ./Images/Cluster_images/let-7_101_128.pdf>
-Package pdftex.def Info: ./Images/Cluster_images/let-7_101_128.pdf used on inpu
-t line 600.
-(pdftex.def)             Requested size: 332.89723pt x 220.41821pt.
-
-
-Class SVMult Warning: \sidecaption: No sufficient room for the legend; 
-using normal \caption on input line 600.
-
-
-<./Images/Cluster_images/mir-133_113_33.pdf, id=54, 433.14748pt x 153.76546pt>
-File: ./Images/Cluster_images/mir-133_113_33.pdf Graphic file (type pdf)
-
-<use ./Images/Cluster_images/mir-133_113_33.pdf>
-Package pdftex.def Info: ./Images/Cluster_images/mir-133_113_33.pdf used on inp
-ut line 612.
-(pdftex.def)             Requested size: 332.89723pt x 118.18155pt.
-
-
-Class SVMult Warning: \sidecaption: No sufficient room for the legend; 
-using normal \caption on input line 612.
-
-[15 <./Images/Cluster_images/let-7_101_128.pdf>]
-<./Images/Cluster_images/mir-181_105_2502.pdf, id=576, 443.52245pt x 122.31023p
-t>
-File: ./Images/Cluster_images/mir-181_105_2502.pdf Graphic file (type pdf)
- <use ./Images/Cluster_images/mir-181_105_2502.pdf>
-Package pdftex.def Info: ./Images/Cluster_images/mir-181_105_2502.pdf used on i
-nput line 620.
-(pdftex.def)             Requested size: 332.89723pt x 91.80707pt.
-
-
-Class SVMult Warning: \sidecaption: No sufficient room for the legend; 
-using normal \caption on input line 620.
-
-
-<./Images/Cluster_images/mir-217_13D_467.pdf, id=577, 530.7697pt x 164.1146pt>
-File: ./Images/Cluster_images/mir-217_13D_467.pdf Graphic file (type pdf)
-
-<use ./Images/Cluster_images/mir-217_13D_467.pdf>
-Package pdftex.def Info: ./Images/Cluster_images/mir-217_13D_467.pdf used on in
-put line 628.
-(pdftex.def)             Requested size: 332.89723pt x 102.93446pt.
-
-
-Class SVMult Warning: \sidecaption: No sufficient room for the legend; 
-using normal \caption on input line 628.
-
-
-<./Images/Cluster_images/mir-34_11A_435.pdf, id=578, 499.87077pt x 159.93953pt>
-File: ./Images/Cluster_images/mir-34_11A_435.pdf Graphic file (type pdf)
-<use ./Images/Cluster_images/mir-34_11A_435.pdf>
-Package pdftex.def Info: ./Images/Cluster_images/mir-34_11A_435.pdf used on inp
-ut line 636.
-(pdftex.def)             Requested size: 332.89723pt x 106.5195pt.
-
-
-Class SVMult Warning: \sidecaption: No sufficient room for the legend; 
-using normal \caption on input line 636.
-
-
-<./Images/Cluster_images/mir-92_281_4336.pdf, id=579, 585.33891pt x 168.41333pt
->
-File: ./Images/Cluster_images/mir-92_281_4336.pdf Graphic file (type pdf)
- <use ./Images/Cluster_images/mir-92_281_4336.pdf>
-Package pdftex.def Info: ./Images/Cluster_images/mir-92_281_4336.pdf used on in
-put line 644.
-(pdftex.def)             Requested size: 332.89723pt x 95.7833pt.
-
-
-Class SVMult Warning: \sidecaption: No sufficient room for the legend; 
-using normal \caption on input line 644.
-
-
-<./Images/Cluster_images/mir-96_138_240.pdf, id=580, 453.00755pt x 160.41444pt>
-File: ./Images/Cluster_images/mir-96_138_240.pdf Graphic file (type pdf)
-<use ./Images/Cluster_images/mir-96_138_240.pdf>
-Package pdftex.def Info: ./Images/Cluster_images/mir-96_138_240.pdf used on inp
-ut line 652.
-(pdftex.def)             Requested size: 332.89723pt x 117.88239pt.
-
-
-Class SVMult Warning: \sidecaption: No sufficient room for the legend; 
-using normal \caption on input line 652.
-
-
-Underfull \hbox (badness 2556) in paragraph at lines 677--677
-\OT1/ptm/b/n/8.5 7f, cin-let-7b, cin-
- []
-
-
-Underfull \hbox (badness 3333) in paragraph at lines 678--678
-[]|\OT1/ptm/m/n/8.5 Reported on miR-BAse
- []
-
-
-Underfull \hbox (badness 3815) in paragraph at lines 678--678
-\OT1/ptm/m/n/8.5 and an-no-tated on En-
- []
-
-
-Overfull \hbox (2.232pt too wide) in paragraph at lines 678--680
-[]|\OT1/ptm/m/n/8.5 (Hendrix
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 678--680
-\OT1/ptm/m/n/8.5 et al.,
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 678--680
-\OT1/ptm/m/n/8.5 2010),
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 678--680
-\OT1/ptm/m/n/8.5 (Fu
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 678--680
-\OT1/ptm/m/n/8.5 et al.,
- []
-
-
-Underfull \hbox (badness 6542) in paragraph at lines 681--682
-[]|\OT1/ptm/m/n/8.5 Reported on miR-Base
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 682--683
-[]|\OT1/ptm/m/n/8.5 (Fu
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 682--683
-\OT1/ptm/m/n/8.5 et al.,
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 684--685
-[]|\OT1/ptm/b/n/8.5 cin-mir-34\OT1/ptm/m/n/8.5 , cin-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 684--685
-\OT1/ptm/m/n/8.5 mir-4091, cin-mir-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 684--685
-\OT1/ptm/m/n/8.5 4008a, cin-mir-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 684--685
-\OT1/ptm/m/n/8.5 4008c, cin-mir-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 686--686
-[]|\OT1/ptm/m/n/8.5 miRBase,
- []
-
-
-Overfull \hbox (2.69954pt too wide) in paragraph at lines 686--688
-[]|\OT1/ptm/m/n/8.5 (Norden-
- []
-
-
-Overfull \hbox (4.11885pt too wide) in paragraph at lines 686--688
-\OT1/ptm/m/n/8.5 Krichmar
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 686--688
-\OT1/ptm/m/n/8.5 et al.,
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 686--688
-\OT1/ptm/m/n/8.5 2007),
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 686--688
-\OT1/ptm/m/n/8.5 (Fu
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 686--688
-\OT1/ptm/m/n/8.5 et al.,
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 686--688
-\OT1/ptm/m/n/8.5 2008),
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 686--688
-\OT1/ptm/m/n/8.5 (Hen-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 686--688
-\OT1/ptm/m/n/8.5 drix
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 686--688
-\OT1/ptm/m/n/8.5 et al.,
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 686--688
-\OT1/ptm/m/n/8.5 2010),
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 686--688
-\OT1/ptm/m/n/8.5 (Terai
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 686--688
-\OT1/ptm/m/n/8.5 et al.,
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 689--691
-[]|\OT1/ptm/m/n/8.5 cin-mir-4077b,
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 689--691
-\OT1/ptm/m/n/8.5 cin-mir-4003b,
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 689--691
-\OT1/ptm/m/n/8.5 cin-mir-4005b,
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 689--691
-\OT1/ptm/m/n/8.5 cin-mir-4077d,
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 689--691
-\OT1/ptm/m/n/8.5 cin-mir-4003a-1,
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 689--691
-\OT1/ptm/m/n/8.5 cin-mir-4003c,
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 689--691
-\OT1/ptm/m/n/8.5 cin-mir-4077a,
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 689--691
-\OT1/ptm/m/n/8.5 cin-mir-4003a-4,
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 691--691
-[]|\OT1/ptm/m/n/8.5 miRBase,
- []
-
-
-Overfull \hbox (2.232pt too wide) in paragraph at lines 692--693
-[]|\OT1/ptm/m/n/8.5 (Hendrix
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 692--693
-\OT1/ptm/m/n/8.5 et al.,
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 694--697
-[]|\OT1/ptm/m/n/8.5 cin-mir-4001f,
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 694--697
-\OT1/ptm/m/n/8.5 cin-mir-4000e,
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 694--697
-\OT1/ptm/m/n/8.5 cin-mir-4001c,
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 694--697
-\OT1/ptm/m/n/8.5 cin-mir-1502d,
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 694--697
-\OT1/ptm/m/n/8.5 cin-mir-4018a,
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 694--697
-\OT1/ptm/m/n/8.5 cin-mir-4019,
- []
-
-
-Underfull \hbox (badness 5091) in paragraph at lines 694--697
-\OT1/ptm/m/n/8.5 cin-mir-1502b, cin-
- []
-
-
-Underfull \hbox (badness 2980) in paragraph at lines 694--697
-\OT1/ptm/m/n/8.5 mir-1502a, cin-mir-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 694--697
-\OT1/ptm/m/n/8.5 cin-mir-4001i,
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 694--697
-\OT1/ptm/m/n/8.5 cin-mir-4018b,
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 697--697
-[]|\OT1/ptm/m/n/8.5 Inclusion of cin-mir-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 697--698
-[]|\OT1/ptm/m/n/8.5 miRBase,
- []
-
-
-Overfull \hbox (2.232pt too wide) in paragraph at lines 698--699
-[]|\OT1/ptm/m/n/8.5 (Hendrix
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 698--699
-\OT1/ptm/m/n/8.5 et al.,
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 700--702
-[]|\OT1/ptm/b/n/8.5 cin-mir-367\OT1/ptm/m/n/8.5 , \OT1/ptm/b/n/8.5 cin-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 700--702
-\OT1/ptm/m/n/8.5 cin-mir-4009c,
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 700--702
-\OT1/ptm/m/n/8.5 cin-mir-4009a,
- []
-
-
-Underfull \hbox (badness 7256) in paragraph at lines 702--703
-[]|\OT1/ptm/m/n/8.5 Non-highlighted names
- []
-
-
-Underfull \hbox (badness 1694) in paragraph at lines 702--703
-\OT1/ptm/m/n/8.5 could be found in the
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 702--703
-\OT1/ptm/m/n/8.5 cur-rent genome at
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 703--703
-[]|\OT1/ptm/m/n/8.5 miRBase,
- []
-
-
-Overfull \hbox (2.232pt too wide) in paragraph at lines 704--705
-[]|\OT1/ptm/m/n/8.5 (Hendrix
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 704--705
-\OT1/ptm/m/n/8.5 et al.,
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 706--707
-[]|\OT1/ptm/b/n/8.5 cin-mir-34\OT1/ptm/m/n/8.5 , cin-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 706--707
-\OT1/ptm/m/n/8.5 mir-4091, cin-mir-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 706--707
-\OT1/ptm/m/n/8.5 4008a, cin-mir-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 706--707
-\OT1/ptm/m/n/8.5 4008c, cin-mir-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 707--708
-[]|\OT1/ptm/m/n/8.5 miRBase,
- []
-
-
-Overfull \hbox (2.232pt too wide) in paragraph at lines 708--709
-[]|\OT1/ptm/m/n/8.5 (Hendrix
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 708--709
-\OT1/ptm/m/n/8.5 et al.,
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 711--711
-[]|\OT1/ptm/m/n/8.5 cin-mir-92a, cin-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 711--711
-[]|\OT1/ptm/m/n/8.5 miRBase,
- []
-
-
-Overfull \hbox (2.232pt too wide) in paragraph at lines 712--713
-[]|\OT1/ptm/m/n/8.5 (Hendrix
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 712--713
-\OT1/ptm/m/n/8.5 et al.,
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 713--714
-[]|\OT1/ptm/m/n/8.5 csa-mir-92b, csa-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 714--714
-[]|\OT1/ptm/m/n/8.5 miRBase,
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 714--715
-[]|\OT1/ptm/m/n/8.5 (Fu
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 714--715
-\OT1/ptm/m/n/8.5 et al.,
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 715--715
-[]|\OT1/ptm/m/n/8.5 odi-mir-92b, odi-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 716--717
-[]|\OT1/ptm/m/n/8.5 (Fu
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 716--717
-\OT1/ptm/m/n/8.5 et al.,
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 718--719
-[]|\OT1/ptm/m/n/8.5 cin-mir-124-1,
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 719--719
-[]|\OT1/ptm/m/n/8.5 miRBase,
- []
-
-
-Overfull \hbox (2.232pt too wide) in paragraph at lines 719--720
-[]|\OT1/ptm/m/n/8.5 (Hendrix
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 719--720
-\OT1/ptm/m/n/8.5 et al.,
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 719--720
-\OT1/ptm/m/n/8.5 2010),
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 719--720
-\OT1/ptm/m/n/8.5 (Fu
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 719--720
-\OT1/ptm/m/n/8.5 et al.,
- []
-
-
-Underfull \hbox (badness 6825) in paragraph at lines 720--721
-[]|\OT1/ptm/m/n/8.5 csa-mir-124-1, csa-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 721--721
-[]|\OT1/ptm/m/n/8.5 miRBase,
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 721--722
-[]|\OT1/ptm/m/n/8.5 (Fu
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 721--722
-\OT1/ptm/m/n/8.5 et al.,
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 724--724
-[]|\OT1/ptm/m/n/8.5 cin-mir-200, \OT1/ptm/b/n/8.5 cin-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 724--724
-\OT1/ptm/b/n/8.5 mir-3575\OT1/ptm/m/n/8.5 , cin-mir-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 725--725
-[]|\OT1/ptm/m/n/8.5 miRBase,
- []
-
-
-Overfull \hbox (2.69954pt too wide) in paragraph at lines 725--727
-[]|\OT1/ptm/m/n/8.5 (Norden-
- []
-
-
-Overfull \hbox (4.11885pt too wide) in paragraph at lines 725--727
-\OT1/ptm/m/n/8.5 Krichmar
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 725--727
-\OT1/ptm/m/n/8.5 et al.,
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 725--727
-\OT1/ptm/m/n/8.5 2007),
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 725--727
-\OT1/ptm/m/n/8.5 (Fu
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 725--727
-\OT1/ptm/m/n/8.5 et al.,
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 725--727
-\OT1/ptm/m/n/8.5 2008),
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 725--727
-\OT1/ptm/m/n/8.5 (Hen-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 725--727
-\OT1/ptm/m/n/8.5 drix
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 725--727
-\OT1/ptm/m/n/8.5 et al.,
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 725--727
-\OT1/ptm/m/n/8.5 2010),
- []
-
-
-Overfull \hbox (13.56223pt too wide) in paragraph at lines 725--727
-\OT1/ptm/m/n/8.5 (Friedl[]ander
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 725--727
-\OT1/ptm/m/n/8.5 et al.,
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 727--728
-[]|\OT1/ptm/m/n/8.5 csa-mir-200, csa-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 728--728
-[]|\OT1/ptm/m/n/8.5 miRBase,
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 728--729
-[]|\OT1/ptm/m/n/8.5 (Fu
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 728--729
-\OT1/ptm/m/n/8.5 et al.,
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 729--739
-[]|\OT1/ptm/m/n/8.5 cin-mir-4006d,
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 729--739
-\OT1/ptm/m/n/8.5 cin-mir-4006c,
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 729--739
-\OT1/ptm/m/n/8.5 cin-mir-4001b-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 729--739
-\OT1/ptm/m/n/8.5 2, cin-mir-4000i,
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 729--739
-\OT1/ptm/m/n/8.5 cin-mir-4006g,
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 729--739
-\OT1/ptm/m/n/8.5 cin-mir-4001e,
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 729--739
-\OT1/ptm/m/n/8.5 cin-mir-4001d,
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 729--739
-\OT1/ptm/m/n/8.5 cin-mir-4000g,
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 729--739
-\OT1/ptm/m/n/8.5 cin-mir-4006f,
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 729--739
-\OT1/ptm/m/n/8.5 cin-mir-4000h*,
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 729--739
-\OT1/ptm/m/n/8.5 cin-mir-4006b,
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 729--739
-\OT1/ptm/m/n/8.5 cin-mir-4001b-1,
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 729--739
-\OT1/ptm/m/n/8.5 cin-mir-4006e,
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 729--739
-\OT1/ptm/m/n/8.5 cin-mir-4001a-1,
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 729--739
-\OT1/ptm/b/n/8.5 cin-mir-4001a-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 729--739
-\OT1/ptm/b/n/8.5 2\OT1/ptm/m/n/8.5 , cin-mir-4002,
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 729--739
-\OT1/ptm/m/n/8.5 cin-mir-4001h,
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 729--739
-\OT1/ptm/m/n/8.5 cin-mir-4000a-2,
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 729--739
-\OT1/ptm/m/n/8.5 cin-mir-4006a-2,
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 729--739
-\OT1/ptm/m/n/8.5 cin-mir-4006a-3,
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 729--739
-\OT1/ptm/m/n/8.5 cin-mir-4006a-1,
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 729--739
-\OT1/ptm/b/n/8.5 cin-mir-4006e\OT1/ptm/m/n/8.5 ,
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 729--739
-\OT1/ptm/b/n/8.5 cin-mir-4001a-1\OT1/ptm/m/n/8.5 ,
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 729--739
-\OT1/ptm/b/n/8.5 cin-mir-4006b\OT1/ptm/m/n/8.5 ,
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 729--739
-\OT1/ptm/m/n/8.5 cin-mir-4000c,
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 729--739
-\OT1/ptm/b/n/8.5 cin-mir-4006e\OT1/ptm/m/n/8.5 ,
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 729--739
-\OT1/ptm/m/n/8.5 cin-mir-4000b-2*,
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 729--739
-\OT1/ptm/b/n/8.5 cin-mir-4001a-1\OT1/ptm/m/n/8.5 ,
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 729--739
-\OT1/ptm/m/n/8.5 cin-mir-4000b-1*,
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 729--739
-\OT1/ptm/b/n/8.5 cin-mir-4001a-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 729--739
-\OT1/ptm/b/n/8.5 2\OT1/ptm/m/n/8.5 , \OT1/ptm/b/n/8.5 cin-mir-4002\OT1/ptm/m/n/
-8.5 ,
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 729--739
-\OT1/ptm/m/n/8.5 cin-mir-4000d*,
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 729--739
-\OT1/ptm/b/n/8.5 cin-mir-4001h\OT1/ptm/m/n/8.5 ,
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 729--739
-\OT1/ptm/b/n/8.5 cin-mir-4006a-3\OT1/ptm/m/n/8.5 ,
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 729--739
-\OT1/ptm/b/n/8.5 cin-mir-4006a-1\OT1/ptm/m/n/8.5 ,
- []
-
-
-Underfull \hbox (badness 2884) in paragraph at lines 740--741
-\OT1/ptm/m/n/8.5 clus-ter, but in an-other
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 742--742
-[]|\OT1/ptm/m/n/8.5 miRBase,
- []
-
-
-Overfull \hbox (2.232pt too wide) in paragraph at lines 742--743
-[]|\OT1/ptm/m/n/8.5 (Hendrix
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 742--743
-\OT1/ptm/m/n/8.5 et al.,
- []
-
-
-Overfull \hbox (44.56688pt too wide) in alignment at lines 658--744
- [] [] [] [] [] [] [] [] 
- []
-
-[16 <./Images/Cluster_images/mir-133_113_33.pdf> <./Images/Cluster_images/mir-1
-81_105_2502.pdf
-
-pdfTeX warning: /Library/TeX/texbin/pdflatex (file ./Images/Cluster_images/mir-
-181_105_2502.pdf): PDF inclusion: multiple pdfs with page group included in a s
-ingle page
-> <./Images/Cluster_images/mir-217_13D_467.pdf
-
-pdfTeX warning: /Library/TeX/texbin/pdflatex (file ./Images/Cluster_images/mir-
-217_13D_467.pdf): PDF inclusion: multiple pdfs with page group included in a si
-ngle page
->] [17] [18] <./Images/miRNA_matrix.pdf, id=655, 2258.33948pt x 1882.5292pt>
-File: ./Images/miRNA_matrix.pdf Graphic file (type pdf)
-
-<use ./Images/miRNA_matrix.pdf>
-Package pdftex.def Info: ./Images/miRNA_matrix.pdf used on input line 750.
-(pdftex.def)             Requested size: 332.89723pt x 277.48393pt.
-
-<./Images/last_tree_miRNAs.pdf, id=656, 1366.977pt x 853.86pt>
-File: ./Images/last_tree_miRNAs.pdf Graphic file (type pdf)
-
-<use ./Images/last_tree_miRNAs.pdf>
-Package pdftex.def Info: ./Images/last_tree_miRNAs.pdf used on input line 769.
-(pdftex.def)             Requested size: 332.89723pt x 207.92722pt.
-
-
-Class SVMult Warning: \sidecaption: No sufficient room for the legend; 
-using normal \caption on input line 769.
-
-[19] [20 <./Images/Cluster_images/mir-34_11A_435.pdf> <./Images/Cluster_images/
-mir-92_281_4336.pdf
-
-pdfTeX warning: /Library/TeX/texbin/pdflatex (file ./Images/Cluster_images/mir-
-92_281_4336.pdf): PDF inclusion: multiple pdfs with page group included in a si
-ngle page
-> <./Images/Cluster_images/mir-96_138_240.pdf
-
-pdfTeX warning: /Library/TeX/texbin/pdflatex (file ./Images/Cluster_images/mir-
-96_138_240.pdf): PDF inclusion: multiple pdfs with page group included in a sin
-gle page
->] [21 <./Images/miRNA_matrix.pdf>] [22 <./Images/last_tree_miRNAs.pdf>]
-[23]
-LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <10> not available
-(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 888.
- [24] [25] [26]
-Overfull \hbox (10.93906pt too wide) in paragraph at lines 1030--1040
-\OT1/ptm/m/n/10 2014). CAVH ac-knowl-edges the sup-port by DAAD schol-ar-ship: 
-Forschungsstipendien-
- []
-
-(./tunicates_ncrna.bbl [27] [28] [29] [30] [31] [32]
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.628 \caption
+              {mir-216/mir-217}
+I could not locate the file with any of these extensions:
+.eps,.ps,.eps.gz,.ps.gz,.eps.Z,.mps
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+Class-Warning: Legend of \sidecaption for figure 4
+is 5.85646pt taller than the corresponding float - 
+you'd better switch the environment. 
+[29
+
+] [30
+
+] [31
+
+]
+
+./tunicates_ncrna.tex:636: LaTeX Error: File `./Images/Cluster_images/mir-34_11
+A_435' not found.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.636 \caption
+              {mir-34}
+I could not locate the file with any of these extensions:
+.eps,.ps,.eps.gz,.ps.gz,.eps.Z,.mps
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+Class-Warning: Legend of \sidecaption for figure 5
+is 5.85646pt taller than the corresponding float - 
+you'd better switch the environment. 
+[32
+
+] [33
+
+] [34
+
+]
+
+./tunicates_ncrna.tex:644: LaTeX Error: File `./Images/Cluster_images/mir-92_28
+1_4336' not found.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.644 \caption
+              {mir-92}
+I could not locate the file with any of these extensions:
+.eps,.ps,.eps.gz,.ps.gz,.eps.Z,.mps
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+Class-Warning: Legend of \sidecaption for figure 6
+is 5.85646pt taller than the corresponding float - 
+you'd better switch the environment. 
+[35
+
+] [36
+
+] [37
+
+]
+
+./tunicates_ncrna.tex:652: LaTeX Error: File `./Images/Cluster_images/mir-96_13
+8_240' not found.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.652 \caption
+              {mir-182/mir-96/mir-183}
+I could not locate the file with any of these extensions:
+.eps,.ps,.eps.gz,.ps.gz,.eps.Z,.mps
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+Class-Warning: Legend of \sidecaption for figure 7
+is 5.85646pt taller than the corresponding float - 
+you'd better switch the environment. 
+[38
+
+]
+l. 676 Writing tunicates_ncrna.idv[69] (tunicates_ncrna68x.png)
+l. 676 Writing tunicates_ncrna.idv[70] (tunicates_ncrna69x.png)
+l. 676 Writing tunicates_ncrna.idv[71] (tunicates_ncrna70x.png)
+l. 680 Writing tunicates_ncrna.idv[72] (tunicates_ncrna71x.png)
+l. 680 Writing tunicates_ncrna.idv[73] (tunicates_ncrna72x.png)
+l. 684 Writing tunicates_ncrna.idv[74] (tunicates_ncrna73x.png)
+l. 684 Writing tunicates_ncrna.idv[75] (tunicates_ncrna74x.png)
+l. 689 Writing tunicates_ncrna.idv[76] (tunicates_ncrna75x.png)
+l. 689 Writing tunicates_ncrna.idv[77] (tunicates_ncrna76x.png)
+l. 694 Writing tunicates_ncrna.idv[78] (tunicates_ncrna77x.png)
+l. 694 Writing tunicates_ncrna.idv[79] (tunicates_ncrna78x.png)
+l. 700 Writing tunicates_ncrna.idv[80] (tunicates_ncrna79x.png)
+l. 700 Writing tunicates_ncrna.idv[81] (tunicates_ncrna80x.png)
+l. 706 Writing tunicates_ncrna.idv[82] (tunicates_ncrna81x.png)
+l. 706 Writing tunicates_ncrna.idv[83] (tunicates_ncrna82x.png)
+l. 710 Writing tunicates_ncrna.idv[84] (tunicates_ncrna83x.png)
+l. 710 Writing tunicates_ncrna.idv[85] (tunicates_ncrna84x.png)
+l. 713 Writing tunicates_ncrna.idv[86] (tunicates_ncrna85x.png)
+l. 713 Writing tunicates_ncrna.idv[87] (tunicates_ncrna86x.png)
+l. 715 Writing tunicates_ncrna.idv[88] (tunicates_ncrna87x.png)
+l. 715 Writing tunicates_ncrna.idv[89] (tunicates_ncrna88x.png)
+l. 718 Writing tunicates_ncrna.idv[90] (tunicates_ncrna89x.png)
+l. 718 Writing tunicates_ncrna.idv[91] (tunicates_ncrna90x.png)
+l. 720 Writing tunicates_ncrna.idv[92] (tunicates_ncrna91x.png)
+l. 720 Writing tunicates_ncrna.idv[93] (tunicates_ncrna92x.png)
+l. 723 Writing tunicates_ncrna.idv[94] (tunicates_ncrna93x.png)
+l. 723 Writing tunicates_ncrna.idv[95] (tunicates_ncrna94x.png)
+l. 727 Writing tunicates_ncrna.idv[96] (tunicates_ncrna95x.png)
+l. 727 Writing tunicates_ncrna.idv[97] (tunicates_ncrna96x.png)
+l. 729 Writing tunicates_ncrna.idv[98] (tunicates_ncrna97x.png)
+l. 729 Writing tunicates_ncrna.idv[99] (tunicates_ncrna98x.png)
+[39
+
+] [40] [41] [42] [43
+
+]
+
+./tunicates_ncrna.tex:750: LaTeX Error: File `./Images/miRNA_matrix' not found.
+
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.750 ...xtwidth, angle=90]{./Images/miRNA_matrix}
+                                                  
+I could not locate the file with any of these extensions:
+.eps,.ps,.eps.gz,.ps.gz,.eps.Z,.mps
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+[44
+
+] [45
+
+] [46
+
+]
+
+./tunicates_ncrna.tex:769: LaTeX Error: File `./Images/last_tree_miRNAs' not fo
+und.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.769 \caption
+              {Dollo parsymony of miRNAs families distribution in some
+I could not locate the file with any of these extensions:
+.eps,.ps,.eps.gz,.ps.gz,.eps.Z,.mps
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+Class-Warning: Legend of \sidecaption for figure 9
+is 195.85646pt taller than the corresponding float - 
+you'd better switch the environment. 
+[47
+
+] [48
+
+]
+l. 852 Writing tunicates_ncrna.idv[100] (tunicates_ncrna99x.png)
+l. 852 Writing tunicates_ncrna.idv[101] (tunicates_ncrna100x.png)
+[49]
+l. 891 Writing tunicates_ncrna.idv[102] (tunicates_ncrna101x.png)
+l. 891 Writing tunicates_ncrna.idv[103] (tunicates_ncrna102x.png)
+l. 900 Writing tunicates_ncrna.idv[104] (tunicates_ncrna103x.png)
+l. 901 Writing tunicates_ncrna.idv[105] (tunicates_ncrna104x.png)
+[50]
+l. 928 Writing tunicates_ncrna.idv[106] (tunicates_ncrna105x.png)
+l. 936 Writing tunicates_ncrna.idv[107] (tunicates_ncrna106x.png)
+l. 954 Writing tunicates_ncrna.idv[108] (tunicates_ncrna107x.png)
+[51]
+l. 988 Writing tunicates_ncrna.idv[109] (tunicates_ncrna108x.png)
+l. 996 Writing tunicates_ncrna.idv[110] (tunicates_ncrna109x.png)
+l. 996 Writing tunicates_ncrna.idv[111] (tunicates_ncrna110x.png)
+[52]
+l. 1021 Writing tunicates_ncrna.idv[112] (tunicates_ncrna111x.png)
+l. 1021 Writing tunicates_ncrna.idv[113] (tunicates_ncrna112x.png)
+[53] (./tunicates_ncrna.bbl [54] [55] [56]
+l. 198 Writing tunicates_ncrna.idv[114] (tunicates_ncrna113x.png)
+[57] [58] [59] [60] [61]
 Missing character: There is no â in font ptmr7t!
 Missing character: There is no € in font ptmr7t!
 Missing character: There is no ² in font ptmr7t!
-) [33]
-(./tunicates_ncrna.aux) ) 
+[62]) [63] (./tunicates_ncrna.aux) ) 
 Here is how much of TeX's memory you used:
- 3431 strings out of 493089
- 49935 string characters out of 6134842
- 148851 words of memory out of 5000000
- 6826 multiletter control sequences out of 15000+600000
- 41285 words of font info for 81 fonts, out of 8000000 for 9000
+ 6588 strings out of 493090
+ 88436 string characters out of 6134868
+ 238682 words of memory out of 5000000
+ 9862 multiletter control sequences out of 15000+600000
+ 24234 words of font info for 59 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 37i,9n,25p,988b,405s stack positions out of 5000i,500n,10000p,200000b,80000s
-{/usr/local/texlive/2015/texmf-dist/fonts/enc/dvips/ba
-se/8r.enc}</usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cm
-mi10.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cms
-y10.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/tex-gyre/qhvr.pf
-b></usr/local/texlive/2015/texmf-dist/fonts/type1/urw/courier/ucrr8a.pfb></usr/
-local/texlive/2015/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></usr/local/texl
-ive/2015/texmf-dist/fonts/type1/urw/times/utmbi8a.pfb></usr/local/texlive/2015/
-texmf-dist/fonts/type1/urw/times/utmr8a.pfb></usr/local/texlive/2015/texmf-dist
-/fonts/type1/urw/times/utmri8a.pfb>
-Output written on tunicates_ncrna.pdf (33 pages, 14688888 bytes).
-PDF statistics:
- 26992 PDF objects out of 31911 (max. 8388607)
- 17864 compressed objects within 179 object streams
- 0 named destinations out of 1000 (max. 500000)
- 46 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 29i,11n,37p,1509b,578s stack positions out of 5000i,500n,10000p,200000b,80000s
 
+Output written on tunicates_ncrna.dvi (63 pages, 248204 bytes).

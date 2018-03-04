@@ -1,0 +1,136 @@
+htfcss: zptmcm7t  font-weight: bold; font-style: italic;
+htfcss: zptmcmr  font-style: italic;
+htfcss: ptmb7t  font-weight: bold;
+htfcss: ptmri7t font-style: italic;
+htfcss: ptmb7t  font-weight: bold;
+htfcss: zptmcm7y  font-weight: bold; font-style: italic;
+htfcss: zpzccmry  font-weight: bold; font-style: italic;
+htfcss: zptmcm7m  font-weight: bold; font-style: italic;
+htfcss: zptmcm7t  font-weight: bold; font-style: italic;
+htfcss: ptmr7t font-family: monospace;
+htfcss: ptmb7t  font-weight: bold;
+htfcss: pcrr7t font-family: monospace;
+htfcss: pcrr7tn font-family: monospace;
+htfcss: ptmr7t font-family: monospace;
+File: tunicates_ncrna.xml
+File: tunicates_ncrna.css
+File: tunicates_ncrna.tmp
+--- needs --- tunicates_ncrna.idv[2] ==> tunicates_ncrna3x.png ---
+--- needs --- tunicates_ncrna.idv[4] ==> tunicates_ncrna4x.png ---
+--- needs --- tunicates_ncrna.idv[5] ==> tunicates_ncrna5x.png ---
+--- needs --- tunicates_ncrna.idv[6] ==> tunicates_ncrna6x.png ---
+--- needs --- tunicates_ncrna.idv[7] ==> tunicates_ncrna7x.png ---
+--- needs --- tunicates_ncrna.idv[9] ==> tunicates_ncrna8x.png ---
+--- needs --- tunicates_ncrna.idv[10] ==> tunicates_ncrna9x.png ---
+--- needs --- tunicates_ncrna.idv[11] ==> tunicates_ncrna10x.png ---
+--- needs --- tunicates_ncrna.idv[12] ==> tunicates_ncrna11x.png ---
+--- needs --- tunicates_ncrna.idv[14] ==> tunicates_ncrna12x.png ---
+--- needs --- tunicates_ncrna.idv[15] ==> tunicates_ncrna13x.png ---
+--- needs --- tunicates_ncrna.idv[16] ==> tunicates_ncrna14x.png ---
+--- needs --- tunicates_ncrna.idv[17] ==> tunicates_ncrna15x.png ---
+--- needs --- tunicates_ncrna.idv[18] ==> tunicates_ncrna16x.png ---
+--- needs --- tunicates_ncrna.idv[19] ==> tunicates_ncrna17x.png ---
+--- needs --- tunicates_ncrna.idv[20] ==> tunicates_ncrna18x.png ---
+--- needs --- tunicates_ncrna.idv[22] ==> tunicates_ncrna19x.png ---
+--- needs --- tunicates_ncrna.idv[23] ==> tunicates_ncrna20x.png ---
+--- needs --- tunicates_ncrna.idv[24] ==> tunicates_ncrna21x.png ---
+--- needs --- tunicates_ncrna.idv[25] ==> tunicates_ncrna22x.png ---
+--- needs --- tunicates_ncrna.idv[26] ==> tunicates_ncrna23x.png ---
+--- needs --- tunicates_ncrna.idv[27] ==> tunicates_ncrna25x.png ---
+--- needs --- tunicates_ncrna.idv[28] ==> tunicates_ncrna26x.png ---
+--- needs --- tunicates_ncrna.idv[29] ==> tunicates_ncrna27x.png ---
+--- needs --- tunicates_ncrna.idv[31] ==> tunicates_ncrna29x.png ---
+--- needs --- tunicates_ncrna.idv[32] ==> tunicates_ncrna30x.png ---
+--- needs --- tunicates_ncrna.idv[33] ==> tunicates_ncrna31x.png ---
+--- needs --- tunicates_ncrna.idv[34] ==> tunicates_ncrna32x.png ---
+--- needs --- tunicates_ncrna.idv[35] ==> tunicates_ncrna33x.png ---
+--- needs --- tunicates_ncrna.idv[36] ==> tunicates_ncrna34x.png ---
+--- needs --- tunicates_ncrna.idv[37] ==> tunicates_ncrna35x.png ---
+--- needs --- tunicates_ncrna.idv[38] ==> tunicates_ncrna36x.png ---
+--- needs --- tunicates_ncrna.idv[39] ==> tunicates_ncrna37x.png ---
+--- needs --- tunicates_ncrna.idv[40] ==> tunicates_ncrna38x.png ---
+--- needs --- tunicates_ncrna.idv[41] ==> tunicates_ncrna39x.png ---
+--- needs --- tunicates_ncrna.idv[42] ==> tunicates_ncrna40x.png ---
+--- needs --- tunicates_ncrna.idv[43] ==> tunicates_ncrna41x.png ---
+--- needs --- tunicates_ncrna.idv[44] ==> tunicates_ncrna42x.png ---
+--- needs --- tunicates_ncrna.idv[45] ==> tunicates_ncrna43x.png ---
+--- needs --- tunicates_ncrna.idv[46] ==> tunicates_ncrna44x.png ---
+--- needs --- tunicates_ncrna.idv[47] ==> tunicates_ncrna45x.png ---
+--- needs --- tunicates_ncrna.idv[48] ==> tunicates_ncrna46x.png ---
+--- needs --- tunicates_ncrna.idv[49] ==> tunicates_ncrna47x.png ---
+--- needs --- tunicates_ncrna.idv[50] ==> tunicates_ncrna48x.png ---
+--- needs --- tunicates_ncrna.idv[51] ==> tunicates_ncrna49x.png ---
+--- needs --- tunicates_ncrna.idv[52] ==> tunicates_ncrna50x.png ---
+--- needs --- tunicates_ncrna.idv[53] ==> tunicates_ncrna51x.png ---
+--- needs --- tunicates_ncrna.idv[54] ==> tunicates_ncrna52x.png ---
+--- needs --- tunicates_ncrna.idv[55] ==> tunicates_ncrna53x.png ---
+--- needs --- tunicates_ncrna.idv[57] ==> tunicates_ncrna54x.png ---
+--- needs --- tunicates_ncrna.idv[58] ==> tunicates_ncrna55x.png ---
+--- needs --- tunicates_ncrna.idv[59] ==> tunicates_ncrna56x.png ---
+--- needs --- tunicates_ncrna.idv[60] ==> tunicates_ncrna57x.png ---
+--- needs --- tunicates_ncrna.idv[61] ==> tunicates_ncrna58x.png ---
+--- needs --- tunicates_ncrna.idv[63] ==> tunicates_ncrna59x.png ---
+--- needs --- tunicates_ncrna.idv[64] ==> tunicates_ncrna60x.png ---
+--- needs --- tunicates_ncrna.idv[65] ==> tunicates_ncrna61x.png ---
+--- needs --- tunicates_ncrna.idv[66] ==> tunicates_ncrna62x.png ---
+--- needs --- tunicates_ncrna.idv[67] ==> tunicates_ncrna64x.png ---
+--- needs --- tunicates_ncrna.idv[68] ==> tunicates_ncrna65x.png ---
+--- needs --- tunicates_ncrna.idv[70] ==> tunicates_ncrna66x.png ---
+--- needs --- tunicates_ncrna.idv[71] ==> tunicates_ncrna67x.png ---
+--- needs --- tunicates_ncrna.idv[73] ==> tunicates_ncrna69x.png ---
+--- needs --- tunicates_ncrna.idv[74] ==> tunicates_ncrna70x.png ---
+--- needs --- tunicates_ncrna.idv[76] ==> tunicates_ncrna71x.png ---
+--- needs --- tunicates_ncrna.idv[77] ==> tunicates_ncrna72x.png ---
+--- needs --- tunicates_ncrna.idv[78] ==> tunicates_ncrna73x.png ---
+--- needs --- tunicates_ncrna.idv[79] ==> tunicates_ncrna74x.png ---
+--- needs --- tunicates_ncrna.idv[80] ==> tunicates_ncrna75x.png ---
+--- needs --- tunicates_ncrna.idv[81] ==> tunicates_ncrna76x.png ---
+--- needs --- tunicates_ncrna.idv[82] ==> tunicates_ncrna77x.png ---
+--- needs --- tunicates_ncrna.idv[83] ==> tunicates_ncrna78x.png ---
+--- needs --- tunicates_ncrna.idv[84] ==> tunicates_ncrna79x.png ---
+--- needs --- tunicates_ncrna.idv[85] ==> tunicates_ncrna80x.png ---
+--- needs --- tunicates_ncrna.idv[86] ==> tunicates_ncrna81x.png ---
+--- needs --- tunicates_ncrna.idv[87] ==> tunicates_ncrna82x.png ---
+--- needs --- tunicates_ncrna.idv[88] ==> tunicates_ncrna83x.png ---
+--- needs --- tunicates_ncrna.idv[89] ==> tunicates_ncrna84x.png ---
+--- needs --- tunicates_ncrna.idv[91] ==> tunicates_ncrna85x.png ---
+--- needs --- tunicates_ncrna.idv[92] ==> tunicates_ncrna86x.png ---
+--- needs --- tunicates_ncrna.idv[93] ==> tunicates_ncrna87x.png ---
+--- needs --- tunicates_ncrna.idv[94] ==> tunicates_ncrna88x.png ---
+--- needs --- tunicates_ncrna.idv[95] ==> tunicates_ncrna89x.png ---
+--- needs --- tunicates_ncrna.idv[96] ==> tunicates_ncrna90x.png ---
+--- needs --- tunicates_ncrna.idv[97] ==> tunicates_ncrna91x.png ---
+--- needs --- tunicates_ncrna.idv[98] ==> tunicates_ncrna92x.png ---
+--- needs --- tunicates_ncrna.idv[99] ==> tunicates_ncrna93x.png ---
+--- needs --- tunicates_ncrna.idv[100] ==> tunicates_ncrna94x.png ---
+--- needs --- tunicates_ncrna.idv[101] ==> tunicates_ncrna95x.png ---
+--- needs --- tunicates_ncrna.idv[102] ==> tunicates_ncrna96x.png ---
+--- needs --- tunicates_ncrna.idv[104] ==> tunicates_ncrna97x.png ---
+--- needs --- tunicates_ncrna.idv[105] ==> tunicates_ncrna98x.png ---
+--- needs --- tunicates_ncrna.idv[107] ==> tunicates_ncrna100x.png ---
+--- needs --- tunicates_ncrna.idv[109] ==> tunicates_ncrna101x.png ---
+--- needs --- tunicates_ncrna.idv[110] ==> tunicates_ncrna102x.png ---
+--- needs --- tunicates_ncrna.idv[112] ==> tunicates_ncrna103x.png ---
+--- needs --- tunicates_ncrna.idv[113] ==> tunicates_ncrna104x.png ---
+--- needs --- tunicates_ncrna.idv[114] ==> tunicates_ncrna105x.png ---
+--- needs --- tunicates_ncrna.idv[116] ==> tunicates_ncrna106x.png ---
+--- needs --- tunicates_ncrna.idv[117] ==> tunicates_ncrna107x.png ---
+--- needs --- tunicates_ncrna.idv[119] ==> tunicates_ncrna108x.png ---
+--- needs --- tunicates_ncrna.idv[120] ==> tunicates_ncrna109x.png ---
+--- needs --- tunicates_ncrna.idv[121] ==> tunicates_ncrna110x.png ---
+--- needs --- tunicates_ncrna.idv[122] ==> tunicates_ncrna111x.png ---
+--- needs --- tunicates_ncrna.idv[123] ==> tunicates_ncrna112x.png ---
+--- needs --- tunicates_ncrna.idv[125] ==> tunicates_ncrna113x.png ---
+--- characters ---
+Font("ptmr7t","","10","100")
+Font("pcrr7t","","10","100")
+Font("ptmb7t","","10","160")
+Font("ptmr7t","","10","85")
+Font("zptmcm7t","","10","100")
+Font("zptmcm7m","","10","100")
+Font("zptmcm7y","","10","100")
+Font("ptmb7t","","10","100")
+Font("ptmri7t","","10","100")
+Font("ptmri7t","","10","85")
+Font("ptmb7t","","10","85")
+Font("zptmcm7t","","10","85")

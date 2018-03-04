@@ -1,0 +1,36 @@
+\expandafter\ifx\csname doTocEntry\endcsname\relax \expandafter\endinput\fi
+\doTocEntry\toclikesection{}{\csname a:TocLink\endcsname{1}{x1-1000}{QQ2-1-1}{Contents}}{1}\relax 
+\doTocEntry\toctitle{}{\csname a:TocLink\endcsname{1}{Q1-1-2}{}{\relax \unhbox \voidb@x \special {t4ht=<note role="title"><para>}non-protein-coding RNAs as regulators of development in tunicates\relax \unhbox \voidb@x \special {t4ht=</para></note>}}}{7}\relax 
+\doTocEntry\tocauthor{}{\csname a:TocLink\endcsname{1}{Q1-1-3}{}{\relax \unhbox \voidb@x \special {t4ht=<note role="author"><para><personname><othername>}Cristian A. Velandia-Huerto*, Federico D. Brown, Adriaan A. Gittenberger, Peter F. Stadler and Clara I. Berm\'{u}dez-Santana\relax \unhbox \voidb@x \special {t4ht=</othername></personname></para></note>}}}{7}\relax 
+\doTocEntry\tocsection{1}{\csname a:TocLink\endcsname{1}{x1-20001}{QQ2-1-4}{Introduction}}{7}\relax 
+\doTocEntry\tocsection{2}{\csname a:TocLink\endcsname{1}{x1-30002}{QQ2-1-5}{miRNA families origin and evolutionary perspective}}{8}\relax 
+\doTocEntry\tocsubsection{2.1}{\csname a:TocLink\endcsname{1}{x1-40002.1}{QQ2-1-6}{Origins and Evolution of MicroRNAs}}{8}\relax 
+\doTocEntry\tocsubsection{2.2}{\csname a:TocLink\endcsname{1}{x1-50002.2}{QQ2-1-7}{miRNA identification and validation}}{10}\relax 
+\doTocEntry\tocsubsubsection{2.2.1}{\csname a:TocLink\endcsname{1}{x1-60002.2.1}{QQ2-1-8}{High throughput studies of Ciona miRNAs}}{12}\relax 
+\doTocEntry\tocsubsubsection{2.2.2}{\csname a:TocLink\endcsname{1}{x1-70002.2.2}{QQ2-1-9}{High throughput miRNA searches in other Urochordates}}{13}\relax 
+\doTocEntry\tocsubsection{2.3}{\csname a:TocLink\endcsname{1}{x1-80002.3}{QQ2-1-10}{miRNA in clusters}}{14}\relax 
+\doTocEntry\toclot{}{\csname a:TocLink\endcsname{1}{x1-8002}{}{\numberline {1}{Details of biggest miRNA cluster for chordate species.}}}{15}\relax 
+\doTocEntry\toclof{}{\csname a:TocLink\endcsname{1}{x1-8004}{}{\numberline {1}{\ignorespaces Multiple alignment of let-7 clusters. Specific names from annotations and homology predictions are described in the legend. Names from miRBase families are reported at the bottom of the aligned elements.}}}{20}\relax 
+\doTocEntry\toclof{}{\csname a:TocLink\endcsname{1}{x1-8006}{}{\numberline {2}{\ignorespaces mir-1/mir-133}}}{23}\relax 
+\doTocEntry\toclof{}{\csname a:TocLink\endcsname{1}{x1-8008}{}{\numberline {3}{\ignorespaces mir-181}}}{26}\relax 
+\doTocEntry\toclof{}{\csname a:TocLink\endcsname{1}{x1-8010}{}{\numberline {4}{\ignorespaces mir-216/mir-217}}}{29}\relax 
+\doTocEntry\toclof{}{\csname a:TocLink\endcsname{1}{x1-8012}{}{\numberline {5}{\ignorespaces mir-34}}}{32}\relax 
+\doTocEntry\toclof{}{\csname a:TocLink\endcsname{1}{x1-8014}{}{\numberline {6}{\ignorespaces mir-92}}}{35}\relax 
+\doTocEntry\toclof{}{\csname a:TocLink\endcsname{1}{x1-8016}{}{\numberline {7}{\ignorespaces mir-182/mir-96/mir-183}}}{38}\relax 
+\doTocEntry\toclot{}{\csname a:TocLink\endcsname{1}{x1-8018}{}{\numberline {2}{Reported clusters in the literature. Bold text represent those miRNAs elements that are currently annotated and validated, but could not be detected by homology strategies. \textbf  {Ciro}: \textit  {C. robusta}, \textbf  {Cisa}: \textit  {C. savignyi} and \textbf  {Oidi}: \textit  {O. dioica}}}}{39}\relax 
+\doTocEntry\toclof{8}{\csname a:TocLink\endcsname{1}{x1-80198}{}{\ignorespaces Absence/Presence Matrix of miRNAs families along Bilaterian species. \textbf  {Prot}: Protostomata, \textbf  {Brfl}: \textit  {B. floridae}, \textbf  {Oidi}: \textit  {O. dioica}, \textbf  {Dvex}: \textit  {D. vexillum}, \textbf  {Ciin}: \textit  {C. robusta}, \textbf  {Cisa}: \textit  {C. savignyi}, \textbf  {Ciro}: \textit  {C. robusta}, \textbf  {Sath}: \textit  {S. thompsoni}, \textbf  {Mata}: \textit  {M. oculata}, \textbf  {Mlta}: \textit  {M. occulta}, \textbf  {Mlis}: \textit  {M. occidentalis}, \textbf  {Bosc}: \textit  {B. schlosseri}, \textbf  {Haro}: \textit  {H. roretzi}, \textbf  {Pema}: \textit  {P. marinus}, \textbf  {Dare}: \textit  {D. rerio}, \textbf  {Lach}: \textit  {L. chalumnae}, \textbf  {Xetr}: \textit  {X. tropicalis} and \textbf  {Anca}: \textit  {A. carolinensis}. }}{figure}\relax 
+\doTocEntry\toclof{}{\csname a:TocLink\endcsname{1}{x1-8021}{}{\numberline {9}{\ignorespaces Dollo parsymony of miRNAs families distribution in some chordates genomes. \textbf  {Prot}: Protostomata, \textbf  {Brfl}: \textit  {B. floridae}, \textbf  {Oidi}: \textit  {O. dioica}, \textbf  {Dvex}: \textit  {D. vexillum}, \textbf  {Ciro}: \textit  {C. robusta}, \textbf  {Cisa}: \textit  {C. savignyi}, \textbf  {Sath}: \textit  {S. thompsoni}, \textbf  {Mata}: \textit  {M. oculata}, \textbf  {Mlta}: \textit  {M. occulta}, \textbf  {Mlis}: \textit  {M. occidentalis}, \textbf  {Bosc}: \textit  {B. schlosseri}, \textbf  {Haro}: \textit  {H. roretzi}, \textbf  {Pema}: \textit  {P. marinus}, \textbf  {Dare}: \textit  {D. rerio}, \textbf  {Lach}: \textit  {L. chalumnae}, \textbf  {Xetr}: \textit  {X. tropicalis} and \textbf  {Anca}: \textit  {A. carolinensis}. The phylogenetic distribution of this species was obtained from \citep  {Delsuc:2017, Kocot:2018}.}}}{47}\relax 
+\doTocEntry\tocsection{3}{\csname a:TocLink\endcsname{1}{x1-90003}{QQ2-1-14}{miRNAs and its role in development}}{48}\relax 
+\doTocEntry\tocsubsection{3.1}{\csname a:TocLink\endcsname{1}{x1-100003.1}{QQ2-1-15}{miRNAs discovery and its role in development}}{48}\relax 
+\doTocEntry\tocsubsection{3.2}{\csname a:TocLink\endcsname{1}{x1-110003.2}{QQ2-1-16}{Neuronal fate determination and regulation by miR-124}}{48}\relax 
+\doTocEntry\tocsubsubsection{3.2.1}{\csname a:TocLink\endcsname{1}{x1-120003.2.1}{QQ2-1-17}{Muscle development and the polycistronic miR-1/miR-133 cluster}}{49}\relax 
+\doTocEntry\tocsubsubsection{3.2.2}{\csname a:TocLink\endcsname{1}{x1-130003.2.2}{QQ2-1-18}{miRNA expression during oral siphon (OS) regeneration}}{50}\relax 
+\doTocEntry\tocsubsubsection{3.2.3}{\csname a:TocLink\endcsname{1}{x1-140003.2.3}{QQ2-1-19}{miRNA expression during \textit  {O. dioica} development}}{50}\relax 
+\doTocEntry\tocsection{4}{\csname a:TocLink\endcsname{1}{x1-150004}{QQ2-1-20}{Other ncRNAs associated with development}}{51}\relax 
+\doTocEntry\tocsubsection{4.1}{\csname a:TocLink\endcsname{1}{x1-160004.1}{QQ2-1-21}{Yellow Crescent RNA}}{51}\relax 
+\doTocEntry\tocsubsection{4.2}{\csname a:TocLink\endcsname{1}{x1-170004.2}{QQ2-1-22}{MicroRNA-offset RNAs}}{51}\relax 
+\doTocEntry\tocsubsection{4.3}{\csname a:TocLink\endcsname{1}{x1-180004.3}{QQ2-1-23}{Long Noncoding RNA RMST}}{52}\relax 
+\doTocEntry\tocsubsection{4.4}{\csname a:TocLink\endcsname{1}{x1-190004.4}{QQ2-1-24}{Splices-leader RNA}}{53}\relax 
+\doTocEntry\tocsection{5}{\csname a:TocLink\endcsname{1}{x1-200005}{QQ2-1-25}{Acknowledgments}}{54}\relax 
+\doTocEntry\toclikesection{}{\csname a:TocLink\endcsname{1}{x1-210005}{QQ2-1-26}{References}}{54}\relax 
+\doTocEntry\tocsection{}{\csname a:TocLink\endcsname{1}{Q1-1-27}{}{References}}{54}\relax 
